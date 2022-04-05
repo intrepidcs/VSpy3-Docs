@@ -4,7 +4,7 @@ The Data Analysis main menus and associated toolbar are shown in Figure 1. Each 
 \
 You can click on one of the menu names just below to jump straight to its section.
 
-&#x20;                          [Data](https://cdn.intrepidcs.net/support/VehicleSpy/spyDAMainMenuToolbar.htm#Data)   [Edit](https://cdn.intrepidcs.net/support/VehicleSpy/spyDAMainMenuToolbar.htm#Edit)   [Show](https://cdn.intrepidcs.net/support/VehicleSpy/spyDAMainMenuToolbar.htm#Show)   [Actions](https://cdn.intrepidcs.net/support/VehicleSpy/spyDAMainMenuToolbar.htm#Actions)   [Annotation](https://cdn.intrepidcs.net/support/VehicleSpy/spyDAMainMenuToolbar.htm#Annotation)   [Configurations](https://cdn.intrepidcs.net/support/VehicleSpy/spyDAMainMenuToolbar.htm#Configurations)
+&#x20;                          Data   Edit   Show   Actions   Annotation   Configurations
 
 ![Figure 1: Data Analysis main menu and toolbar.](../../../.gitbook/assets/data\_analysis\_main.gif)
 
@@ -97,15 +97,15 @@ Use this menu to save or load Data Analysis configurations, and set options for 
 
 **Table 6: Configuration Menu Commands**
 
-| Command                    | Toolbar Icon | Description                                                                                                                                                              |
-| -------------------------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Start new configuration    |              | Resets the configuration to default values to start a new configuration.                                                                                                 |
-| Save current configuration |              | Saves the current configuration to a **.cfg** file.                                                                                                                      |
-| Load configuration         |              | Load a previously saved configuration **.cfg** file.                                                                                                                     |
-|                            |              |                                                                                                                                                                          |
-| Selected Object Options    |              | Opens the [Plotter Options](https://cdn.intrepidcs.net/support/VehicleSpy/spyDAPlotterOptions.htm) dialog for the currently selected object.                             |
-| Selected Graph Options     |              | Opens the [Plotter Options](https://cdn.intrepidcs.net/support/VehicleSpy/spyDAPlotterOptions.htm) dialog showing graph options.                                         |
-| Selected Y-Axis Options    |              | Opens the [Plotter Options](https://cdn.intrepidcs.net/support/VehicleSpy/spyDAPlotterOptions.htm) dialog showing Y-axis options.                                        |
-| Program Default Options    |              | Opens the [Plotter Options](https://cdn.intrepidcs.net/support/VehicleSpy/spyDAPlotterOptions.htm) dialog showing all options. Options set here become program defaults. |
-|                            |              |                                                                                                                                                                          |
-| About                      |              | Displays the current version of the Data Analysis feature.                                                                                                               |
+| Command                    | Toolbar Icon | Description                                                                                     |
+| -------------------------- | ------------ | ----------------------------------------------------------------------------------------------- |
+| Start new configuration    |              | Resets the configuration to default values to start a new configuration.                        |
+| Save current configuration |              | Saves the current configuration to a **.cfg** file.                                             |
+| Load configuration         |              | Load a previously saved configuration **.cfg** file.                                            |
+|                            |              |                                                                                                 |
+| Selected Object Options    |              | Opens the Plotter Options dialog for the currently selected object.                             |
+| Selected Graph Options     |              | Opens the Plotter Options dialog showing graph options.                                         |
+| Selected Y-Axis Options    |              | Opens the Plotter Options dialog showing Y-axis options.                                        |
+| Program Default Options    |              | Opens the Plotter Options dialog showing all options. Options set here become program defaults. |
+|                            |              |                                                                                                 |
+| About                      |              | Displays the current version of the Data Analysis feature.                                      |
