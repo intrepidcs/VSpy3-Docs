@@ -2,7 +2,7 @@
 description: >-
   These documents were created to help Vehicle Spy users at every level of
   experience.
-cover: .gitbook/assets/new-cover-image (1).png
+cover: .gitbook/assets/new-cover-image.png
 coverY: 0
 ---
 
@@ -10,7 +10,7 @@ coverY: 0
 
 ### New or potential users:
 
-If you are a new Vehicle Spy user or maybe just gathering information about the tool, check out the Vehicle Spy Applications Tour. These pages give a short summary of Vehicle Spy and its many possible applications. Also, these pages provide a way to quickly find information about specifications and hardware requirements.&#x20;
+If you are a new Vehicle Spy user or maybe just gathering information about the tool, check out the Vehicle Spy Applications Tour. These pages give a short summary of Vehicle Spy and its many possible applications. Also, these pages provide a way to quickly find information about specifications and hardware requirements.
 
 Explore the Vehicle Spy Tutorials section. These tutorials were put together to help make learning the Vehicle Spy basics a breeze. Complete these exercises and a solid foundation will be built as work with Vehicle Spy begins.
 
@@ -20,7 +20,7 @@ Search through Vehicle Spy's extensive documentation for detailed information ab
 \
 If it has been a while since last using Vehicle Spy, feel free to look over the tutorials again.\
 \
-If information about other products is needed, visit the Vehicle Network Interface Hardware section.&#x20;
+If information about other products is needed, visit the Vehicle Network Interface Hardware section.
 
 Feeling like an eager beaver? Jump in to the quick start docs and get making your first request:
 

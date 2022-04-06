@@ -21,7 +21,7 @@ In this case there are three restart options. The option controls what happens a
 
 Figure 2 shows the three options.
 
-![Figure 2: Restart Options when Start Option = Start when expression is true.](../../../../../.gitbook/assets/spyvssalrestartoptions\_when\_expression\_is\_true.gif)
+![Figure 2: Restart Options when Start Option = Start when expression is true.](../../../../../.gitbook/assets/spyvssalrestartoptions\_using\_trigger\_expression.gif)
 
 ### Start Option = Start Using Trigger Expression
 
@@ -43,4 +43,4 @@ Table 1 summarizes which restart options are available based on selected Standal
 | Trigger when expression changes                                                               | Do Not Restart, Restart                                | Restart                                             | Do Not Restart, Restart                          |
 | Trigger when expression increases / decreases / changes / exceeds constant and then decreases | Do Not Restart, Restart                                | Restart                                             | Do Not Restart, Restart                          |
 
-![Figure 3: Restart Options when Start Option = Using Trigger Expression, the Trigger when expression is true suboption is selected, and the One-shot Report Stop Option has been chosen.](../../../../../.gitbook/assets/spyvssalrestartoptions\_using\_trigger\_expression.gif)
+![Figure 3: Restart Options when Start Option = Using Trigger Expression, the Trigger when expression is true suboption is selected, and the One-shot Report Stop Option has been chosen.](../../../../../.gitbook/assets/spyvssalrestartoptions\_when\_expression\_is\_true.gif)
