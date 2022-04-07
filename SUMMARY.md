@@ -225,3 +225,7 @@
         * [Functions and Events: Common Functions and Events](vehicle-spy-main-menus/main-menu-scripting-and-automation/c-code-interface/c-code-interface-functions-and-events/functions-and-events-common-functions-and-events.md)
         * [Functions and Events: Graphical Panels](vehicle-spy-main-menus/main-menu-scripting-and-automation/c-code-interface/c-code-interface-functions-and-events/functions-and-events-graphical-panels.md)
         * [Functions and Events: Diagnostic Jobs](vehicle-spy-main-menus/main-menu-scripting-and-automation/c-code-interface/c-code-interface-functions-and-events/functions-and-events-diagnostic-jobs.md)
+        * [Functions and Events: Function Blocks](vehicle-spy-main-menus/main-menu-scripting-and-automation/c-code-interface/c-code-interface-functions-and-events/functions-and-events-function-blocks.md)
+        * [Functions and Events: Text API](vehicle-spy-main-menus/main-menu-scripting-and-automation/c-code-interface/c-code-interface-functions-and-events/functions-and-events-text-api.md)
+        * [Functions and Events: Network Indexes and Statistics](vehicle-spy-main-menus/main-menu-scripting-and-automation/c-code-interface/c-code-interface-functions-and-events/functions-and-events-network-indexes-and-statistics.md)
+      * [C Code Interface: Object Names, Debugging, and Common Mistakes](vehicle-spy-main-menus/main-menu-scripting-and-automation/c-code-interface/c-code-interface-object-names-debugging-and-common-mistakes.md)
