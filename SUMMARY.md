@@ -236,4 +236,7 @@
     * [Text API Terminal](vehicle-spy-main-menus/main-menu-scripting-and-automation/text-api-terminal.md)
   * [Main Menu: Run](vehicle-spy-main-menus/main-menu-run.md)
   * [Main Menu: Tools](vehicle-spy-main-menus/main-menu-tools/README.md)
-    * [Utilities: CoreMini Console](vehicle-spy-main-menus/main-menu-tools/utilities-coremini-console.md)
+    * [Utilities: CoreMini Console](vehicle-spy-main-menus/main-menu-tools/utilities-coremini-console/README.md)
+      * [Utilities: CoreMini Control](vehicle-spy-main-menus/main-menu-tools/utilities-coremini-console/utilities-coremini-control.md)
+      * [Utilities: CoreMini Partitions](vehicle-spy-main-menus/main-menu-tools/utilities-coremini-console/utilities-coremini-partitions.md)
+      * [Utilities: CoreMini Advanced Settings](vehicle-spy-main-menus/main-menu-tools/utilities-coremini-console/utilities-coremini-advanced-settings.md)
