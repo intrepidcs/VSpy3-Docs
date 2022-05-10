@@ -325,3 +325,13 @@
     * [Application Note: Using the neoVI MOTE - Part 2: Display on Screen](application-notes/application-note-using-the-neovi-mote/application-note-using-the-neovi-mote-part-2-display-on-screen.md)
     * [Application Note: Using the neoVI MOTE - Part 3: Using the Speaker](application-notes/application-note-using-the-neovi-mote/application-note-using-the-neovi-mote-part-3-using-the-speaker.md)
     * [Application Note: Using the neoVI MOTE - Part 4: Home Screen and Conclusion](application-notes/application-note-using-the-neovi-mote/application-note-using-the-neovi-mote-part-4-home-screen-and-conclusion.md)
+  * [Application Note: Dynamically Manipulating Application Signal Arrays](application-notes/application-note-dynamically-manipulating-application-signal-arrays/README.md)
+    * [Application Note: Dynamically Manipulating Application Signal Arrays](application-notes/application-note-dynamically-manipulating-application-signal-arrays/application-note-dynamically-manipulating-application-signal-arrays.md)
+    * [Application Note: Dynamically Manipulating Application Signal Arrays](application-notes/application-note-dynamically-manipulating-application-signal-arrays/application-note-dynamically-manipulating-application-signal-arrays-1.md)
+    * [Application Note: Dynamically Manipulating Application Signal Arrays](application-notes/application-note-dynamically-manipulating-application-signal-arrays/application-note-dynamically-manipulating-application-signal-arrays-2.md)
+    * [Application Note: Dynamically Manipulating Application Signal Arrays](application-notes/application-note-dynamically-manipulating-application-signal-arrays/application-note-dynamically-manipulating-application-signal-arrays-3.md)
+  * [Sample Replay Files](application-notes/sample-replay-files.md)
+
+## &#x20;Contact Us
+
+* [Contact Information - Intrepid Control Systems, Inc.](contact-us/contact-information-intrepid-control-systems-inc..md)
