@@ -2,7 +2,7 @@
 
 If you are an electronic module developer, a diagnostic tool developer, a validation tester, an in-vehicle durability tester, a test consultant, or an in-vehicle data acquisition user Vehicle Spy offers you great value. Please review the table below for a quick summary.
 
-&#x20;                                                                                        **Value to Customer**
+**Value to Customer**
 
 | **Application**            | **Electronic Module Developer**            | **Diagnostic Tools Developer**             | **Validation Testers**                   | **In-Vehicle Durability Testers**          | **Test Consultants**                       | **In-Vehicle Data Acquisition**            |
 | -------------------------- | ------------------------------------------ | ------------------------------------------ | ---------------------------------------- | ------------------------------------------ | ------------------------------------------ | ------------------------------------------ |
@@ -14,9 +14,7 @@ If you are an electronic module developer, a diagnostic tool developer, a valida
 
 ### What's next?
 
-1. **Evaluate** Vehicle Spy through a demo version, reading it's specification sheet, and/or reading the online documentation.
+1. **Evaluate** Vehicle Spy through a demo version, reading it's [specification sheet](../../vehicle-spy-specifications.md), and/or reading the online documentation.
 2. **Purchase** Vehicle Spy! Contact [Intrepid Control Systems](http://www.intrepidcs.com)
 
-<mark style="color:red;"></mark>
-
-**Introduction - Overview - Applications Tour - Users - Specifications - Required Hardware - Website**
+[**Introduction**](../../) **-** [**Overview**](../) **-** [**Applications Tour**](vehicle-spy-tour-1-bus-monitor.md) **-** [**Users**](../../other-vehicle-spy-users.md) **-** [**Specifications**](../../vehicle-spy-specifications.md) **-** [**Required Hardware**](../../vehicle-spy-required-hardware-pc-system-requirements.md) **-** [**Website**](https://intrepidcs.com/products/software/vehicle-spy/vspy-float/)****

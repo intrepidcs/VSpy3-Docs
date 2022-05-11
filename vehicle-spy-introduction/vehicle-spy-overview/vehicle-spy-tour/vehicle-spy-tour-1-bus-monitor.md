@@ -10,6 +10,4 @@ Vehicle Spy further enhances message identification by displaying message text d
 
 In bus traffic monitor applications, message buffers are typically collected and then saved. To save time, Vehicle Spy allows for automation of analysis tasks. Vehicle Spy offers useful functions such as buffer statistics and post collection filtering. Message buffers are saved as CSV (Comma Separated Value) files. These files are completely compatible with Microsoft Excel, often the tool of choice for analysis.
 
-
-
-**Introduction - Overview - Applications Tour - Users - Specifications - Required Hardware - Website**
+****[**Introduction**](../../) **-** [**Overview**](../) **-** [**Applications Tour**](vehicle-spy-tour-1-bus-monitor.md) **-** [**Users**](../../other-vehicle-spy-users.md) **-** [**Specifications**](../../vehicle-spy-specifications.md) **-** [**Required Hardware**](../../vehicle-spy-required-hardware-pc-system-requirements.md) **-** [**Website**](https://intrepidcs.com/products/software/vehicle-spy/vspy-float/)****

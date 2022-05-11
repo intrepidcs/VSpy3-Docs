@@ -4,9 +4,9 @@ Vehicle Spy tutorials have been created to make learning Vehicle Spy quick and e
 
 ### Basics:
 
-* Vehicle Spy Tutorial Files
-* Getting Comfortable with the User Interface
-* Tabs in the User Interface
+* [Vehicle Spy Tutorial Files](vehicle-spy-tutorial-files.md)
+* [Getting Comfortable with the User Interface](getting-comfortable-with-the-user-interface.md)
+* [Tabs in the User Interface](tabs-in-the-user-interface.md)
 
 ### Tutorials:
 

@@ -10,6 +10,4 @@ The Vehicle Spy playback feature allows vehicle traffic to be simulated. For ins
 
 Vehicle Spy is also able to generate messages periodically or when specified events occur, two more features often useful for Node/Vehicle Simulation.
 
-<mark style="color:red;"></mark>
-
-**Introduction - Overview - Applications Tour - Users - Specifications - Required Hardware - Website**
+[**Introduction**](../../) **-** [**Overview**](../) **-** [**Applications Tour**](vehicle-spy-tour-1-bus-monitor.md) **-** [**Users**](../../other-vehicle-spy-users.md) **-** [**Specifications**](../../vehicle-spy-specifications.md) **-** [**Required Hardware**](../../vehicle-spy-required-hardware-pc-system-requirements.md) **-** [**Website**](https://intrepidcs.com/products/software/vehicle-spy/vspy-float/)****
