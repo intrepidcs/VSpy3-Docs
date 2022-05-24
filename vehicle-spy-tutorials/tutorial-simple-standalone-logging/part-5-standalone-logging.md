@@ -2,7 +2,7 @@
 
 ### 1. Build a Standalone Logging Setup:
 
-The **Standalone Logging** tab (Figures 1 & 2) looks a little overwhelming at first. Taking a closer look, it should be noted that that it is broken down into sections with simple options for how, what, and when to collect data. Details on all the options are in the help topic for the Standalone Logging tab. In this example we will cover the options needed for our original goal of a simple logging setup that uses a pre-post collection.
+The **Standalone Logging** tab (Figures 1 & 2) looks a little overwhelming at first. Taking a closer look, it should be noted that that it is broken down into sections with simple options for how, what, and when to collect data. Details on all the options are in the help topic for the [Standalone Logging tab](../../vehicle-spy-main-menus/main-menu-measurement/vehiclescape-daq/vehiclescape-daq-standalone-logging-tab/). In this example we will cover the options needed for our original goal of a simple logging setup that uses a pre-post collection.
 
 ### 2. Set up Message Collection Options:
 
@@ -10,7 +10,7 @@ The **Message collection Options** (Figure 1:![](https://cdn.intrepidcs.net/supp
 
 ### 3. Set up Collection Start Options:
 
-The **Start Options** (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smTwo.gif)) tells Vehicle Spy when to start logging. In this example a triggered pre-post capture will be created. Select **Using Trigger Expression** for this example. The next step is to create a trigger condition using the ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/fx.gif) **button** (Figure 1: ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smThree.gif)) and the Expression editor. In this example, the value of a signal collected is examined. This could be any expression that can be built in the expression editor.
+The **Start Options** (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smTwo.gif)) tells Vehicle Spy when to start logging. In this example a triggered pre-post capture will be created. Select **Using Trigger Expression** for this example. The next step is to create a trigger condition using the ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/fx.gif) **button** (Figure 1: ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smThree.gif)) and the [Expression editor](../../shared-features-in-vehicle-spy/shared-features-expression-builder.md). In this example, the value of a signal collected is examined. This could be any expression that can be built in the expression editor.
 
 ![Figure 1: Top portion of Standalone Logging Tab gives options for what and when to log.](../../.gitbook/assets/tutorialss5.1.gif)
 

@@ -4,7 +4,7 @@ In Parts 4 and 5, Identifiers are going to be requested through the use of a dyn
 
 ### 1. Create the PIDs:
 
-Like before, this example can work with hardware. If hardware is not available, it can still be followed to understand the procedure. The first step is to make sure Identifiers are defined for the ECU that data is to be requested from. This information is entered under **Spy Networks> ECUs**. Select the ISO 14229 ECU, then click on the **Identifiers tab** and enter in the Identifier data. For more information see the ECUs view help topic.
+Like before, this example can work with hardware. If hardware is not available, it can still be followed to understand the procedure. The first step is to make sure Identifiers are defined for the ECU that data is to be requested from. This information is entered under **Spy Networks> ECUs**. Select the ISO 14229 ECU, then click on the **Identifiers tab** and enter in the Identifier data. For more information see the [ECUs view](../../vehicle-spy-main-menus/main-menu-setup/ecus-view/edit-ecu-diagnostic-database.md) help topic.
 
 ### 2. Build the Dynamic Identifier:
 

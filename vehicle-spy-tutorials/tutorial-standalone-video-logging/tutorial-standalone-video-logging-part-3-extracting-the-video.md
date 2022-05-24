@@ -18,7 +18,7 @@ In the 'Advanced Settings' window, click on the 'Advanced' tab (Figure 3 ![](htt
 
 ### 3. Extract and export data
 
-Extract and export the data according to the needs of the project. For information on how to do this, refer to the Standalone Logging tutorial. Finally, click on 'View Output Directory' (Figure 4 ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/1.gif)) and open the folder containing the extracted data.
+Extract and export the data according to the needs of the project. For information on how to do this, refer to the [Standalone Logging tutorial](../tutorial-simple-standalone-logging/). Finally, click on 'View Output Directory' (Figure 4 ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/1.gif)) and open the folder containing the extracted data.
 
 ![Figure 4](../../.gitbook/assets/VLPart3Img4.gif)
 

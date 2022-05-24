@@ -8,6 +8,6 @@ Logging video can be an incredibly powerful tool when used simultaneously with o
 * neoVI Device capable of logging over ethernet
 * Ethernet Cable
 * Ethernet to USB adapter (Needed if you cannot connect to your camera over your PC's network interface)
-* AXIS IP Utility
+* [AXIS IP Utility](https://www.axis.com/support/tools/axis-ip-utility)
 
 Once everything on the list has been verified, continue to the tutorial.

@@ -8,5 +8,5 @@ Search results will be displayed in the **Results** box (Figure 1:![](https://cd
 
 ![Figure 1: Channel Selection tab](../../.gitbook/assets/tutorialss3.gif)
 
-For this simple example, the channels tab will only be used to select the channels to capture. Channels tab is also used to configure how diagnostics are requested, polling rates, decimation, export order, and other parameters. For more information see the help topic for the Channels table of VehicleScape DAQ.
+For this simple example, the channels tab will only be used to select the channels to capture. Channels tab is also used to configure how diagnostics are requested, polling rates, decimation, export order, and other parameters. For more information see the help topic for the [Channels table of VehicleScape DAQ](../../vehicle-spy-main-menus/main-menu-measurement/vehiclescape-daq/vehiclescape-daq-channels-tab.md).
 

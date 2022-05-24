@@ -2,7 +2,7 @@
 
 ### 1. Create a Tx Message:
 
-Open Vehicle Spy and log in on the Logon screen. Next, create a transmit message with the following parameters (This is covered in more detail in Tutorial 2).
+Open Vehicle Spy and log in on the Logon screen. Next, create a transmit message with the following parameters (This is covered in more detail in [Tutorial 2](../tutorial-transmit-messages-with-vehicle-spy/)).
 
 | Description | RPM Request |
 | ----------- | ----------- |

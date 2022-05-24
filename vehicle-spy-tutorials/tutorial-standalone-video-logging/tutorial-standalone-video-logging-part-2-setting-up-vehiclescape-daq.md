@@ -14,7 +14,7 @@ Look for Ethernet DAQ\Filter (Figure 2 ![](https://cdn.intrepidcs.net/support/Ve
 
 ### 3. Set up the rest of Vehiclescape DAQ:
 
-Set up the rest of the 'Standalone Logging' settings to the needs of the project. For information on this see the Standalone Logging Tutorial.
+Set up the rest of the 'Standalone Logging' settings to the needs of the project. For information on this see the [Standalone Logging Tutorial](../tutorial-simple-standalone-logging/).
 
 ### 4. Send the Standalone Logging script to your device:
 

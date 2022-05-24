@@ -8,4 +8,4 @@ When viewing the **Online** tab (Figure 1), signal values and update rates are v
 
 ![Figure 1: Online tab can be used to check signals before logging.](../../.gitbook/assets/tutorialss4.gif)
 
-For more information on the Online tab, see the help topic for the Online tab.
+For more information on the Online tab, see the help topic for the [Online tab](../../vehicle-spy-main-menus/main-menu-measurement/vehiclescape-daq/vehiclescape-daq-online-tab.md).

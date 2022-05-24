@@ -8,4 +8,4 @@ The Database/Hardware Setup tab gives an overview of the hardware and database s
 
 ![Figure 1: Database/Hardware Setup tab](../../.gitbook/assets/tutorialssl2.gif)
 
-For more information on the options on this tab, click the link for Database/Hardware Setup Tab entry in the help.
+For more information on the options on this tab, click the link for [Database/Hardware Setup Tab](../../vehicle-spy-main-menus/main-menu-measurement/vehiclescape-daq/vehiclescape-daq-database-hardware-setup-tab.md) entry in the help.
