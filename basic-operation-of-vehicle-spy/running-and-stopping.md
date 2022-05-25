@@ -6,17 +6,15 @@ Vehicle Spy can run in a several different modes: Run with Transmit, Run with ME
 
 **Run with Transmit mode (Online)**: Use this mode to connect and start communicating and monitoring a network. This mode will allow messages to be received and transmitted on the bus.
 
-**Run with MEP mode (Online MEP)**: Use Memory Edit Protocol to connect with ECUs that support CCP/XCP while also getting all features from Transmit mode.
+**Run with MEP mode (Online MEP)**: Use [Memory Edit Protocol](../vehicle-spy-main-menus/main-menu-measurement/mep-xcp-ccp-memory-edit-protocol/) to connect with ECUs that support CCP/XCP while also getting all features from Transmit mode.
 
 **Run Monitor Only mode**: Use this mode to only see messages on the bus and not transmit anything.
 
-**Run Simulation (Simulating: file name)**: Use this to replay a previously recorded buffer file without the need for network hardware. Mouse-over this choice to get a list of recently used simulation files or the option to run with No Replay File. Other simulation files can be selected by browsing for them or using Vehicle Spy Options. Simulation mode can be helpful for building Vehicle Spy files or reviewing buffers.
+**Run Simulation (Simulating: file name)**: Use this to replay a previously recorded buffer file without the need for network hardware. Mouse-over this choice to get a list of recently used simulation files or the option to run with No Replay File. Other simulation files can be selected by browsing for them or using [Vehicle Spy Options](../vehicle-spy-main-menus/main-menu-tools/tools-options/options-spy-networks-tab/). Simulation mode can be helpful for building Vehicle Spy files or reviewing buffers.
 
 Simulating with a file includes some tools for controlling the replay as shown in **Figure 2**.
 
 ![Figure 2: Run Simulation with a buffer file to see these extra control tools.](../.gitbook/assets/spyrunningandstopping2.gif)
-
-
 
 The **Continuous Replay** button (Figure 2: ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smOne.gif)) sets the replay to be either a continuous loop or to replay once. The **Play/Pause** button (Figure 2: ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smTwo.gif)) starts and stops the replay while keeping Vehicle Spy online in simulation mode. If the replay is paused, a **Single Step** button (Figure 2: ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smThree.gif)) appears and each click on it triggers the next message in the buffer to be replayed.
 
@@ -24,7 +22,7 @@ A **progress bar** (Figure 2: ![](https://cdn.intrepidcs.net/support/VehicleSpy/
 
 The replay speed multiplier is shown inside the progress bar. A value of 1x represents "real time" with no multiplying effect. Adjust the **speed slide**r (Figure 2: ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smFive.gif)) left or right to decrease or increase the replay speed.
 
-Replaying files in simulation mode will NOT send data on a physical network; to actually playback a file onto a physical network, setup a Playback function block and use Run with Transmit mode.
+Replaying files in simulation mode will NOT send data on a physical network; to actually playback a file onto a physical network, setup a [Playback function block](../vehicle-spy-tutorials/tutorial-1-basics-of-vehicle-spy/) and use Run with Transmit mode.
 
 **Run Analysis**: Use this mode to run analysis on a file. All of the setups including function blocks will be ran through Vehicle Spy as fast as possible to collect and analyze data faster. The file will only be played once instead of continuously playing.
 
@@ -45,7 +43,7 @@ Clicking the **Start** button ![](https://cdn.intrepidcs.net/support/VehicleSpy/
 * Start all tests/function blocks that are set to start immediately.
 * Change the Start button into a Stop button (blank blue button).
 
-**Note:** If there are problems starting Vehicle Spy, the cause of the problem will most likely be the hardware. Hardware problems can occur because hardware is either not connected or properly configured. Please see the section on setting up hardware to correct this type of problem.
+**Note:** If there are problems starting Vehicle Spy, the cause of the problem will most likely be the hardware. Hardware problems can occur because hardware is either not connected or properly configured. Please see the section on [setting up hardware](../vehicle-spy-main-menus/main-menu-tools/tools-options/options-spy-networks-tab/) to correct this type of problem.
 
 Clicking the **Stop** button ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/playstop.gif) stops Vehicle Spy and causes the software to do all of the following:
 
