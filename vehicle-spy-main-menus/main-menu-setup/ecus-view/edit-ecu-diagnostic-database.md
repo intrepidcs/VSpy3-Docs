@@ -19,7 +19,7 @@ Signal decoding in ECUs view is done exactly the same way it was done in [Messag
 * **Format** - Changing this option changes the way that this value is presented to the user. For analog signals, the number of digits after the decimal point can be specified. For digital values the text for True and False can be changed.
 * **Units** - Enter units for the decoded signal in the Units field.
 * **Min, Max** - Minimum and Maximum are just that! Enter the minimum and maximum values that the decoded signal can have in these fields.
-* **Equation** - The equation field is where which bits and bytes that make up this signal are specified. Clicking the Edit button will bring up an editor dialog to easily set the decoding information. The editor interface changes depending upon which Signal Type is selected. For help on using the editor dialogs click here.
+* **Equation** - The equation field is where which bits and bytes that make up this signal are specified. Clicking the Edit button will bring up an editor dialog to easily set the decoding information. The editor interface changes depending upon which Signal Type is selected. For help on using the editor dialogs [click here](../../main-menu-spy-networks/message-editor/message-signals/message-signal-type.md).
 
 Changes to the Standard DID list need to be saved using the "Save Standard DIDs" button at the top of the ECUs window.
 

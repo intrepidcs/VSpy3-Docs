@@ -4,7 +4,7 @@ Use the Vehicle Spy File menu (Figure 1) to create, open, and save .vs3 and .vs3
 
 ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/spyFileNewIcon.gif) **New**: When Vehicle Spy opens, it creates a new setup by default. This selection forces Vehicle Spy to close all currently open views and start a new setup file.
 
-![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/spyFileOpenIcon.gif) **Open**: This selection opens Vehicle Spy vs3 and vs3zip setup files. The Logon screen also provides a quick and convenient way to open setup files. It can be accessed anytime Vehicle Spy is not running via the File menu. Vector Canape (CNA) files can also be imported into Vehicle Spy through the Open menu.
+![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/spyFileOpenIcon.gif) **Open**: This selection opens Vehicle Spy vs3 and vs3zip setup files. The [Logon](../../basic-operation-of-vehicle-spy/the-logon-screen.md) screen also provides a quick and convenient way to open setup files. It can be accessed anytime Vehicle Spy is not running via the File menu. Vector Canape (CNA) files can also be imported into Vehicle Spy through the Open menu.
 
 ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/spyFileSaveIcon.gif) **Save**: This selection saves all Vehicle Spy settings in a vs3 or vs3zip setup file. Saving as a vs3 file will store settings such as message and signal definitions (receive & transmit tables only), filters, function blocks, graphical panels, custom column sets, Java projects, diagnostic job setups, and selected signals for plotting and logging.
 

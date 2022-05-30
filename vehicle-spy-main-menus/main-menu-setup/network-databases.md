@@ -14,7 +14,7 @@ The first field is for **DBC and VS3 Databases for Network** (Figure 1:![](https
 
 The second field is for specifying a **FIBEX Database** (Field Bus Exchange) file for FlexRay (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smFive.gif)). Click the **Browse** button to select the file from its location on your computer. Press **Clear** to remove the file.
 
-The third field is for specifying a **LIN LDF Database File** (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smSix.gif)). Press the **View** button to open the LDF Tool to setup LIN capabilities. Use the **Create Schedule Table Function Blocks** button to create Function Blocks to help simulate LIN nodes.
+The third field is for specifying a **LIN LDF Database File** (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smSix.gif)). Press the **View** button to open the LDF Tool to setup LIN capabilities. Use the **Create Schedule Table Function Blocks** button to create [Function Blocks](../main-menu-scripting-and-automation/function-blocks/) to help simulate LIN nodes.
 
 The fourth field is for selecting a **Network UEF Database Name** (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smSeven.gif)).
 
@@ -28,7 +28,7 @@ The **UEF / VSDB Support**tab (Figure 2) is where a Vehicle UEF Database file an
 
 #### Diagnostics:
 
-The **Diagnostics** tab (Figure 3) is where a Vehicle Spy diagnostic database is specified. These files have a GMD extension and hold information on diagnostic parameters like DIDs, PIDs, DPIDs, CPIDs, memory addresses, etc. The diagnostic parameters can be manually created within Vehicle Spy or imported from other diagnostic database file formats like A2L, ODX, MDX, or GDX using the ECUs view. Information in the GMD database is used for Snapshot and the Diagnostics Setup view in Vehicle Spy. Press **Browse** to select an existing file. Press **Create New** to make a new file. Press **Clear** to remove the file.
+The **Diagnostics** tab (Figure 3) is where a Vehicle Spy diagnostic database is specified. These files have a GMD extension and hold information on diagnostic parameters like DIDs, PIDs, DPIDs, CPIDs, memory addresses, etc. The diagnostic parameters can be manually created within Vehicle Spy or imported from other diagnostic database file formats like A2L, ODX, MDX, or GDX using the [ECUs view](ecus-view/). Information in the GMD database is used for [Snapshot](../main-menu-spy-networks/snapshot.md) and the [Diagnostics Setup](../main-menu-spy-networks/diagnostics/diagnostics-setup.md) view in Vehicle Spy. Press **Browse** to select an existing file. Press **Create New** to make a new file. Press **Clear** to remove the file.
 
 ![Figure 3: Selecting a Vehicle Spy diagnostic database.](../../.gitbook/assets/spynetworkdatabase3.gif)
 

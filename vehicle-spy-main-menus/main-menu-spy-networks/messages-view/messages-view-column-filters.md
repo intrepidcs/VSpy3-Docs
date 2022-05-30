@@ -2,9 +2,9 @@
 
 ### Overview
 
-In addition to the Filter Bar, the Messages view can be filtered further with column filters. Column filters affect the display and the contents of saved buffer files, just like the Filter Bar does. They are also turned on and off using the **Filter** button at the top of the Filter Bar.
+In addition to the [Filter Bar](messages-view-filter-bar/), the [Messages view](./) can be filtered further with column filters. Column filters affect the display and the contents of saved buffer files, just like the Filter Bar does. They are also turned on and off using the **Filter** button at the top of the Filter Bar.
 
-Column filters are located in the row of blank fields just below the column headers as seen in **Figure 1**. The black/gray Filter text at the far left of that row indicates the Filter button status.
+Column filters are located in the row of blank fields just below the [column headers](messages-view-column-headers.md) as seen in **Figure 1**. The black/gray Filter text at the far left of that row indicates the Filter button status.
 
 ![Figure 1: Column filters can be applied using pulldown lists and entry fields.](../../../.gitbook/assets/spymoncolumnfilters.gif)
 
@@ -28,4 +28,4 @@ To include more than one message in a filter, separate them using a comma like *
 
 To delete a column filter, click and highlight it, then press the **Delete** key and **Enter** key to confirm.
 
-To disable all column filters without changing them, use the **Filter** button above the Filter Bar. The Filter text and column filter names will fade to gray when they are disabled.
+To disable all column filters without changing them, use the **Filter** button above the [Filter Bar](messages-view-filter-bar/). The Filter text and column filter names will fade to gray when they are disabled.

@@ -1,6 +1,6 @@
 # Save the Buffer
 
-Save the Messages view buffer by pressing the **Save** button in the top toolbar (Figure 1). Tapping predefined function key **F3 then S** will also work.
+Save the [Messages view](../) buffer by pressing the **Save** button in the [top toolbar](./) (Figure 1). Tapping [predefined function key](../../../../shared-features-in-vehicle-spy/shared-features-predefined-function-keys.md) **F3 then S** will also work.
 
 ![Figure 1: Save the Messages view buffer by clicking Save.](../../../../.gitbook/assets/spysavebuffer.gif)
 
@@ -14,10 +14,10 @@ Enable the **Save as compressed ZIP file** checkbox to save the file in a compre
 
 The buffer file can be saved in a .CSV or .VSB **file format**, among others. .CSV (Comma Separated Value) is a common format that can be read by many applications and it can also include signal data and a text note. .VSB (Vehicle Spy Binary) format is readable by Vehicle Spy and does not include signal data or notes. .VSB files have smaller memory size than .CSV files, so .VSB format can be useful when saving very large message buffers.
 
-When finished, click the **Save** button and the Messages buffer will be saved to your Data Directory.
+When finished, click the **Save** button and the Messages buffer will be saved to your [Data Directory](../../../../basic-operation-of-vehicle-spy/data-directory.md).
 
 \*Note:Press the **Enter** key as soon as the **Save** dialog appears to quickly save the buffer.
 
 ![Figure 2: Click the Save button on Messages view to see these options.](../../../../.gitbook/assets/spysavebuffer2.gif)
 
-A buffer saved in Vehicle Spy can be analyzed, reviewed, used as a simulation file, played back onto physical networks, or converted to other formats.
+A buffer saved in Vehicle Spy can be [analyzed](../../../main-menu-measurement/data-analysis/), [reviewed](../../../main-menu-file/review-buffer.md), used as a [simulation file](../../../../basic-operation-of-vehicle-spy/running-and-stopping.md), [played back](../../../../vehicle-spy-tutorials/tutorial-1-basics-of-vehicle-spy/) onto physical networks, or converted to other formats.
