@@ -1,6 +1,6 @@
 # Buffer Progress Display
 
-Messages view uses a circular buffer. This means that when the buffer is full, the oldest data in the buffer is overwritten. Therefore, if you setup a buffer of 1000 messages, you will always have the 1000 most recent messages in your buffer.
+[Messages view](../) uses a circular buffer. This means that when the buffer is full, the oldest data in the buffer is overwritten. Therefore, if you [setup a buffer](../messages-view-bottom-toolbar/messages-view-setup.md) of 1000 messages, you will always have the 1000 most recent messages in your buffer.
 
 The Buffer Progress Display (Figure 1) shows how full your buffer is and if it has overflowed. For example, with a buffer of 1000 messages, an overflow happens every time 1000 messages have been written to the buffer.
 
