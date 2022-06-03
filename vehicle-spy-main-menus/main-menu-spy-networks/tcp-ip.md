@@ -1,6 +1,6 @@
 # TCP/IP
 
-Vehicle Spy's **TCP/IP** view shows the current status of its TCP/IP connections for a selected ethernet network and allows editing of some parameters. A valid TCP/IP connection is required for Diagnostics over IP (DoIP). A maximum of 128 connections are allowed. TCP/IP view is opened from the Spy Networks menu.
+Vehicle Spy's **TCP/IP** view shows the current status of its TCP/IP connections for a selected ethernet network and allows editing of some parameters. A valid TCP/IP connection is required for [Diagnostics over IP (DoIP)](diagnostics-over-ip-doip.md). A maximum of 128 connections are allowed. TCP/IP view is opened from the [Spy Networks](./) menu.
 
 Ethernet communication involves many protocols and TCP/IP view supports the following:
 
@@ -18,15 +18,15 @@ Ethernet communication involves many protocols and TCP/IP view supports the foll
 
 ### TCP in Vehicle Spy
 
-TCP has a virtual network in Vehicle Spy to expose data hidden within the raw ethernet traffic found on the physical networks like "Ethernet" and "OP (BR) ETH01". TCP also has a predefined column set on Messages view to quickly organize the data from the virtual networks.
+TCP has a virtual [network](networks/) in Vehicle Spy to expose data hidden within the raw ethernet traffic found on the physical networks like "Ethernet" and "OP (BR) ETH01". TCP also has a predefined [column set](messages-view/messages-view-column-headers.md) on [Messages](messages-view/) view to quickly organize the data from the virtual networks.
 
-TCP requires the Tools > Options > Spy Networks tab setting "Use PC Ethernet interface" = ON.
+TCP requires the Tools > Options > [Spy Networks tab](../main-menu-tools/tools-options/options-spy-networks-tab/) setting "Use PC Ethernet interface" = ON.
 
 ### MAC Address
 
 The **MAC Address** (Media Access Control) (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smOne.gif)) is a static address associated with a physical ethernet device. Vehicle Spy displays the address as a series of six bytes in hexadecimal format. The first three bytes of the MAC Address are 00:FC:70 for ICS hardware.
 
-* Inherit from device - use the MAC address of ICS hardware that is online with VSpy.
+* Inherit from device - use the MAC address of ICS hardware that is [online](../../basic-operation-of-vehicle-spy/running-and-stopping.md) with VSpy.
 * Manually assigned - use the MAC address entered.
 
 ### IP Address

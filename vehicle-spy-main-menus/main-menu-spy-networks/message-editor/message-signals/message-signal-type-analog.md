@@ -1,6 +1,6 @@
 # Message Signal Type Analog
 
-Setting the Signal Type pull-down to Analog in the Edit Signal dialog sets the signal to an analog type (Figure 1).
+Setting the [Signal Type](message-signal-type.md) pull-down to Analog in the Edit Signal dialog sets the signal to an analog type (Figure 1).
 
 ![Figure 1: Use the Edit Signal dialog to define an analog signal in a message.](../../../../.gitbook/assets/spyindecodeanalog.gif)
 
@@ -22,7 +22,7 @@ The **Raw Value Type** sets what type of analog signal is being decoded. The ava
 
 ### General Tab
 
-The signal's start position, length, and byte order are specified on the General tab. The Start Bit Position or Byte: Bit identifies where in the message the signal begins. The Length can be entered in bits or bytes. For some types, like a 32 bit IEEE float, the length is fixed and already entered in. The signal start position and length can also be changed by just dragging the blue bits around in the Signals in Message area.
+The signal's start position, length, and byte order are specified on the General tab. The Start [Bit Position or Byte: Bit](understanding-bit-and-byte-bit-positions.md) identifies where in the message the signal begins. The Length can be entered in bits or bytes. For some types, like a 32 bit IEEE float, the length is fixed and already entered in. The signal start position and length can also be changed by just dragging the blue bits around in the [Signals in Message](./) area.
 
 Byte order (or endian-ness) deals with how multi-byte data is organized within the message. For example, in a two byte integer like 12345, will the first byte be the most significant byte (msb) or the least significant byte (lsb)? The Motorola format has the msb followed by the lsb (i.e. 12345 = $30 39). The Intel format has the lsb followed by the msb (i.e. 12345 = $39 30).
 
@@ -43,4 +43,4 @@ The Advanced tab includes settings related to J1939 Suspect Parameter Number (SP
 
 ### Format, Min, Max, & Units
 
-The signal's display can be changed using Format, Min, Max, and Units located at the bottom of the Edit Signal dialog.
+The signal's display can be changed using [Format](message-signal-format-and-units.md), Min, Max, and [Units](message-signal-format-and-units.md) located at the bottom of the Edit Signal dialog.

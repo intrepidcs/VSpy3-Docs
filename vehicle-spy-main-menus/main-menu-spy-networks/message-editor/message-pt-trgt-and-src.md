@@ -6,4 +6,4 @@ The **PT** (Priority / Type), **Trgt** (Target), and **Src** (Source) fields def
 * ISO9141 / Keyword
 * J1850 PWM
 
-\*Note: Use the Tools/Options/Vehicle Networks tab, J1850 VPW Mode selector to switch between the 1 byte (Chrysler) and 3 byte (GM Class 2) headers. If a 1 byte header is selected, then the first 3 bytes will be ID, B1, and B2.
+\*Note: Use the Tools/Options/Vehicle Networks tab, [J1850 VPW Mode](../../main-menu-tools/tools-options/options-spy-networks-tab/spy-networks-tab-j1850-vpw-mode.md) selector to switch between the 1 byte (Chrysler) and 3 byte (GM Class 2) headers. If a 1 byte header is selected, then the first 3 bytes will be ID, B1, and B2.

@@ -1,6 +1,6 @@
 # Message Signal Format and Units
 
-When decoding an analog or digital signal, the display format can be specified. For example, analog Engine RPM signal could be displayed as 1000.23423 or 1000.2. Many formats are available in the pulldown lists as shown in Figures 1 and 2.
+When decoding an [analog](message-signal-type-analog.md) or [digital](message-signal-type-digital.md) signal, the display format can be specified. For example, analog Engine RPM signal could be displayed as 1000.23423 or 1000.2. Many formats are available in the pulldown lists as shown in Figures 1 and 2.
 
 Below are some examples to help explain each of the analog format categories:
 
@@ -12,8 +12,7 @@ Below are some examples to help explain each of the analog format categories:
 * XXXX hex = 4 characters of hexadecimal
 * XX bin = 16 bits of binary
 
-Units can be more useful when combined with the "eng" or "engf" formats. For example, "0 eng" format with units V would format as follows:\
-
+Units can be more useful when combined with the "eng" or "engf" formats. For example, "0 eng" format with units V would format as follows:\\
 
 * 0.010 V as 10 mV
 * 1200 V as 1 kV

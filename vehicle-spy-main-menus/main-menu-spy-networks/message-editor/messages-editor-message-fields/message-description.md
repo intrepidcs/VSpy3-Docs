@@ -1,6 +1,6 @@
 # Message Description
 
-The Message description allows a user friendly name to be assigned to a message. This description will appear in selection dialogs as well as when the message is seen in the Messages view and in the Expression Builder.
+The [Message](../) description allows a user friendly name to be assigned to a message. This description will appear in selection dialogs as well as when the message is seen in the [Messages](../../messages-view/) view and in the [Expression Builder](../../../../shared-features-in-vehicle-spy/shared-features-expression-builder.md).
 
 Type the desired message description directly into the description field.
 

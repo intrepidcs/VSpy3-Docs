@@ -4,7 +4,7 @@ Use the **Tx Msg field** to link a Transmit Message to a Receive Message. This l
 
 ### Automatically Responding To a Received Message
 
-First, enter the message you wish to transmit in the Transmit table in Messages Editor view. (Vehicle Spy automatically adds the transmit message to the dropdown list in the Tx Msg column over on the Receive table.)
+First, enter the message you wish to transmit in the Transmit table in [Messages Editor](../) view. (Vehicle Spy automatically adds the transmit message to the dropdown list in the Tx Msg column over on the Receive table.)
 
 Next, go to the Receive table and find or build your incoming message.
 

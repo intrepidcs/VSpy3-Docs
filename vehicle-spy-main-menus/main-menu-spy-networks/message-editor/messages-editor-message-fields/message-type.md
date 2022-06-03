@@ -4,7 +4,7 @@ The message **Type** field in the Messages Editor has different meanings for the
 
 ### CAN - Arb ID Type
 
-Set this field according to how many bits make up the CAN message Arbitration ID.
+Set this field according to how many bits make up the CAN message [Arbitration ID](message-arbitration-id.md).
 
 The choices are:
 

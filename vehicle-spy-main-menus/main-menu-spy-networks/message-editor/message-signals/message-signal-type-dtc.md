@@ -2,9 +2,9 @@
 
 The DTC (Diagnostic Trouble Code) format is an automotive industry standard. The format relies on two bytes to form an alpha numeric code.\*
 
-By setting up the Signal Type pulldown to **DTC** in the Edit Signal dialog (Figure 1), a DTC signal will be setup. Just select the Start byte where the DTC is located in the message and that's it!
+By setting up the [Signal Type](message-signal-type.md) pulldown to **DTC** in the Edit Signal dialog (Figure 1), a DTC signal will be setup. Just select the Start byte where the DTC is located in the message and that's it!
 
-Some limits are placed on the dialog to help avoid mistakes. DTC signals are byte aligned, so the Bit Position field is disabled. DTC signals are 2 bytes long, so the Length is already set to this value for you. To define the DTC further with a text description you can use a DTC Database.
+Some limits are placed on the dialog to help avoid mistakes. DTC signals are byte aligned, so the Bit Position field is disabled. DTC signals are 2 bytes long, so the Length is already set to this value for you. To define the DTC further with a text description you can use a [DTC Database](../../../../shared-features-in-vehicle-spy/shared-features-dtc-database.md).
 
 ![Figure 1: Use the Edit Signal dialog to define a DTC signal in a message by selecting its Start Byte location.](../../../../.gitbook/assets/spyindecodedtc.gif)
 

@@ -1,6 +1,6 @@
 # Message Signal Type Text
 
-Setup an ASCII text signal by setting the Signal Type pulldown to **Text** in the Edit Signal dialog (Figure 1). Use the dialog to select the Start Byte and Length of the signal in the message.
+Setup an ASCII text signal by setting the [Signal Type](message-signal-type.md) pulldown to **Text** in the Edit Signal dialog (Figure 1). Use the dialog to select the Start Byte and Length of the signal in the message.
 
 Some limits are placed on this dialog to help prevent mistakes. The Text signal position is byte aligned, so the Bit Position field is disabled. The Text signal length is a multiple of 8 bits, so the Bits Length pulldown list is limited to those choices.
 
@@ -79,4 +79,4 @@ Table 1 is a lookup table to convert between ASCII character, decimal, and hexad
 | Greater-Than Sign     | >    | 62  | $3E | Tilde          | \~   | 126 | $7E |
 | Question Mark         | ?    | 63  | $3F | Delete         | DEL  | 12  | $7F |
 
-****
+***

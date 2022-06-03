@@ -1,6 +1,6 @@
 # Network Statistics
 
-Statistics for a network can be seen in the Networks view by selecting the **Statistics** button (Figure 1). A description of each statistic is listed below in Table 1. All stats are cleared each time Vehicle Spy is started. While running, statistics can be cleared by right clicking on the description of the network to clear and selecting **Clear Stats**. Selecting the open folder ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/openfolder.gif) will change the view to show all networks, whereas selecting the closed folder ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/closedfolder.gif) will hide unused networks.
+Statistics for a network can be seen in the [Networks](./) view by selecting the **Statistics** button (Figure 1). A description of each statistic is listed below in Table 1. All stats are cleared each time Vehicle Spy is started. While running, statistics can be cleared by right clicking on the description of the network to clear and selecting **Clear Stats**. Selecting the open folder ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/openfolder.gif) will change the view to show all networks, whereas selecting the closed folder ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/closedfolder.gif) will hide unused networks.
 
 ![Figure 1: The Networks view statistics mode shows statistics of each network.](../../../.gitbook/assets/spynetstats.gif)
 
@@ -17,4 +17,3 @@ Statistics for a network can be seen in the Networks view by selecting the **Sta
 | Max %             | Maximum amount of network bandwidth used based on 0-100 percent scale since start or reset.                                                             |
 | Error Rate        | The number of errors per second.                                                                                                                        |
 | Tx Rate           | The number of transmitted messages per second.                                                                                                          |
-

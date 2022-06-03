@@ -1,6 +1,6 @@
 # Receive ISO15765-2 Multiframe Message
 
-Vehicle Spy has the ability to transmit and receive multiframe messages using the ISO15765-2 specification for CAN networks. The first few steps for setting up a receive multiframe message are the same as setting up a normal message. Set the Description, Type, Arbitration ID, and color in the Messages Editor Receive table. After that, ISO15765-2 needs to be selected from the Multi column. This tells Vehicle Spy to use the ISO15765-2 protocol for receiving this message.
+Vehicle Spy has the ability to [transmit](transmit-iso15765-2-multiframe-message.md) and receive multiframe messages using the ISO15765-2 specification for CAN networks. The first few steps for setting up a receive multiframe message are the same as setting up a normal message. Set the Description, Type, Arbitration ID, and color in the Messages Editor Receive table. After that, ISO15765-2 needs to be selected from the [Multi](./) column. This tells Vehicle Spy to use the ISO15765-2 protocol for receiving this message.
 
 In the message setup area, click the **Multiframe Setup** button. A dialog opens for configuring the flow control frame parameters (Figure 1).
 
@@ -13,7 +13,7 @@ In the message setup area, click the **Multiframe Setup** button. A dialog opens
 * Padding Character - value used to pad the flow control frame out to 8 data bytes long.
 
 Examples:\
-Arb ID = 7E0, BS = 0, STmin =  0, Padding = none ==> flow control frame $7E0 30 00 00 (default).\
+Arb ID = 7E0, BS = 0, STmin = 0, Padding = none ==> flow control frame $7E0 30 00 00 (default).\
 \
 Arb ID = 777, BS = 5, STmin = 100, Padding = BB ==> flow control frame $777 30 05 64 BB BB BB BB BB.
 

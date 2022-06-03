@@ -4,7 +4,7 @@ Columns B1 to B8 can specify the message data bytes directly (Figure 1).
 
 ![Figure 1: Message data byte columns B1 through B8.](../../../../../.gitbook/assets/spyinmsgbytes.gif)
 
-The message data bytes also have unique setup options in the Receive vs Transmit tables.
+The message data bytes also have unique setup options in the [Receive vs Transmit](../../messages-editor-receive-transmit-and-database-tables.md) tables.
 
 ### Receive Table
 
@@ -20,4 +20,4 @@ For example, if B1 is set to X7 then receive messages with B1 = 07, 17, 27...F7 
 
 ### Transmit Table
 
-In the Transmit table, B1-B8 can support long messages that go beyond the data fields provided.
+In the Transmit table, B1-B8 can support [long messages](transmit-long-messages.md) that go beyond the data fields provided.
