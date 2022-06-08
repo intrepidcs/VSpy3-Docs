@@ -1,8 +1,8 @@
 # FlexRay Cycles
 
-Vehicle Spy's FlexRay Cycles view is a nice visual aid for understanding FlexRay concepts such as cycles, static frames, dynamic frames, and channels A and B. FlexRay Cycles view is opened from the Spy Networks menu.
+Vehicle Spy's FlexRay Cycles view is a nice visual aid for understanding FlexRay concepts such as cycles, static frames, dynamic frames, and channels A and B. FlexRay Cycles view is opened from the [Spy Networks](./) menu.
 
-After selecting the desired **Network** at the top, FlexRay Cycles view will show cluster activity for all connected nodes after going online with ICS hardware previously configured using FlexRay Controllers view.
+After selecting the desired **Network** at the top, FlexRay Cycles view will show cluster activity for all connected nodes after going online with ICS hardware previously configured using [FlexRay Controllers](flexray-controllers/) view.
 
 ### Example of FlexRay Cycles View with an Active Cluster
 
@@ -39,7 +39,7 @@ The following information is provided for quick reference regarding items on Fle
 * Each node can be a coldstart or non-coldstart node.
 * At least two coldstart nodes are required for a cluster.
 * Each node can have one or two channels.
-* ICS FlexRay hardware has 2 coldstart nodes with 2 channels configured using **** FlexRay Controllers view.
+* ICS FlexRay hardware has 2 coldstart nodes with 2 channels configured using \*\*\*\* [FlexRay Controllers](flexray-controllers/) view.
 
 ### Channels
 
@@ -53,11 +53,12 @@ The following information is provided for quick reference regarding items on Fle
 * There are 64 cycles in a continuous loop from 0 to 63.
 * Each cycle has segments in this order: static + dynamic\* + symbol window\* + network idle time. (\*optional)
 * Each cycle has a maximum of 2047 slots.
-* \
+
+
 
 * Dynamic frames can exist in every cycle or only in a subset of cycles called a "cycle set".
 * Cycle sets are defined with a 7 bit cycle code.
-* Vehicle Spy's Messages Editor defines cycle sets using **Base Cycles** and **Cycle Reps** with examples shown in Table 2.
+* Vehicle Spy's [Messages Editor](message-editor/messages-editor-message-fields/) defines cycle sets using **Base Cycles** and **Cycle Reps** with examples shown in Table 2.
 
 **Table 2: Examples of Cycle Sets for Dynamic Frames**
 
@@ -73,10 +74,8 @@ The following information is provided for quick reference regarding items on Fle
 * There are two types of frames, static and dynamic.
 * Frame IDs can range from 1 to 2047, with 0 being invalid.
 * Each frame is fully identified with a unique slot and channel, and an optional cycle code.
-* Each frame has a payload of an even number of data bytes up to a maximum of 254.\
-
+* Each frame has a payload of an even number of data bytes up to a maximum of 254.\\
 * Static frames must all have the same payload length.
-* A static frame can be sent on channel A, on channel B, or on both channels at the same time.\
-
+* A static frame can be sent on channel A, on channel B, or on both channels at the same time.\\
 * Dynamic frames can have different payload lengths.
 * A dynamic frame can be sent on channel A or on channel B, but not on both at the same time.

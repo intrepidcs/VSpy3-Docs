@@ -2,7 +2,7 @@
 
 Diagnostic jobs are launched using the Diagnostics screen (Figure 1) in Vehicle Spy. This screen is found under **Spy Networks> Diagnostics**.\
 \
-Use the **+ button** in the upper left **** to add jobs from the specified diagnostic service. You can remove a job by selecting the - button from the same area.\
+Use the **+ button** in the upper left \*\*\*\* to add jobs from the specified diagnostic service. You can remove a job by selecting the - button from the same area.\
 \
 Jobs will be listed under the **Name** field on the left (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smOne.gif)). To launch a job, click the gray button just right of its name (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smTwo.gif)). The job **Status** column (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smThree.gif)) will tell you if the job is running or complete.\
 \
@@ -18,4 +18,4 @@ The other place to see the response data is in the **Message History** area (Fig
 
 ![Figure 1: The Diagnostics screen is used to launch jobs and view their results.](../../../.gitbook/assets/spydiagnosticsjoblauncher.gif)
 
-**\*Note:** Signals acquired from diagnostic jobs can be used throughout Vehicle Spy just like any other signal. In the Expression Builder, diagnostic signals are saved under Jobs.
+**\*Note:** Signals acquired from diagnostic jobs can be used throughout Vehicle Spy just like any other signal. In the [Expression Builder](../../../shared-features-in-vehicle-spy/shared-features-expression-builder.md), diagnostic signals are saved under Jobs.
