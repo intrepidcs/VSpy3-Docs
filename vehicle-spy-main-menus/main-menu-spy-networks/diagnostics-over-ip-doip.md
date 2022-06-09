@@ -2,7 +2,7 @@
 
 Diagnostics over Internet Protocol (DoIP) requires diagnostic communications to use IP, TCP, and UDP protocols on an ethernet network. A vehicle with DoIP typically has one "edge node" ECU to transfer all diagnostic messages between a test tool on ethernet and other ECUs on other networks like CAN, LIN, FlexRay, etc. Requirements for DoIP are defined in ISO 13400.\
 \
-Use Vehicle Spy's **Diagnostics over IP (DoIP)** to discover and connect to an edge node ECU, which then allows Diagnostics to be sent to other ECUs on the vehicle. The DoIP connection can be setup to run manually or automatically after each time Vehicle Spy goes online with hardware. DoIP is opened from the Spy Networks menu.
+Use Vehicle Spy's **Diagnostics over IP (DoIP)** to discover and connect to an edge node ECU, which then allows [Diagnostics](diagnostics/diagnostics-view.md) to be sent to other ECUs on the vehicle. The DoIP connection can be setup to run manually or automatically after each time Vehicle Spy goes online with hardware. DoIP is opened from the [Spy Networks](./) menu.
 
 ![Figure 1: Use DoIP to open a link to the vehicle edge node ECU before sending diagnostic jobs to other ECUs.](../../.gitbook/assets/DoIP.gif)
 
@@ -11,13 +11,13 @@ Use Vehicle Spy's **Diagnostics over IP (DoIP)** to discover and connect to an e
 Follow these steps to make a Vehicle Spy DoIP connection to a vehicle:
 
 1. Connect DoIP capable ICS hardware (like FIRE2) to the vehicle data link connector and PC USB.
-2. Verify Tools > Options > Spy Networks tab has "Use PC Ethernet interface" = ON.
-3. In TCP/IP view, set the **MAC address** = Inherit from device and **IP address** = Inherit from OS.
+2. Verify Tools > Options > [Spy Networks tab](../main-menu-tools/tools-options/options-spy-networks-tab/) has "Use PC Ethernet interface" = ON.
+3. In [TCP/IP](tcp-ip.md) view, set the **MAC address** = Inherit from device and **IP address** = Inherit from OS.
 4. In DoIP, verify the **Assert activation line at start** checkbox is enabled.
-5. Take VSpy online with the ICS hardware from step 1.
+5. Take VSpy [online](../../basic-operation-of-vehicle-spy/running-and-stopping.md) with the ICS hardware from step 1.
 6. In DoIP, click **Refresh vehicles**. A vehicle should appear in the response table with status "Disconnected".
 7. Click on the vehicle then **Connect to selected vehicle** -> Connect -> Default diagnostics. The vehicle status should change to "Connected".
-8. Diagnostics can now be used to send DoIP jobs to specific ECUs.
+8. [Diagnostics](diagnostics/diagnostics-view.md) can now be used to send DoIP jobs to specific ECUs.
 
 A physical activation line between the ICS hardware and edge node ECU must be active for DoIP to work. If **Assert activation line at start** (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smThree.gif)) is enabled then Vehicle Spy will activate the DoIP line each time it goes online with hardware. The line can also be controlled directly by clicking on the **DoIP activation line** button.
 

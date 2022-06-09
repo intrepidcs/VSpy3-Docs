@@ -16,7 +16,7 @@ There are three main steps for creating a simulation (Figure 2).
 
 ![Figure 2: Three step process for creating a simulation.](../../.gitbook/assets/icsecusim2.gif)
 
-### 1. Setup A UEF Database
+### 1. [Setup A UEF Database](../main-menu-setup/network-databases.md)
 
 ### 2. Select Simulation ECUs:
 
@@ -30,11 +30,11 @@ Next, select the ECUs. You can select one or more ECUs for any networks you are 
 
 After the ECUs are selected, the simulator will generate a list of messages and signals required for the simulation. The second tab in the simulator, **Simulation Data**, allows setup of the messages and signals used for the simulation (Figure 4).\
 \
-There are three ways to setup simulation data. The first option is to apply an expression to each signal (Figure 4: ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smOne.gif)) This expression can be a static value, a Vehicle Spy expression, or a signal generator function. Next assign hex data to the message as a whole. By clicking the **Setup** (Figure 4: ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smTwo.gif)) hot link for a message it is possible to enter default hex bytes for the entire message. Finally, enter signal data from a replay file (Figure 4: ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smFive.gif)). Clear all of your setup for both messages and signals by clicking the **Clear All Customizations** button (Figure 4: ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smFour.gif)).\
+There are three ways to setup simulation data. The first option is to [apply an expression](simulator.md#setup-message-options) to each signal (Figure 4: ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smOne.gif)) This expression can be a static value, a Vehicle Spy expression, or a signal generator function. Next assign hex data to the message as a whole. By clicking the **Setup** (Figure 4: ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smTwo.gif)) hot link for a message it is possible to [enter default hex bytes](simulator.md#setup-message-options) for the entire message. Finally, enter signal data from a replay file (Figure 4: ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smFive.gif)). Clear all of your setup for both messages and signals by clicking the **Clear All Customizations** button (Figure 4: ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smFour.gif)).\
 \
 Each signal indicates the type of signal trigger (event or periodic), the rate for the signal, the applied expression, the data type of the signal, and the min and max value where appropriate.\
 \
-Some messages appear in the list with a red line and circle **NO symbol** (Figure 4: ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smThree.gif)). This indicates that the message is disabled. Diagnostic messages are always disabled by the simulator. A user can manually disable any message in the message setup.\
+Some messages appear in the list with a red line and circle **NO symbol** (Figure 4: ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smThree.gif)). This indicates that the message is disabled. Diagnostic messages are always disabled by the simulator. A user can manually disable any message in the [message setup](simulator.md#setup-message-options).\
 \
 The simulation log file allows injection of signal values into a simulation. This Excel .CSV file has columns for time and signal value. When the time for each row is met the simulator will assign the values in the rows to the signals in the simulation. To quickly generate a template file for use in Excel click the **Generate Template** button (Figure 4: ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smSix.gif)). This template will create a blank file with a header line with all of the signals used in the simulation. The log file created is compatible with the files saved in the Vehicle Spy logging and bus files that are converted.
 
@@ -54,11 +54,11 @@ Each message has setup options. In order to access the Custom Message Setup Dial
 
 ### Other Simulation Options
 
-The simulator has a few settings that can be accessed from the options tab (Figure 7). First, disable the simulator so it does not automatically start when Vehicle Spy starts (Figure 7: ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smOne.gif)). This is useful when automating the simulator from a script and do not want the simulator to start until some initial conditions have been setup.\
+The simulator has a few settings that can be accessed from the options tab (Figure 7). First, disable the simulator so it does not automatically start when Vehicle Spy starts (Figure 7: ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smOne.gif)). This is useful when [automating the simulator](simulator.md#autosim) from a script and do not want the simulator to start until some initial conditions have been setup.\
 \
 The next group of settings has to do with network management for single wire CAN simulations. First, generate a high voltage wake up when the simulation starts (Figure 7: ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smTwo.gif)). Second, you can have the simulator send out a VNMF message every three seconds with a specified ID (Figure 7: ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smThree.gif)). This VNMF message will activate all VNs except for the diagnostics VN.\
 \
-If needed, an OSEK type network management scheme can be used.  To enable this, Check the "Automatically perform OSEK\_NM for simulated nodes" check box (Figure 7: ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smFour.gif)).\
+If needed, an OSEK type network management scheme can be used. To enable this, Check the "Automatically perform OSEK\_NM for simulated nodes" check box (Figure 7: ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smFour.gif)).\
 \
 **Note**: It is possible the VNMF message the simulator sends out is not the most appropriate for your simulation. In these cases you can disable the simulator's VNMF and generate your own using Vehicle Spy function block scripts.
 
