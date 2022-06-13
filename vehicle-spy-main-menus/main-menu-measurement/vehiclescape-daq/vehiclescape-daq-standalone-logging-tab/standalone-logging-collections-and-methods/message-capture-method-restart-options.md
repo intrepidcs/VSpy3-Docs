@@ -1,6 +1,6 @@
 # Message Capture Method: Restart Options
 
-In VehicleScape DAQ Standalone Logging, a number of restart options are available for the Message Capture method. There are three possible choices, but which ones are available depends on the selected Start Option and Stop Option.
+In [VehicleScape DAQ](../../vehiclescape-daq-online-tab.md) [Standalone Logging](../), a number of restart options are available for the [Message Capture](collections-and-methods-message-capture-method/) method. There are three possible choices, but which ones are available depends on the selected [Start Option](collections-and-methods-message-capture-method/message-capture-method-start-options.md) and [Stop Option](message-capture-method-stop-options/).
 
 ### Start Option = Start Immediately
 
@@ -13,7 +13,7 @@ In this case there are two restart options with the **Force restart** option gra
 
 ### Start Option = Start When Expression is True
 
-In this case there are three restart options. The option controls what happens after the correct number of messages are collected or the finish expression is true:
+In this case there are three restart options. The option controls what happens after [the correct number of messages are collected or the finish expression is true](message-capture-method-stop-options/message-capture-method-stop-options-finish-after-collecting-messages-or-when-expression-is-true.md):
 
 * **Do not restart the collection when finished:** End logging.
 * **Restart the collection when finished:** Start logging again when the start expression is again true.
@@ -27,7 +27,7 @@ Figure 2 shows the three options.
 
 There are again here three basic restart options, but which appear depends on other settings made in the Standalone Logging area:
 
-* **Do not restart the collection when finished:** End logging. This option is always available unless the Pre/Post Collection Method is selected and the **Stop on expression** box is checked (which makes the **Do not restart** option here irrelevant, so it is grayed out).
+* **Do not restart the collection when finished:** End logging. This option is always available unless the [Pre/Post Collection Method](message-capture-method-stop-options/message-capture-method-stop-options-pre-post-collection.md) is selected and the **Stop on expression** box is checked (which makes the **Do not restart** option here irrelevant, so it is grayed out).
 * **Restart the collection when finished:** Start logging again; if triggering based on when an expression is true, do so when the start expression is true again. This option is always available.
 * **Force Restart:** If **Trigger when expression is true** is selected, and the **One-shot Report** Stop Option is chosen, this item is enabled to allow restart regardless of the condition of the start expression.
 

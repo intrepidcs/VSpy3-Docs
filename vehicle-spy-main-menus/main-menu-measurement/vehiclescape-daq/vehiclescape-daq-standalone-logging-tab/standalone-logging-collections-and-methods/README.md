@@ -1,6 +1,6 @@
 # Standalone Logging: Collections and Methods
 
-A Standalone Logging collection defines what log files are created by a VehicleScape DAQ setup, and how and when they are recorded. Each collection can use a different method, with its own start/stop trigger logic and configuration settings. Each collection can log many files, and all of the files from that collection will be created in the same manner.
+A [Standalone Logging](../) collection defines what log files are created by a VehicleScape DAQ setup, and how and when they are recorded. Each collection can use a different method, with its own start/stop trigger logic and configuration settings. Each collection can log many files, and all of the files from that collection will be created in the same manner.
 
 ### Working with Collections
 
@@ -22,13 +22,13 @@ Every data file saved by the logger script will have the same root name as the c
 
 Each collection uses one of three methods:
 
-* Message Capture: Message data is collected over a period of time.
-* Bus Query: A snapshot of data is taken at one point in time.
-* Histogram: The frequency of data points across a value range is measured over a period of time.
-* Ethernet DAQ: Data is collected over the Ethernet DAQ connection of a properly-configured Intrepid neoVI ION.
+* [Message Capture](collections-and-methods-histogram-method.md): Message data is collected over a period of time.
+* [Bus Query](collections-and-methods-bus-query-method.md): A snapshot of data is taken at one point in time.
+* [Histogram](collections-and-methods-histogram-method.md): The frequency of data points across a value range is measured over a period of time.
+* [Ethernet DAQ](collections-and-methods-ethernet-daq-method.md): Data is collected over the Ethernet DAQ connection of a properly-configured Intrepid neoVI ION.
 
 The method for a collection is selected using a set of four buttons located at the top of the Standalone Logging Tab (Figure 3). Clicking one of these buttons will change the options in the top right half of the Standalone Logging Tab to suit the requirements of the selected collection type. Details on these settings can be found by clicking a method in the list above to go to its detail page.
 
-Note again that the Status Reporting, Power Management and Generation Options sections in the bottom half of the Standalone Logging Tab remain the same for all collection types.
+Note again that the [Status Reporting](../standalone-logging-status-reporting.md), [Power Management](../standalone-logging-power-management.md) and [Generation Options](../standalone-logging-generation-options.md) sections in the bottom half of the Standalone Logging Tab remain the same for all collection types.
 
 ![Figure 3: There are four collection method options, each with a button that customizes the settings in the upper half of the Standalone Logging tab.](../../../../../.gitbook/assets/spyvssalcollections3.gif)

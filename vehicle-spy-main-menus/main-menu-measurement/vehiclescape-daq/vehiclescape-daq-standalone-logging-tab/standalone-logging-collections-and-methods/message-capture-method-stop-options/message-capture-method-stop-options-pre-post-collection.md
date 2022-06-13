@@ -1,6 +1,6 @@
 # Message Capture Method: Stop Options: Pre/Post Collection
 
-When using the Message Capture method for Standalone Logging within VehicleScape DAQ, selecting **Start using trigger expression** for the Start Option provides two Stop Options: **Pre/Post Collection** (described here) and One-shot Report.
+When using the [Message Capture](../collections-and-methods-message-capture-method/) method for [Standalone Logging](../../) within [VehicleScape DAQ](../../../), selecting **Start using trigger expression** for the [Start Option](../collections-and-methods-message-capture-method/message-capture-method-start-options.md) provides two [Stop Options](./): **Pre/Post Collection** (described here) and [One-shot Report](message-capture-method-stop-options-one-shot-report.md).
 
 Figure 1 shows the default appearance of the **Stop** subsection of the Standalone Logging tab when **Pre/Post Collection** is selected. The settings and prompts will change slightly depending on the parameters selected.
 
@@ -8,14 +8,14 @@ Figure 1 shows the default appearance of the **Stop** subsection of the Standalo
 
 ### Stop on expression
 
-The **Stop on expression** box controls the overall behavior of this stop option. Check the box to have logging stop when the expression is true, then use the ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/Functionbutton.gif) button to select the expression using the Expression Editor.
+The **Stop on expression** box controls the overall behavior of this stop option. Check the box to have logging stop when the expression is true, then use the ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/Functionbutton.gif) button to select the expression using the [Expression Editor](../../../../../../shared-features-in-vehicle-spy/shared-features-expression-builder.md).
 
 Checking the box enables these optional features:
 
 * **changing:** If checked, logging stops when the specified expression changes.
 * **Timeout sec:** If logging doesn't stop due to the expression becoming true (or changing, if the **changing** box is checked) then it will time out and stop automatically after the specified number of seconds. Set this value to 0 to disable the timeout feature (so logging will only stop based on the expression logic).
 
-**Note:** Checking the **Stop on expression** box changes some **Pre-Trigger and Post-Trigger** settings (see below) and removes the **Stop** option from Restart Options.
+**Note:** Checking the **Stop on expression** box changes some **Pre-Trigger and Post-Trigger** settings (see below) and removes the **Stop** option from [Restart Options](../message-capture-method-restart-options.md).
 
 ### Pre-Trigger and Post-Trigger Settings
 
