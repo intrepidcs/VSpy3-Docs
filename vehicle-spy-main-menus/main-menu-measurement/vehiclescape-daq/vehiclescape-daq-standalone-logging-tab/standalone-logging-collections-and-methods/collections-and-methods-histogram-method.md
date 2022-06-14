@@ -1,8 +1,8 @@
 # Collections and Methods: Histogram Method
 
-The Histogram Method of data collection in VehicleScape DAQ Standalone Logging records the frequency of data points across a value range over a period of time. The settings in this area are broken into two main subsections, **Histogram Axis Configuration** and **Sample Options**, which are described below.
+The Histogram Method of data collection in [VehicleScape DAQ](../../) [Standalone Logging](../) records the frequency of data points across a value range over a period of time. The settings in this area are broken into two main subsections, **Histogram Axis Configuration** and **Sample Options**, which are described below.
 
-The Status Reporting, Power Management and Generation Options sections in the bottom half of the Standalone Logging Tab apply to all method types, including the Histogram, Message Capture, Bus Query and Ethernet DAQ methods.
+The [Status Reporting](../standalone-logging-status-reporting.md), [Power Management](../standalone-logging-power-management.md) and [Generation Options](../standalone-logging-generation-options.md) sections in the bottom half of the Standalone Logging Tab apply to all method types, including the Histogram, [Message Capture](collections-and-methods-message-capture-method/), [Bus Query](collections-and-methods-bus-query-method.md) and [Ethernet DAQ](collections-and-methods-ethernet-daq-method.md) methods.
 
 ### Histogram Axis Configuration
 
@@ -32,7 +32,7 @@ Changing the dimension of the histogram will add or remove tabs from the list; (
 
 ### Expression Selection
 
-Press the ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/Functionbutton.gif) button to define an expression for the current axis using the Expression Editor (Figure 2:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smTwo.gif)).
+Press the ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/Functionbutton.gif) button to define an expression for the current axis using the [Expression Editor](../../../../../shared-features-in-vehicle-spy/shared-features-expression-builder.md) (Figure 2:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smTwo.gif)).
 
 Just below the expression box is a checkbox option: **Value is calculated based on "Time" while expression is non-zero (in seconds)**. When selected, this means the collection will count the length of time (in seconds) that the axis expression is non-zero. Use this to count how often an event of varying duration has occurred.
 
@@ -106,4 +106,4 @@ There are three options for determining when a trigger event has occurred:
 
 ### Always DAQ Option
 
-When enabled, always request DAQ items even if they are not being logged.  Requested DAQ items are diagnostic signals that get polled from ECUs like DTCs, PIDs, ISO 14229 IDs, and MEP A2L file data items. This must be enabled if the trigger is a DAQ item.
+When enabled, always request DAQ items even if they are not being logged. Requested DAQ items are diagnostic signals that get polled from ECUs like DTCs, PIDs, ISO 14229 IDs, and MEP A2L file data items. This must be enabled if the trigger is a DAQ item.

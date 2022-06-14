@@ -1,8 +1,8 @@
 # Standalone Logging: Power Management
 
-Standalone Logging's Power Management features control when the logger goes to sleep to conserve power, and when it wakes up again. These are universal settings that apply to all collections using any of the four collection methods: Message Capture, Histogram, Bus Query or Ethernet DAQ.
+[Standalone Logging's](./) Power Management features control when the logger goes to sleep to conserve power, and when it wakes up again. These are universal settings that apply to all collections using any of the four collection methods: [Message Capture](standalone-logging-collections-and-methods/collections-and-methods-message-capture-method/), [Histogram](standalone-logging-collections-and-methods/collections-and-methods-histogram-method.md), [Bus Query](standalone-logging-collections-and-methods/collections-and-methods-bus-query-method.md) or [Ethernet DAQ](standalone-logging-collections-and-methods/collections-and-methods-ethernet-daq-method.md).
 
-**Note:** ICS loggers, such as the neoVI FIRE, PLASMA and ION, are designed to be always on (they do not have power on/off switches).  Sleep and wake settings are provided to minimize power consumption while logging is taking place. It is **CRITICAL** to set these configuration parameters correctly to avoid draining the battery of the car to which a logger is connected!
+**Note:** ICS loggers, such as the neoVI FIRE, PLASMA and ION, are designed to be always on (they do not have power on/off switches). Sleep and wake settings are provided to minimize power consumption while logging is taking place. It is **CRITICAL** to set these configuration parameters correctly to avoid draining the battery of the car to which a logger is connected!
 
 The Power Management section of the Standalone Logging screen can be found in Figure 1. There are three subsections containing related options, plus an additional option at the bottom of the box, all of which are explained below.
 
@@ -13,7 +13,7 @@ The Power Management section of the Standalone Logging screen can be found in Fi
 Choose one of the two options to determine whether or not the logger enters sleep mode:
 
 * **Never go to sleep:** Use the default firmware settings configured in the hardware using neoVI 3G Explorer.
-* **Sleep when there's no bus activity for # sec:** Enter sleep mode when all selected networks for this logging task are quiet for the specified time period. Networks are chosen in the Generation Options section.
+* **Sleep when there's no bus activity for # sec:** Enter sleep mode when all selected networks for this logging task are quiet for the specified time period. Networks are chosen in the [Generation Options](standalone-logging-generation-options.md) section.
 
 As mentioned above, ICS hardware by default has sleep mode disabled. If you choose **Never**, the device will never enter sleep mode. <mark style="color:red;">Choosing this option can drain the car's battery if used incorrectly.</mark>
 
@@ -24,9 +24,9 @@ Clicking the **Advanced** button launches a dialog box that gives you even more 
 * **Advanced (Networks to Ignore):** Select which networks, if any, to be ignored in the expression that is generated to put the logger to sleep.
 * **Sleep User Function Blocks:** Specify function blocks to stop running when the logger enters sleep mode, and to begin running when the device wakes up.
 
-**Note:** These settings are also found under **Advanced Options** in the Generation Options area.
+**Note:** These settings are also found under **Advanced Options** in the [Generation Options](standalone-logging-generation-options.md) area.
 
-![Figure 2: Standalone Logging Power Management Advanced Options.Left, the Advanced tab, right, the Sleep User Function Blocks tab.](../../../../.gitbook/assets/spyvssalreportoptions\_advanced.gif)
+![Figure 2: Standalone Logging Power Management Advanced Options. Left, the Advanced tab, right, the Sleep User Function Blocks tab.](../../../../.gitbook/assets/spyvssalreportoptions\_advanced.gif)
 
 ### Wake Options
 
@@ -36,7 +36,7 @@ In both modes, any activity on any network connected to the logger will trigger 
 
 **Table 1: Wake Up Options for Standalone Logging Sleep Mode**
 
-****
+***
 
 | Wake Up Mode        | Sleep Behavior  | Wake Up Behavior                                                                          | Relative Power Consumption  | Typical Current Draw at 12V           |
 | ------------------- | --------------- | ----------------------------------------------------------------------------------------- | --------------------------- | ------------------------------------- |

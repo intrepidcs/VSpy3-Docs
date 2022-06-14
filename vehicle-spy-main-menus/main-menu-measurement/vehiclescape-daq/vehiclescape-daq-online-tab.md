@@ -1,6 +1,6 @@
 # VehicleScape DAQ: Online Tab
 
-The Online tab is where all of the configuration work and settings in VehicleScape DAQ come together for PC Logging. Switching from other VehicleScape DAQ tabs to this one will automatically take Vehicle Spy online. Depending on the selected settings, logging may or may not automatically commence as well.
+The Online tab is where all of the configuration work and settings in [VehicleScape DAQ](vehiclescape-daq-online-tab.md) come together for [PC Logging](vehiclescape-daq-pc-logging-tab.md). Switching from other VehicleScape DAQ tabs to this one will automatically take Vehicle Spy [online](../../main-menu-run.md). Depending on the selected settings, logging may or may not automatically commence as well.
 
 A sample of the Online tab with logging active can be seen in Figure 1. The interface is mostly divided into a left half for signals and a right half for diagnostics. Main logging control is provided through a button at the top left, with additional controls found near the bottom right of the tab.
 
@@ -10,13 +10,13 @@ A sample of the Online tab with logging active can be seen in Figure 1. The inte
 
 The button at the top left of the screen (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smOne.gif)) allows logging to be turned on or off, changing from **Log** (with a green start icon) to **Stop Logging** (with a red stop sign) depending on current logging status. Logging can also be toggled on or off by pressing the **F2** key.
 
-The time that logging begins depends on the setting of the **Start Logging** parameter under PC Logging. If it is set to **Start Automatically**, then logging will begin as soon as Vehicle Spy goes online (including when the Online Tab is clicked.) If the setting is **Start Manually**, logging must be initiated using the **Log** button; for **Start on Equation**, logging will begin when the equation evaluates to **True**.
+The time that logging begins depends on the setting of the **Start Logging** parameter under [PC Logging](vehiclescape-daq-pc-logging-tab.md). If it is set to **Start Automatically**, then logging will begin as soon as Vehicle Spy goes online (including when the Online Tab is clicked.) If the setting is **Start Manually**, logging must be initiated using the **Log** button; for **Start on Equation**, logging will begin when the equation evaluates to **True**.
 
 ### Signals List
 
-The left half of the screen (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smTwo.gif)) shows a real-time display of signals that were selected for the DAQ project under the Channels Tab.
+The left half of the screen (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smTwo.gif)) shows a real-time display of signals that were selected for the DAQ project under the [Channels Tab](vehiclescape-daq-channels-tab.md).
 
-This area continues to update even while logging is disabled, making it similar to the Signal List view. PID and MEP A2L file data item priorities can be changed to **High**, **Medium** or **Low** simply by double-clicking on them. The right-click menu used in the Channels Tab is accessible here as well, providing a number of convenient options.
+This area continues to update even while logging is disabled, making it similar to the [Signal List](../signal-views/signal-list.md) view. PID and MEP [A2L file data item](../mep-xcp-ccp-memory-edit-protocol/mep-setup/#a2l-file-data-item-tree-refer-to-figure-1) priorities can be changed to **High**, **Medium** or **Low** simply by double-clicking on them. The [right-click menu used in the Channels Tab](vehiclescape-daq-channels-tab.md) is accessible here as well, providing a number of convenient options.
 
 ### Diagnostic Tweaker
 

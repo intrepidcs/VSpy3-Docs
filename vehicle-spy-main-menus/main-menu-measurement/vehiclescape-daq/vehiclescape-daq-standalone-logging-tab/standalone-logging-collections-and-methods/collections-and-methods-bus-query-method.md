@@ -1,12 +1,12 @@
 # Collections and Methods: Bus Query Method
 
-In VehicleScape DAQ the Standalone Logging of a Bus Query collection allows you to log a snapshot of DID/PID values and DTCs at a point in time. This can be done with a single ECU or several ECUs at once.
+In [VehicleScape DAQ](../../) the [Standalone Logging](../) of a Bus Query [collection](./) allows you to log a snapshot of DID/PID values and DTCs at a point in time. This can be done with a single ECU or several ECUs at once.
 
 The options for the Bus Query collection method are broken into five subsections: **Bus Query Options**, **Start Options**, **Stop Options**, **Restart Options** and **Upload to Wireless neoVI**. Each of the subsections is described below.
 
-Four of the subsections are identical or similar to subsections used in the Message Capture method, so reference is made to help topics in that area where relevant.
+Four of the subsections are identical or similar to subsections used in the [Message Capture](collections-and-methods-message-capture-method/) method, so reference is made to help topics in that area where relevant.
 
-The Status Reporting, Power Management and Generation Options sections in the bottom half of the Standalone Logging Tab apply to all method types, including the Bus Query, Message Capture, Histogram and Ethernet DAQ methods.
+The [Status Reporting](../standalone-logging-status-reporting.md), [Power Management](../standalone-logging-power-management.md) and [Generation Options](../standalone-logging-generation-options.md) sections in the bottom half of the Standalone Logging Tab apply to all method types, including the Bus Query, [Message Capture](collections-and-methods-message-capture-method/), [Histogram](collections-and-methods-histogram-method.md) and [Ethernet DAQ](collections-and-methods-ethernet-daq-method.md) methods.
 
 ### Bus Query Options
 
@@ -49,13 +49,13 @@ Select this option (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/a
 
 ### Start Options
 
-The Bus Query method always uses the **Start using trigger expression** Start Option. Selecting triggers and triggering events is the same as in the Message Capture method.
+The Bus Query method always uses the **Start using trigger expression** Start Option. [Selecting triggers and triggering events is the same as in the Message Capture method](collections-and-methods-message-capture-method/message-capture-method-start-options.md).
 
 The **Always DAQ** option is always enabled.
 
 ### Stop Options
 
-The Bus Query method uses the same One-shot Report Stop Options in the Message Capture method.
+The Bus Query method uses the same [One-shot Report Stop Options in the Message Capture method](message-capture-method-stop-options/message-capture-method-stop-options-one-shot-report.md).
 
 ### Restart Options
 
@@ -67,4 +67,4 @@ There are three restart options:
 
 ### Upload to Wireless neoVI
 
-These options are the same as for the Message Capture method.
+These options are [the same as for the Message Capture method](message-capture-method-upload-to-wireless-neovi.md).

@@ -1,10 +1,10 @@
 # Collections and Methods: Ethernet DAQ Method
 
-In VehicleScape DAQ the Standalone Logging of an Ethernet DAQ collection allows you to log data using the Ethernet DAQ port on supported Interpid neoVI hardware.
+In [VehicleScape DAQ](../../) the [Standalone Logging](../) of an Ethernet DAQ [collection](./) allows you to log data using the Ethernet DAQ port on supported Intrepid neoVI hardware.
 
 There are five different submethods that can be selected using buttons: **Video**, **Harman Trace**, **Raw MAC**, **DLT**, and **UDP**. The options under Ethernet DAQ Setup change depending on which of these is chosen. The five submethods are described and illustrated below.
 
-Note that the Status Reporting, Power Management and Generation Options sections in the bottom half of the Standalone Logging Tab apply to all method types, including the Ethernet DAQ, Message Capture, Bus Query and Histogram methods.
+Note that the [Status Reporting](../standalone-logging-status-reporting.md), [Power Management](../standalone-logging-power-management.md) and [Generation Options](../standalone-logging-generation-options.md) sections in the bottom half of the Standalone Logging Tab apply to all method types, including the Ethernet DAQ, [Message Capture](collections-and-methods-message-capture-method/), [Bus Query](collections-and-methods-bus-query-method.md) and [Histogram](collections-and-methods-histogram-method.md) methods.
 
 ### Video Submethod Options
 

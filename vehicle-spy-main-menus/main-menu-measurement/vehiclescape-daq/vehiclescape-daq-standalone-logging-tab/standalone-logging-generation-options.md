@@ -1,6 +1,6 @@
 # Standalone Logging: Generation Options
 
-The last of the Standalone Logging sections contains options that control the generation of the logger script, and the **Generate** button, which actually initiates the generation. These are universal settings that apply to all collections using any of the four collection methods: Message Capture, Histogram, Bus Query or Ethernet DAQ.
+The last of the [Standalone Logging](./) sections contains options that control the generation of the logger script, and the **Generate** button, which actually initiates the generation. These are universal settings that apply to all collections using any of the four collection methods: [Message Capture](standalone-logging-collections-and-methods/collections-and-methods-message-capture-method/), [Histogram](standalone-logging-collections-and-methods/collections-and-methods-histogram-method.md), [Bus Query](standalone-logging-collections-and-methods/collections-and-methods-bus-query-method.md) or [Ethernet DAQ](standalone-logging-collections-and-methods/collections-and-methods-ethernet-daq-method.md).
 
 Figure 1 shows the primary settings for the Generation Options section of Standalone Logging. The options are explained in detail below.
 
@@ -41,7 +41,7 @@ Several general options can be set here (Figure 2):
 * **MISC I/O for power management batt. pack or data acq. device:** When enabled, allows you to select a MISC I/O output on the ICS logger to control external devices across logger sleep/wake cycles.
 * **Networks to ignore for the "On No Bus Activity" option:** Select which networks, if any, are to be ignored in the expression that is generated to put the logger to sleep.
 
-**Note:** The **Networks to ignore for the "On No Bus Activity" option** settings are the same as those found under **Advanced Options** in the Power Management area.
+**Note:** The **Networks to ignore for the "On No Bus Activity" option** settings are the same as those found under **Advanced Options** in the [Power Management](standalone-logging-generation-options.md) area.
 
 ![Figure 2: Standalone Logging Advanced Generator Options, Advanced Tab.](../../../../.gitbook/assets/spyvssalgenerate\_advanced\_1.gif)
 
@@ -61,12 +61,12 @@ The table at the bottom of the tab allows you to add or delete specific IDs and 
 
 In this tab (Figure 4) you can select function blocks to stop running when the logger enters sleep mode, and those that should begin running when the device wakes up.
 
-**Note:** These settings are the same as those found under **Advanced Options** in the Power Management area.
+**Note:** These settings are the same as those found under **Advanced Options** in the [Power Management](standalone-logging-generation-options.md) area.
 
 ![Figure 4: Standalone Logging Advanced Generator Options, Sleep User Function Blocks Tab.](../../../../.gitbook/assets/spyvssalgenerate\_advanced\_3.gif)
 
 ### Generate Button
 
-This is the main **Go!** button for the Standalone Logging feature. When pressed, Vehicle Spy will use all of the settings entered into various areas of Standalone Logging, and generate the appropriate function blocks, application signals and messages. All generated content will be marked with the suffix "\_VSSAL" (for "**V**ehicle**S**cape DAQ **S**tand**A**lone **L**ogging").
+This is the main **Go!** button for the Standalone Logging feature. When pressed, Vehicle Spy will use all of the settings entered into various areas of Standalone Logging, and generate the appropriate [function blocks](../../../main-menu-scripting-and-automation/function-blocks/), [application signals](../../../main-menu-scripting-and-automation/application-signals/) and [messages](../../../main-menu-spy-networks/message-editor/). All generated content will be marked with the suffix "\_VSSAL" (for "**V**ehicle**S**cape DAQ **S**tand**A**lone **L**ogging").
 
-Pressing the **Generate** button also opens the CoreMini console, which compiles and saves the generated information.
+Pressing the **Generate** button also opens the [CoreMini console](../../../main-menu-tools/utilities-coremini-console/), which compiles and saves the generated information.

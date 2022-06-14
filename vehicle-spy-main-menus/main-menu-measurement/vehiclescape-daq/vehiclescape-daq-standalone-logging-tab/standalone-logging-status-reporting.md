@@ -1,6 +1,6 @@
 # Standalone Logging: Status Reporting
 
-In the Standalone Logging mode of VehicleScape DAQ, the Status Reporting section contains options that specify how feedback is provided on the state of the logging process. These are universal settings that apply to all collections using any of the four collection methods: Message Capture, Histogram, Bus Query or Ethernet DAQ.
+In the [Standalone Logging](./) mode of [VehicleScape DAQ](../), the Status Reporting section contains options that specify how feedback is provided on the state of the logging process. These are universal settings that apply to all collections using any of the four collection methods: [Message Capture](standalone-logging-collections-and-methods/collections-and-methods-message-capture-method/), [Histogram](standalone-logging-collections-and-methods/collections-and-methods-histogram-method.md), [Bus Query](standalone-logging-collections-and-methods/collections-and-methods-bus-query-method.md) or [Ethernet DAQ](standalone-logging-collections-and-methods/collections-and-methods-ethernet-daq-method.md).
 
 The default appearance of this subsection of the Standalone Logging screen can be found in Figure 1.
 
@@ -12,9 +12,9 @@ There are three main options here, each of which is enabled with a checkbox: **L
 
 Use LEDs to indicate the current logger status:
 
-* **Red LED Flashing:** Logger is running.
-* **Green LED Flashing Slowly:** Data is being captured to the SD card.
-* **Green LED Flashing Quickly:** Post-trigger data is being captured.
+* <mark style="color:red;">**Red LED**</mark>** Flashing:** Logger is running.
+* <mark style="color:green;">**Green LED**</mark>** Flashing Slowly:** Data is being captured to the SD card.
+* <mark style="color:green;">**Green LED**</mark>** Flashing Quickly:** Post-trigger data is being captured.
 
 ### Use neoVI MOTE
 

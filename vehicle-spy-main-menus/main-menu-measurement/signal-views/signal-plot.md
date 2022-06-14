@@ -6,13 +6,13 @@ Use the **Signal Plot** (Figure 1) to plot Vehicle Spy signals in real time.
 
 ### Signal Groups
 
-The Signal Plot feature uses _signal groups_, or collections of signals, to plot. New groups can be created by clicking on the ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/add\_signal\_group.gif) button, or removed using the ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/delete\_signal\_group.gif) button (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smOne.gif)). Signal groups are edited by clicking the **Select Signals** button and using the Expression Builder. To choose a different signal group, select it from the drop-down list to display that group in the plot.
+The Signal Plot feature uses _signal groups_, or collections of signals, to plot. New groups can be created by clicking on the ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/add\_signal\_group.gif) button, or removed using the ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/delete\_signal\_group.gif) button (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smOne.gif)). Signal groups are edited by clicking the **Select Signals** button and using the [Expression Builder](../../../shared-features-in-vehicle-spy/shared-features-expression-builder.md). To choose a different signal group, select it from the drop-down list to display that group in the plot.
 
-Note that the same signal groups are shared between the Signal Plot and Signal List features in Vehicle Spy.
+Note that the same signal groups are shared between the Signal Plot and [Signal List](signal-list.md) features in Vehicle Spy.
 
 ### Signal Plot Controls
 
-The **Plot Signals** button (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smTwo.gif)) creates another Signal Plot window. The **Logging** button (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smThree.gif)) opens the Logging view; logging status is displayed just below the button, as shown in Figure 1.
+The **Plot Signals** button (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smTwo.gif)) creates another Signal Plot window. The [**Logging**](../logging.md) button (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smThree.gif)) opens the Logging view; logging status is displayed just below the button, as shown in Figure 1.
 
 The Signal Plot tool bar (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smFour.gif)) provides various features for displaying and saving data. Table 1 describes each of the Signal Plot toolbar controls. The data plot is seen in the bottom section of the window (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smFive.gif)). The plot axes (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smSix.gif)) can be stretched or zoomed by clicked and dragging them.
 
