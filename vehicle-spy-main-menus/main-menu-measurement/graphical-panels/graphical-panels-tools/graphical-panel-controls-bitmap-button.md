@@ -2,12 +2,12 @@
 
 Bitmap Button controls provide two options for displaying image content within a graphical panel:
 
-* **Single Image Display:** A single image is displayed on a button, much like an On Off Button.
-* **Sequential Image Display:** Several images are selected; the first is displayed by default, and the others shown based on user input. This is similar to the Graphical Display control, but instead of the display moving based on a signal value, the image shown changes when the mouse is clicked: a left-click goes forward (showing the next image in the sequence) while a right-click goes back (showing the previous image). An example can be seen in Figure 1.
+* **Single Image Display:** A single image is displayed on a button, much like an [On Off Button](graphical-panel-controls-on-off-button.md).
+* **Sequential Image Display:** Several images are selected; the first is displayed by default, and the others shown based on user input. This is similar to the [Graphical Display](graphical-panel-controls-graphical-display.md) control, but instead of the display moving based on a signal value, the image shown changes when the mouse is clicked: a left-click goes forward (showing the next image in the sequence) while a right-click goes back (showing the previous image). An example can be seen in Figure 1.
 
 ![Figure 1: An example Bitmap Button control showing how a user can use the mouse to simulate gear shifting.](../../../../.gitbook/assets/GearShift.gif)
 
-Table 1 lists the properties specific to a Bitmap Button control.  A list of common properties can be found under Common Control Properties.
+Table 1 lists the properties specific to a Bitmap Button control. A list of common properties can be found under [Common Control Properties](graphical-panel-controls-common-control-properties.md).
 
 **Table 1: Bitmap Button Control Properties**
 

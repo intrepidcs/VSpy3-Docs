@@ -8,7 +8,7 @@ Multiple groups of radio buttons can be used to enable easy selection of options
 
 ![Figure 1: A set of three radio buttons linked to a signal. Selecting any option de-selects the others.](../../../../.gitbook/assets/gpctrlRadioButton.gif)
 
-A list of common properties can be found under Common Control Properties. Table 1 describes the single additional property for the Radio Button control.
+A list of common properties can be found under [Common Control Properties](graphical-panel-controls-common-control-properties.md). Table 1 describes the single additional property for the Radio Button control.
 
 **Table 1: Radio Button Control Properties**
 

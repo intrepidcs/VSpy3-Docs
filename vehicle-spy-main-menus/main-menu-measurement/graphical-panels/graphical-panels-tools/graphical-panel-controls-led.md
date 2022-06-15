@@ -4,7 +4,7 @@ LED controls can be used as indicators, and have a number of properties that all
 
 ![Figure 1: Example uses of the LED control.](../../../../.gitbook/assets/gpctrlLEDBlink.gif)
 
-able 1 lists the properties specific to an LED control. A list of common properties can be found under Common Control Properties.
+able 1 lists the properties specific to an LED control. A list of common properties can be found under [Common Control Properties](graphical-panel-controls-common-control-properties.md).
 
 **Table 1: LED Control Properties**
 

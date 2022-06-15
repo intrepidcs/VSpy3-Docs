@@ -1,10 +1,10 @@
 # Graphical Panel Controls: On/Off Button
 
-An On Off button allows you to change the value of a digital (binary) signal or [application signal](https://cdn.intrepidcs.net/support/VehicleSpy/spyInCalcMain.htm) within a graphical panel. You can also use this control to take Vehicle Spy online or offline.
+An On Off button allows you to change the value of a digital (binary) signal or [application signal](../../../main-menu-scripting-and-automation/application-signals/) within a graphical panel. You can also use this control to take Vehicle Spy online or offline.
 
 ![Figure 1: An On Off button, currently in the Off state.](../../../../.gitbook/assets/gpctrlOnOFFButton.gif)
 
-Table 1 lists the special properties associated with On Off Button controls.  A list of common properties can be found in Common Control Properties.
+Table 1 lists the special properties associated with On Off Button controls. A list of common properties can be found in [Common Control Properties](graphical-panel-controls-common-control-properties.md).
 
 **Table 1: On Off Button Control Properties**
 

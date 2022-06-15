@@ -1,10 +1,10 @@
 # Graphical Panel Controls: Diag Job Action Button
 
-The Diag(nostic) Job Action Button control allows you to launch a Diagnostic Job from a graphical panel.
+The Diag(nostic) Job Action Button control allows you to launch a [Diagnostic Job](../../../main-menu-spy-networks/diagnostics/) from a graphical panel.
 
 ![Figure 1: A sample Diag Job Action Button control.](../../../../.gitbook/assets/gpctrlFBButton.gif)
 
-The properties specific to this control can be found in Table 1.  A list of common properties can be found under Common Control Properties.
+The properties specific to this control can be found in Table 1. A list of common properties can be found under [Common Control Properties](graphical-panel-controls-common-control-properties.md).
 
 **Table 1: Diag Job Action Button Control Properties**
 

@@ -4,7 +4,7 @@ A Numeric Entry control allows you to input numeric data into a graphical panel.
 
 ![Figure 1: An example Numeric Entry control.](../../../../.gitbook/assets/gpctrlNumericEntry.gif)
 
-Table 1 contains the properties specific to a Numeric Entry control.  A list of common properties can be found under Common Control Properties.
+Table 1 contains the properties specific to a Numeric Entry control. A list of common properties can be found under [Common Control Properties](graphical-panel-controls-common-control-properties.md).
 
 **Table 1: Numeric Entry Control Properties**
 

@@ -4,7 +4,7 @@ Meter controls display data using a meter face. The actual numeric value of the 
 
 ![Figure 1: Two example Meter controls showing how data is displayed both numerically and graphically.](../../../../.gitbook/assets/gpctrlMeter.gif)
 
-Table 1 lists the properties specific to the Meter control.  A list of common properties can be found under Common Control Properties.
+Table 1 lists the properties specific to the Meter control. A list of common properties can be found under [Common Control Properties](graphical-panel-controls-common-control-properties.md).
 
 **Table 1: Meter Properties**
 

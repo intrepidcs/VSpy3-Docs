@@ -1,10 +1,10 @@
 # Graphical Panel Controls: Function Block Button
 
-The Function Block button provides the ability to control Function Block scripts from a graphical panel.  Function blocks can be started, stopped, triggered (capture-type function blocks only), or instructed to save their collected data (again, capture blocks only).
+The Function Block button provides the ability to control [Function Block](../../../main-menu-scripting-and-automation/function-blocks/) scripts from a graphical panel. Function blocks can be started, stopped, triggered ([capture-type function blocks only](../../../../vehicle-spy-tutorials/tutorial-sort-messages-by-ecu/part-3-setup-capture-type-function-blocks.md)), or instructed to save their collected data (again, capture blocks only).
 
 ![Figure 1: An example Function Block control.](../../../../.gitbook/assets/gpctrlFBButton.gif)
 
-Table 1 lists the special properties associated with Function Block controls.  A list of common properties can be found under Common Control Properties.
+Table 1 lists the special properties associated with Function Block controls. A list of common properties can be found under [Common Control Properties](graphical-panel-controls-common-control-properties.md).
 
 **Table 1: Function Block Control Properties**
 

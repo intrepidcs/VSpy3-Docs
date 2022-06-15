@@ -4,7 +4,7 @@ The Hex Edit control allows raw data from a signal to be displayed and edited in
 
 ![Figure 1: A Hex Edit control displaying data from a signal (with ASCII characters). Changes made here will propagate to the signal value.](../../../../.gitbook/assets/gpctrlHexEdit.gif)
 
-Table 1 lists the properties specific to a Hex Edit control. A list of common properties can be found under Common Control Properties.
+Table 1 lists the properties specific to a Hex Edit control. A list of common properties can be found under [Common Control Properties](graphical-panel-controls-common-control-properties.md).
 
 **Table 1: Hex Edit Control Properties**
 

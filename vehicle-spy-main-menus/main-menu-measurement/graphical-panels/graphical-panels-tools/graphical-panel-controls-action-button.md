@@ -4,7 +4,7 @@ An Action Button control provides access to the Windows file selector dialog box
 
 ![Figure 1: An example Action Button control.](../../../../.gitbook/assets/gpctrlActionButton.gif)
 
-Table 1 contains descriptions of the properties specific to Action Button controls, which supplement the ones found under Common Control Properties.
+Table 1 contains descriptions of the properties specific to Action Button controls, which supplement the ones found under [Common Control Properties](graphical-panel-controls-common-control-properties.md).
 
 **Table 1: Action Button Control Properties**
 

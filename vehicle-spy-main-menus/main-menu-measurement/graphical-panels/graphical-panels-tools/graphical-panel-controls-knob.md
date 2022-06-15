@@ -4,7 +4,7 @@ A Knob control allows data to be input using a graphical representation of a phy
 
 ![Figure 1: An example Knob control for selecting an input value.](../../../../.gitbook/assets/gpctrlKnob.gif)
 
-Table 1 contains the single property specific to a Knob control.  A list of common properties can be found under Common Control Properties.
+Table 1 contains the single property specific to a Knob control. A list of common properties can be found under [Common Control Properties](graphical-panel-controls-common-control-properties.md).
 
 **Table 1: Knob Control Properties**
 

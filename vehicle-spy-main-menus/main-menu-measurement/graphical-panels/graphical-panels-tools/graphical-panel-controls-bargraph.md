@@ -4,7 +4,7 @@ Bargraph controls display data using a using a simple horizontal or vertical ind
 
 ![Figure 1: Example Bargraph controls, including sliders.](../../../../.gitbook/assets/gpctrlBarGraph.gif)
 
-Table 1 lists the properties specific to a Bargraph control. A list of common properties for all controls can be found under Common Control Properties.
+Table 1 lists the properties specific to a Bargraph control. A list of common properties for all controls can be found under [Common Control Properties](graphical-panel-controls-common-control-properties.md).
 
 **Table 1: Bargraph Control Properties**
 

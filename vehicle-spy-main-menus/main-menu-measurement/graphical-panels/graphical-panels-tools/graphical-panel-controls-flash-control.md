@@ -4,7 +4,7 @@ The Flash control allows you to embed a Shockwave Flash object to customize the 
 
 ![Figure 1: Flash Control examples.](../../../../.gitbook/assets/gpctrlFBSWF.gif)
 
-Table 1 describes the single unique property for the Flash Control. A list of additional properties can be found under Common Control Properties.
+Table 1 describes the single unique property for the Flash Control. A list of additional properties can be found under [Common Control Properties](graphical-panel-controls-common-control-properties.md).
 
 **Table 1: Flash Control Properties**
 

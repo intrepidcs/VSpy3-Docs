@@ -4,7 +4,7 @@ A Drop Down List control allows input from a list of items. The elements of the 
 
 ![Figure 1: A Drop Down List control with four options, the third of which is currently selected.](../../../../.gitbook/assets/gpctrlDropDownList.gif)
 
-In addition to the Common Control Properties that apply to all controls, the Drop Down List control has an additional property described in Table 1.
+In addition to the [Common Control Properties](graphical-panel-controls-common-control-properties.md) that apply to all controls, the Drop Down List control has an additional property described in Table 1.
 
 **Table 1: Drop Down List Control Properties**
 

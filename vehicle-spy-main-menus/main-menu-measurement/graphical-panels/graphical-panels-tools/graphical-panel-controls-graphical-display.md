@@ -8,7 +8,7 @@ Graphical Display controls provide several different ways to display images with
 
 ![Figure 1: A Graphical Display control showing a static image.](../../../../.gitbook/assets/gpctrlGraphicalDisplay.gif)
 
-The special properties for the Graphical Display control can be found in Table 1. A list of common properties can be found under Common Control Properties.
+The special properties for the Graphical Display control can be found in Table 1. A list of common properties can be found under [Common Control Properties](graphical-panel-controls-common-control-properties.md).
 
 **Table 1: Graphical Display Control Properties**
 

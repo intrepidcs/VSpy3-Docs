@@ -4,7 +4,7 @@ The Tx Button control allows you to send a transmit message from a graphical pan
 
 ![Figure 1: An example Tx Button control.](../../../../.gitbook/assets/gpctrlTxButton.gif)
 
-Table 1 lists the properties specific to a Tx button, which appear in addition to the common properties found under Common Control Properties.
+Table 1 lists the properties specific to a Tx button, which appear in addition to the common properties found under [Common Control Properties](graphical-panel-controls-common-control-properties.md).
 
 **Table 1: Tx Button Control Properties**
 
