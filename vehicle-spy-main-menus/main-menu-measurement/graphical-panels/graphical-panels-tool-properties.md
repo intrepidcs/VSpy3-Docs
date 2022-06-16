@@ -8,7 +8,7 @@ This tab, shown by default, lists the name of each property associated with the 
 
 The name of each property is listed in the left-hand column, and its current value in the column on the right. To change a property, click in the box and enter the new value using the keyboard or mouse. Some properties instead work by double-clicking them to launch dialog boxes where the relevant data can be entered or modified.
 
-Some properties are common to all tools, while others vary based on tool type. A full discussion of tool properties can be found in the section on graphical panel tools.
+Some properties are [common to all tools](graphical-panels-tools/graphical-panel-controls-common-control-properties.md), while others vary based on tool type. A full discussion of tool properties can be found in the section on [graphical panel tools](graphical-panels-tools/).
 
 ### Font Tab
 

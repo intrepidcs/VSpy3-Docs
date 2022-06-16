@@ -17,7 +17,7 @@ There are four options you can choose from here, some of which may be real time-
 * **Transmit Panels for ECU:** Select an ECU and transmit message tools will be generated for each of its messages.
 * **Transmit Panels for Database:** Generate transmit tools for the current database.
 
-After making your selection and clicking **OK**, the panel will created, and a new panel tab for it will be shown next to the existing ones. You can easily work with your panels using these tabs. You can also adjust a panel's properties using the Panel Properties window.
+After making your selection and clicking **OK**, the panel will created, and a new panel tab for it will be shown next to the existing ones. You can easily [work with your panels using these tabs](graphical-panels-select-and-work-with-panels.md). You can also adjust a panel's properties using the [Panel Properties window](graphical-panels-panel-properties.md).
 
 ### Delete a Panel
 

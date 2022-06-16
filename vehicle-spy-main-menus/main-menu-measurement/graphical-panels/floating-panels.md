@@ -8,7 +8,7 @@ _Floating_ a graphical panel creates a copy of it in a separate window that can 
 
 ### Floating a Panel from within the Graphical Panels View
 
-One easy way to create a floating panel is to simply right-click the panel's tab along the row of panel control buttons and select **Float** (Figure 2).
+One easy way to create a floating panel is to simply right-click the panel's tab along the [row of panel control buttons](graphical-panels-select-and-work-with-panels.md) and select **Float** (Figure 2).
 
 ![Figure 2: Floating a panel from Graphical Panels view.](../../../.gitbook/assets/panel\_float\_menu.gif)
 

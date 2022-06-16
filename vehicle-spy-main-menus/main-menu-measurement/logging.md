@@ -6,7 +6,7 @@ Logging allows signal data to be saved without message data bytes and IDs. The L
 
 ### Selecting a Signal Group
 
-Logging uses the same signal groups as the Signal Plot and Signal List features (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smOne.gif)). Start by choosing the desired signal group via the **Signal Group to Log** drop-down list. To change the signals in that group, click on **Select Signals**. The ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/logging\_+.gif) and ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/logging\_-.gif) buttons can be used to add and remove signal groups.
+Logging uses the same signal groups as the [Signal Plot](signal-views/signal-plot.md) and [Signal List](signal-views/signal-list.md) features (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smOne.gif)). Start by choosing the desired signal group via the **Signal Group to Log** drop-down list. To change the signals in that group, click on **Select Signals**. The ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/logging\_+.gif) and ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/logging\_-.gif) buttons can be used to add and remove signal groups.
 
 You can also press the **Copy Selected Group** button (![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/logging\_copy.gif)) to duplicate the currently-selected signal group.
 
@@ -35,7 +35,7 @@ This option area sets primary parameters for logging (Figure 1:![](https://cdn.i
 The parameters in this area (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smFive.gif)) dictate when Vehicle Spy begins logging data. The two options are:
 
 * **Start Automatically:** Logging begins immediately when Vehicle Spy starts.
-* **Start on Equation:** Vehicle Spy begins logging when the defined condition evaluates as **True**. Selecting this option enables the equation button (![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/Functionbutton.gif)), which you can click to select the start condition using the Expression Builder.
+* **Start on Equation:** Vehicle Spy begins logging when the defined condition evaluates as **True**. Selecting this option enables the equation button (![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/Functionbutton.gif)), which you can click to select the start condition using the [Expression Builder](../../shared-features-in-vehicle-spy/shared-features-expression-builder.md).
 
 The **Enable Pre Start Collection** option allows the capture of a number of seconds of data immediately preceding the start trigger.
 
