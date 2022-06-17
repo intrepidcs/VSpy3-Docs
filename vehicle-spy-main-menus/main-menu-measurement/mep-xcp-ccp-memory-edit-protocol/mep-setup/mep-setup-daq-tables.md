@@ -1,10 +1,10 @@
 # MEP Setup - DAQ Tables
 
-The MEP Setup DAQ Tables tab (Figure 1) displays information about event based data acquisition with CCP/XCP. ECUs with CCP/XCP have the option to use events and DAQ lists to organize and report their data. Event based DAQ'ing can help synchronize ECU measurements and free up its resources for other activities.
+The [MEP Setup](./) DAQ Tables tab (Figure 1) displays information about [event based data acquisition](../data-acquisition-with-ccp-xcp.md) with CCP/XCP. ECUs with CCP/XCP have the option to use events and DAQ lists to organize and report their data. Event based DAQ'ing can help synchronize ECU measurements and free up its resources for other activities.
 
 Each ECU event can trigger multiple DAQ lists.\
 Each DAQ list can have multiple ODTs (Object Descriptor Tables).\
-Each ODT can have multiple A2L file data items, also known as elements.
+Each ODT can have multiple [A2L file data items](./#a2l-file-data-item-tree-refer-to-figure-1), also known as elements.
 
 ![Figure 1: The MEP Setup DAQ Tables tab displays information regarding event based DAQ'ing.](../../../../.gitbook/assets/spyMEPSetupDAQTables.gif)
 

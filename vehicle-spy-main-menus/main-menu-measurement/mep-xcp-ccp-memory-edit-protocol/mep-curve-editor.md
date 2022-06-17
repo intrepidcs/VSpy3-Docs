@@ -1,6 +1,6 @@
 # MEP Curve Editor
 
-Use the MEP Curve Editor (Figure 1) to view and edit calibration curves from ECUs that support CCP/XCP. Open the Curve Editor with the Measurement --> MEP menu or by double clicking on curve items in the A2L file data item tree on the MEP Setup view.
+Use the MEP Curve Editor (Figure 1) to view and edit calibration curves from ECUs that support CCP/XCP. Open the Curve Editor with the Measurement --> MEP menu or by double clicking on curve items in the A2L file data item tree on the [MEP Setup](mep-setup/) view.
 
 ![Figure 1: Use the Curve Editor to view and edit ECU calibration curves.](../../../.gitbook/assets/spyMEPCurveEditor.gif)
 
@@ -12,12 +12,12 @@ The one dimensional array (y-axis) in the table can always be edited. The x-axis
 
 * Direct Edit - simply double click the cell and type in the desired value.
 * Update - uploads curve data from the ECU. Right click and select "Update".
-* "Force Upload from ECU" button - uploads all data from the ECU. Just click this button on the MEP Setup, Properties tab.
+* "Force Upload from ECU" button - uploads all data from the ECU. Just click this button on the MEP Setup, [Properties](mep-setup/mep-setup-properties.md) tab.
 
 **Automatic Methods to Change Curve Data** (in MEP, not in the ECU)
 
-* Upload Memory on Characteristic Open - uploads curve data from the ECU after the curve item is opened in the editor. Enable this feature on the MEP Setup, Properties tab.
-* On Start Memory Load, Upload from ECU - uploads all data from the ECU everytime Vehicle Spy goes online in MEP mode. Enable this feature on the MEP Setup, Properties tab.
+* Upload Memory on Characteristic Open - uploads curve data from the ECU after the curve item is opened in the editor. Enable this feature on the MEP Setup, [Properties](mep-setup/mep-setup-properties.md) tab.
+* On Start Memory Load, Upload from ECU - uploads all data from the ECU everytime Vehicle Spy goes online in MEP mode. Enable this feature on the MEP Setup, [Properties](mep-setup/mep-setup-properties.md) tab.
 * Update Rate - uploads data from the ECU at a periodic rate. Right click then select "Update Rate" and the desired rate.
 
 To change a curve in the ECU to the curve shown in the editor, click the "Force Download to ECU" button on the MEP Setup, [Properties](https://cdn.intrepidcs.net/support/VehicleSpy/spyMEPSetupProperties.htm) tab.

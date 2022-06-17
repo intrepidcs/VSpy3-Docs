@@ -1,12 +1,12 @@
 # MEP Setup - Import / Export
 
-The MEP Setup Import / Export tab (Figure 1) uses \*.mep or \*.dcm files to import and export ECU calibration values, curves, and maps.
+The [MEP Setup](./) Import / Export tab (Figure 1) uses \*.mep or \*.dcm files to import and export ECU calibration values, curves, and maps.
 
 ![Figure 1: The MEP Setup Import / Export tab.](../../../../.gitbook/assets/spyMEPSetupImportExport.gif)
 
 ### Export Calibrations
 
-To export calibrations from MEP to a file, drag and drop items from the A2L file data item tree onto the Import/Export tab, click the "Export All to File" button, and save to a file name of your choice. If "Upload Before Export" is enabled, and VSpy is online in MEP mode with the ECU, then the MEP calibration data will be updated with an upload from the ECU before being saved in the file.
+To export calibrations from MEP to a file, drag and drop items from the [A2L file data item tree](./#a2l-file-data-item-tree-refer-to-figure-1) onto the Import/Export tab, click the "Export All to File" button, and save to a file name of your choice. If "Upload Before Export" is enabled, and VSpy is online in MEP mode with the ECU, then the MEP calibration data will be updated with an upload from the ECU before being saved in the file.
 
 ### Import Calibrations
 
