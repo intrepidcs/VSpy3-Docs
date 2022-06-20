@@ -1,18 +1,18 @@
 # Virtual Networks
 
-The GMLAN -> Virtual Networks view in Vehicle Spy provides a unique and useful perspective for working with GMLAN virtual networks. Note: GMLAN must be enabled on the Tools -> Options, [Vehicle Networks tab](https://cdn.intrepidcs.net/support/VehicleSpy/spyHardSetup.htm) to see the GMLAN menu.
+The GMLAN -> Virtual Networks view in Vehicle Spy provides a unique and useful perspective for working with GMLAN virtual networks. Note: GMLAN must be enabled on the Tools -> Options, [Vehicle Networks tab](../main-menu-tools/tools-options/options-spy-networks-tab/) to see the GMLAN menu.
 
 ### Overview of VNs and VNMFs
 
-If you already understand Virtual Networks (VNs) and Virtual Network Management Frames (VNMFs) then please [skip this overview](https://cdn.intrepidcs.net/support/VehicleSpy/spyVirtualNetworks.htm#VN%20View) and jump below to see details of the tool. This brief overview is provided only as an aid for understanding and does not replace actual requirements from any specifications.
+If you already understand Virtual Networks (VNs) and Virtual Network Management Frames (VNMFs) then please [skip this overview](virtual-networks.md#virtual-networks-view) and jump below to see details of the tool. This brief overview is provided only as an aid for understanding and does not replace actual requirements from any specifications.
 
 A "normal" network is a physical construct, like SWCAN, with ECUs exchanging messages. A normal network can be subdivided into VNs that are controlled by ECU software using VNMFs. Messages and signals are assigned to VNs and can be transmitted by ECUs only if their assigned VN is active.
 
-VNs are activated and kept alive with VNMFs. Each ECU is assigned a unique VNMF ID. VNMF IDs are usually defined in a [UEF database](https://cdn.intrepidcs.net/support/VehicleSpy/spyNetworkDatabase.htm), but can also be edited in the [ECUs](https://cdn.intrepidcs.net/support/VehicleSpy/spydiagDatabase.htm) view. A VNMF has bits assigned to each virtual network. A VNMF is sent by an ECU only to initialize or continue VNs.
+VNs are activated and kept alive with VNMFs. Each ECU is assigned a unique VNMF ID. VNMF IDs are usually defined in a [UEF database](../main-menu-setup/network-databases.md), but can also be edited in the [ECUs](../main-menu-spy-networks/ecus-view/) view. A VNMF has bits assigned to each virtual network. A VNMF is sent by an ECU only to initialize or continue VNs.
 
 A fun way to think of VNs and VNMFs is using an analogy with people playing with a beach ball at a concert. A person (ECU) starts (initializes) the game (VN) by hitting the ball (VNMF bit) into the air. People (ECUs) keep the ball (VNMF bit) in the air if they want to (continue) the game (VN). If nobody hits the ball then it falls to the ground (timeout) and the game (VN) stops.
 
-Use the [Messages](https://cdn.intrepidcs.net/support/VehicleSpy/spyTextMonitor.htm) view to see VNMFs sent by each ECU and the VNs being controlled by that ECU. Figure 1 shows an example of an ECU using a VNMF to continue some VNs.
+Use the [Messages](../main-menu-spy-networks/messages-view/) view to see VNMFs sent by each ECU and the VNs being controlled by that ECU. Figure 1 shows an example of an ECU using a VNMF to continue some VNs.
 
 ![Figure 1: Example of a VNMF displayed on the Messages view.](../../.gitbook/assets/spyVirtualNetworksMsg.gif)
 

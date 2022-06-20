@@ -1,6 +1,6 @@
 # CAN Terminal
 
-The Embedded Tools -> CAN Terminal is a7f1 feature that can be useful for developing and debugging ECUs. CAN Terminal lets you send text commands and receive responses from an ECU. All commands and responses are shown in the main window of the CAN Terminal.
+The [Embedded Tools](./) -> CAN Terminal is a7f1 feature that can be useful for developing and debugging ECUs. CAN Terminal lets you send text commands and receive responses from an ECU. All commands and responses are shown in the main window of the CAN Terminal.
 
 ![Figure 1: The CAN Terminal.](../../.gitbook/assets/spyCANTerminal.gif)
 

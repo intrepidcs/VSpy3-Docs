@@ -4,7 +4,7 @@ GM CGI Bus view is used for viewing CGI display data in Vehicle Spy. This view c
 
 ![Figure 1: GM CGI Bus Screen](../../.gitbook/assets/CGIScreen.gif)
 
-The Setup tab (Figure 2) is where the CGI message with Screen data is selected. This message must be defined in the receive table of the Messages Editor. The next option to setup is the size of the screen. The Width and Height are entered in the Screen Size and is entered in Pixel units.
+The Setup tab (Figure 2) is where the CGI message with Screen data is selected. This message must be defined in the receive table of the [Messages Editor](../main-menu-spy-networks/message-editor/). The next option to setup is the size of the screen. The Width and Height are entered in the Screen Size and is entered in Pixel units.
 
 ![Figure 2: GM CGI Bus Setup](../../.gitbook/assets/CGISetup.gif)
 

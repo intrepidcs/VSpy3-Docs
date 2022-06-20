@@ -2,7 +2,7 @@
 
 Function Blocks are a powerful feature providing customizable control over Vehicle Spy. Function Blocks allow you to write programmed scripts to automate many of Vehicle Spy's functions, define sophisticated methods of capturing data from a bus, or play back previously-collected or custom-defined messages in a specific manner.
 
-Function Blocks are accessed through the ![](../../../.gitbook/assets/function\_blocks.gif)Scripting and Automation menu.
+Function Blocks are accessed through the [Scripting and Automation](../) menu.
 
 ### Function Block Types
 

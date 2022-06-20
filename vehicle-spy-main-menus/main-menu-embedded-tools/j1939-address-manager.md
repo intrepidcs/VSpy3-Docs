@@ -1,12 +1,12 @@
 # J1939 Address Manager
 
-J1939 requires every node on the network to claim a unique address before transmitting any data. Vehicle Spy supports this requirement with the Embedded Tools --> J1939 Address Manager\* that allows you to claim and view J1939 network addresses.
+J1939 requires every node on the network to claim a unique address before transmitting any data. Vehicle Spy supports this requirement with the [Embedded Tools](./) --> J1939 Address Manager\* that allows you to claim and view J1939 network addresses.
 
-\*Note: J1939 must be enabled on the Tools -> Options, Vehicle Networks tab to see this selection.
+\*Note: J1939 must be enabled on the Tools -> Options, [Vehicle Networks tab](../main-menu-tools/tools-options/options-spy-networks-tab/) to see this selection.
 
 ![Figure 1: Use the J1939 Address Manager to claim and view network addresses.](../../.gitbook/assets/spyJ1939AddrManager.gif)
 
-Use the Network pulldown shown at the top of Figure 1 to choose which Network to work with. The rest of the view contains two areas. The left side is for claiming an address. The right side is for viewing addresses already claimed.
+Use the Network pulldown shown at the top of Figure 1 to choose which [Network](../main-menu-spy-networks/networks/setup-a-network.md) to work with. The rest of the view contains two areas. The left side is for claiming an address. The right side is for viewing addresses already claimed.
 
 ### Claim a J1939 Address![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smOne.gif)
 

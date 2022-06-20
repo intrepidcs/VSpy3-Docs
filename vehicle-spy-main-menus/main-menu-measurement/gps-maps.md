@@ -1,6 +1,6 @@
 # GPS Maps
 
-**GPS Maps** shows Global Positioning System data on a map overlay in real-time or from previously logged data. The GPS data can come from ICS logger hardware, from a GPS receiver, or from in-vehicle network messages sent by an ECU. GPS Maps is opened from the Measurement main menu.
+**GPS Maps** shows Global Positioning System data on a map overlay in real-time or from previously logged data. The GPS data can come from ICS logger hardware, from a GPS receiver, or from in-vehicle network messages sent by an ECU. GPS Maps is opened from the [Measurement](./) main menu.
 
 Note: GPS Maps requires an active internet connection to access map applications found outside of Vehicle Spy.
 
@@ -8,7 +8,7 @@ Follow these general steps to use GPS Maps in Vehicle Spy:
 
 1. Select a map application in GPS Maps.
 2. Setup the GPS Maps lat/long inputs to match the source of GPS data.
-3. Take Vehicle Spy online with ICS hardware to see data in real-time...\
+3. Take Vehicle Spy [online](../../basic-operation-of-vehicle-spy/running-and-stopping.md) with ICS hardware to see data in real-time...\
    ...OR online in simulation mode with a previously saved buffer file to replay it at different speeds.
 
 ### Select a Map Application
@@ -37,20 +37,20 @@ Some ICS loggers have a GPS receiver that can log GPS data to a virtual "neoVI" 
 
 On a related note, ICS logger GPS reporting at a 255 ms periodic rate can be enabled using either of these methods:
 
-* VSpy Setup Hardware, neoVI Explorer Connect, MISC IO, set **Report GPS Coordinates** = ON, Write Settings. (Figure 3:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smOne.gif))
+* VSpy [Setup Hardware](../../basic-operation-of-vehicle-spy/menus-and-buttons.md), neoVI Explorer Connect, MISC IO, set **Report GPS Coordinates** = ON, Write Settings. (Figure 3:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smOne.gif))
 * CoreMini function block script, Set Value command, Expression Builder, Misc/GPS, set **GPS Enable** = 1.
 
 ![Figure 3: Use neoVI Explorer to enable GPS reporting on ICS loggers.](../../.gitbook/assets/GPSneoVIExplorerReportGPSCoordinates.gif)
 
 ### GPS Data Source = Connected GPS (GPS Receiver)
 
-Vehicle Spy can acquire data directly from a GPS receiver connected to a PC serial communications port. The link is setup on the Tools -> Options -> GPS tab. The GPS data is available in the Expression Builder under Misc/GPS. Click **Load Expressions for connected GPS** (Figure 2:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smTwo.gif)) to set the input expressions for GPS Maps to match the Expression Builder Misc/GPS signals.
+Vehicle Spy can acquire data directly from a GPS receiver connected to a PC serial communications port. The link is setup on the Tools -> Options -> [GPS](../main-menu-tools/tools-options/options-gps-setup.md) tab. The GPS data is available in the [Expression Builder](../../shared-features-in-vehicle-spy/shared-features-expression-builder.md) under Misc/GPS. Click **Load Expressions for connected GPS** (Figure 2:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smTwo.gif)) to set the input expressions for GPS Maps to match the Expression Builder Misc/GPS signals.
 
 ### GPS Data Source = Custom Expressions (Vehicle ECU)
 
 Many vehicles have an ECU transmitting GPS data across in-vehicle networks to other ECUs. Vehicle Spy can monitor the in-vehicle networks, decode the GPS messages from the ECU, and display the data on GPS Maps.
 
-The GPS messages and their signals must first be defined in Vehicle Spy's Messages Editor Receive or Database views. Once defined, the GPS signals can then be assigned to the GPS Maps **Latitude** and **Longitude** expressions by clicking their **fx button** (Figure 2:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smThree.gif)) and using the Expression Builder. (Figure 4)
+The GPS messages and their signals must first be defined in Vehicle Spy's [Messages Editor](../main-menu-spy-networks/message-editor/) Receive or Database views. Once defined, the GPS signals can then be assigned to the GPS Maps **Latitude** and **Longitude** expressions by clicking their **fx button** (Figure 2:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smThree.gif)) and using the [Expression Builder](../../shared-features-in-vehicle-spy/shared-features-expression-builder.md). (Figure 4)
 
 The **Optional Latitude and Longitude Valid Expression** is meant for handling the validity of GPS data which can suffer due to weather, long tunnels, poor connections, etc. The expression can be anything made with the Expression Builder, but it has the following impacts depending upon its result:
 
