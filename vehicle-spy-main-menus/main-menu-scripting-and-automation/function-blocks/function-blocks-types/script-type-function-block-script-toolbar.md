@@ -33,6 +33,6 @@ Several of these commands are also available in a right-click menu. First select
 
 ### Error Status
 
-To the right of the script toolbar is a text display that tells you the current error status of your script. If Vehicle Spy detects no problems in the syntax of your script, this area will say **No Errors** in blue.
+To the right of the script toolbar is a text display that tells you the current error status of your script. If Vehicle Spy detects no problems in the syntax of your script, this area will say <mark style="color:blue;">**No Errors**</mark> in blue.
 
 If an error is found, it will be shown in red as in the example in Figure 1. Note that error-checking is dynamic and immediate, so transient errors may appear here. For example, the error in Figure 1 will appear if you've just added an **If** step but haven't inserted the matching **End If** step yet. Similarly, an error may briefly display after entering a command step but before selecting its parameters. You only need to make sure that there are no errors showing here when the script is complete and ready to run.
