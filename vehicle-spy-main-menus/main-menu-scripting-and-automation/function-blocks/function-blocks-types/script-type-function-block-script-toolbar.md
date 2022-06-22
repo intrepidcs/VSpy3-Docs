@@ -1,6 +1,6 @@
 # Script Type Function Block: Script Toolbar
 
-A toolbar at the top of the [setup area](https://cdn.intrepidcs.net/support/VehicleSpy/spyTestsOver.htm) for script type function blocks allows you to work with steps as you develop your script program. This region is also where Vehicle Spy warns you in real time of any errors that it may currently see with the script as it has been defined thus far (Figure 1).
+A toolbar at the top of the setup area for script type function blocks allows you to work with steps as you develop your script program. This region is also where Vehicle Spy warns you in real time of any errors that it may currently see with the script as it has been defined thus far (Figure 1).
 
 ![Figure 1: On the left, function block script toolbar controls; on the right, the error status reporting area, currently indicating an issue with an If command.](../../../../.gitbook/assets/script\_toolbar.gif)
 
