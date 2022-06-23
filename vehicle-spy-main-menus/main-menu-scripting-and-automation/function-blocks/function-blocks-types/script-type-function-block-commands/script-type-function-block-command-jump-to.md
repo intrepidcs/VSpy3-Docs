@@ -4,7 +4,7 @@
 
 This command unconditionally transfers execution of the current script to another step. It is similar to the **Jump If** command, except that the jump always happens, rather than being based on evaluating a condition.
 
-Note that excessive use of **Jump To** and **Jump If** commands can make a script difficult to understand. Consider using an If / Else / Else If / End If structure if possible, which can accomplish the same task while resulting in more readable code.
+Note that excessive use of **Jump To** and **Jump If** commands can make a script difficult to understand. Consider using an [If / Else / Else If / End If](script-type-function-block-commands-if-else-else-if-end-if.md) structure if possible, which can accomplish the same task while resulting in more readable code.
 
 ### Value Field Parameters
 

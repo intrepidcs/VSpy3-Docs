@@ -6,7 +6,7 @@ This command stops the execution of the script and displays a popup window conta
 
 ### Value Field Parameters
 
-Double-click in the **Value** cell for the command to launch the Expression Builder, which is where the message to be shown to the user is entered. The message must appear in the **Expression** field. Two common options here are:
+Double-click in the **Value** cell for the command to launch the [Expression Builder](../../../../../shared-features-in-vehicle-spy/shared-features-expression-builder.md), which is where the message to be shown to the user is entered. The message must appear in the **Expression** field. Two common options here are:
 
 * **Signal Value:** Choose a message signal or application signal and its value will be shown in the window.
 * **Text String:** Enter a text string into the **Expression** field. If you choose this option, be sure to check **Evaluate as text**, located under the **Expression** text entry box.

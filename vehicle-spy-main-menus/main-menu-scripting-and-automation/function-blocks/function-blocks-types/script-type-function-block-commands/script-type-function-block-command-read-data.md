@@ -16,8 +16,8 @@ You will first see the leftmost tab, named **Filename**, which naturally is used
 
 You have two options to determine the filename:
 
-* **Dynamic File Name:** Select an application signal in the setup that contains the name of the file. This allows you to change the name of the file as needed by using other script commands.
-* **Use Text File:** Enter a static filename in the adjacent box. This file must be located in the current user's data directory. There is no need to enter a path or an extension (**.txt** is assumed).
+* **Dynamic File Name:** Select an [application signal](../../../application-signals/) in the setup that contains the name of the file. This allows you to change the name of the file as needed by using other script commands.
+* **Use Text File:** Enter a static filename in the adjacent box. This file must be located in the current user's [data directory](../../../../../basic-operation-of-vehicle-spy/data-directory.md). There is no need to enter a path or an extension (**.txt** is assumed).
 
 Figure 1 shows the filename dynamically selected from the **Read Data Filename** application signal.
 
@@ -29,7 +29,7 @@ When checked, data will be stored in flash memory, if possible, instead of RAM.
 
 ### File Line to Read Tab
 
-Here you specify which line of the file you want to read, using an expression built with the Expression Builder. In Figure 2, we are choosing the line number based on the value of the **Data Line** application signal. You can also enter a static line number within the Expression Builder if you prefer.
+Here you specify which line of the file you want to read, using an expression built with the [Expression Builder](../../../../../shared-features-in-vehicle-spy/shared-features-expression-builder.md). In Figure 2, we are choosing the line number based on the value of the **Data Line** application signal. You can also enter a static line number within the Expression Builder if you prefer.
 
 ![Figure 2: Read Data command parameters - File Line to Read Tab](../../../../../.gitbook/assets/fb\_read\_data\_2.gif)
 

@@ -2,7 +2,7 @@
 
 ### Command Description
 
-This command loads byte data from a file into a transmit message. You can use it to set the contents of a message before sending it out.
+This command loads byte data from a file into a [transmit message](../../../../main-menu-spy-networks/message-editor/messages-editor-receive-transmit-and-database-tables.md). You can use it to set the contents of a message before sending it out.
 
 ### Value Field Parameters
 
@@ -12,7 +12,7 @@ Double-click in the **Value** field to launch this command's parameter dialog bo
 
 ### Start Index
 
-The value of the first byte of data in the file to load. This is specified as an [application signal](https://cdn.intrepidcs.net/support/VehicleSpy/spyInCalcMain.htm) (**Message Data Start Value** in our example in Figure 1) that should be declared ahead of time and set to the correct figure.
+The value of the first byte of data in the file to load. This is specified as an [application signal](../../../application-signals/) (**Message Data Start Value** in our example in Figure 1) that should be declared ahead of time and set to the correct figure.
 
 ### Length
 
@@ -20,7 +20,7 @@ The length of the data, in bytes, to load from the file. Again this is specified
 
 ### Filename without extension (\*.msgbin)
 
-This is the name of the actual file from which to load data. The file must have a **.msgbin** extension and be located in the data directory of the current user.
+This is the name of the actual file from which to load data. The file must have a **.msgbin** extension and be located in the [data directory](../../../../../basic-operation-of-vehicle-spy/data-directory.md) of the current user.
 
 ### Fast load data
 

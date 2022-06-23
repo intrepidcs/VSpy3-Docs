@@ -11,7 +11,7 @@ These commands must be entered in matched pairs, one **End Loop** for every **St
 Each loop begins with a **Start Loop** command. The **Value**field for this command specifies the number of times the loop will be repeated:
 
 * **Constant Loop Counter:** After the **Start Loop**command is selected, a default value of **1** will appear in its **Value**column field. Change this to the number of times you want the loop to run.
-* **Dynamic Loop Counter:** Edit the **Value** cell, then press the **=** key twice to launch the Expression Builder. Enter an expression, and the loop will run a number of times equal to the value that the expression returns.
+* **Dynamic Loop Counter:** Edit the **Value** cell, then press the **=** key twice to launch the [Expression Builder](../../../../../shared-features-in-vehicle-spy/shared-features-expression-builder.md). Enter an expression, and the loop will run a number of times equal to the value that the expression returns.
 
 When the script is run, the loop counter will be shown updating in real time in the **Value** cell of the **Start Loop** command; it decrements from the start value down to **1** as the loop proceeds. This progression may or may not be visible, depending on how quickly the loop executes.
 

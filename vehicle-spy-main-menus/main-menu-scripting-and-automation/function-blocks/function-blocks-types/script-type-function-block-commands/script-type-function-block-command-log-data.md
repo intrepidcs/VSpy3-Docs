@@ -16,7 +16,7 @@ When checked, prepends the logged data with a timestamp.
 
 ### Text To Log
 
-The text to be logged, which is specified as an expression using the Expression Builder. Examples include a static text string entered as an expression (with **Evaluate as text** checked in the Expression Builder) or a string from a signal.
+The text to be logged, which is specified as an expression using the [Expression Builder](../../../../../shared-features-in-vehicle-spy/shared-features-expression-builder.md). Examples include a static text string entered as an expression (with **Evaluate as text** checked in the Expression Builder) or a string from a signal.
 
 ### Log Type
 
@@ -35,7 +35,7 @@ The type of log to create:
 Choose one of these radio buttons to determine where the file's name comes from:
 
 * **Use File Name:** Enter a static filename in the adjacent box.
-* **Dynamic File Name:** Select an application signal in the setup that contains the name of the file. This allows you to change the name of the file on the fly by using Set Value or other commands to adjust the name stored in that application signal.
+* **Dynamic File Name:** Select an [application signal](../../../application-signals/) in the setup that contains the name of the file. This allows you to change the name of the file on the fly by using [Set Value](script-type-function-block-command-set-value.md) or other commands to adjust the name stored in that application signal.
 
 ### Overwrite File if it exists
 

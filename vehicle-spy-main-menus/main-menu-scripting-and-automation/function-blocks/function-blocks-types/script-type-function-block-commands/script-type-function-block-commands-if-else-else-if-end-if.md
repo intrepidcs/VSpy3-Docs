@@ -8,7 +8,7 @@ If you have a background in programming, you are likely familiar with these comm
 
 ### If Command
 
-Each logical control structure must begin with an **If** command. The **Value** parameter for this command is a conditional expression set up using the Expression Builder, and can be anything that returns a **True** or **False** value. Depending on this result, Vehicle Spy acts as follows:
+Each logical control structure must begin with an **If** command. The **Value** parameter for this command is a conditional expression set up using the [Expression Builder](../../../../../shared-features-in-vehicle-spy/shared-features-expression-builder.md), and can be anything that returns a **True** or **False** value. Depending on this result, Vehicle Spy acts as follows:
 
 * If the expression evaluates as **True**, then all commands following the **If** statement are executed, up until the next matching **Else If**, **Else** or **End If** statement.
 * If the expression evaluates as **False**, then all commands following the **If** statement are skipped, up until the next matching **Else If**, **Else** or **End If** statement is seen.

@@ -2,7 +2,7 @@
 
 ### Command Description
 
-This command allows various actions to be taken with CoreMini scripts that are compiled and run on Intrepid hardware independently of the PC and Vehicle Spy.
+This command allows various actions to be taken with [CoreMini](../../../../main-menu-tools/utilities-coremini-console/) scripts that are compiled and run on Intrepid hardware independently of the PC and Vehicle Spy.
 
 ### Value Field Parameters
 

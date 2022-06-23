@@ -2,7 +2,7 @@
 
 ### Command Description
 
-The **Diag Job Action** command allows a function block script to control diagnostic jobs created in the Diagnostics feature of Vehicle Spy.
+The **Diag Job Action** command allows a function block script to control diagnostic jobs created in the [Diagnostics](../../../../main-menu-spy-networks/diagnostics/diagnostics-view.md) feature of Vehicle Spy.
 
 ### Value Field Parameters
 

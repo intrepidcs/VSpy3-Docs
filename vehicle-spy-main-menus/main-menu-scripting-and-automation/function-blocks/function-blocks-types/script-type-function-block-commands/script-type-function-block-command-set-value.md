@@ -2,13 +2,13 @@
 
 ### Command Description
 
-Use this command to assign a value to a signal, such as a message signal or an application signal.
+Use this command to assign a value to a signal, such as a [message signal](../../../../main-menu-spy-networks/message-editor/message-signals/) or an [application signal](../../../application-signals/).
 
 ### Value Field Parameters
 
-The assignment takes place using the Expression Builder. Launch it by double-clicking in the **Value** cell for the **Set Value** command. Then enter the signal you want to assign in the **Value To Set** field, and the expression for the value to assign in the **Expression** field.
+The assignment takes place using the [Expression Builder](../../../../../shared-features-in-vehicle-spy/shared-features-expression-builder.md). Launch it by double-clicking in the **Value** cell for the **Set Value** command. Then enter the signal you want to assign in the **Value To Set** field, and the expression for the value to assign in the **Expression** field.
 
-If the signal is a Physical IO property then MISC IO reporting in 3G Explorer must be enabled in the hardware.
+If the signal is a [Physical IO property](../../../../../shared-features-in-vehicle-spy/shared-features-expression-builder.md#physical-io-properties) then MISC IO reporting in 3G Explorer must be enabled in the hardware.
 
 ### Example
 

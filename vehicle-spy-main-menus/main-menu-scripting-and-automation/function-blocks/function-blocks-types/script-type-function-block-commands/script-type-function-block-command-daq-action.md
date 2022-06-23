@@ -2,7 +2,7 @@
 
 ### Command Description
 
-The **DAQ Action** command allows a script type function block to control the operation of a VehicleScape DAQ setup.
+The **DAQ Action** command allows a script type function block to control the operation of a [VehicleScape DAQ](../../../../main-menu-measurement/vehiclescape-daq/) setup.
 
 ### Value Field Parameters
 
