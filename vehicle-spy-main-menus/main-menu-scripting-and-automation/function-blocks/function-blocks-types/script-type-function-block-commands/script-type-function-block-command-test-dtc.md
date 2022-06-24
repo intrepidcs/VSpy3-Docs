@@ -2,7 +2,7 @@
 
 ### Command Description
 
-The **Test DTC** command checks the data in a receive message for specified Diagnostic Trouble Codes (DTCs). If DTCs are detected, their data is copied to an application signal.
+The **Test DTC** command checks the data in a receive message for specified Diagnostic Trouble Codes (DTCs). If DTCs are detected, their data is copied to an [application signal](../../../application-signals/).
 
 This command currently supports only J1939 DTCs.
 

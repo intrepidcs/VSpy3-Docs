@@ -2,7 +2,7 @@
 
 ### Command Description
 
-This command allows Text API commands to be sent by a function block.
+This command allows [Text API](../../../../../vehicle-network-interface-hardware/vehicle-spy-text-api/) commands to be sent by a function block.
 
 ### Value Field Parameters
 
@@ -12,7 +12,7 @@ Double-click in the **Value** field to bring up the dialog in Figure 1, where yo
 
 ### Expression
 
-You build the command string here using the Expression Builder. This can be a literal string or can be formed from signal values.
+You build the command string here using the [Expression Builder](../../../../../shared-features-in-vehicle-spy/shared-features-expression-builder.md). This can be a literal string or can be formed from signal values.
 
 ### Assign Result to Application Signal (Optional)
 

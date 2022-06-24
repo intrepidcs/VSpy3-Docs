@@ -2,7 +2,7 @@
 
 ### Command Description
 
-This command allows a function block to display a panel in a Graphical Panels window.
+This command allows a function block to display a panel in a [Graphical Panels](../../../../main-menu-measurement/graphical-panels/) window.
 
 ### Value Field Parameters
 

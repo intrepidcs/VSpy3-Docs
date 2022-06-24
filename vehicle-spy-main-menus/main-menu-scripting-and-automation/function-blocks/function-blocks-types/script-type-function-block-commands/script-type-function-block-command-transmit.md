@@ -2,7 +2,7 @@
 
 ### Command Description
 
-This command allows a transmit message to be sent from within a function block. It is commonly used in automation and simulation tasks.
+This command allows a [transmit message](../../../../main-menu-spy-networks/message-editor/messages-editor-receive-transmit-and-database-tables.md) to be sent from within a function block. It is commonly used in automation and simulation tasks.
 
 ### Value Field Parameters
 

@@ -2,7 +2,7 @@
 
 ### Overview
 
-The Filter Tab of a Capture Type Function Block allows you to set up filters that control which messages are captured when the block runs. There are two different ways to define filters for a capture block: either with custom message filters or using script-based filtering.\
+The Filter Tab of a [Capture Type Function Block](./) allows you to set up filters that control which messages are captured when the block runs. There are two different ways to define filters for a capture block: either with custom message filters or using script-based filtering.\
 \
 This tab contains only two elements as shown in Figure 1.
 
@@ -10,13 +10,13 @@ This tab contains only two elements as shown in Figure 1.
 
 ### Custom Message Filtering
 
-To create custom message filters for the data capture, click the **Filters...** button. This will cause the Setup Filter dialog box to appear (the same one used to define custom filters in Messages View). Within the dialog box you can include and exclude messages from the capture. Note that if no message filters are selected, all messages are collected by default.\
+To create custom message filters for the data capture, click the **Filters...** button. This will cause the [Setup Filter dialog box](../../../../main-menu-spy-networks/messages-view/messages-view-filter-bar/messages-view-custom-filters.md) to appear (the same one used to define custom filters in [Messages View](../../../../main-menu-spy-networks/messages-view/)). Within the dialog box you can include and exclude messages from the capture. Note that if no message filters are selected, all messages are collected by default.\
 \
 This feature and script filtering (below) are mutually exclusive: only one may be used.
 
 ### Script Filtering
 
-This is an advanced option for power users that provides complete control over exactly which messages are stored in the capture buffer, and under what circumstances. Instead of defining a filter using the standard Setup Filter dialog box, you use a Script Type Function Block in conjunction with a capture block to precisely determine which messages are saved.
+This is an advanced option for power users that provides complete control over exactly which messages are stored in the capture buffer, and under what circumstances. Instead of defining a filter using the standard Setup Filter dialog box, you use a [Script Type Function Block](../script-type-function-block.md) in conjunction with a capture block to precisely determine which messages are saved.
 
 ### Setting Up Script Filtering
 
@@ -33,7 +33,7 @@ Define the parameters for the **Set Value** command that captures data as follow
 * **Value to Set:** Click **Function Blocks** in the left-hand menu, then select the correct capture type block and double-click the **Script Filter Add Message** property.
 * **Expression:** Select an expression that defines the data you want captured. A typical example might be to choose **Rx Messages** in the left-hand menu, select a receive message, then click the **Message Data** property and finally click the **Add to Expression** button.
 
-Make sure the capture block is set to start automatically or include a command to start it via a Function Block Action command in the script, before any **Set Value** commands are executed.
+Make sure the capture block is set to start automatically or include a command to start it via a [Function Block Action](../script-type-function-block-commands/script-type-function-block-command-function-block-action.md) command in the script, before any **Set Value** commands are executed.
 
 ### Script Filtering Examples
 

@@ -12,7 +12,7 @@ Double-click the **Value** field to bring up the dialog box shown in Figure 1.
 
 ### Expression
 
-Press the ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/Functionbutton.gif) button to launch the Expression Builder, where you can craft the expression to be used for this command.
+Press the ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/Functionbutton.gif) button to launch the [Expression Builder](../../../../../shared-features-in-vehicle-spy/shared-features-expression-builder.md), where you can craft the expression to be used for this command.
 
 Any conditional expression can be entered. For example, you can have a script wait until a particular signal value is seen in a specific message. Message properties are also commonly used here, such as the **Present** flag, as we'll see in the example below.
 
@@ -24,6 +24,6 @@ To use this feature, enter a length of time in the **Timeout in seconds** box, a
 
 ### Example
 
-Figure 1 shows a typical use of the **Wait Until** command: pausing a script until the arrival of a particular message before proceeding, by waiting for its **Present** flag to be set to **True** by Vehicle Spy. Notice that step 2 resets the Present flag, which ensures that steps 3 and 4 only occur once for each copy of **Incoming Message** that arrives.
+Figure 1 shows a typical use of the **Wait Until** command: pausing a script until the arrival of a particular message before proceeding, by waiting for its **Present** flag to be set to **True** by Vehicle Spy. Notice that step 2 [resets the Present flag](../script-type-function-block-resetting-the-present-flag.md), which ensures that steps 3 and 4 only occur once for each copy of **Incoming Message** that arrives.
 
 ![Figure 1: Example using the Wait Until and Wait For commands.](../../../../../.gitbook/assets/fb\_wait\_for.gif)

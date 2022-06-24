@@ -10,7 +10,7 @@ There are two common ways of resetting the **Present** flag.
 
 ### Resetting the Present Flag using the Set Value command
 
-The most precise method is to directly target the **Present** flag itself, simply setting its value to **0** using a Set Value command. This allows you to clear the **Present** flag without affecting other message properties. An example is shown in Figure 1.
+The most precise method is to directly target the **Present** flag itself, simply setting its value to **0** using a [Set Value](script-type-function-block-commands/script-type-function-block-command-set-value.md) command. This allows you to clear the **Present** flag without affecting other message properties. An example is shown in Figure 1.
 
 ![Figure 1: Using the Set Value command to reset the present flag.](../../../../.gitbook/assets/fb\_wait\_for.gif)
 
@@ -18,7 +18,7 @@ You can also use Set Value If in a similar fashion, when that would be more usef
 
 ### Resetting the Present Flag using the Clear Stats command
 
-A secondary method is to use the Clear Stats command targeting a message. An example of this can be seen in Figure 1.
+A secondary method is to use the [Clear Stats](script-type-function-block-commands/script-type-function-block-command-clear-stats.md) command targeting a message. An example of this can be seen in Figure 1.
 
 **Important Note:** Using **Clear Stats** in this manner resets not only the **Present** flag, but also all other information related to the message, including its data. If you will need to work with other properties or data in the message, it is recommended that you instead use **Set Value** as described above.
 
