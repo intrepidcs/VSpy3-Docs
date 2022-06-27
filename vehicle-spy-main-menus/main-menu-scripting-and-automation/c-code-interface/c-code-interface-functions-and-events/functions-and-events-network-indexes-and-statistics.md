@@ -1,6 +1,6 @@
 # Functions and Events: Network Indexes and Statistics
 
-For each Network in Vehicle Spy there is an int variable. This variable is the number you use to reference a network. For example, the GenericMessage structure includes an iNetwork property. This indicates what network the message is from or will be transmitted to. All network indexes begin with the prefix NET\_.\
+For each [Network](../../../main-menu-spy-networks/networks/) in Vehicle Spy there is an int variable. This variable is the number you use to reference a network. For example, the GenericMessage structure includes an iNetwork property. This indicates what network the message is from or will be transmitted to. All network indexes begin with the prefix NET\_.\
 \
 Each network has statistics that you can access. You can access the statistics for a network with the GetStats function. You can reset the statistics with the ClearStats function.
 

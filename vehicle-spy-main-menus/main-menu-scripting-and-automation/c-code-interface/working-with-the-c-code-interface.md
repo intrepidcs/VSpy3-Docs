@@ -6,7 +6,7 @@ Please review the example videos for an overview on how to use the C Code Interf
 
 ### Adding a New Project
 
-To add a new project, click on the "Add Project..." button (Figure 1), and a drop down will appear giving the options to add a new project, convert from CAPL, or add an existing project.
+To add a new project, click on the "Add Project..." button (Figure 1), and a drop down will appear giving the options to add a new project, [convert from CAPL](c-code-interface-capl-conversion.md), or add an existing project.
 
 ![Figure 1: Adding a new C Code project in the C Code Interface view.](../../../.gitbook/assets/adding\_project.gif)
 
@@ -16,7 +16,7 @@ If a new project is selected, a windows will pop up called "Add New C Code Proje
 
 ### Editing a Project
 
-After a new project is created, events can created by clicking the "Edit" button in the C Code Interface.  In the setup dialog you can add event functions and change the name and description of the project.  For setup of the event functions please see the sections for message, application signal, and timer events. If you create event functions, make sure to manually copy the event handler code to your SpyCCode.c file. This will help you avoid a linker error when building your project.
+After a new project is created, events can created by clicking the "Edit" button in the C Code Interface.  In the setup dialog you can add event functions and change the name and description of the project.  For setup of the event functions please see the sections for [message](c-code-interface-functions-and-events/functions-and-events-message-objects.md), [application signal](c-code-interface-functions-and-events/functions-and-events-application-signals.md), and [timer](c-code-interface-functions-and-events/functions-and-events-timers.md) events. If you create event functions, make sure to manually copy the event handler code to your SpyCCode.c file. This will help you avoid a linker error when building your project.
 
 ![Figure 3: The edit button will allow you to edit your C code project including adding event functions.](../../../.gitbook/assets/edit\_C\_code\_project.gif)
 

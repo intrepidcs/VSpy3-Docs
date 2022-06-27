@@ -1,6 +1,6 @@
 # Functions and Events: Application Signals
 
-Application signals are variables used in Vehicle Spy to share data between various objects in Vehicle Spy. Function Block scripts and Graphical Panels can use these variables as well. The C Code Interface has support for accessing and changing these values. All application signals defined in your vs3 file have a set function, a get function, and an optional event function.  The set and get functions set either a number, normal text, or unicode (wide text).  All application signals start with the "AS\_" prefix.
+[Application signals](../../application-signals/) are variables used in Vehicle Spy to share data between various objects in Vehicle Spy. [Function Block scripts](../../function-blocks/function-blocks-types/script-type-function-block.md) and [Graphical Panels](../../../main-menu-measurement/graphical-panels/) can use these variables as well. The C Code Interface has support for accessing and changing these values. All application signals defined in your vs3 file have a set function, a get function, and an optional event function.  The set and get functions set either a number, normal text, or unicode (wide text).  All application signals start with the "AS\_" prefix.
 
 ![Figure 1: Application Signal Functions allow you to interact with app signals.](../../../../.gitbook/assets/appsignal\_functions.gif)
 

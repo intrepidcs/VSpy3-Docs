@@ -1,6 +1,6 @@
 # Functions and Events: Message Objects
 
-All message objects in the Receive, Transmit, and Database tables are represented by message structures. Since this is C the structures are empty by default. To use them you must initialize them by calling an init function. All of these functions and structs are defined in the vspy.c/.h files. For event messages the generated C code calls the init function and passes you a pointer to the structure already filled.\
+All message objects in the [Receive, Transmit, and Database](../../../main-menu-spy-networks/message-editor/messages-editor-receive-transmit-and-database-tables.md) tables are represented by message structures. Since this is C the structures are empty by default. To use them you must initialize them by calling an init function. All of these functions and structs are defined in the vspy.c/.h files. For event messages the generated C code calls the init function and passes you a pointer to the structure already filled.\
 \
 The names of the message structures are the same as the message names with a prefix. For database messages, the prefix is "DB\_". This prefix helps to quickly find the message you want with the intellisense features of Visual C++.  Receive messages defined in the message editor have the prefix "MG\_". Transmit messages defined in the messages editor have the prefix "TX\_".\
 \
