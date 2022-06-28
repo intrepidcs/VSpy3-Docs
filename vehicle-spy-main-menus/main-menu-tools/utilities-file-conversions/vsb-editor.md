@@ -1,6 +1,6 @@
 # VSB Editor
 
-Vehicle Spy can save network message traffic to Vehicle Spy Binary (VSB) files using Messages view, capture function blocks, or Data Cache Disk Streaming.One benefit of the VSB file format is its smaller size compared to other file types.VSB files do NOT store decoded signals or user notes.Also, VSB files are not easy to read with standard file editors; so use File > Review Buffer to read them.
+Vehicle Spy can save network message traffic to Vehicle Spy Binary (VSB) files using [Messages](../../main-menu-spy-networks/messages-view/messages-view-top-toolbar/save-the-buffer.md) view, [capture function blocks](../../main-menu-scripting-and-automation/function-blocks/function-blocks-types/capture-type-function-block/capture-type-function-block-storage-tab.md), or [Data Cache Disk Streaming](../../main-menu-setup/data-cache-disk-streaming.md). One benefit of the [VSB file format](../../../vehicle-network-interface-hardware/vehicle-spy-vsb-file-spec.md) is its smaller size compared to other file types.VSB files do NOT store decoded signals or user notes. Also, VSB files are not easy to read with standard file editors; so use File > [Review Buffer](../../main-menu-file/review-buffer.md) to read them.
 
 VSB files can be changed with the VSB Editor in the following ways:
 
@@ -8,7 +8,7 @@ VSB files can be changed with the VSB Editor in the following ways:
 * Combine multiple VSB files into one file.
 * Remap networks within a VSB file.
 
-The VSB Editor is opened from the Tools > File Conversions menu.
+The VSB Editor is opened from the Tools > [File Conversions](./) menu.
 
 ### Split VSB
 

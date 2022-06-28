@@ -1,8 +1,8 @@
 # Utilities: Extract from SD Card
 
-The first tab of the Extract / Export interface (Figure 1) extracts data from standalone logger SD cards.\
+The first tab of the [Extract / Export](./) interface (Figure 1) extracts data from [standalone logger](../../../application-notes/application-note-vehiclescape-standalone-logging/) SD cards.\
 \
-Properly formatted SD cards are named "LOGGER" and have Vehicle Spy Archive (VSA) files on them that must be converted to Vehicle Spy Binary (VSB) files to be useful. The VSB files can then be used directly in Vehicle Spy or exported to other file formats.\
+Properly formatted SD cards are named "LOGGER" and have Vehicle Spy Archive (VSA) files on them that must be converted to Vehicle Spy Binary (VSB) files to be useful. The VSB files can then be used directly in Vehicle Spy or [exported](utilities-export-vsb-to-other-formats.md) to other file formats.\
 \
 Follow these steps to pull data from an SD card and put VSB files on a PC:
 

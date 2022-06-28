@@ -6,7 +6,7 @@ The buttons and touch screen on neoVI PLASMA can open and change WiVI 3 settings
 
 ### Vehicle Spy's PLASMA / ION Setup
 
-The answer for neoVI ION is to make WiVI 3 changes using Vehicle Spy's PLASMA / ION Setup opened from the Tools menu.This feature will also work for neoVI PLASMA, but it is recommended to use the PLASMA buttons and touch screen instead because they are simpler to use.
+The answer for neoVI ION is to make WiVI 3 changes using Vehicle Spy's PLASMA / ION Setup opened from the [Tools](./) menu.This feature will also work for neoVI PLASMA, but it is recommended to use the PLASMA buttons and touch screen instead because they are simpler to use.
 
 Use a PC to open the Android home screen on an ICS wireless logger by following these steps:
 

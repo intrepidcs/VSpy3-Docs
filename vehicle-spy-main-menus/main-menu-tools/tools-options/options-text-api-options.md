@@ -1,6 +1,6 @@
 # Options: Text API Options
 
-The Tools -> Options -> Text API tab (Figure 1) configures different ports to "talk to" Vehicle Spy. Text API is a method of sending text strings to Vehicle Spy to request or send information.
+The [Tools](../) -> [Options](./) -> Text API tab (Figure 1) configures different ports to "talk to" Vehicle Spy. Text API is a method of sending text strings to Vehicle Spy to request or send information.
 
 If you wish to make a TCP/IP connection, check the "Enable TCP/IP" check box and specify the proper port is set in the "Listening Port" field on the right. Note: Vehicle Spy must be restarted before setting changes take place.
 

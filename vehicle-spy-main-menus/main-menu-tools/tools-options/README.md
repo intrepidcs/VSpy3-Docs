@@ -6,11 +6,11 @@ Many important Vehicle Spy settings are located in the Vehicle Spy Setup dialog 
 
 Use the Vehicle Spy setup dialog to setup the following:
 
-* Spy Networks (includes J1850 VPW Mode)
-* Performance
-* Multimedia
-* Text API
-* License
-* GPS
-* Directories
-* Regional Settings
+* [Spy Networks](options-spy-networks-tab/) (includes [J1850 VPW Mode](options-spy-networks-tab/spy-networks-tab-j1850-vpw-mode.md))
+* [Performance](options-performance-settings.md)
+* [Multimedia](options-multimedia/)
+* [Text API](options-text-api-options.md)
+* [License](options-license-system/)
+* [GPS](options-gps-setup.md)
+* [Directories](options-data-directories.md)
+* [Regional Settings](options-regional-settings.md)

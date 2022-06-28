@@ -1,14 +1,14 @@
 # Options: Spy Networks Tab
 
-Vehicle Spy interacts with a vehicle network through Vehicle Network Hardware available from ICS. The ability to setup various hardware settings can be found using the "Spy Networks" tab in the Vehicle Spy Setup dialog (Figure 1), found under the Tools -> Options menu.
+Vehicle Spy interacts with a vehicle network through [Vehicle Network Hardware](../../../../vehicle-network-interface-hardware/) available from ICS. The ability to setup various hardware settings can be found using the "Spy Networks" tab in the Vehicle Spy Setup dialog (Figure 1), found under the [Tools](../../) -> [Options](../) menu.
 
 ### Simulation Mode
 
 Vehicle Spy allows simulation of hardware by reading a data file and playing it back into Vehicle Spy as if it was coming directly from the hardware. This is useful for training or setting up VS3 files when it would not be possible to utilize the specific hardware or a network.\
 \
-To enable hardware simulation, first enable the "Simulation Mode" checkbox and select a data file using the "Browse" button. Now going online with the main Vehicle Spy blue play/stop button will immediately begin simulating the data that was selected. If the simulation files are needed to be changed quickly, use the Run Simulation selection in the pull down list next to the blue play/stop button.\
+To enable hardware simulation, first enable the "Simulation Mode" checkbox and select a data file using the "Browse" button. Now going online with the main Vehicle Spy blue play/stop button will immediately begin simulating the data that was selected. If the simulation files are needed to be changed quickly, use the [Run Simulation](../../../../basic-operation-of-vehicle-spy/running-and-stopping.md) selection in the pull down list next to the blue play/stop button.\
 \
-Sample data files are included in the Vehicle Spy 3 directory. The file "All Bus Traffic.csv" is used in the Vehicle Spy tutorials to simulate traffic.
+[Sample data files](../../../../application-notes/sample-replay-files.md) are included in the Vehicle Spy 3 directory. The file "All Bus Traffic.csv" is used in the Vehicle Spy [tutorials](../../../../vehicle-spy-tutorials/) to simulate traffic.
 
 ![Figure 1: The Spy Networks tab lets you run in simulation mode or configure your hardware.](../../../../.gitbook/assets/spyHardwareSetup.gif)
 
@@ -21,13 +21,13 @@ If vehicle network hardware is available then use this area to help configure it
 * **Enable RTC Sync** - sets the Real Time Clock inside supported hardware to match the PC time.
 * **Sync Multiple Devices to PC** - syncs time from the computer
 * **Enable Auto Update** - ensures the current firmware in Vehicle Spy is also in the hardware.
-* **Enable Bit Rate Sync** - checks for baud rate conflicts between hardware and Network settings.
+* **Enable Bit Rate Sync** - checks for baud rate conflicts between hardware and [Network](../../../main-menu-spy-networks/networks/setup-a-network.md) settings.
 * **Enable Low Latency** - option to try and read USB data quicker. This option should be disabled in most cases.
 * **Discover devices on Ethernet** - discover devices on the PC via ethernet.
 
 ### J1850 VPW Mode
 
-This option determines how J1850 VPW header bytes will be treated.
+This option determines how [J1850 VPW header bytes](spy-networks-tab-j1850-vpw-mode.md) will be treated.
 
 ### neoVIServer Settings
 
@@ -37,7 +37,7 @@ This option determines how J1850 VPW header bytes will be treated.
 
 ### Problem Log
 
-When "Show Warnings from Missing A2L Items" is enabled, suppressed warnings will be displayed in the Problem Log. If this is disabled minor warnings will not be displayed.
+When "Show Warnings from Missing A2L Items" is enabled, suppressed warnings will be displayed in the [Problem Log](../../tools-problem-log.md). If this is disabled minor warnings will not be displayed.
 
 ### OEM Specific Features
 
@@ -55,7 +55,7 @@ Allows the ability to distinguish an ArbID on the SW network for high voltage wh
 
 ### CoreMini
 
-Enable Hardware Acceleration to use CoreMini to periodically transmit messages as efficiently as possible.
+Enable [Hardware Acceleration](../../tools-utilities/utilities-hardware-acceleration.md) to use [CoreMini](../../utilities-coremini-console/) to periodically transmit messages as efficiently as possible.
 
 ### Messages
 

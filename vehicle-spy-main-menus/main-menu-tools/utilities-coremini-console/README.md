@@ -18,6 +18,6 @@ Some hardware devices support loading CoreMini Scripts over CAN, neoVI ECU would
 
 ![Figure 3: CoreMini Console neoECU (CAN) Tab](../../../.gitbook/assets/CoreMiniConsole2.gif)
 
-**IMPORTANT:** It is very important that the firmware in CoreMini capable device match what the software expects. If you try to load a CoreMini to a device with incorrect firmware a warning should be displayed at the bottom (Figure 4). This can be fixed by connecting to neoVI 3G Explorer or in Vehicle Spy 3 if "Enable Auto updates" is turned on under Tools -> Options. You can also use the Manual Reflash button in neoVI 3G Explorer. It is recommended to leave Enable Auto Update enabled.
+**IMPORTANT:** It is very important that the firmware in CoreMini capable device match what the software expects. If you try to load a CoreMini to a device with incorrect firmware a warning should be displayed at the bottom (Figure 4). This can be fixed by connecting to neoVI 3G Explorer or in Vehicle Spy 3 if "Enable Auto updates" is turned on under [Tools -> Options](../tools-options/options-spy-networks-tab/). You can also use the Manual Reflash button in neoVI 3G Explorer. It is recommended to leave Enable Auto Update enabled.
 
 ![Figure 4: Old firmware warning](../../../.gitbook/assets/CoreMiniLoadOldFirmware.gif)

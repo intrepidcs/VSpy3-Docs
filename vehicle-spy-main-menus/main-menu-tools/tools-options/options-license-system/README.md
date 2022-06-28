@@ -1,10 +1,10 @@
 # Options: License System
 
-Vehicle Spy uses a hardware/software licensing system. Your licensing information is setup in the License tab on the Vehicle Spy Setup dialog (Figure 1). This dialog is opened by selecting Tools->Options from the Vehicle Spy main menu.
+Vehicle Spy uses a hardware/software licensing system. Your licensing information is setup in the License tab on the Vehicle Spy Setup dialog (Figure 1). This dialog is opened by selecting Tools->[Options](../) from the Vehicle Spy main menu.
 
 ### Obtaining Your License File
 
-When you purchase Vehicle Spy, you will receive a license file from Intrepid Control Systems. A license file (\*.LIC) will be either included on the CD that ships with your purchase or emailed directly to you. If you do not receive a License file or have lost it, please contact Intrepid Control Systems for information on obtaining another copy.
+When you purchase Vehicle Spy, you will receive a license file from [Intrepid Control Systems](https://intrepidcs.com/contact-us/). A license file (\*.LIC) will be either included on the CD that ships with your purchase or emailed directly to you. If you do not receive a License file or have lost it, please [contact](https://intrepidcs.com/contact-us/) Intrepid Control Systems for information on obtaining another copy.
 
 ### Setting Up or Changing the License File
 
@@ -16,7 +16,7 @@ Included with the license you purchased is a period of free upgrades. If you hav
 
 \*If you try to install a version of Vehicle Spy that was released after the expiration of your free upgrade period, the license system will not allow the software to function.
 
-Please contact Intrepid Control Systems for information on how to upgrade your license and receive additional free upgrade time.
+Please [contact](https://intrepidcs.com/contact-us/) Intrepid Control Systems for information on how to upgrade your license and receive additional free upgrade time.
 
 ### Transferring Your License to Another PC
 
