@@ -1,3 +1,3 @@
 # Vehicle Spy Website
 
-Please visit the [Vehicle Spy Website](https://www.intrepidcs.com/products/software/vehicle-spy/) for more information.
+Please visit the [Vehicle Spy Website](https://intrepidcs.com/products/software/vehicle-spy/) for more information.

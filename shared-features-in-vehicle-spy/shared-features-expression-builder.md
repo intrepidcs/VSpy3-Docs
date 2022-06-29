@@ -225,9 +225,7 @@ Below, **Table 2** describes all of the different properties for the different d
 |  NetMgmt Frame Count |  Analog |                         TBD                         |
 | NetMgmt Is Simulated | Digital |                         TBD                         |
 
-
-
-**Misc Data Items**
+#### **Misc Data Items**
 
 | Misc Data Item                                              | Type    | Description                                                                                                                                                                                                                                               |
 | ----------------------------------------------------------- | ------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
