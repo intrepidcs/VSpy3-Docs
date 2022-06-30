@@ -4,7 +4,7 @@ Loading scripts into a neoECU device can be done in a few different ways. If you
 
 ### 1. CoreMini Console:
 
-The first step to transferring a CoreMini to a neoECU device is to open the CoreMini Console. CoreMini Console is found under Tools --> Utilities then CoreMini Console. Here, scripts can be loaded or removed from the hardware.
+The first step to transferring a CoreMini to a neoECU device is to open the [CoreMini Console](../../../vehicle-spy-main-menus/main-menu-tools/utilities-coremini-console/). [CoreMini Console](../../../vehicle-spy-main-menus/main-menu-tools/utilities-coremini-console/) is found under Tools --> Utilities then CoreMini Console. Here, scripts can be loaded or removed from the hardware.
 
 ![Figure 1: Location of the CoreMini Console.](../../../.gitbook/assets/CoreMiniConsoleMenu.gif)
 

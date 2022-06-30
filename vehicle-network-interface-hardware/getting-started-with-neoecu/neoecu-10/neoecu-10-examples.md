@@ -2,7 +2,7 @@
 
 To help make working with the neoECU10 as simple as possible, a number of examples have been put together. Click the link to access the examples.
 
-### neoECU10 Examples
+### [neoECU10 Examples](https://cdn.intrepidcs.net/support/VehicleSpy/NE10Example.zip)
 
 
 
@@ -21,6 +21,6 @@ To help make working with the neoECU10 as simple as possible, a number of exampl
 
 
 
-The examples are commented to explain what was done. To help with new setups, the link below has Function Blocks that can be imported to help quickly setup a neoECU 10.
+The examples are commented to explain what was done. To help with new setups, the link below has [Function Blocks](../../../vehicle-spy-main-menus/main-menu-scripting-and-automation/function-blocks/) that can be imported to help quickly setup a neoECU 10.
 
-### neoECU10 Function Block Imports
+### [neoECU10 Function Block Imports](https://cdn.intrepidcs.net/support/VehicleSpy/NE10VS3FBImport.zip)

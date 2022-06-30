@@ -1,6 +1,6 @@
 # neoECU 10: IO Map
 
-The neoECU 10 uses Misc IO to configure the device.  Table 1 shows the Misc IO table for neoECU 10. Examples of using the Misc IO can be found at this Link: Examples. The examples show how to use different features like PWM I/O, Analog inputs, LED, SW CAN, and other configurations.
+The neoECU 10 uses Misc IO to configure the device.  Table 1 shows the Misc IO table for neoECU 10. Examples of using the Misc IO can be found at this [Link: Examples](https://cdn.intrepidcs.net/support/VehicleSpy/NE10Example.zip). The examples show how to use different features like PWM I/O, Analog inputs, LED, SW CAN, and other configurations.
 
 **Table 1: neoECU 10 Misc Pin**
 
@@ -28,13 +28,13 @@ The neoECU 10 uses Misc IO to configure the device.  Table 1 shows the Misc IO t
 | 66             | LED 2                 | Controls the state of LED 2              | Set is output to 1: Value Controls state                                                    |
 | 67             | LED 1                 | Controls the state of LED 1              | Set is output to 1: Value Controls state                                                    |
 
-The states and values for the MiscIO can be controlled though Function Blocks. The most common command to use to configure the Misc IO is Set Value.\
+The states and values for the MiscIO can be controlled though [Function Blocks](../../../vehicle-spy-main-menus/main-menu-scripting-and-automation/function-blocks/). The most common command to use to configure the Misc IO is [Set Value](../../../vehicle-spy-main-menus/main-menu-scripting-and-automation/function-blocks/function-blocks-types/script-type-function-block-commands/script-type-function-block-command-set-value.md).\
 \
 Figure 1 shows the Expression editor. To get to the Misc IO, select Physical IO on the left (Figure1: ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smOne.gif)) and then Misc IO to the right (Figure1: ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smTwo.gif)). At the bottom there are three properties (Figure1: ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smThree.gif)). The "Value" option is used to set or read a value from that IO.  For example setting the value of an output, or reading the state of an input. The "Is Output" property is to set the direction of the IO. One reason for doing this would be setting the direction for the IO. For example if you are working with a Digital Output, you would set the "Is Output" property to 1 (output). If this IO is not an output, but an input, set this property to be 0 (input).\
 
 
 ![Figure 1: Expression editor configuring Misc Pins](../../../.gitbook/assets/MiscIOSetupExpressionEditor.gif)
 
-One example of working with the Misc IO would be using the LED's. From Table 1, LED 3 is Misc IO 65. To work the LED, it would first need to be set to an output. In a Set Value command the "Is Output" Property would be set to "1".  This sets the direction of the IO. An LED is an output, so this IO was set to be an output. Next the "Value" property can be used to set the state of the LED. In the example below, the Value was set to 1 to turn the LED on.
+One example of working with the Misc IO would be using the LED's. From Table 1, LED 3 is Misc IO 65. To work the LED, it would first need to be set to an output. In a [Set Value](../../../vehicle-spy-main-menus/main-menu-scripting-and-automation/function-blocks/function-blocks-types/script-type-function-block-commands/script-type-function-block-command-set-value.md) command the "Is Output" Property would be set to "1".  This sets the direction of the IO. An LED is an output, so this IO was set to be an output. Next the "Value" property can be used to set the state of the LED. In the example below, the Value was set to 1 to turn the LED on.
 
 ![Figure 2: Turning LED On](../../../.gitbook/assets/NE10LEDOn.gif)

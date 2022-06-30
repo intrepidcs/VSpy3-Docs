@@ -1,6 +1,6 @@
 # neoECU Sleep Mode
 
-neoECU devices also have a sleep mode.  Sleep mode can be enabled in Function Block scripts using the Sleep step command. Table 1 gives an example Function Block script to enable sleep mode. This script works by checking the present status of a message. If the message is not received when it is expected, the device will go to sleep.  When normal traffic is received again, the neoECU will wakeup again.
+neoECU devices also have a sleep mode.  Sleep mode can be enabled in [Function Block](../../vehicle-spy-main-menus/main-menu-scripting-and-automation/function-blocks/) scripts using the [Sleep](../../vehicle-spy-main-menus/main-menu-scripting-and-automation/function-blocks/function-blocks-types/script-type-function-block-commands/script-type-function-block-command-sleep.md) step command. Table 1 gives an example [Function Block](../../vehicle-spy-main-menus/main-menu-scripting-and-automation/function-blocks/) script to enable sleep mode. This script works by checking the present status of a message. If the message is not received when it is expected, the device will go to sleep.  When normal traffic is received again, the neoECU will wakeup again.
 
 **Table 1: Example Function Block for enabling sleep mode**
 
@@ -14,5 +14,5 @@ neoECU devices also have a sleep mode.  Sleep mode can be enabled in Function Bl
 
 For more information on Function Block scripts see Vehicle Spy 3's help documentation. Sleep mode examples are included in the examples section for each neoECU device.
 
-* neoECU 10
-* neoECU 20
+* [neoECU 10](neoecu-10/neoecu-10-examples.md)
+* [neoECU 20](neoecu-20/neoecu-20-examples.md)
