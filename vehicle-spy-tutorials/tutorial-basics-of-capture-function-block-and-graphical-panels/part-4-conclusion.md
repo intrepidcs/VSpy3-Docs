@@ -6,7 +6,7 @@ To test the file, click on the blue **Play** button near the top left corner of 
 
 
 
-Congratulations the Graphical Panel is complete! Try completing a few exercises to build and reinforce Capture Function Block knowledge. Exercise 2 covers new concepts. The help documents are a great tools for learning new aspects of Vehicle Spy. For exercise 2 see Capture Function Blocks.
+Congratulations the Graphical Panel is complete! Try completing a few exercises to build and reinforce Capture Function Block knowledge. Exercise 2 covers new concepts. The help documents are a great tools for learning new aspects of Vehicle Spy. For exercise 2 see [Capture Function Blocks](../../vehicle-spy-main-menus/main-menu-scripting-and-automation/function-blocks/function-blocks-types/capture-type-function-block/).
 
 ### Exercises:
 

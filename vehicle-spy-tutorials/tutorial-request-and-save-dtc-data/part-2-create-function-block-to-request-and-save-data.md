@@ -10,7 +10,7 @@ Click the **+ button** and select **Script** to create a new Script type functio
 
 ### 3. Write the Script:
 
-Now a script needs to be entered. For this task 4 steps will be needed (Table 1). For **Diag Job Action** double clicking on the **Value** cell will allow selection of the diagnostic job to act on and how to act on it. For more information on this command see the help for the Diag Job Action command.
+Now a script needs to be entered. For this task 4 steps will be needed (Table 1). For **Diag Job Action** double clicking on the **Value** cell will allow selection of the diagnostic job to act on and how to act on it. For more information on this command see the help for the [Diag Job Action command](../../vehicle-spy-main-menus/main-menu-scripting-and-automation/function-blocks/function-blocks-types/script-type-function-block-commands/script-type-function-block-command-diag-job-action.md).
 
 **Table 1: Script function block steps.**
 

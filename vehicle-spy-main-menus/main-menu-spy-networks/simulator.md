@@ -60,7 +60,7 @@ The next group of settings has to do with network management for single wire CAN
 \
 If needed, an OSEK type network management scheme can be used. To enable this, Check the "Automatically perform OSEK\_NM for simulated nodes" check box (Figure 7: ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smFour.gif)).\
 \
-**Note**: It is possible the VNMF message the simulator sends out is not the most appropriate for your simulation. In these cases you can disable the simulator's VNMF and generate your own using Vehicle Spy function block scripts.
+**Note**: It is possible the VNMF message the simulator sends out is not the most appropriate for your simulation. In these cases you can disable the simulator's VNMF and generate your own using Vehicle Spy [function block scripts](../main-menu-scripting-and-automation/function-blocks/function-blocks-types/script-type-function-block.md).
 
 ![Figure 7: Use the Options tab to change when the simulator starts and Network Management parameters.](../../.gitbook/assets/iceecusim6.gif)
 
