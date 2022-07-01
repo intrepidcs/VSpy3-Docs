@@ -6,7 +6,7 @@ The first step, as with any Vehicle Spy project, is to open Vehicle Spy and Log 
 
 ### 2. Open VehicleScape:
 
-VehicleScape DAQ is located under **Measurement**. This Application note skips the platform and Signal selection steps.  For help on this part, see the VehicleScape help here.
+[VehicleScape DAQ](../../vehicle-spy-main-menus/main-menu-measurement/vehiclescape-daq/) is located under **Measurement**. This Application note skips the platform and Signal selection steps.  For help on this part, see the [VehicleScape help here](../../vehicle-spy-main-menus/main-menu-measurement/vehiclescape-daq/).
 
 ### 3. Open Standalone Logging:
 

@@ -8,7 +8,7 @@ For our last function block script we are going to create a Home Screen, that wi
 
 ### 2. Last Step - Loading CoreMini:
 
-You are now ready to load this into CoreMini. For help on this click here.
+You are now ready to load this into CoreMini. For help on this click [here](../application-note-coremini-partition-logging/).
 
 
 

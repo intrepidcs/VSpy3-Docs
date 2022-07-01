@@ -6,7 +6,7 @@ This Application Note describes how to use the standalone logging feature of Veh
 
 ### Parts of Vehicle Spy used:
 
-VehicleScape DAQ
+[VehicleScape DAQ](../../vehicle-spy-main-menus/main-menu-measurement/vehiclescape-daq/)
 
 ### Hardware needed:
 

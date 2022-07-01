@@ -2,7 +2,7 @@
 
 ### 1. Send the Script to Hardware:&#x20;
 
-Sending the script to the hardware is done the same way as normal with one extra step.  In the CoreMini Console, the SD Card Partition tab lets you configure the number of partitions to use.  The example for this application note uses 60 partitions.  Keep in mind that the more partitions used, the fewer number of messages that can be stored per partition.
+Sending the script to the hardware is done the same way as normal with one extra step.  In the [CoreMini Console](../../vehicle-spy-main-menus/main-menu-tools/utilities-coremini-console/), the SD Card Partition tab lets you configure the number of partitions to use.  The example for this application note uses 60 partitions.  Keep in mind that the more partitions used, the fewer number of messages that can be stored per partition.
 
 ![](../../.gitbook/assets/appnotCMPartPartition.gif)
 

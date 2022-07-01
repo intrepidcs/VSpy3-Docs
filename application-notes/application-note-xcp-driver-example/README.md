@@ -15,6 +15,6 @@ There are several files provided in this example implementation to help you get 
 5. ASAP2.pdf ASAP2 file format specification for your reference.
 6. XCP\_SPEC.zip Complete XCP specification for your reference.
 
-[Click Here to Go to Training Videos Page](https://www.intrepidcs.com/learning-center/training-video-library/)
+[Click Here to Go to Training Videos Page](https://intrepidcs.com/learning-center/videos/)
 
 Here you will find a video called **XCP Driver and Example Application Video.** It is a **** Windows Media Video that will take you through every step of creating the ASAP2 file to using it in Vehicle Spy with the XCP simulator. It is recommended that you view this video as the first step in learning about the Intrepid XCP support.

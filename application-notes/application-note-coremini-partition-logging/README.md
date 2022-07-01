@@ -8,10 +8,10 @@ In this application note, partitions on the card will be switched on receiving a
 
 ### Parts of Vehicle Spy used
 
-\- Message Editor\
-\- Application Signals\
-\- Function Blocks\
-\- CoreMini Console
+\- [Message Editor](../../vehicle-spy-main-menus/main-menu-spy-networks/message-editor/)\
+\- [Application Signals](../../vehicle-spy-main-menus/main-menu-scripting-and-automation/application-signals/)\
+\- [Function Blocks](../../vehicle-spy-main-menus/main-menu-scripting-and-automation/function-blocks/)\
+\- [CoreMini Console](../../vehicle-spy-main-menus/main-menu-tools/utilities-coremini-console/)
 
 ### Hardware needed
 

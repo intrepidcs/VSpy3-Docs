@@ -2,7 +2,7 @@
 
 ### 1. Control Function Block:
 
-The control [function block](https://cdn.intrepidcs.net/support/VehicleSpy/spyTestScriptFB.htm) is a script that will tell the capture function block to change partitions when the trigger condition is met.  There are a number of ways to do this script.  The basic functionality would be to:\
+The control [function block](../../vehicle-spy-main-menus/main-menu-scripting-and-automation/function-blocks/function-blocks-types/script-type-function-block.md) is a script that will tell the capture function block to change partitions when the trigger condition is met.  There are a number of ways to do this script.  The basic functionality would be to:\
 
 
 1. Set your index

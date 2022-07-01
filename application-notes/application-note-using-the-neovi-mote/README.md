@@ -6,9 +6,9 @@ This application note covers how to setup and configure a neoVI MOTE to display 
 
 ### Parts of Vehicle Spy used
 
-\- Message Editor\
-\- Function Blocks\
-\- CoreMini Console
+\- [Message Editor](../../vehicle-spy-main-menus/main-menu-spy-networks/message-editor/)\
+\- [Function Blocks](../../vehicle-spy-main-menus/main-menu-scripting-and-automation/function-blocks/)\
+\- [CoreMini Console](../../vehicle-spy-main-menus/main-menu-tools/utilities-coremini-console/)
 
 ### Hardware needed
 

@@ -29,8 +29,8 @@ ecu.sim.simulatetransmitmessages 0  ;simulate the receive messages for those in 
 | simulatenormal           | Returns/Sets if the ECUs should simulate normal messaging.                                                                                                   |                    |
 | simulatediagnostics      | Returns/Sets if the ECUs should simulate diagnostics messaging.                                                                                              |                    |
 | simulatetransmitmessages | <p>1 = tx message list is generated from the tx list of each ECU.<br><br>0 = tx message list is generated from the rx list of each ECU.</p>                  |                    |
-| sg                       | A collection of signals which will be copied to the transmit message upon compilation.                                                                       |                    |
-| tx                       | This is the collection of transmit messages sent by the simulator.  It is dynamically created by the compile method.                                         |                    |
+| sg                       | A [collection of signals](./) which will be copied to the transmit message upon compilation.                                                                 |                    |
+| tx                       | This is the [collection of transmit messages](./) sent by the simulator.  It is dynamically created by the compile method.                                   |                    |
 | replaystart              | This starts the replay data file at the first value if the simulator is running.                                                                             |                    |
 | replaystop               | This stops file replay if it is running.                                                                                                                     |                    |
 | generatehvwakeup         | If 1 the simulator will generate a single wire CAN high voltage wakeup when started.                                                                         |                    |

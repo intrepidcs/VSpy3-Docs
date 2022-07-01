@@ -14,11 +14,11 @@ This will be the message to look for.  When this message is received, a short po
 
 ### 3. Partition Index:&#x20;
 
-To keep track of which partition is being logged to, an application signal is needed.  In the example file this is called "PartitionIndex".  This will have to be an analog signal type.
+To keep track of which partition is being logged to, an [application signal](../../vehicle-spy-main-menus/main-menu-scripting-and-automation/application-signals/) is needed.  In the example file this is called "PartitionIndex".  This will have to be an analog signal type.
 
 ### 4. Capture Function Block:&#x20;
 
-Next a capture function block needs to be setup.  The settings to use are listed below:\
+Next a [capture function block](../../vehicle-spy-main-menus/main-menu-scripting-and-automation/function-blocks/function-blocks-types/capture-type-function-block/) needs to be setup.  The settings to use are listed below:\
 \
 Filter:  Default settings or create a filter for the messages of interest.\
 \
