@@ -2,7 +2,7 @@
 
 Data Analysis is a powerful tool for graphically displaying and analyzing the data in files collected from vehicle networks. It can be accessed through the Vehicle Spy [Measurement menu](../).\
 \
-Data can come from a variety of sources, including [buffer files](../../main-menu-spy-networks/messages-view/messages-view-top-toolbar/save-the-buffer.md), [log files](../logging.md), and files obtained from Capture Type Function Blocks. These files are all typically found in the current user's Data Directory.
+Data can come from a variety of sources, including [buffer files](../../main-menu-spy-networks/messages-view/messages-view-top-toolbar/save-the-buffer.md), [log files](../logging.md), and files obtained from [Capture Type Function Blocks](../../main-menu-scripting-and-automation/function-blocks/function-blocks-types/capture-type-function-block/). These files are all typically found in the current user's Data Directory.
 
 ### Data Analysis View and Partitions
 
