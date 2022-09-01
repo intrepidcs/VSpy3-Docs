@@ -1,10 +1,8 @@
 # PHY Dashboard
 
-{% hint style="info" %}
-## Note
+## <mark style="background-color:blue;">Note</mark>
 
-The Ethernet Phy Dashboard is a debugging tool. It is not intended to be used for every day work flow.
-{% endhint %}
+<mark style="background-color:blue;">The Ethernet Phy Dashboard is a debugging tool. It is not intended to be used for every day work flow.</mark>
 
 ### **Two primary things are needed to work with the PHY Dashboard.**
 
@@ -21,11 +19,9 @@ The PHY Dashboard can be opened from the Embedded Tools menu in Vehicle Spy (sho
 
 ### Register Access
 
-{% hint style="info" %}
-### **MDIO protocol**
+### <mark style="background-color:blue;">**MDIO protocol**</mark>
 
-Most Ethernet Phys communicate using MDIO protocol (Management Data Input/Output). Each frame is 32 bits. There are 2 start bits, a 2 bit operation code, 5 bit phy address, 5 bit register address, 2 bit turn around delay, and 16 bit data.
-{% endhint %}
+<mark style="background-color:blue;">Most Ethernet Phys communicate using MDIO protocol (Management Data Input/Output). Each frame is 32 bits. There are 2 start bits, a 2 bit operation code, 5 bit phy address, 5 bit register address, 2 bit turn around delay, and 16 bit data.</mark>
 
 ### Clause 22
 
@@ -37,11 +33,9 @@ The initial protocol, IEEE 802.3 Clause 22, was designed to read or write 32 reg
 
 <figure><img src="../.gitbook/assets/Clause22.png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="info" %}
-### Page Register
+### <mark style="background-color:blue;">Page Register</mark>
 
-Some Ethernet Phy manufacturers added a page register to allow for more registers in Clause 22. The page can be 0 – 255 decimal. If the Phy does not support pages, then page will be ignored. When using pages, reads and writes can no longer be performed in one operation. Instead you must write to the page register and then before any other process changes the page, you can read or write the destination register. If another process were to change the page register before you finish, the result will be an read the wrong register or an write to wrong register which may cause the Phy to stop working.
-{% endhint %}
+<mark style="background-color:blue;">Some Ethernet Phy manufacturers added a page register to allow for more registers in Clause 22. The page can be 0 – 255 decimal. If the Phy does not support pages, then page will be ignored. When using pages, reads and writes can no longer be performed in one operation. Instead you must write to the page register and then before any other process changes the page, you can read or write the destination register. If another process were to change the page register before you finish, the result will be an read the wrong register or an write to wrong register which may cause the Phy to stop working.</mark>
 
 ### Clause 45
 
