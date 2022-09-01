@@ -41,3 +41,5 @@ This application note will guide you through the use of the Gateway Builder incl
 ### [Dynamically Manipulating Application Signal Arrays](application-note-dynamically-manipulating-application-signal-arrays/application-note-dynamically-manipulating-application-signal-arrays.md)
 
 This application note covers using an Application Signal to select and manipulate elements of a different Application Signal Array using Function Blocks.
+
+### <mark style="color:blue;"></mark>[<mark style="color:blue;">PHY Dashboard</mark>](./#phy-dashboard)<mark style="color:blue;"></mark>

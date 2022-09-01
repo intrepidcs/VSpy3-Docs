@@ -489,6 +489,7 @@
     * [Application Note: Dynamically Manipulating Application Signal Arrays](application-notes/application-note-dynamically-manipulating-application-signal-arrays/application-note-dynamically-manipulating-application-signal-arrays-1.md)
     * [Application Note: Dynamically Manipulating Application Signal Arrays](application-notes/application-note-dynamically-manipulating-application-signal-arrays/application-note-dynamically-manipulating-application-signal-arrays-2.md)
     * [Application Note: Dynamically Manipulating Application Signal Arrays](application-notes/application-note-dynamically-manipulating-application-signal-arrays/application-note-dynamically-manipulating-application-signal-arrays-3.md)
+  * [PHY Dashboard](application-notes/phy-dashboard.md)
   * [Sample Replay Files](application-notes/sample-replay-files.md)
 
 ## &#x20;Contact Us
