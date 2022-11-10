@@ -20,10 +20,6 @@ Here are links to tutorials to some of the features mentioned.
 
 The next step is to select the platform to be used for the capture. This can be done right from the logon page when the program starts. Use the **Platform** or the **Current Platform** dropdown (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smOne.gif)) to select a platform . The signals and channels used in this example are made up.
 
-### 3. Select a Platform:
-
-The next step is to select the platform to be used for the capture. This can be done right from the logon page when the program starts. Use the **Platform** or the **Current Platform** dropdown (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smOne.gif)) to select a platform . The signals and channels used in this example are made up.
-
 ![Figure 1: Selecting a Platform](../../.gitbook/assets/tutorialssl1.gif)
 
 ### 4. Open VehicleScape DAQ:

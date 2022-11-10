@@ -6,7 +6,7 @@ The **Simulator** is designed to quickly simulate message traffic on a network. 
 \
 The information required to setup the simulator is retrieved from the configured database. This database lists the ECUs involved in a particular network, the messages they transmit and signals present. If the configured database is a GMLAN UEF database, more information is available such as virtual networks involved, periodic message rates, and the ability to simulate receive messages for the selected ECUs.\
 \
-The simulated messages and signals can be sourced from the simulator or through the normal Vehicle Spy software transmit functions. Signal data can be entered automatically from static values, calculated functions, Vehicle Spy expressions, and saved replay files (Figure 1). Vehicle Spy features such as Graphical Panels, Function Blocks, and Java can provide the simulation with further options.
+The simulated messages and signals can be sourced from the simulator or through the normal Vehicle Spy software transmit functions. Signal data can be entered automatically from static values, calculated functions, Vehicle Spy expressions, and saved replay files (Figure 1). Vehicle Spy features such as Graphical Panels and Function Blocks can provide the simulation with further options.
 
 ![Figure 1: There are many potential sources of signal data.](../../.gitbook/assets/icsecusim1.gif)
 
@@ -66,4 +66,4 @@ If needed, an OSEK type network management scheme can be used. To enable this, C
 
 ### Automating the Simulator <a href="#autosim" id="autosim"></a>
 
-The simulator can be fully automated via the Text API which is accessible through Java, Function Blocks, and external applications. Automatically setup, start, and stop the simulator as tests require.
+The simulator can be fully automated via the Text API which is accessible through Function Blocks and external applications. Automatically setup, start, and stop the simulator as tests require.

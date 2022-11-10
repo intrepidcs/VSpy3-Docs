@@ -1,6 +1,6 @@
 # Graphical Panel Controls: Action Button
 
-An Action Button control provides access to the Windows file selector dialog box from within a graphical panel. This type of button is very helpful for specifying a file path for Java.
+An Action Button control provides access to the Windows file selector dialog box from within a graphical panel.
 
 ![Figure 1: An example Action Button control.](../../../../.gitbook/assets/gpctrlActionButton.gif)
 

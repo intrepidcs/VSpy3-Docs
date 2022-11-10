@@ -8,7 +8,7 @@ Figure 1 shows the right half of the Application Signals window. The upper secti
 \
 You have a few options in the Value Type area that define when the signal is calculated.\
 \
-**This value is used as a general purpose variable** ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smFour.gif): This option is used when values are to be assigned in other parts of Vehicle Spy like function blocks and Java. The Initial Value option will set the application signal to the specified value when Start is clicked in Vehicle Spy.\
+**This value is used as a general purpose variable** ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smFour.gif): This option is used when values are to be assigned in other parts of Vehicle Spy like function blocks. The Initial Value option will set the application signal to the specified value when Start is clicked in Vehicle Spy.\
 \
 **This value is calculated on an interval** ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smFive.gif): Using this option, the application signal is calculated on a predefined interval. Click the Setup button to define the calculation with the [Calculated Signal Editor](../../../shared-features-in-vehicle-spy/shared-features-calculated-signal-editor/).\
 \
