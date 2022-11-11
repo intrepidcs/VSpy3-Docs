@@ -4,7 +4,7 @@
 
 The purpose of the Text API is to provide a simple text based command set for Vehicle Spy 3 to allow third party applications to take advantage of the power of Vehicle Spy without rewriting much code.\
 The Text API command set is text based so it can be easily used over many interfaces such as RS232, USB, Ethernet, or Wireless. It is also independent of the operating system or development environment of the host. The command set is similar to what may be found in a programmable instrument consisting of commands and responses.\
-You can easily write an object or function wrapper around the Text API. This will allow a more convenient use in professional languages such as C#, Java, Visual Basic, LabVIEW, or C/C++. The Text API could also exist as a simple macro language itself.
+You can easily write an object or function wrapper around the Text API. This will allow a more convenient use in professional languages such as C#,  Visual Basic, LabVIEW, or C/C++. The Text API could also exist as a simple macro language itself.
 
 ### Tips for Learning
 
@@ -76,11 +76,9 @@ The following table indicates how you can interact with the Text API.
 | ------------- | -------------------------------------- | ---------------------------------------------------------------------------------- |
 | Vehicle Spy 3 | Text API Terminal                      | Allows you to manually type in Text API commands and see their responses.          |
 | Vehicle Spy 3 | Function Blocks                        | Allows you to send and receive Text API commands.                                  |
-| Vehicle Spy 3 | Java                                   | The Java Environment interacts with Vehicle Spy via the Text API.                  |
 | Vehicle Spy 3 | Via COM or TCP port                    | Vehicle Spy 3 can act as a COM or TCP server. Setup via Tools/Options.             |
 | neoVI PRO     | neoVI PRO setup                        | The neoVI PRO setup allows you to send commands to neoVI PRO on the control panel. |
 | neoVI PRO     | via USB, COM and TCP ports             |                                                                                    |
-| neoVI PRO     | Java or Function Block scripts         |                                                                                    |
 | DLL           | The TextAPI method of the icsneo40.dll | Not yet supported.                                                                 |
 
 

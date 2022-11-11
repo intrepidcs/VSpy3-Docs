@@ -21,7 +21,6 @@ Graphical Panels = 06\
 Function Blocks = 09\
 GMLAN Diag ECUs = 11\
 GMLAN Snapshot= 13\
-Java = 14\
 Logging = 19\
 Data Analysis = 29\
 GMLAN Simulator = 30\
