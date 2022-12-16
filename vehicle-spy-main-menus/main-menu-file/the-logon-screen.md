@@ -8,7 +8,7 @@ To remove a user, the user [Data Directory](../../basic-operation-of-vehicle-spy
 
 When a name is selected, Vehicle Spy will load all of the custom information such as current databases and setup file selections.
 
-Current Databases are displayed as platform names in a **pull down list** (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smTwo.gif)). Each platform name represents an entire group of databases. Platforms and databases can be configured by clicking the ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/DatabaseIcon.gif) button to open the [Database Platforms](../main-menu-setup/network-databases.md) view.
+Current Databases are displayed as platform names in a **pull down list** (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smTwo.gif)). Each platform name represents an entire group of databases. Platforms and databases can be configured by clicking the ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/DatabaseIcon.gif) button to open the [Database Platforms](https://github.com/intrepidcs/VSpy3-Docs/blob/main/main-menu-setup/network-databases.md) view.
 
 Setup file selections appear in the area below the Current Databases field (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smThree.gif)). This area is divided into four sections, each with its own tab. Quickly switch between the sections by clicking on the desired tab. **Table 1** describes the function of each tab.
 
@@ -16,7 +16,7 @@ To open one of the listed files, simply select it and click the **Open** button 
 
 If you do not want to select a file from one of your lists, you can start with a new Vehicle Spy setup file by clicking the play button (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smFive.gif)) or by selecting **File>New**.
 
-![Figure 1: The Logon screen lets you customize Vehicle Spy and quickly find setup files](../../.gitbook/assets/spylogon.gif)
+![Figure 1: The Logon screen lets you customize Vehicle Spy and quickly find setup files](<../../.gitbook/assets/spylogon (1).gif>)
 
 **Table 1: Setup file selection tab descriptions**
 
@@ -25,12 +25,12 @@ If you do not want to select a file from one of your lists, you can start with a
 | Recent    | Lists the past 100 files you have opened.                                         |
 | My Setups | Lists all setup files found in the current user's data directory.                 |
 | Examples  | Lists useful example and tutorial setup files included with Vehicle Spy software. |
-| Tutorials | Lists tutorial setup files included with Vehicle Spy Software. |
+| Tutorials | Lists tutorial setup files included with Vehicle Spy Software.                    |
 
 ### Other Important Features
 
 Useful tutorials are located in the tutorials tab (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smSix.gif)).
 
-The Logon screen also shows what hardware is connected and will let you select a device if more than one unit is connected (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smSeven.gif)). Simply right click on the hardware you want to use and click **Select Hardware**. The selected hardware will have a check mark ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/chkFilter.gif) next to it. The ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/ConfigureHWIcon.gif) **Configure Hardware** button can be used to set the [baud rate](../main-menu-spy-networks/networks/setup-a-network.md) of the device.
+The Logon screen also shows what hardware is connected and will let you select a device if more than one unit is connected (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smSeven.gif)). Simply right click on the hardware you want to use and click **Select Hardware**. The selected hardware will have a check mark ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/chkFilter.gif) next to it. The ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/ConfigureHWIcon.gif) **Configure Hardware** button can be used to set the [baud rate](https://github.com/intrepidcs/VSpy3-Docs/blob/main/main-menu-spy-networks/networks/setup-a-network.md) of the device.
 
-When setting up a standalone logger, the **VehicleScape DAQ** button (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smEight.gif)) will open up [VehicleScape DAQ](../main-menu-measurement/vehiclescape-daq/) to help configure a logger. This is the same view as found by selecting Measurement>VehicleScape DAQ.
+When setting up a standalone logger, the **VehicleScape DAQ** button (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smEight.gif)) will open up [VehicleScape DAQ](https://github.com/intrepidcs/VSpy3-Docs/blob/main/main-menu-measurement/vehiclescape-daq/README.md) to help configure a logger. This is the same view as found by selecting Measurement>VehicleScape DAQ.

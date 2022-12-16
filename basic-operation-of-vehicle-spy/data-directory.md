@@ -11,6 +11,6 @@ The user's data directory is a sub directory of the Vehicle Spy Data Directory. 
 \
 If you delete a user's data directory, that user's logon will also be deleted.\
 \
-Notice that the files in a user's data directory will also be displayed in the Vehicle Spy [Logon](../vehicle-spy-main-menus/main-menu-file/the-logon-screen.md). It is possible to easily browse through and access files there as well.
+Notice that the files in a user's data directory will also be displayed in the Vehicle Spy [Logon](the-logon-screen.md). It is possible to easily browse through and access files there as well.
 
 ![Figure 1: The Data Directory is the default place for a user's setup and data files.](<../.gitbook/assets/spydatadirectory (1).gif>)

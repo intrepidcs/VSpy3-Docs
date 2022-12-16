@@ -25,7 +25,7 @@ Note that some storage methods have interactions with certain [collection method
 
 Enter here the name of the file to contain the saved data (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smTwo.gif)). This will form the base file name if the **Append Time and Date to file name** and/or **Append App Signal to the file name** options are selected.
 
-Data files are saved to the [data directory](../../../../main-menu-file/data-directory.md) of the currently [logged on](../../../../main-menu-file/the-logon-screen.md) user.
+Data files are saved to the [data directory](../../../../main-menu-file/data-directory.md) of the currently [logged on](../../../../../basic-operation-of-vehicle-spy/the-logon-screen.md) user.
 
 ### Storage Options
 
