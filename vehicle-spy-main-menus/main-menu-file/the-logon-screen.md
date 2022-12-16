@@ -16,7 +16,7 @@ To open one of the listed files, simply select it and click the **Open** button 
 
 If you do not want to select a file from one of your lists, you can start with a new Vehicle Spy setup file by clicking the play button (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smFive.gif)) or by selecting **File>New**.
 
-![Figure 1: The Logon screen lets you customize Vehicle Spy and quickly find setup files](<../../.gitbook/assets/spylogon (1).gif>)
+![Figure 1: The Logon screen lets you customize Vehicle Spy and quickly find setup files](../../.gitbook/assets/spylogon.gif)
 
 **Table 1: Setup file selection tab descriptions**
 
