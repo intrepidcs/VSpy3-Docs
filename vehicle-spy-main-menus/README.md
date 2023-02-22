@@ -14,7 +14,7 @@ Each menu item holds a different group of tasks that can be done with the softwa
 | [Setup](main-menu-setup/)                                       | This menu item has hardware and database configuration tools.                                                             |
 | [Spy Networks](main-menu-spy-networks/)                         | Common Vehicle Spy tasks are found in this menu.                                                                          |
 | [Measurement](main-menu-measurement/)                           | Tools for looking at and recording signal values are found here.                                                          |
-| Em[bedded Tools](main-menu-embedded-tools/)                     | Holds other tools to help with development.                                                                               |
+| [Embedded Tools](main-menu-embedded-tools/)                     | Holds other tools to help with development.                                                                               |
 | [GMLAN](main-menu-gmlan/)                                       | Helpful tools for GMLAN users. Note: GMLAN must be enabled on the Tools> Options, Spy Networks tab to see this selection. |
 | [Scripting and Automation](main-menu-scripting-and-automation/) | Tools to automate Vehicle Spy tasks.                                                                                      |
 | [Run](main-menu-run.md)                                         | Another way to start and stop Vehicle Spy.                                                                                |
