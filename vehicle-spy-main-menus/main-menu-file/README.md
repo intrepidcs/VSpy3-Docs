@@ -10,7 +10,7 @@ Refer to **Table 1** for a brief description of each File selection.
 
 | File Menu Selection                                                                        | Description                                                          |
 | ------------------------------------------------------------------------------------------ | -------------------------------------------------------------------- |
-| [Logon](../../basic-operation-of-vehicle-spy/the-logon-screen.md)                          | Opens the Logon view.                                                |
+| [Logon](the-logon-screen.md)                                                               | Opens the Logon view.                                                |
 | [New](../../basic-operation-of-vehicle-spy/create-open-and-save-vehicle-spy-setups.md)     | Creates a blank Vehicle Spy setup.                                   |
 | [Open](../../basic-operation-of-vehicle-spy/create-open-and-save-vehicle-spy-setups.md)    | Opens an existing Vehicle Spy Setup.                                 |
 | [Import > Function Block](import-function-blocks-and-graphical-panels.md)                  | Loads an exported Function Block (\*.vs3fb) into the current setup.  |

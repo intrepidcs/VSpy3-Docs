@@ -6,7 +6,7 @@ Function Blocks are accessed through the [Scripting and Automation](../) menu.
 
 ### Function Block Types
 
-There are three [types](function-blocks-types/) of function blocks, which are differentiated based on the primary job they are intended to perform: [script](function-blocks-types/script-type-function-block.md), [capture](function-blocks-types/capture-type-function-block/) and [playback](function-blocks-types/tutorial-1-basics-of-vehicle-spy.md). You can define as many function blocks of as many different types as needed for your application, and all run simultaneously. Function blocks can also interact with each other: for example, you can use one function block to start or stop another.
+There are three [types](function-blocks-types/) of function blocks, which are differentiated based on the primary job they are intended to perform: [script](function-blocks-types/script-type-function-block.md), [capture](function-blocks-types/capture-type-function-block/) and [playback](function-blocks-types/playback-type-function-block.md). You can define as many function blocks of as many different types as needed for your application, and all run simultaneously. Function blocks can also interact with each other: for example, you can use one function block to start or stop another.
 
 ### Hardware Scripting
 
