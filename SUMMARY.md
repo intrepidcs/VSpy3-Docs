@@ -367,7 +367,7 @@
           * [Capture Type Function Block: Stop and Trigger Tab](vehicle-spy-main-menus/main-menu-scripting-and-automation/function-blocks/function-blocks-types/capture-type-function-block/capture-type-function-block-stop-and-trigger-tab.md)
           * [Capture Type Function Block: Storage Tab](vehicle-spy-main-menus/main-menu-scripting-and-automation/function-blocks/function-blocks-types/capture-type-function-block/capture-type-function-block-storage-tab.md)
           * [Capture Type Function Block: Data Tab](vehicle-spy-main-menus/main-menu-scripting-and-automation/function-blocks/function-blocks-types/capture-type-function-block/capture-type-function-block-data-tab.md)
-        * [Tutorial 1: Basics of Vehicle Spy](vehicle-spy-main-menus/main-menu-scripting-and-automation/function-blocks/function-blocks-types/tutorial-1-basics-of-vehicle-spy.md)
+        * [Playback Type Function Block](vehicle-spy-main-menus/main-menu-scripting-and-automation/function-blocks/function-blocks-types/tutorial-1-basics-of-vehicle-spy.md)
         * [Function Blocks Hotkeys](vehicle-spy-main-menus/main-menu-scripting-and-automation/function-blocks/function-blocks-types/function-blocks-hotkeys.md)
     * [C Code Interface](vehicle-spy-main-menus/main-menu-scripting-and-automation/c-code-interface/README.md)
       * [Working with the C Code Interface](vehicle-spy-main-menus/main-menu-scripting-and-automation/c-code-interface/working-with-the-c-code-interface.md)
@@ -492,6 +492,6 @@
   * [PHY Dashboard](application-notes/phy-dashboard.md)
   * [Sample Replay Files](application-notes/sample-replay-files.md)
 
-## &#x20;Contact Us
+## Contact Us
 
 * [Contact Information - Intrepid Control Systems, Inc.](contact-us/contact-information-intrepid-control-systems-inc..md)
