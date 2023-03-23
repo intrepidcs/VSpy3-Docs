@@ -14,3 +14,11 @@ Use the Vehicle Spy setup dialog to setup the following:
 * [GPS](options-gps-setup.md)
 * [Directories](options-data-directories.md)
 * [Regional Settings](options-regional-settings.md)
+
+
+
+![Figure 2:](../../../.gitbook/assets/spyOptions_bottom.png)
+
+## Copy To Clipboard (Figure 1:<img src="../../../.gitbook/assets/circlemarkers/1.png" width="18" height="18">)
+
+This button will take a screenshot (as an image) of the currently displayed options panel.  This is useful if you want to share your options with another user or if you are asked to send your options to support.  After you click "Copy to Clipboard", you can paste the image into an email or online chat.
