@@ -12,6 +12,8 @@ To enable hardware simulation, first enable the "Simulation Mode" checkbox and s
 
 ![Figure 1: The Spy Networks tab lets you run in simulation mode or configure your hardware.](../../../../.gitbook/assets/spyHardwareSetup.gif)
 
+### Simulation Mode
+
 ### Hardware Setup
 
 If vehicle network hardware is available then use this area to help configure it. If Auto-Detect is not enabled, the hardware connection needs to be specified.
