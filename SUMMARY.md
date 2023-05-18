@@ -396,7 +396,7 @@
     * [Utilities: Extract / Export](vehicle-spy-main-menus/main-menu-tools/utilities-extract-export/README.md)
       * [Utilities: Extract from SD Card](vehicle-spy-main-menus/main-menu-tools/utilities-extract-export/utilities-extract-from-sd-card.md)
       * [Utilities: Export VSB to Other Formats](vehicle-spy-main-menus/main-menu-tools/utilities-extract-export/utilities-export-vsb-to-other-formats.md)
-      * [How to convert VSB files to CSV format on windows using dataextract.exe tool.](vehicle-spy-main-menus/main-menu-tools/utilities-extract-export/how-to-convert-vsb-files-to-csv-format-on-windows-using-dataextract.exe-tool..md)
+      * [How to convert VSB files to CSV format on windows using dataextract.exe tool](vehicle-spy-main-menus/main-menu-tools/utilities-extract-export/how-to-convert-vsb-files-to-csv-format-on-windows-using-dataextract.exe-tool.md)
     * [Tools: Problem Log](vehicle-spy-main-menus/main-menu-tools/tools-problem-log.md)
     * [Utilities: File Conversions](vehicle-spy-main-menus/main-menu-tools/utilities-file-conversions/README.md)
       * [VSB Editor](vehicle-spy-main-menus/main-menu-tools/utilities-file-conversions/vsb-editor.md)
