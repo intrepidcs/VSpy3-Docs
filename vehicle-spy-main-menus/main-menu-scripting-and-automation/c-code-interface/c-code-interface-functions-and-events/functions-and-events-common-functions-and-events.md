@@ -4,7 +4,7 @@ There are certain functions for every C code module. Implementation of any of th
 
 **Table 1: Timer Properties that can be Configured in Vehicle Spy**
 
-****
+
 
 | Function Name      | Called                                                    | Other Info                                                                                  |
 | ------------------ | --------------------------------------------------------- | ------------------------------------------------------------------------------------------- |

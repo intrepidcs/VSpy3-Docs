@@ -14,7 +14,7 @@ Select the **LED Control** (Figure 1:![](https://cdn.intrepidcs.net/support/Vehi
 
 ### 3. Change the Tool Properties:
 
-Select the LED that was placed in the graphical panel. Once the LED is selected, find the **Caption** property (Figure 2:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smOne.gif)), and change it **Playback Status**. Select the **Show Caption** (Figure 2:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smTwo.gif)) and select **1-Yes** from the pulldown. Select your **On/Off button** and change the **OnText** property to **Running** and the **OffText** property **** to **Stopped**. The caption for the On/Off Button changes depending whether it is set on or off.
+Select the LED that was placed in the graphical panel. Once the LED is selected, find the **Caption** property (Figure 2:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smOne.gif)), and change it **Playback Status**. Select the **Show Caption** (Figure 2:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smTwo.gif)) and select **1-Yes** from the pulldown. Select your **On/Off button** and change the **OnText** property to **Running** and the **OffText** property to **Stopped**. The caption for the On/Off Button changes depending whether it is set on or off.
 
 ![Figure 2: Properties setup for Controls](../../.gitbook/assets/spyfbexample2.2.2.gif)
 

@@ -14,4 +14,4 @@ The CoreMini Console contains information regarding the setup that is to be tran
 \
 Select a device to load the script to (Figure 2:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smTwo.gif)). The "Run CoreMini After Download" checkbox (Figure 2:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smThree.gif)) tells the hardware if it should run the script after it is loaded. If this is unchecked, the script will not run until the unit is re-powered. The Send button (Figure 2: ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smFour.gif)) will send the script to the hardware. Scripts can be removed from the hardware by using the Clear button (Figure 2:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smFive.gif)). Once a script has been removed from the hardware, the script must be sent to the hardware again in order to run it.
 
-![Figure 2: The CoreMini Console.](../../../.gitbook/assets/CoreMiniConsole.gif)
+![Figure 2: The CoreMini Console.](<../../../.gitbook/assets/CoreMiniConsole (1).gif>)

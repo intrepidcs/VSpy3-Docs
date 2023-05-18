@@ -10,7 +10,7 @@ Table 1 describes just a few of the many ways that capture blocks can be used. I
 
 **Table 1: Sample applications of capture type function blocks**
 
-****
+
 
 | Application Description                                                                                  | Buffer                 | Start Type           | Stop and Trigger Options                                                                       | Storage                          |
 | -------------------------------------------------------------------------------------------------------- | ---------------------- | -------------------- | ---------------------------------------------------------------------------------------------- | -------------------------------- |

@@ -17,4 +17,4 @@ There are several files provided in this example implementation to help you get 
 
 [Click Here to Go to Training Videos Page](https://intrepidcs.com/learning-center/videos/)
 
-Here you will find a video called **XCP Driver and Example Application Video.** It is a **** Windows Media Video that will take you through every step of creating the ASAP2 file to using it in Vehicle Spy with the XCP simulator. It is recommended that you view this video as the first step in learning about the Intrepid XCP support.
+Here you will find a video called **XCP Driver and Example Application Video.** It is a Windows Media Video that will take you through every step of creating the ASAP2 file to using it in Vehicle Spy with the XCP simulator. It is recommended that you view this video as the first step in learning about the Intrepid XCP support.

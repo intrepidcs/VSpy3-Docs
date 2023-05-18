@@ -4,9 +4,9 @@ The Gateway Builder has several parts to it. The details of each are below.
 
 ![Figure 1](../../.gitbook/assets/GWBImage3.gif)
 
-#### ****[**Section 1**](tutorial-gateway-builder-part-2-gateway-builder-overview.md#figure-1-gateway-builder-toolbar) **-** [**Section 2**](tutorial-gateway-builder-part-2-gateway-builder-overview.md#figure-1-input-network-view) **-** [**Section 3**](tutorial-gateway-builder-part-2-gateway-builder-overview.md#figure-1-selected-messages-view) **-** [**Section 4**](tutorial-gateway-builder-part-2-gateway-builder-overview.md#figure-1-outgoing-messages-view) **-** [**Section 5**](tutorial-gateway-builder-part-2-gateway-builder-overview.md#figure-1-setup-panel)****
+#### [**Section 1**](tutorial-gateway-builder-part-2-gateway-builder-overview.md#figure-1-gateway-builder-toolbar) **-** [**Section 2**](tutorial-gateway-builder-part-2-gateway-builder-overview.md#figure-1-input-network-view) **-** [**Section 3**](tutorial-gateway-builder-part-2-gateway-builder-overview.md#figure-1-selected-messages-view) **-** [**Section 4**](tutorial-gateway-builder-part-2-gateway-builder-overview.md#figure-1-outgoing-messages-view) **-** [**Section 5**](tutorial-gateway-builder-part-2-gateway-builder-overview.md#figure-1-setup-panel)
 
-****
+
 
 ### Figure 1: ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smOne.gif) - Gateway Builder Toolbar:
 

@@ -8,7 +8,7 @@ Hotkeys can be defined for the following function block operations:
 
 * **Starting/Stopping:** The **Start/Stop Hotkey** option appears on the [Start Tab](../function-block-start-tab.md), which is present for all function block types. Pressing this hotkey will start the script manually if it is not running, or stop the script if it is.
 * **Triggering a Capture Block:** Capture type function blocks can have a hotkey assigned to them on the [Stop and Trigger Tab](capture-type-function-block/capture-type-function-block-stop-and-trigger-tab.md), which when pressed, will trigger the collection of data.
-* **Storing Data in a Capture Block:** You can also assign a hotkey on the [Storage Tab](capture-type-function-block/capture-type-function-block-storage-tab.md) **** of a capture block, which will cause the script's buffer to be saved when the hotkey is pressed.
+* **Storing Data in a Capture Block:** You can also assign a hotkey on the [Storage Tab](capture-type-function-block/capture-type-function-block-storage-tab.md) of a capture block, which will cause the script's buffer to be saved when the hotkey is pressed.
 
 ### Hotkey Types
 
@@ -23,4 +23,4 @@ Naturally, using joystick buttons requires a joystick to be set up on the comput
 
 ### Automatic Hotkey Combination for Starting Function blocks
 
-In addition to allowing a hotkey to be assigned on the **Start Tab** to start or stop a function block, Vehicle Spy also automatically assigns a special key combination for starting blocks. Press **F3** to bring up the [general hotkeys **** list](../../../../shared-features-in-vehicle-spy/shared-features-predefined-function-keys.md), then press **B** followed by the number next to the function block you want to start.
+In addition to allowing a hotkey to be assigned on the **Start Tab** to start or stop a function block, Vehicle Spy also automatically assigns a special key combination for starting blocks. Press **F3** to bring up the [general hotkeys list](../../../../shared-features-in-vehicle-spy/shared-features-predefined-function-keys.md), then press **B** followed by the number next to the function block you want to start.

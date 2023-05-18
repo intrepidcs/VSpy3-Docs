@@ -6,4 +6,4 @@ Tearing and Docking Tabs (Figure 1): Tabs in Vehicle Spy can be "torn off" or re
 
 Tabs that are removed can be put back or placed in other views. This is done by clicking and dragging on the view's title bar and moving it towards the view to dock it to. When the view gets close to another view, a dock option will appear. Moving the mouse over the dock option will snap it to the other view. The highlighted area is where the view will go if the mouse button is released. To prevent docking the view but allow it to move it elsewhere, hold Ctrl on the keyboard while dragging.
 
-![Figure 1: Tearing and docking a tab.](../.gitbook/assets/Intrp2.2.gif)
+![Figure 1: Tearing and docking a tab.](<../.gitbook/assets/Intrp2.2 (1).gif>)

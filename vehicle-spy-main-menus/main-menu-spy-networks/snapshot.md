@@ -1,6 +1,6 @@
 # Snapshot
 
-****[**Spy Networks**](./)**> Snapshot** is a tool that provides a fast and easy way for GMLAN and ISO 14229 users to perform simple diagnostic tasks. With the click of a button Snapshot can read and write DIDs, read and clear fault codes, or perform an entire bus query. For GMLAN, a button for CPIDs is available for ECU device control. If more advanced diagnostic actions are required then please refer to the [Diagnostics Setup](diagnostics/diagnostics-setup.md) screen.
+[**Spy Networks**](./)**> Snapshot** is a tool that provides a fast and easy way for GMLAN and ISO 14229 users to perform simple diagnostic tasks. With the click of a button Snapshot can read and write DIDs, read and clear fault codes, or perform an entire bus query. For GMLAN, a button for CPIDs is available for ECU device control. If more advanced diagnostic actions are required then please refer to the [Diagnostics Setup](diagnostics/diagnostics-setup.md) screen.
 
 Note: All figures on this page show Snapshot in GMLAN mode.
 

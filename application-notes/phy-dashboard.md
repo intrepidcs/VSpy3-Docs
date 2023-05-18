@@ -9,7 +9,11 @@
 1. The manufacturer’s data sheet of the PHY. This is needed to know the function of the registers and the format of their contents. These data sheets are usually confidential and require and NDA (Non Disclosure Agreement) with the manufacturer.
 2. The address of the PHY in the device and protocol used. If your device is not listed below, please contact [support@intrepidcs.com](mailto:support%40intrepidcs.com).
 
+<div align="left">
+
 <figure><img src="../.gitbook/assets/tablephy.PNG" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ### Opening the PHY Dashboard
 
