@@ -1,4 +1,4 @@
-# How to convert VSB files to CSV format on windows using dataextract.exe tool.
+# Utilities: Export VSB to CSV format using DataExtract.exe
 
 #### How to convert VSB files to CSV format on windows using dataextract.exe tool.
 
@@ -12,10 +12,10 @@ Place the vsb files and the vsdb database in some folder.
 
 * You may want to adjust just how much disk space you can do without, using the Advanced Options button and the Export tab:
 
-<figure><img src="../../../.gitbook/assets/image2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image2 (1).png" alt=""><figcaption></figcaption></figure>
 
-Then they select CSV here:
+* Select CSV here
 
-<figure><img src="../../../.gitbook/assets/image3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image3 (1).png" alt=""><figcaption></figcaption></figure>
 
-and Click Export!
+* And Click Export!
