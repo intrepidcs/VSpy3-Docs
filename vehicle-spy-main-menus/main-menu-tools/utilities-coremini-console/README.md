@@ -12,7 +12,7 @@ The Device drop down (Figure 2: ![](https://cdn.intrepidcs.net/support/VehicleSp
 \
 If the "Run CoreMini After Download" box is checked, the script will start to run. To remove a script from the selected hardware, the "Clear" button (Figure 2: ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smFive.gif)) is used. The Advanced settings checkbox (Figure 2: ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smSix.gif)) reveals a few extra options. The first is to "Skip Read Bin". This option is useful when working with large files, for example replay files. Enabling this option will prevent reloading the file if the hardware already has it loaded. This options is defaulted off. The second option is to "Enable RTC Sync", which controls updating the RTC in the hardware when a CoreMini is loaded into the device. The default for this option is enabled.
 
-![Figure 2: CoreMini Console](<../../../.gitbook/assets/CoreMiniConsole (1).gif>)
+![Figure 2: CoreMini Console](../../../.gitbook/assets/CoreMiniConsole.gif)
 
 Some hardware devices support loading CoreMini Scripts over CAN, neoVI ECU would be an example. CoreMini scripts are sent to these types of devices using the "neoECU (CAN)" (Figure 3: ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smSeven.gif)) option. The supported networks are listed in the "Network" drop down (Figure 3: ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smEight.gif))is sent to the device using the "Send..." button.
 

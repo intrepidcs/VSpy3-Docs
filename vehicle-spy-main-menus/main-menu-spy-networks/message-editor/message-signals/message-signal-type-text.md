@@ -79,4 +79,3 @@ Table 1 is a lookup table to convert between ASCII character, decimal, and hexad
 | Greater-Than Sign     | >    | 62  | $3E | Tilde          | \~   | 126 | $7E |
 | Question Mark         | ?    | 63  | $3F | Delete         | DEL  | 12  | $7F |
 
-***

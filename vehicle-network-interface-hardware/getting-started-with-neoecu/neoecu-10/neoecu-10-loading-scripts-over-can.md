@@ -14,7 +14,7 @@ The first step to transferring a CoreMini to a neoECU device is to open the [Cor
 
 The CoreMini Console contains information regarding the setup that is to be transferred. Figure 3: ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smOne.gif) shows the output list. This list will notify you of any errors or warnings. If problems exist in the script, a red dot will be next to that item to warn you that something is wrong. The section at the bottom labeled "Device Configuration and Download" lets you chose what type of CoreMini Device you are trying to access.
 
-![Figure 3: The CoreMini Console](<../../../.gitbook/assets/CoreMiniConsole (1).gif>)
+![Figure 3: The CoreMini Console](../../../.gitbook/assets/CoreMiniConsole.gif)
 
 For CAN devices, click on "neoECU (CAN)" (Figure4: ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smSeven.gif)). This works in much the same way with only a few exceptions. The first is that the CAN tool used to program the device needs to be selected (Figure4:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smEight.gif)).Once selected, the "Poll for neoECUs" can be clicked. This will fill the box on the right with the neoECU devices that were found. After the device is found, the Send and Clear buttons will send the script and clear the script.
 

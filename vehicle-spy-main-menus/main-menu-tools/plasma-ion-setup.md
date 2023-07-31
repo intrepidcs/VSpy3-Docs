@@ -22,13 +22,7 @@ The TightVNC Viewer window has peculiar navigation methods which are listed here
 
 **Table 1: TightVNC Viewer Commands**
 
-| PC Input             | Android Command  | Result in TightVNC Viewer                           |
-| -------------------- | ---------------- | --------------------------------------------------- |
-| Left mouse button    | Select           | Selects item behind the mouse cursor.               |
-| Right mouse button   | Back             | Returns to previous screen or menu.                 |
-| Page Up key          | Menu             | Shows menu options, if available.                   |
-| Up / Down arrow keys | Scroll Up / Down | Moves cursor up / down within a menu list of items. |
-| Home key             | Home             | Returns to main home screen from anywhere.          |
+<table><thead><tr><th width="156.33333333333331">PC Input</th><th>Android Command</th><th>Result in TightVNC Viewer</th></tr></thead><tbody><tr><td>Left mouse button</td><td>Select</td><td>Selects item behind the mouse cursor.</td></tr><tr><td>Right mouse button</td><td>Back</td><td>Returns to previous screen or menu.</td></tr><tr><td>Page Up key</td><td>Menu</td><td>Shows menu options, if available.</td></tr><tr><td>Up / Down arrow keys</td><td>Scroll Up / Down</td><td>Moves cursor up / down within a menu list of items.</td></tr><tr><td>Home key</td><td>Home</td><td>Returns to main home screen from anywhere.</td></tr></tbody></table>
 
 ### Changing Wireless Settings on an ICS Logger
 
@@ -48,21 +42,4 @@ Near the top of the TightVNC Viewer screen (Figure 1:![](https://cdn.intrepidcs.
 
 **Table 1: ICS Logger Status Bar Icons**
 
-|                                       Icon                                       | Description                                                               |
-| :------------------------------------------------------------------------------: | ------------------------------------------------------------------------- |
-| <img src="../../.gitbook/assets/3GActiveIcon22.gif" alt="" data-size="original"> | 3G network - alternating arrows means data is transferring.               |
-|                 ![](../../.gitbook/assets/BatteryFullIcon22.gif)                 | Battery status full. (VNET connected to DC power)                         |
-|                  ![](../../.gitbook/assets/GPSLockedIcon22.gif)                  | GPS enabled and locked in.                                                |
-|                 ![](../../.gitbook/assets/GPSUnlockedIcon22.gif)                 | GPS enabled, but not locked in. (blinking circle means trying to lock in) |
-|            ![](../../.gitbook/assets/CellSignalStrengthFullIcon22.gif)           | Cellular signal - full strength.                                          |
-|          ![](../../.gitbook/assets/CellSignalStrengthPartialIcon22.gif)          | Cellular signal - some strength.                                          |
-|            ![](../../.gitbook/assets/CellSignalStrengthNoneIcon22.gif)           | Cellular signal - no signal.                                              |
-|                ![](../../.gitbook/assets/SIMCardMissingIcon22.gif)               | SIM card not detected.                                                    |
-|                  ![](../../.gitbook/assets/SoundMutedIcon22.gif)                 | Sound is muted.                                                           |
-|                   ![](../../.gitbook/assets/HotSpotIcon22.gif)                   | Tethering or hotspot is active.                                           |
-|              ![](../../.gitbook/assets/TightVNCConnectedIcon22.gif)              | TightVNC is connected.                                                    |
-|            ![](../../.gitbook/assets/WFISignalStrengthFullIcon22.gif)            | WIFI signal - full strength.                                              |
-|            ![](../../.gitbook/assets/WFISignalStrength2barsIcon22.gif)           | WIFI signal - some strength.                                              |
-|            ![](../../.gitbook/assets/WFISignalStrengthNoneIcon22.gif)            | WIFI signal - no signal.                                                  |
-|                    ![](../../.gitbook/assets/WNappIcon22.gif)                    | WirelessNeoVI service is enabled and server is online.                    |
-|                ![](../../.gitbook/assets/WNappDisabledIcon22.gif)                | WirelessNeoVI service is disabled or server is offline.                   |
+<table><thead><tr><th width="197.57142857142856" align="center">Icon</th><th>Description</th></tr></thead><tbody><tr><td align="center"><img src="../../.gitbook/assets/3GActiveIcon22.gif" alt="" data-size="original"></td><td>3G network - alternating arrows means data is transferring.</td></tr><tr><td align="center"><img src="../../.gitbook/assets/BatteryFullIcon22.gif" alt=""></td><td>Battery status full. (VNET connected to DC power)</td></tr><tr><td align="center"><img src="../../.gitbook/assets/GPSLockedIcon22.gif" alt=""></td><td>GPS enabled and locked in.</td></tr><tr><td align="center"><img src="../../.gitbook/assets/GPSUnlockedIcon22.gif" alt=""></td><td>GPS enabled, but not locked in. (blinking circle means trying to lock in)</td></tr><tr><td align="center"><img src="../../.gitbook/assets/CellSignalStrengthFullIcon22.gif" alt=""></td><td>Cellular signal - full strength.</td></tr><tr><td align="center"><img src="../../.gitbook/assets/CellSignalStrengthPartialIcon22.gif" alt=""></td><td>Cellular signal - some strength.</td></tr><tr><td align="center"><img src="../../.gitbook/assets/CellSignalStrengthNoneIcon22.gif" alt=""></td><td>Cellular signal - no signal.</td></tr><tr><td align="center"><img src="../../.gitbook/assets/SIMCardMissingIcon22.gif" alt=""></td><td>SIM card not detected.</td></tr><tr><td align="center"><img src="../../.gitbook/assets/SoundMutedIcon22.gif" alt=""></td><td>Sound is muted.</td></tr><tr><td align="center"><img src="../../.gitbook/assets/HotSpotIcon22.gif" alt=""></td><td>Tethering or hotspot is active.</td></tr><tr><td align="center"><img src="../../.gitbook/assets/TightVNCConnectedIcon22.gif" alt=""></td><td>TightVNC is connected.</td></tr><tr><td align="center"><img src="../../.gitbook/assets/WFISignalStrengthFullIcon22.gif" alt=""></td><td>WIFI signal - full strength.</td></tr><tr><td align="center"><img src="../../.gitbook/assets/WFISignalStrength2barsIcon22.gif" alt=""></td><td>WIFI signal - some strength.</td></tr><tr><td align="center"><img src="../../.gitbook/assets/WFISignalStrengthNoneIcon22.gif" alt=""></td><td>WIFI signal - no signal.</td></tr><tr><td align="center"><img src="../../.gitbook/assets/WNappIcon22.gif" alt=""></td><td>WirelessNeoVI service is enabled and server is online.</td></tr><tr><td align="center"><img src="../../.gitbook/assets/WNappDisabledIcon22.gif" alt=""></td><td>WirelessNeoVI service is disabled or server is offline.</td></tr></tbody></table>

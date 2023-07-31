@@ -16,4 +16,4 @@ Saving in a .vs3zip format will save a copy of all your databases in addition to
 
 **\*Note**: Saving a setup file via the File menu is different than pressing the Save button in Messages view. Saving in Messages view saves data (.csv) files. Selecting File> Save from the main menu saves setup (.vs3 or .vs3zip) files.
 
-![Figure 1: Create, open, and save setup (.vs3 and .vs3zip) files via the File menu.](../../.gitbook/assets/spyopensavenew.gif)
+![Figure 1: Create, open, and save setup (.vs3 and .vs3zip) files via the File menu.](<../../.gitbook/assets/spyopensavenew (1).gif>)

@@ -78,73 +78,11 @@ This format is created by the Loggers and VSpy Stream to Disk.
 
 #### version 0x101 <a href="#network_v101" id="network_v101"></a>
 
-| Description | Value |
-| ----------- | ----- |
-| HSCAN       | 0     |
-| MSCAN       | 1     |
-| SWCAN       | 2     |
-| LSFTCAN     | 5     |
-| DEVICE      | 8     |
-| HSCAN2      | 9     |
-| HSCAN3      | 10    |
-| LIN2        | 11    |
-| LIN3        | 12    |
-| LIN4        | 13    |
+<table><thead><tr><th width="150">Description</th><th>Value</th></tr></thead><tbody><tr><td>HSCAN</td><td>0</td></tr><tr><td>MSCAN</td><td>1</td></tr><tr><td>SWCAN</td><td>2</td></tr><tr><td>LSFTCAN</td><td>5</td></tr><tr><td>DEVICE</td><td>8</td></tr><tr><td>HSCAN2</td><td>9</td></tr><tr><td>HSCAN3</td><td>10</td></tr><tr><td>LIN2</td><td>11</td></tr><tr><td>LIN3</td><td>12</td></tr><tr><td>LIN4</td><td>13</td></tr></tbody></table>
 
 #### version 0x102 , 0x103, 0x104 <a href="#network_other" id="network_other"></a>
 
-| Description    | Value |
-| -------------- | ----- |
-| DEVICE         | 0     |
-| HSCAN          | 1     |
-| MSCAN          | 2     |
-| SWCAN          | 3     |
-| LSFTCAN        | 4     |
-| J1708          | 6     |
-| JVPW           | 8     |
-| ISO            | 9     |
-| ISO2           | 14    |
-| LIN            | 16    |
-| ISO3           | 41    |
-| HSCAN2         | 42    |
-| HSCAN3         | 44    |
-| ISO4           | 47    |
-| LIN2           | 48    |
-| LIN3           | 49    |
-| LIN4           | 50    |
-| LIN5           | 84    |
-| MOST           | 51    |
-| CGI            | 53    |
-| HSCAN4         | 61    |
-| HSCAN5         | 62    |
-| SWCAN2         | 68    |
-| ETHERNET\_DAQ  | 69    |
-| FLEXRAY1A      | 80    |
-| FLEXRAY1B      | 81    |
-| FLEXRAY2A      | 82    |
-| FLEXRAY2B      | 83    |
-| FLEXRAY        | 85    |
-| MOST25         | 90    |
-| MOST50         | 91    |
-| ETHERNET       | 93    |
-| GMFSA          | 94    |
-| TCP            | 95    |
-| HSCAN6         | 96    |
-| HSCAN7         | 97    |
-| LIN6           | 98    |
-| LSFTCAN2       | 99    |
-| OP\_ETHERNET1  | 17    |
-| OP\_ETHERNET2  | 18    |
-| OP\_ETHERNET3  | 19    |
-| OP\_ETHERNET4  | 45    |
-| OP\_ETHERNET5  | 46    |
-| OP\_ETHERNET6  | 73    |
-| OP\_ETHERNET7  | 75    |
-| OP\_ETHERNET8  | 76    |
-| OP\_ETHERNET9  | 77    |
-| OP\_ETHERNET10 | 78    |
-| OP\_ETHERNET11 | 79    |
-| OP\_ETHERNET12 | 87    |
+<table><thead><tr><th width="150">Description</th><th>Value</th></tr></thead><tbody><tr><td>DEVICE</td><td>0</td></tr><tr><td>HSCAN</td><td>1</td></tr><tr><td>MSCAN</td><td>2</td></tr><tr><td>SWCAN</td><td>3</td></tr><tr><td>LSFTCAN</td><td>4</td></tr><tr><td>J1708</td><td>6</td></tr><tr><td>JVPW</td><td>8</td></tr><tr><td>ISO</td><td>9</td></tr><tr><td>ISO2</td><td>14</td></tr><tr><td>LIN</td><td>16</td></tr><tr><td>ISO3</td><td>41</td></tr><tr><td>HSCAN2</td><td>42</td></tr><tr><td>HSCAN3</td><td>44</td></tr><tr><td>ISO4</td><td>47</td></tr><tr><td>LIN2</td><td>48</td></tr><tr><td>LIN3</td><td>49</td></tr><tr><td>LIN4</td><td>50</td></tr><tr><td>LIN5</td><td>84</td></tr><tr><td>MOST</td><td>51</td></tr><tr><td>CGI</td><td>53</td></tr><tr><td>HSCAN4</td><td>61</td></tr><tr><td>HSCAN5</td><td>62</td></tr><tr><td>SWCAN2</td><td>68</td></tr><tr><td>ETHERNET_DAQ</td><td>69</td></tr><tr><td>FLEXRAY1A</td><td>80</td></tr><tr><td>FLEXRAY1B</td><td>81</td></tr><tr><td>FLEXRAY2A</td><td>82</td></tr><tr><td>FLEXRAY2B</td><td>83</td></tr><tr><td>FLEXRAY</td><td>85</td></tr><tr><td>MOST25</td><td>90</td></tr><tr><td>MOST50</td><td>91</td></tr><tr><td>ETHERNET</td><td>93</td></tr><tr><td>GMFSA</td><td>94</td></tr><tr><td>TCP</td><td>95</td></tr><tr><td>HSCAN6</td><td>96</td></tr><tr><td>HSCAN7</td><td>97</td></tr><tr><td>LIN6</td><td>98</td></tr><tr><td>LSFTCAN2</td><td>99</td></tr><tr><td>OP_ETHERNET1</td><td>17</td></tr><tr><td>OP_ETHERNET2</td><td>18</td></tr><tr><td>OP_ETHERNET3</td><td>19</td></tr><tr><td>OP_ETHERNET4</td><td>45</td></tr><tr><td>OP_ETHERNET5</td><td>46</td></tr><tr><td>OP_ETHERNET6</td><td>73</td></tr><tr><td>OP_ETHERNET7</td><td>75</td></tr><tr><td>OP_ETHERNET8</td><td>76</td></tr><tr><td>OP_ETHERNET9</td><td>77</td></tr><tr><td>OP_ETHERNET10</td><td>78</td></tr><tr><td>OP_ETHERNET11</td><td>79</td></tr><tr><td>OP_ETHERNET12</td><td>87</td></tr></tbody></table>
 
 ### Example <a href="#example" id="example"></a>
 

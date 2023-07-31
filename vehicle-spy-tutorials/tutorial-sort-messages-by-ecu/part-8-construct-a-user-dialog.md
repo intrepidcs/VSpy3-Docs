@@ -6,12 +6,7 @@ Let's tie the Application Signal triggers from Part 5 to some user controls on a
 
 Open the Graphical Panels view using the main menu bar Measurement --> Graphical Panels. All available control and display tools are shown along the bottom of the window. Click the On/Off Button tool to select it, then click on the empty Graphical Panels window to add it to the screen. Set the following On/Off Button properties:
 
-| Property  | Setting         |
-| --------- | --------------- |
-| OnText    | True            |
-| OffText   | False           |
-| OnOffType | 1-Toggle Button |
-| Signal    | 60ECUTrigger    |
+<table><thead><tr><th width="205">Property</th><th>Setting</th></tr></thead><tbody><tr><td>OnText</td><td>True</td></tr><tr><td>OffText</td><td>False</td></tr><tr><td>OnOffType</td><td>1-Toggle Button</td></tr><tr><td>Signal</td><td>60ECUTrigger</td></tr></tbody></table>
 
 Feel free to play with the other properties to see what they do. Figure 1 shows one possible way of setting the other properties.
 

@@ -6,31 +6,5 @@ neoECU 20 does not have a pin map. neoECU 20 is configured using neoVI 3G Explor
 
 **Table 2 - neoVI ECU 20 Connector Pin Descriptions**
 
-| **Pin** | **Name**            | **Description**                              |
-| ------- | ------------------- | -------------------------------------------- |
-| 1       | SW CAN              | Single Wire CAN                              |
-| 2       | J1850 VPW           | J1850 VPW (Class 2)                          |
-| 3       | LSFT CAN H          | Low Speed Fault Tolerant CAN High            |
-| 4       | LSFT CAN L          | Low Speed Fault Tolerant CAN Low             |
-| 5       | MS CAN H            | Medium Speed CAN High                        |
-| 6       | MS CAN L            | Medium Speed CAN Low                         |
-| 7       | ISO L               | UART/ISO9141/Keyword Line "L"                |
-| 8       | ISO K/LIN 1         | UART/ISO9141/Keyword Bi-directional Line "K" |
-| 9       | DBG CLK             | Not Used                                     |
-| 10      | MISC 1              | Miscellaneous Signal 1                       |
-| 11      | MISC 2              | Miscellaneous Signal 2                       |
-| 12      | DBG Data            | Not Used                                     |
-| 13      | PWR GND             | Electrical Ground                            |
-| 14      | HS CAN H            | High Speed CAN High                          |
-| 15      | HS CAN L            | High Speed CAN Low                           |
-| 16      | HS CAN 2 H          | High Speed CAN 2 High                        |
-| 17      | HS CAN 2 L          | High Speed CAN 2 Low                         |
-| 18      | MISC 4              | Miscellaneous Signal 4                       |
-| 19      | HS CAN 3 H          | High Speed CAN 3 High                        |
-| 20      | HS CAN 3 L          | High Speed CAN 3 Low                         |
-| 21      | TSYNC CLK H / CGI H | CGI High                                     |
-| 22      | TSYNC CLK L / CGI L | CGI Low                                      |
-| 23      | MISC 3              | Miscellaneous Signal 3                       |
-| 24      | DBG RESET           | Not Used                                     |
-| 25      | VBATT               | Electrical Positive Supply 6-27 VDC          |
+<table data-header-hidden><thead><tr><th width="150"></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Pin</strong></td><td><strong>Name</strong></td><td><strong>Description</strong></td></tr><tr><td>1</td><td>SW CAN</td><td>Single Wire CAN</td></tr><tr><td>2</td><td>J1850 VPW</td><td>J1850 VPW (Class 2)</td></tr><tr><td>3</td><td>LSFT CAN H</td><td>Low Speed Fault Tolerant CAN High</td></tr><tr><td>4</td><td>LSFT CAN L</td><td>Low Speed Fault Tolerant CAN Low</td></tr><tr><td>5</td><td>MS CAN H</td><td>Medium Speed CAN High</td></tr><tr><td>6</td><td>MS CAN L</td><td>Medium Speed CAN Low</td></tr><tr><td>7</td><td>ISO L</td><td>UART/ISO9141/Keyword Line "L"</td></tr><tr><td>8</td><td>ISO K/LIN 1</td><td>UART/ISO9141/Keyword Bi-directional Line "K"</td></tr><tr><td>9</td><td>DBG CLK</td><td>Not Used</td></tr><tr><td>10</td><td>MISC 1</td><td>Miscellaneous Signal 1</td></tr><tr><td>11</td><td>MISC 2</td><td>Miscellaneous Signal 2</td></tr><tr><td>12</td><td>DBG Data</td><td>Not Used</td></tr><tr><td>13</td><td>PWR GND</td><td>Electrical Ground</td></tr><tr><td>14</td><td>HS CAN H</td><td>High Speed CAN High</td></tr><tr><td>15</td><td>HS CAN L</td><td>High Speed CAN Low</td></tr><tr><td>16</td><td>HS CAN 2 H</td><td>High Speed CAN 2 High</td></tr><tr><td>17</td><td>HS CAN 2 L</td><td>High Speed CAN 2 Low</td></tr><tr><td>18</td><td>MISC 4</td><td>Miscellaneous Signal 4</td></tr><tr><td>19</td><td>HS CAN 3 H</td><td>High Speed CAN 3 High</td></tr><tr><td>20</td><td>HS CAN 3 L</td><td>High Speed CAN 3 Low</td></tr><tr><td>21</td><td>TSYNC CLK H / CGI H</td><td>CGI High</td></tr><tr><td>22</td><td>TSYNC CLK L / CGI L</td><td>CGI Low</td></tr><tr><td>23</td><td>MISC 3</td><td>Miscellaneous Signal 3</td></tr><tr><td>24</td><td>DBG RESET</td><td>Not Used</td></tr><tr><td>25</td><td>VBATT</td><td>Electrical Positive Supply 6-27 VDC</td></tr></tbody></table>
 

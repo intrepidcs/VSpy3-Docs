@@ -49,7 +49,7 @@ At this point you can choose to include database decoding you already have loade
 Once the CoreMini console is open, the output window (Figure 5:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smOne.gif)) will show the results of the generated script.  The console will also select your device from the dropdown list (Figure 5:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smTwo.gif)). Next, make sure that "SD Card" is selected for Storage and "Run CoreMini After Download" (Figure 5:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smThree.gif)) is checked. Lastly, click the "Send" button (Figure 5:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smFour.gif)) to transfer the CoreMini to the neoVI. If the Script needs to be removed the Clear button can be used (Figure 5:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smFive.gif)). You have successfully setup the logger. You can find additional CoreMini Console information Here if needed.
 
 ![Figure 5: CoreMini Console
-](../../.gitbook/assets/CoreMiniConsole.gif)
+](<../../.gitbook/assets/CoreMiniConsole (1).gif>)
 
 ### Conclusion:
 

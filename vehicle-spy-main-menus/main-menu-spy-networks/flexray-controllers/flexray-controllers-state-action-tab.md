@@ -36,12 +36,7 @@ ICS FlexRay hardware comes with two built-in nodes that can act as a simple clus
 
 **Table 2: Cluster Actions**
 
-| Cluster Action          | Description                                                                                                                                                                     |
-| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Start                   | Forces the ICS hardware cluster to coldstart, which can also get an external cluster to begin cycling if the external cluster is already awake.                                 |
-| Stop                    | Forces the ICS hardware cluster to stop cycling, but this will not stop an external cluster that is already cycling.                                                            |
-| Restart                 | Stops the cluster first before doing a Start.                                                                                                                                   |
-| Reconfigure and Restart | Reconfigures the ICS hardware cluster to the [Configuration](flexray-controllers-configuration-tab.md) tab cluster settings, then forces the ICS hardware cluster to coldstart. |
+<table><thead><tr><th width="355.68084059308165">Cluster Action</th><th>Description</th></tr></thead><tbody><tr><td>Start</td><td>Forces the ICS hardware cluster to coldstart, which can also get an external cluster to begin cycling if the external cluster is already awake.</td></tr><tr><td>Stop</td><td>Forces the ICS hardware cluster to stop cycling, but this will not stop an external cluster that is already cycling.</td></tr><tr><td>Restart</td><td>Stops the cluster first before doing a Start.</td></tr><tr><td>Reconfigure and Restart</td><td>Reconfigures the ICS hardware cluster to the <a href="flexray-controllers-configuration-tab.md">Configuration</a> tab cluster settings, then forces the ICS hardware cluster to coldstart.</td></tr></tbody></table>
 
 ### Node Action
 

@@ -4,13 +4,7 @@ neoECU devices also have a sleep mode.  Sleep mode can be enabled in [Function B
 
 **Table 1: Example Function Block for enabling sleep mode**
 
-| Step |                                                                             | Description | Value                      | Comment                                                          |
-| ---- | --------------------------------------------------------------------------- | ----------- | -------------------------- | ---------------------------------------------------------------- |
-| 1    | ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smallSetValue.gif) | Set Value   | Message Present = 0        | Clear the Present flag of a Periodic message normally on the bus |
-| 2    | ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smallWaitFor.gif)  | Wait for    | 2 Second                   | Wait twice as long as normal periodic duration of the message    |
-| 3    | ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smallJump.gif)     | Jump If     | Message Present  To Step 1 | Jump to Step 1 if the message is present                         |
-| 4    | ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smallSleep.gif)    | Sleep       |                            | If not present, go into sleep mode                               |
-| 5    | ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smallJump.gif)     | Jump to     | Step 1                     | When device wakes up, go to step 1                               |
+<table><thead><tr><th width="150">Step</th><th width="150"></th><th width="150">Description</th><th width="150">Value</th><th>Comment</th></tr></thead><tbody><tr><td>1</td><td><img src="https://cdn.intrepidcs.net/support/VehicleSpy/assets/smallSetValue.gif" alt=""></td><td>Set Value</td><td>Message Present = 0</td><td>Clear the Present flag of a Periodic message normally on the bus</td></tr><tr><td>2</td><td><img src="https://cdn.intrepidcs.net/support/VehicleSpy/assets/smallWaitFor.gif" alt=""></td><td>Wait for</td><td>2 Second</td><td>Wait twice as long as normal periodic duration of the message</td></tr><tr><td>3</td><td><img src="https://cdn.intrepidcs.net/support/VehicleSpy/assets/smallJump.gif" alt=""></td><td>Jump If</td><td>Message Present  To Step 1</td><td>Jump to Step 1 if the message is present</td></tr><tr><td>4</td><td><img src="https://cdn.intrepidcs.net/support/VehicleSpy/assets/smallSleep.gif" alt=""></td><td>Sleep</td><td> </td><td>If not present, go into sleep mode</td></tr><tr><td>5</td><td><img src="https://cdn.intrepidcs.net/support/VehicleSpy/assets/smallJump.gif" alt=""></td><td>Jump to</td><td>Step 1</td><td>When device wakes up, go to step 1</td></tr></tbody></table>
 
 For more information on Function Block scripts see Vehicle Spy 3's help documentation. Sleep mode examples are included in the examples section for each neoECU device.
 

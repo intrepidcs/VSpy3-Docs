@@ -11,7 +11,7 @@ ecu.sim.simulatetransmitmessages 0  ;simulate the receive messages for those in 
 | ---------------- | --------------------------- | --------------------------------------------------- |
 | sim              | Accesses the ECU simulator. | <p>ecu.sim.compile  <br> ;compile the simulator</p> |
 
-***
+
 
 **ecu.sim Object**
 
