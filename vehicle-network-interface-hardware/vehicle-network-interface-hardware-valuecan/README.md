@@ -1,4 +1,4 @@
-# Vehicle Network Interface Hardware: ValueCAN 4 Family
+# Vehicle Network Interface Hardware: ValueCAN
 
 #### **ValueCAN 4 Family Overview**
 
@@ -16,6 +16,6 @@ The ValueCAN 4-1 FD is fully isolated from the PC, and its isolation layer is se
 
 ValueCAN 4-1 FD can be used in a multitude of ways. Common uses include high speed flashing, ECU simulation, dealership CAN FD dongle, standalone mode for automating tests, and many more.&#x20;
 
-<figure><img src="../../.gitbook/assets/ValueCAN-4-1_lights_900pix.png" alt="" width="188"><figcaption><p>ValueCAN 4-1</p></figcaption></figure>
+![ValueCAN 4-1](../../.gitbook/assets/ValueCAN-4-1\_lights\_900pix.png)
 
-User Guide for ValueCAN 4-1 - [https://cdn.intrepidcs.net/guides/ValueCAN4-1FD/](https://cdn.intrepidcs.net/guides/ValueCAN4-1FD/)
+User Guide for ValueCAN 4-1 - [https://cdn.intrepidcs.net/guides/ValueCAN4-1FD](https://cdn.intrepidcs.net/guides/ValueCAN4-1FD/)

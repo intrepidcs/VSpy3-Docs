@@ -4,7 +4,7 @@ The [Embedded Tools](./) -> BitSmash is a hardware mode that can "smash" or corr
 \
 In general, hardware is setup with BitSmash to wait for a period of time for a certain CAN frame and then smash bits in that frame after it is received.\
 \
-More specifically, BitSmash requires [ValueCAN 3](../../vehicle-network-interface-hardware/vehicle-network-interface-hardware-valuecan.md), [neoVI **FIRE**](../../vehicle-network-interface-hardware/vehicle-network-interface-hardware-neovi-fire/), or neoVI PLASMA hardware. The CAN controller of the hardware is disabled while in BitSmash mode. As a result, the hardware can only smash received frames; it can not smash one of its own transmit frames. This also means either a second device or a special CAN bridging cable is needed if you want to monitor the CAN bus during the smash event.\
+More specifically, BitSmash requires [ValueCAN 3](../../vehicle-network-interface-hardware/vehicle-network-interface-hardware-valuecan/), [neoVI **FIRE**](../../vehicle-network-interface-hardware/vehicle-network-interface-hardware-neovi-fire/), or neoVI PLASMA hardware. The CAN controller of the hardware is disabled while in BitSmash mode. As a result, the hardware can only smash received frames; it can not smash one of its own transmit frames. This also means either a second device or a special CAN bridging cable is needed if you want to monitor the CAN bus during the smash event.\
 \
 Setting up BitSmash requires going online with hardware that supports it then using the dialog shown in Figure 1.
 
