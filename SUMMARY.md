@@ -455,6 +455,7 @@
   * [Vehicle Network Interface Hardware: RAD-A2B](vehicle-network-interface-hardware/vehicle-network-interface-hardware-rad-a2b.md)
   * [Vehicle Network Interface Hardware: RAD-Gigastar](vehicle-network-interface-hardware/vehicle-network-interface-hardware-rad-gigastar.md)
   * [Vehicle Network Interface Hardware: RAD-Galaxy](vehicle-network-interface-hardware/vehicle-network-interface-hardware-rad-galaxy.md)
+  * [Vehicle Network Interface Hardware: ValueLOG](vehicle-network-interface-hardware/vehicle-network-interface-hardware-valuelog.md)
   * [Getting Started with neoECU](vehicle-network-interface-hardware/getting-started-with-neoecu/README.md)
     * [neoECU Requirements](vehicle-network-interface-hardware/getting-started-with-neoecu/neoecu-requirements.md)
     * [neoECU 10](vehicle-network-interface-hardware/getting-started-with-neoecu/neoecu-10/README.md)
