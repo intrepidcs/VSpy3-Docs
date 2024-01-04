@@ -36,7 +36,7 @@ In both modes, any activity on any network connected to the logger will trigger 
 
 **Table 1: Wake Up Options for Standalone Logging Sleep Mode**
 
-
+***
 
 | Wake Up Mode        | Sleep Behavior  | Wake Up Behavior                                                                          | Relative Power Consumption  | Typical Current Draw at 12V           |
 | ------------------- | --------------- | ----------------------------------------------------------------------------------------- | --------------------------- | ------------------------------------- |

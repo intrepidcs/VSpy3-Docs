@@ -11,7 +11,7 @@ As seen in the previous tutorials, Vehicle Spy 3 can bring in raw message data. 
 
 ### Hardware needed
 
-neoVI Blue, neoVI **FIRE** **, neoVIRED, neoVI Yellow, or ValueCAN**
+**neoVI FIRE 2, ValueCAN 4 family, RAD-Gigastar, RAD-Mars etc.** Please note that this feature is currently not supported on **neoVI FIRE 3** and **neoVI RED2**; however, a future update will include support for these devices.
 
 ### Files for this example
 

@@ -1,4 +1,4 @@
-# Utilities: Export VSB Convert  VSB (with VSDB) to Other Formats V using Command Prompt in Windows
+# Utilities: Export VSB Convert VSB (with VSDB) to Other Formats V using Command Prompt in Windows
 
 #### Converting VSDB to MDF, Matlab CSV using Command Prompt in Windows
 
@@ -15,7 +15,7 @@
 
 &#x20;           c. Copy the downloaded vsbExport-bin.exe and dbExport-bin.exe files into the same folder.
 
-<figure><img src="../../../.gitbook/assets/image1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image1.png" alt=""><figcaption></figcaption></figure>
 
 3. Open Command Prompt
 4. Navigate to the Directory           &#x20;
@@ -49,4 +49,4 @@ _Note: The dot "." specifies the current directory as the target for the script 
 
 7. After executing the command, a corresponding file will be created in the same directory, depending on the chosen format.
 
-<figure><img src="../../../.gitbook/assets/image3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image3 (1).png" alt=""><figcaption></figcaption></figure>

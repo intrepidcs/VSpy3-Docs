@@ -8,7 +8,7 @@ Place the vsb files and the vsdb database in some folder.
 
 * Run the DataExtract.exe, switch to the Extract tab and Browse to the data directory:
 
-<figure><img src="../../../.gitbook/assets/image1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image1 (1).png" alt=""><figcaption></figcaption></figure>
 
 * You may want to adjust just how much disk space you can do without, using the Advanced Options button and the Export tab:
 
@@ -16,6 +16,6 @@ Place the vsb files and the vsdb database in some folder.
 
 * Select CSV here
 
-<figure><img src="../../../.gitbook/assets/image3 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image3.png" alt=""><figcaption></figcaption></figure>
 
 * And Click Export!
