@@ -302,6 +302,7 @@
       * [MEP Curve Editor](vehicle-spy-main-menus/main-menu-measurement/mep-xcp-ccp-memory-edit-protocol/mep-curve-editor.md)
       * [MEP Map Editor](vehicle-spy-main-menus/main-menu-measurement/mep-xcp-ccp-memory-edit-protocol/mep-map-editor.md)
       * [Data Acquisition with CCP/XCP](vehicle-spy-main-menus/main-menu-measurement/mep-xcp-ccp-memory-edit-protocol/data-acquisition-with-ccp-xcp.md)
+    * [Instruments](vehicle-spy-main-menus/main-menu-measurement/instruments.md)
     * [Data Analysis](vehicle-spy-main-menus/main-menu-measurement/data-analysis/README.md)
       * [Data Analysis: Main Menus and Toolbar](vehicle-spy-main-menus/main-menu-measurement/data-analysis/data-analysis-main-menus-and-toolbar.md)
       * [Data Analysis: Zoom Toolbar](vehicle-spy-main-menus/main-menu-measurement/data-analysis/data-analysis-zoom-toolbar.md)
