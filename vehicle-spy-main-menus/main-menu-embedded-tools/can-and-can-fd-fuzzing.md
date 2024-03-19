@@ -72,7 +72,7 @@ Fuzz Regions delineate specific areas within messages where Fuzzing occurs. User
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image13.png" alt=""><figcaption><p>Deefining Values in Fuzz Regions</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image13.png" alt=""><figcaption><p>Defining Values in Fuzz Regions</p></figcaption></figure>
 
 </div>
 
