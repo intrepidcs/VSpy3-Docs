@@ -333,6 +333,7 @@
     * [J1939 Address Manager](vehicle-spy-main-menus/main-menu-embedded-tools/j1939-address-manager.md)
     * [J1939 DTC Monitor](vehicle-spy-main-menus/main-menu-embedded-tools/j1939-dtc-monitor.md)
     * [BitSmash](vehicle-spy-main-menus/main-menu-embedded-tools/bitsmash.md)
+    * [CAN and CAN FD Fuzzing](vehicle-spy-main-menus/main-menu-embedded-tools/can-and-can-fd-fuzzing.md)
   * [Main Menu: GMLAN](vehicle-spy-main-menus/main-menu-gmlan/README.md)
     * [Virtual Networks](vehicle-spy-main-menus/main-menu-gmlan/virtual-networks.md)
     * [GM CGI Bus](vehicle-spy-main-menus/main-menu-gmlan/gm-cgi-bus.md)
