@@ -145,6 +145,7 @@
     * [Setup Platforms](vehicle-spy-main-menus/main-menu-setup/setup-platforms.md)
     * [Network Databases](vehicle-spy-main-menus/main-menu-setup/network-databases.md)
     * [ECUs View](vehicle-spy-main-menus/main-menu-setup/ecus-view/README.md)
+      * [ECU A2L Import Options](vehicle-spy-main-menus/main-menu-setup/ecus-view/ecu-a2l-import-options.md)
       * [Edit ECU Diagnostic Database](vehicle-spy-main-menus/main-menu-setup/ecus-view/edit-ecu-diagnostic-database.md)
       * [ECU Diagnostic Services Tab](vehicle-spy-main-menus/main-menu-setup/ecus-view/ecu-diagnostic-services-tab.md)
     * [Data Cache Disk Streaming](vehicle-spy-main-menus/main-menu-setup/data-cache-disk-streaming.md)
