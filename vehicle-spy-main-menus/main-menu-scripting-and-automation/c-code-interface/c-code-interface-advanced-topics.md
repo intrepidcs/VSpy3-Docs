@@ -12,7 +12,7 @@ The next important function is the CM\_RegisterCallback.  This function is calle
 \
 For more information, please review the files in the C code Project in Visual Studio.
 
-![Figure 1: The C Code Interface creates a WIN32 DLL project and function addresses are passed between Vehicle Spy and the DLL for communications.](../../../.gitbook/assets/ccode\_block.png)
+![Figure 1: The C Code Interface creates a WIN32 DLL project and function addresses are passed between Vehicle Spy and the DLL for communications.](../../../.gitbook/assets/ccode_block.png)
 
 ### Usage in Other Environments than Visual C++
 

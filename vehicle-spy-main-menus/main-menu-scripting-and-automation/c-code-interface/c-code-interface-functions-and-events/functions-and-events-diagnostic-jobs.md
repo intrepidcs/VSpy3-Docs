@@ -20,4 +20,4 @@ All diagnostic job related functions begin with the prefix "DG\_". The function 
 | 7FCountEx78()            | This is the count of 0x7F negative responses excluding the pending requests. |
 | 7FCountResponsePending() | This is the count of 0x7F 0x78 response pending requests.                    |
 
-![Figure 1: Diagnostic Job APIs allow you to control your diagnostic Jobs from C.](../../../../.gitbook/assets/dg\_apis.gif)
+![Figure 1: Diagnostic Job APIs allow you to control your diagnostic Jobs from C.](../../../../.gitbook/assets/dg_apis.gif)

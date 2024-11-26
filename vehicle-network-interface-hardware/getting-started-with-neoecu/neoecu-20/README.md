@@ -67,7 +67,7 @@ neoECU 20 is very similar in function to a neoVI FIRE.
 * Full block mode message reception only
 * Transmission Option available in CGI Simulation Toolkit
 
-![The pin connections for the 25 pin connector can be found on the sticker of the unit. Table 1 also has this listing.](../../../.gitbook/assets/neo-ecu\_20\_01.gif)
+![The pin connections for the 25 pin connector can be found on the sticker of the unit. Table 1 also has this listing.](../../../.gitbook/assets/neo-ecu_20_01.gif)
 
 **Table 1: neoECU 20 device pinout**
 

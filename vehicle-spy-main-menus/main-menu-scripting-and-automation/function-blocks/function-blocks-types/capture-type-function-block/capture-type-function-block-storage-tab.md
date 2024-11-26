@@ -6,14 +6,14 @@ The **Storage Tab** of a [Capture Type Function Block](./) contains settings tha
 
 The primary setting here is the storage method drop-down box. Most of the settings are the same regardless of the choice made here, though one does appear only when the **Save when expression is true** method is selected. Figure 1 shows what the **Storage Tab** looks like with this method chosen, so you can see all of the available settings on the tab.
 
-![Figure 1: Capture Block Storage Tab showing all settings.](../../../../../.gitbook/assets/capture\_block\_storage\_tab.gif)
+![Figure 1: Capture Block Storage Tab showing all settings.](../../../../../.gitbook/assets/capture_block_storage_tab.gif)
 
 ### Storage Method
 
 The drop-down box at the top of the tab controls when data is saved in a capture block. There are three options:
 
 * **Manual Save:** Data is saved only when a request is made. There are three ways this can be done:
-  * Clicking the button under the ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/function\_block\_list\_save.gif) icon for the block in the [Function Block List](../../function-block-list.md).
+  * Clicking the button under the ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/function_block_list_save.gif) icon for the block in the [Function Block List](../../function-block-list.md).
   * Using a [Function Block Action](../script-type-function-block-commands/script-type-function-block-command-function-block-action.md) command within a [function block script](../script-type-function-block.md).
   * Assigning a hotkey to save the data (see below) and then pressing the key.
 * **Automatically save when complete:** Vehicle Spy saves the data automatically when the function block finishes. This is the default option.

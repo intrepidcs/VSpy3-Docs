@@ -26,7 +26,7 @@ neoECU 10 can be purchased in one of two configurations;  HHL+ and HLSL+. The HH
 * 4 Internal user available push buttons
 * Custom power management
 
-![](../../../.gitbook/assets/neoECU\_10Bt.jpg)
+![](../../../.gitbook/assets/neoECU_10Bt.jpg)
 
 The pin connections for the 25 pin connector can be found on the sticker of the unit. Table 1 also has this listing. When working with a neoECU 10, the primary CAN network is HS CAN on pins 14 and 15. This is the network to use for configuring and loading scripts. For neoECU 10 HHL+, the second CAN Channel is found on pins 16 and 17. In Vehicle spy this is denoted as MS CAN.\
 \

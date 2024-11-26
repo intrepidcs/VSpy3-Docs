@@ -13,8 +13,8 @@ Timers generate events at specific time.  This time can be periodic or a one sho
 | Initial Period | The period of the timer when Vehicle Spy Starts. |
 | Resolution     | Millisecond or Microsecond timer resolution.     |
 
-![Figure 1: Timer Functions to control the timer using C code.](../../../../.gitbook/assets/timer\_functions.gif)
+![Figure 1: Timer Functions to control the timer using C code.](../../../../.gitbook/assets/timer_functions.gif)
 
-![Figure 2: The Timer Events tab allows you to create a timer event at regular or single shot intervals.](../../../../.gitbook/assets/timer\_event.gif)
+![Figure 2: The Timer Events tab allows you to create a timer event at regular or single shot intervals.](../../../../.gitbook/assets/timer_event.gif)
 
-![Figure 3: The timer event is a simple function with no arguments that is called when the timer expires.](../../../../.gitbook/assets/timer\_event\_code.gif)
+![Figure 3: The timer event is a simple function with no arguments that is called when the timer expires.](../../../../.gitbook/assets/timer_event_code.gif)

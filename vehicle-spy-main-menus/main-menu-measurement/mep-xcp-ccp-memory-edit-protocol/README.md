@@ -2,7 +2,7 @@
 
 Vehicle Spy Memory Edit Protocol (MEP) works with ECUs that use CAN Calibration Protocol (CCP) or Universal Calibration Protocol (XCP) for calibration development. MEP features are found in the Measurement -> MEP menu as shown in Figure 1.
 
-![Figure 1: Look under the Measurement main menu to find the MEP menu selections.](../../../.gitbook/assets/measurement\_menu\_mep.gif)
+![Figure 1: Look under the Measurement main menu to find the MEP menu selections.](../../../.gitbook/assets/measurement_menu_mep.gif)
 
 **Table 1: Vehicle Spy MEP Menu**
 

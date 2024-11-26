@@ -12,4 +12,4 @@ Note that excessive use of **Jump If** and **Jump To** commands can make a scrip
 
 Double-clicking the **Value** field brings up a dialog box (Figure 1) to set two command parameters: the expression to evaluate, and the step to branch to if the expression is **True**.
 
-![Figure 1: Setting the expression to evaluate and destination step number for the Jump If command..](../../../../../.gitbook/assets/fb\_jump\_if.gif)
+![Figure 1: Setting the expression to evaluate and destination step number for the Jump If command..](../../../../../.gitbook/assets/fb_jump_if.gif)

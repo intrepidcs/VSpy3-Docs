@@ -20,4 +20,4 @@ The Function Blocks area is divided vertically into three screen regions (Figure
 * [Function Block List](function-block-list.md): Provides a summary of each defined function block, showing its basic characteristics and its status. The list includes controls for starting and stopping each block. You can also rename function blocks from their default names here.
 * [Function Block Setup Area](function-blocks-types/): This area contains settings that define the operation of the currently-selected function block. The parameters here are arranged into tabs, which differ based on function block type, though the [Start Tab](function-block-start-tab.md) is always present.
 
-![Figure 1: Layout of the Function Blocks view.](../../../.gitbook/assets/function\_blocks.gif)
+![Figure 1: Layout of the Function Blocks view.](../../../.gitbook/assets/function_blocks.gif)

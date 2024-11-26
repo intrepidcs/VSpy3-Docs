@@ -12,15 +12,15 @@ There are three main options here, each of which is enabled with a checkbox: **L
 
 Use LEDs to indicate the current logger status:
 
-* <mark style="color:red;">**Red LED**</mark>** Flashing:** Logger is running.
-* <mark style="color:green;">**Green LED**</mark>** Flashing Slowly:** Data is being captured to the SD card.
-* <mark style="color:green;">**Green LED**</mark>** Flashing Quickly:** Post-trigger data is being captured.
+* <mark style="color:red;">**Red LED**</mark>**&#x20;Flashing:** Logger is running.
+* <mark style="color:green;">**Green LED**</mark>**&#x20;Flashing Slowly:** Data is being captured to the SD card.
+* <mark style="color:green;">**Green LED**</mark>**&#x20;Flashing Quickly:** Post-trigger data is being captured.
 
 ### Use neoVI MOTE
 
 Use the neoVI MOTE for simple feedback and control features. Enabling this option causes additional options to appear in the right half of the Status Reporting box (Figure 2).
 
-![Figure 2: Standalone Logging Reporting Options including neoVI MOTE options.](../../../../.gitbook/assets/spyvssalreportoptions\_mote.gif)
+![Figure 2: Standalone Logging Reporting Options including neoVI MOTE options.](../../../../.gitbook/assets/spyvssalreportoptions_mote.gif)
 
 Special options for using the neoVI MOTE for reporting:
 

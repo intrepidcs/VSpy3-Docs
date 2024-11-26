@@ -12,7 +12,7 @@ Before beginning actual lessons and exercises, it is important to get familiar w
 
 **Filter Panel** (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smFive.gif)): To the left of the Main Workspace is the Filter Panel. This panel is only available when the Messages view is selected. This panel is used to activate the many filtering capabilities found in Vehicle Spy.
 
-**Quick Setup Buttons** (Figure **** 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smSix.gif)): When jumping from project to project, it may be necessary to change network and hardware settings. The Quick Setup buttons are a quick link to those common views in Vehicle Spy.
+**Quick Setup Buttons** (Figure \*\*\*\* 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smSix.gif)): When jumping from project to project, it may be necessary to change network and hardware settings. The Quick Setup buttons are a quick link to those common views in Vehicle Spy.
 
 **Platform Selection and configuration buttons** (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smSeven.gif)): This dropdown gives quick access to all the configured database and database options.
 

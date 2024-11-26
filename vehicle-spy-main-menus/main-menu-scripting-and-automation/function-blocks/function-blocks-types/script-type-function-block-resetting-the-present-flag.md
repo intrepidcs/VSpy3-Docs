@@ -12,7 +12,7 @@ There are two common ways of resetting the **Present** flag.
 
 The most precise method is to directly target the **Present** flag itself, simply setting its value to **0** using a [Set Value](script-type-function-block-commands/script-type-function-block-command-set-value.md) command. This allows you to clear the **Present** flag without affecting other message properties. An example is shown in Figure 1.
 
-![Figure 1: Using the Set Value command to reset the present flag.](../../../../.gitbook/assets/fb\_wait\_for.gif)
+![Figure 1: Using the Set Value command to reset the present flag.](../../../../.gitbook/assets/fb_wait_for.gif)
 
 You can also use Set Value If in a similar fashion, when that would be more useful.
 

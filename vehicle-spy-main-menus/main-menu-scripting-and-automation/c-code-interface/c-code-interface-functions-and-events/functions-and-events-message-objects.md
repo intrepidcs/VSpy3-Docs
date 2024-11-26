@@ -6,11 +6,11 @@ The names of the message structures are the same as the message names with a pre
 \
 All functions related to the structure have the same name as the struct except they have a description of the function appended to them. Currently, there are 3 functions: Init, ClearStats and Transmit. Init sets up the structure and Transmit sends it out on the bus. ClearStats clears the statistics associated with the message.\
 \
-**\_Init** - Fill the message with the current values including statistics.\
+&#xNAN;**\_Init** - Fill the message with the current values including statistics.\
 \
-**\_Transmit** - Transmits the message. (will return 0 if there was no room in the transmit buffer - otherwise returns one)\
+&#xNAN;**\_Transmit** - Transmits the message. (will return 0 if there was no room in the transmit buffer - otherwise returns one)\
 \
-**\_ClearStats** - Clears the statistics associated with the message.\
+&#xNAN;**\_ClearStats** - Clears the statistics associated with the message.\
 \
 For Transmit messages defined in the transmit table, there is an additional transmit API called **\_TransmitFast()**. This API transmits the message as defined in the transmit table - you do not have to declare a message struct to do so. Finally, the events for the transmit message when the message has been sent successfully (this means the message you transmitted was received back from the hardware).\
 \
@@ -20,7 +20,7 @@ Database, Transmit and Receive messages all contain a Statistics structure. This
 \
 If a message is associated with a transport layer (ISO15765 or J1939) the event for the message will be called when the entire data packet is received. Messages which are associated with a transport layer have a larger data section than the GenericMessage. Transmission of long messages is only supported for messages defined in the transmit spreadsheet.
 
-![Figure 1: The generic message structure.](../../../../.gitbook/assets/generic\_message.gif)
+![Figure 1: The generic message structure.](../../../../.gitbook/assets/generic_message.gif)
 
 **Table 1: Generic Message Properties**
 
@@ -43,12 +43,12 @@ If a message is associated with a transport layer (ISO15765 or J1939) the event 
 | dMaxTime             | double        | The maximum time difference between two consecutive messages.          |
 | dMeanTime            | double        | The average time difference between all messages.                      |
 
-![Figure 2: Very useful for testing - Message Statistics are part of every received message.](../../../../.gitbook/assets/msg\_stats.png)
+![Figure 2: Very useful for testing - Message Statistics are part of every received message.](../../../../.gitbook/assets/msg_stats.png)
 
-![Figure 3: The message events are created on the "Message Events" tab.](../../../../.gitbook/assets/message\_event.gif)
+![Figure 3: The message events are created on the "Message Events" tab.](../../../../.gitbook/assets/message_event.gif)
 
-![Figure 4: The message event passes a pointer to the message structure all filled in.](../../../../.gitbook/assets/message\_event\_code.gif)
+![Figure 4: The message event passes a pointer to the message structure all filled in.](../../../../.gitbook/assets/message_event_code.gif)
 
-![Figure 5: In Visual Studio, the intellisense of the IDE generates a list box allowing you to pick message signals or generic properties.](../../../../.gitbook/assets/message\_event\_visualc.gif)
+![Figure 5: In Visual Studio, the intellisense of the IDE generates a list box allowing you to pick message signals or generic properties.](../../../../.gitbook/assets/message_event_visualc.gif)
 
-![Figure 6: Here we have a code snippet that transmits a generic message.](../../../../.gitbook/assets/generic\_message\_tx.gif)
+![Figure 6: Here we have a code snippet that transmits a generic message.](../../../../.gitbook/assets/generic_message_tx.gif)

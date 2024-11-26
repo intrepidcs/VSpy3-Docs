@@ -9,7 +9,7 @@ The **Set Value If** command combines the [If](script-type-function-block-comman
 
 From a logical standpoint, then, there is no difference between one **Set Value If** command and separate **If** and **Set Value** commands. In Figure 1, Steps 1 to 5 and Steps 7 to 10 do basically the same thing.
 
-![Figure 1: The same script using separate If and Set Value commands (steps 1 to 5) and the Set Value If command (steps 7 to 10).](../../../../../.gitbook/assets/fb\_set\_value\_if\_1.gif)
+![Figure 1: The same script using separate If and Set Value commands (steps 1 to 5) and the Set Value If command (steps 7 to 10).](../../../../../.gitbook/assets/fb_set_value_if_1.gif)
 
 However, there is _one important difference:_ the **Set Value If**command guarantees that the **If** part of the command and the **Set Value** part will be executed _atomically._ This means that they are executed together, and it is guaranteed that if the expression is **True**, no signal values will change before the assignment operation takes place.
 
@@ -21,4 +21,4 @@ Note that the same rules for combining an **If** statement with the [Else](scrip
 
 Double-click the **Value** field for the command to launch a specialized window for it, where you can enter both the evaluation (**If**) expression and assignment (**Set Value**) expression using the [Expression Builder](../../../../../shared-features-in-vehicle-spy/shared-features-expression-builder.md). Figure 2 shows this window illustrating the expressions used for the command in step 7 of Figure 1.
 
-![Figure 2: Setup window for the Set Value If command.](../../../../../.gitbook/assets/fb\_set\_value\_if\_2.gif)
+![Figure 2: Setup window for the Set Value If command.](../../../../../.gitbook/assets/fb_set_value_if_2.gif)

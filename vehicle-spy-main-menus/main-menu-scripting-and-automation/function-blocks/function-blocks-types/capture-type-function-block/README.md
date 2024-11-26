@@ -24,9 +24,9 @@ Table 1 describes just a few of the many ways that capture blocks can be used. I
 
 ### Creating a Capture Block
 
-Create a new capture block by clicking the ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/function\_block\_toolbar\_add.gif) button on the far left of the [function block toolbar](../../function-blocks-toolbar.md) and then select **Capture** from the popup menu. Vehicle Spy will create a default capture block as shown in Figure 1, with the **Filter Tab** selected.
+Create a new capture block by clicking the ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/function_block_toolbar_add.gif) button on the far left of the [function block toolbar](../../function-blocks-toolbar.md) and then select **Capture** from the popup menu. Vehicle Spy will create a default capture block as shown in Figure 1, with the **Filter Tab** selected.
 
-![Figure 1: Default capture block setup.](../../../../../.gitbook/assets/capture\_block\_default.png)
+![Figure 1: Default capture block setup.](../../../../../.gitbook/assets/capture_block_default.png)
 
 ### Renaming a Capture Block
 

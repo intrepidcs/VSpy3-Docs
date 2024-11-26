@@ -23,6 +23,6 @@ A description of each of the VehicleScape DAQ tabs, along with links to pages ex
 | [Gateway](vehiclescape-daq-gateway.md)                                     | Configure a gateway to transmit signals to another network.             |
 | [Online](vehiclescape-daq-online-tab.md)                                   | Go online with Vehicle Spy to use PC Logging or a defined gateway.      |
 
-Multiple VehicleScape DAQ configurations can be created within a Vehicle Spy setup. To add a new DAQ configuration, use the ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/daq\_add\_button.gif) button near the top right corner of the window; to remove one, use the ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/daq\_delete\_button.gif) button. Select from among the currently-defined configurations using the drop-down list found in the same area (Figure 2).
+Multiple VehicleScape DAQ configurations can be created within a Vehicle Spy setup. To add a new DAQ configuration, use the ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/daq_add_button.gif) button near the top right corner of the window; to remove one, use the ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/daq_delete_button.gif) button. Select from among the currently-defined configurations using the drop-down list found in the same area (Figure 2).
 
-![Figure 1: Controls for adding, removing and selecting DAQ setups.](../../../.gitbook/assets/daq\_selection.gif)
+![Figure 1: Controls for adding, removing and selecting DAQ setups.](../../../.gitbook/assets/daq_selection.gif)

@@ -1,4 +1,4 @@
-# Tutorial 1: Basics of Vehicle Spy
+# Playback Type Function Block
 
 ### Overview
 
@@ -6,9 +6,9 @@ Playback type [function blocks](../) (sometimes called _playback blocks_) allow 
 
 ### Creating a Playback Block
 
-Create a new playback block by clicking the ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/function\_block\_toolbar\_add.gif) button on the far left of the [function block toolbar](../function-blocks-toolbar.md), and then choosing **Playback** from the popup menu. Vehicle Spy will create a default playback block for you as shown in Figure 1, with the **Buffer Tab** selected.
+Create a new playback block by clicking the ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/function_block_toolbar_add.gif) button on the far left of the [function block toolbar](../function-blocks-toolbar.md), and then choosing **Playback** from the popup menu. Vehicle Spy will create a default playback block for you as shown in Figure 1, with the **Buffer Tab** selected.
 
-![Figure 1: Default capture block setup.](../../../../.gitbook/assets/playback\_block\_default.gif)
+![Figure 1: Default capture block setup.](../../../../.gitbook/assets/playback_block_default.gif)
 
 ### Renaming a Playback Block
 

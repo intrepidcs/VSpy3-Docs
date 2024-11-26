@@ -6,7 +6,7 @@ When first launched, the Graphical Panels feature begins with a panel called **P
 
 Near the bottom left corner of the screen you will see the words **New Panel** and an icon of a blank document (Figure 1). Click the icon to bring up a dialog box with options for creating the new panel (Figure 2).
 
-![Figure 1: Click the New Panel button to start the process of adding a panel.](../../../.gitbook/assets/add\_new\_panel.gif)
+![Figure 1: Click the New Panel button to start the process of adding a panel.](../../../.gitbook/assets/add_new_panel.gif)
 
 ![Figure 2: The Generate New Panel options dialog box.](../../../.gitbook/assets/spyGPnlAddDel.gif)
 

@@ -8,7 +8,7 @@ To remove a user, the user [Data Directory](../../basic-operation-of-vehicle-spy
 
 When a name is selected, Vehicle Spy will load all of the custom information such as current databases and setup file selections.
 
-Current Databases are displayed as platform names in a **pull down list** (Figure 1:<img src="../../.gitbook/assets/2.png" alt="" data-size="line">). Each platform name represents an entire group of databases. Platforms and databases can be configured by clicking the <img src="https://cdn.intrepidcs.net/support/VehicleSpy/assets/DatabaseIcon.gif" alt="" data-size="line"> button to open the [Database Platforms](../../main-menu-setup/network-databases.md) view.
+Current Databases are displayed as platform names in a **pull down list** (Figure 1:<img src="../../.gitbook/assets/2.png" alt="" data-size="line">). Each platform name represents an entire group of databases. Platforms and databases can be configured by clicking the <img src="https://cdn.intrepidcs.net/support/VehicleSpy/assets/DatabaseIcon.gif" alt="" data-size="line"> button to open the [Database Platforms](https://github.com/intrepidcs/VSpy3-Docs/blob/main/main-menu-setup/network-databases.md) view.
 
 Setup file selections appear in the area below the Current Databases field (Figure 1:<img src="../../.gitbook/assets/3.png" alt="" data-size="line">). This area is divided into four sections, each with its own tab. Quickly switch between the sections by clicking on the desired tab. **Table 1** describes the function of each tab.
 
@@ -31,9 +31,9 @@ If you do not want to select a file from one of your lists, you can start with a
 
 Useful tutorials are located in the tutorials tab (Figure 1:<img src="../../.gitbook/assets/6.png" alt="" data-size="line">).
 
-The Logon screen also shows what hardware is connected and will let you select a device if more than one unit is connected (Figure 1:<img src="../../.gitbook/assets/7.png" alt="" data-size="line">). Simply right click on the hardware you want to use and click **Select Hardware**. The selected hardware will have a check mark <img src="https://cdn.intrepidcs.net/support/VehicleSpy/assets/chkFilter.gif" alt="" data-size="line"> next to it. The <img src="https://cdn.intrepidcs.net/support/VehicleSpy/assets/ConfigureHWIcon.gif" alt="" data-size="line"> **Configure Hardware** button can be used to set the [baud rate](../../main-menu-spy-networks/networks/setup-a-network.md) of the device.
+The Logon screen also shows what hardware is connected and will let you select a device if more than one unit is connected (Figure 1:<img src="../../.gitbook/assets/7.png" alt="" data-size="line">). Simply right click on the hardware you want to use and click **Select Hardware**. The selected hardware will have a check mark <img src="https://cdn.intrepidcs.net/support/VehicleSpy/assets/chkFilter.gif" alt="" data-size="line"> next to it. The <img src="https://cdn.intrepidcs.net/support/VehicleSpy/assets/ConfigureHWIcon.gif" alt="" data-size="line"> **Configure Hardware** button can be used to set the [baud rate](https://github.com/intrepidcs/VSpy3-Docs/blob/main/main-menu-spy-networks/networks/setup-a-network.md) of the device.
 
-When setting up a standalone logger, the **VehicleScape DAQ** button (Figure 1:<img src="../../.gitbook/assets/8.png" alt="" data-size="line">) will open up [VehicleScape DAQ](../../main-menu-measurement/vehiclescape-daq/) to help configure a logger. This is the same view as found by selecting Measurement>VehicleScape DAQ.
+When setting up a standalone logger, the **VehicleScape DAQ** button (Figure 1:<img src="../../.gitbook/assets/8.png" alt="" data-size="line">) will open up [VehicleScape DAQ](https://github.com/intrepidcs/VSpy3-Docs/blob/main/main-menu-measurement/vehiclescape-daq/README.md) to help configure a logger. This is the same view as found by selecting Measurement>VehicleScape DAQ.
 
 Additional tutorials can be found by clicking the graduation cap button (Figure 1:<img src="../../.gitbook/assets/9.png" alt="" data-size="line">)
 

@@ -8,9 +8,9 @@ The C Code Interface is a way to write C code that interacts with the communicat
 
 The C Code Interface is available from the [Scripting and Automation](../) menu in Vehicle Spy. This will open the C Code Interface view. The view consists of two main parts: a list of C code projects and an output window. Vehicle Spy supports multiple C code projects at once so you can add and remove projects to the list. The output window will display text written with a "printf" command in the C code project. You can also open the C code project by clicking the "Open Project in Visual Studio" button. When Vehicle Spy starts - all C code projects enabled (with a check box) will run.
 
-![Figure 1: Getting to the C Code Interface view in Vehicle Spy.](../../../.gitbook/assets/c\_code\_interface\_menu.gif)
+![Figure 1: Getting to the C Code Interface view in Vehicle Spy.](../../../.gitbook/assets/c_code_interface_menu.gif)
 
-![Figure 2: The C Code Interface in Vehicle Spy.](../../../.gitbook/assets/ccode\_iface.gif)
+![Figure 2: The C Code Interface in Vehicle Spy.](../../../.gitbook/assets/ccode_iface.gif)
 
 ### Design Philosophy of the C Code Interface
 
@@ -20,7 +20,7 @@ To make the C Code Interface work for the non-windows programmer, the C Code Int
 \
 The automatically generated code was designed for developer productivity. So, features like the Visual Studio intellisense works well to automatically find database messages, Vehicle Spy API's, and application signal environmental variables.
 
-![Figure 3: Visual Studio is a powerful IDE for developing and debugging C code.](../../../.gitbook/assets/visual\_studio.gif)
+![Figure 3: Visual Studio is a powerful IDE for developing and debugging C code.](../../../.gitbook/assets/visual_studio.gif)
 
 ### Requirements
 

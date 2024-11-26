@@ -38,11 +38,7 @@ Currently, 804 supports Ethernet and RS232 Interface to communicate with Instrum
 * Port - Port number for RS232 or TCP&#x20;
 * Test Connection - Button to implicit connectivity test and if it is successful, Instrument name will be displayed to the user. Otherwise, Connection error will be displayed
 
-<div data-full-width="false">
-
-<figure><img src="../../.gitbook/assets/image-000.jpg" alt="Configuring Ethernet Instruments from Vehicle Spy - Connection success"><figcaption><p>Figure 1: Configuring Ethernet Instruments from Vehicle Spy - Connection success</p></figcaption></figure>
-
-</div>
+<div data-full-width="false"><figure><img src="../../.gitbook/assets/image-000.jpg" alt="Configuring Ethernet Instruments from Vehicle Spy - Connection success"><figcaption><p>Figure 1: Configuring Ethernet Instruments from Vehicle Spy - Connection success</p></figcaption></figure></div>
 
 <figure><img src="../../.gitbook/assets/image-001.jpg" alt="Configuring Ethernet Instruments from Vehicle Spy - Connection Failure"><figcaption><p>Figure 2: Configuring Ethernet Instruments from Vehicle Spy - Connection Failure</p></figcaption></figure>
 
@@ -61,11 +57,7 @@ For Ethernet based Instruments, we can view the Commands/Responses in Messages V
 5. Once online, click on Test Connection button as shown in the Figure 4.
 6. If the setup is fine, Instrument name should be seen from the Instrument as a response. Else, there will be a error dialog displaying the connection failure as shown in the Figure 5.
 
-<div data-full-width="false">
-
-<figure><img src="../../.gitbook/assets/image-003.jpg" alt="RS232 Instrument setup - Connection success"><figcaption><p>Figure 4: RS232 Instrument setup - Connection success</p></figcaption></figure>
-
-</div>
+<div data-full-width="false"><figure><img src="../../.gitbook/assets/image-003.jpg" alt="RS232 Instrument setup - Connection success"><figcaption><p>Figure 4: RS232 Instrument setup - Connection success</p></figcaption></figure></div>
 
 <figure><img src="../../.gitbook/assets/image-004.jpg" alt="Figure 5: RS232 Instrument setup - Connection Failure"><figcaption><p>Figure 5: RS232 Instrument setup - Connection Failure</p></figcaption></figure>
 

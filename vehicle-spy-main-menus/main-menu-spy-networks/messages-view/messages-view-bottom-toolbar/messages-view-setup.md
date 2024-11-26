@@ -26,7 +26,7 @@ Here you can add or remove custom message dissectors written in the Lua scriptin
 
 Here you can change the font used for the messages view, as well as the default foreground and background color of the messages view.
 
-* **Font:** Select the desired font.  It is recommended to choose a monospaced font such as Consolas, Courier New, Terminal, or System.  With other fonts, the message bytes will not be properly aligned in the messages view.
+* **Font:** Select the desired font. It is recommended to choose a monospaced font such as Consolas, Courier New, Terminal, or System. With other fonts, the message bytes will not be properly aligned in the messages view.
 * **Size:** Select the desired font size.
 * **Foreground Color:** The default text color in the messages view.
 * **Background Color:** The default background color for the messages view.

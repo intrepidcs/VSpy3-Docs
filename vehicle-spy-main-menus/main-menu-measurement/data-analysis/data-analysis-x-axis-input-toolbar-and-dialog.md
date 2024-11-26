@@ -6,7 +6,7 @@ The X-Axis Input Toolbar and Dialog are alternatives to the [zoom toolbar](data-
 
 The toolbar is shown in Figure 1. Like other toolbars, it appears at the top of the Data Analysis window, and can be hidden by removing the checkmark next to it in the [Show Menu](data-analysis-main-menus-and-toolbar.md).
 
-![Figure 1: Data Analysis X-Axis Input Toolbar.](../../../.gitbook/assets/data\_analysis\_x-axis\_input.gif)
+![Figure 1: Data Analysis X-Axis Input Toolbar.](../../../.gitbook/assets/data_analysis_x-axis_input.gif)
 
 The toolbar consists of three input parameters and a button:
 
@@ -22,4 +22,4 @@ Files can also be scrolled using the scroll bar located at the bottom of the Plo
 
 Double-clicking the X-axis in the Plotter Area will launch a dialog box (Figure 2) that contains the same elements as the X-axis input toolbar, and is used in a similar manner. This dialog will still work if you have the toolbar hidden, making it handy when screen real estate is at a premium.
 
-![Figure 2: Data Analysis X-Axis Input Dialog.](../../../.gitbook/assets/data\_analysis\_x-axis\_input\_dialog.gif)
+![Figure 2: Data Analysis X-Axis Input Dialog.](../../../.gitbook/assets/data_analysis_x-axis_input_dialog.gif)

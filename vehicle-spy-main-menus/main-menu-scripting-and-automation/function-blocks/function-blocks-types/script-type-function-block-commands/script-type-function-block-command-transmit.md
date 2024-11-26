@@ -8,4 +8,4 @@ This command allows a [transmit message](../../../../main-menu-spy-networks/mess
 
 Clicking in the **Value** field will show a list of all defined transmit messages, so you can select the one you want to transmit (Figure 1). Naturally, this command cannot be used if there are no transmit messages in the current setup; you will only be able to select **(None)** and Vehicle Spy will show the error **Transmitting an unknown message**.
 
-![Figure 1: Selecting a message with the Transmitcommand.](../../../../../.gitbook/assets/fb\_transmit.gif)
+![Figure 1: Selecting a message with the Transmitcommand.](../../../../../.gitbook/assets/fb_transmit.gif)

@@ -16,9 +16,9 @@ Once the webpage has opened, select 'Setup' in the top right corner of the scree
 
 > #### Note : Legacy interface is still available.
 
-![](../../.gitbook/assets/VLImg3-3Upd\_icons.jpg)
+![](../../.gitbook/assets/VLImg3-3Upd_icons.jpg)
 
-![Figure 3](../../.gitbook/assets/VLImg3-2Upd\_icons.jpg)
+![Figure 3](../../.gitbook/assets/VLImg3-2Upd_icons.jpg)
 
 ### 3. Set the Camera IP Address:
 

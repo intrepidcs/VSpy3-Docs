@@ -13,4 +13,3 @@ In order to use Time Sync, it needs to be enabled on the device. Connect to the 
 Scroll down the list of options inside of the device and find the option labeled "**Time Sync ICS Hardware**" (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smTwo.gif)) Click on this option and set it to **Master** (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smThree.gif)). Any other devices are required to be set to **Slave.** Once the changes have been made, be sure to click "**Write Settings"** (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smFour.gif)**)** before disconnecting from the device.
 
 ![Figure 1: Select the Time Sync from the menu and assign it as the master or slave.](../../.gitbook/assets/neo.gif)
-

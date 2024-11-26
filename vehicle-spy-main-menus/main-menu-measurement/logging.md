@@ -6,9 +6,9 @@ Logging allows signal data to be saved without message data bytes and IDs. The L
 
 ### Selecting a Signal Group
 
-Logging uses the same signal groups as the [Signal Plot](signal-views/signal-plot.md) and [Signal List](signal-views/signal-list.md) features (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smOne.gif)). Start by choosing the desired signal group via the **Signal Group to Log** drop-down list. To change the signals in that group, click on **Select Signals**. The ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/logging\_+.gif) and ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/logging\_-.gif) buttons can be used to add and remove signal groups.
+Logging uses the same signal groups as the [Signal Plot](signal-views/signal-plot.md) and [Signal List](signal-views/signal-list.md) features (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smOne.gif)). Start by choosing the desired signal group via the **Signal Group to Log** drop-down list. To change the signals in that group, click on **Select Signals**. The ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/logging_+.gif) and ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/logging_-.gif) buttons can be used to add and remove signal groups.
 
-You can also press the **Copy Selected Group** button (![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/logging\_copy.gif)) to duplicate the currently-selected signal group.
+You can also press the **Copy Selected Group** button (![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/logging_copy.gif)) to duplicate the currently-selected signal group.
 
 ### Enabling Logging
 

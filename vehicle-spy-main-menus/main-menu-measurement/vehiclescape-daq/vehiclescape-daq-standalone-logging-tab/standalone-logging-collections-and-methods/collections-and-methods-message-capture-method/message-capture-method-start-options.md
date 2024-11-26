@@ -16,13 +16,13 @@ Table 1 contains a summary of the three start options and information about how 
 
 Data begins logging as soon as the device powers up. The Start Options subsection appears as shown in Figure 1.
 
-![Figure 1: Start section options with Start immediately Selected.](../../../../../../.gitbook/assets/collection\_start\_options\_immediately.gif)
+![Figure 1: Start section options with Start immediately Selected.](../../../../../../.gitbook/assets/collection_start_options_immediately.gif)
 
 ### Start When Expression is True
 
 Selecting this option allows you to enter an expression that must be true for collection to start. The Start Options subsection will appear as shown in Figure 2.
 
-![Figure 2: Start section options with Start when expression is true Selected.](../../../../../../.gitbook/assets/collection\_start\_options\_when\_expression\_is\_true.gif)
+![Figure 2: Start section options with Start when expression is true Selected.](../../../../../../.gitbook/assets/collection_start_options_when_expression_is_true.gif)
 
 Press the ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/Functionbutton.gif) button to select an expression that must be true to start collection. You can also check boxes to enable collection to begin on the following events:
 
@@ -36,7 +36,7 @@ This option provides extra options for how to trigger data collection based on a
 
 **Note:** The **Start using trigger expression** option is also used by the [Bus Query](../collections-and-methods-bus-query-method.md) method.
 
-![Figure 3: Start section options with Start using trigger expression Selected.](../../../../../../.gitbook/assets/collection\_start\_options\_using\_trigger\_expression.gif)
+![Figure 3: Start section options with Start using trigger expression Selected.](../../../../../../.gitbook/assets/collection_start_options_using_trigger_expression.gif)
 
 ### Selecting a Trigger
 

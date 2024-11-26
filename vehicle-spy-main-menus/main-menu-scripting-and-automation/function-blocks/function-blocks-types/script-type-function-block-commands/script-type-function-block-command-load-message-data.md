@@ -8,7 +8,7 @@ This command loads byte data from a file into a [transmit message](../../../../m
 
 Double-click in the **Value** field to launch this command's parameter dialog box (Figure 1). There are several settings here.
 
-![Figure 1: Parameter setup for the Load Message Datacommand.](../../../../../.gitbook/assets/fb\_load\_message\_data.gif)
+![Figure 1: Parameter setup for the Load Message Datacommand.](../../../../../.gitbook/assets/fb_load_message_data.gif)
 
 ### Start Index
 

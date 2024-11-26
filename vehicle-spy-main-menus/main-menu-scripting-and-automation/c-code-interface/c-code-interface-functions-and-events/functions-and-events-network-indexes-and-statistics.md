@@ -23,4 +23,4 @@ Each network has statistics that you can access. You can access the statistics f
 
 ![Figure 1: The network index variables allow you to define what network you are transmitting to or receiving from.](../../../../.gitbook/assets/NetIndexes.gif)
 
-![Figure 2: The GetStats and ClearStats API allows you to access the statistics for a network.](../../../../.gitbook/assets/network\_clearstats.gif)
+![Figure 2: The GetStats and ClearStats API allows you to access the statistics for a network.](../../../../.gitbook/assets/network_clearstats.gif)

@@ -4,4 +4,4 @@ Vehicle Spy can be automated with the [Text API](../../../../vehicle-network-int
 \
 These functions return a 1 (success) or 0 (failure).  The most common cause for failure is that you have a command that Vehicle Spy cannot understand. Use the Text API Terminal in Vehicle Spy to learn how to use the text api.
 
-![Figure 1: The Text API allows you to control almost every aspect of Vehicle Spy.](../../../../.gitbook/assets/spy\_textapi.gif)
+![Figure 1: The Text API allows you to control almost every aspect of Vehicle Spy.](../../../../.gitbook/assets/spy_textapi.gif)

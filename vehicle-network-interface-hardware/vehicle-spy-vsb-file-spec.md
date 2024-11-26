@@ -12,7 +12,7 @@
 
 #### Version 0x101 <a href="#v101_sepc" id="v101_sepc"></a>
 
-This format is no longer created. [Click](vehicle-spy-vsb-file-spec.md#network\_id) to see Network ID's
+This format is no longer created. [Click](vehicle-spy-vsb-file-spec.md#network_id) to see Network ID's
 
 
 
@@ -31,35 +31,35 @@ This format is no longer created. [Click](vehicle-spy-vsb-file-spec.md#network\_
 
 #### Version 0x102 <a href="#v102_sepc" id="v102_sepc"></a>
 
-This format is created by the extractor. [Click](vehicle-spy-vsb-file-spec.md#network\_other) to see Network ID's
+This format is created by the extractor. [Click](vehicle-spy-vsb-file-spec.md#network_other) to see Network ID's
 
-| Description                                              | Length in Bytes                           | Notes                                                                                                           |
-| -------------------------------------------------------- | ----------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
-| Length of EDP Section                                    | 4                                         | int value indicating the length of the next section (the EDP). A zero indicates no EDP section file is present. |
-| [EDP Section](vehicle-spy-vsb-file-spec.md#edp\_section) | variable (see above)                      | used to save the extra data bytes for networks such as Ethernet, Flexray, and CANFD                             |
-| Buffer of Messages                                       | variable (see Size of Buffer of Messages) | VSBSpyMessage structures                                                                                        |
-| Start Time of Collection                                 | struct icsspyMsgTime                      | this is a comparison value between the system time stamp and the neoVI time stamp.                              |
+| Description                                             | Length in Bytes                           | Notes                                                                                                           |
+| ------------------------------------------------------- | ----------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| Length of EDP Section                                   | 4                                         | int value indicating the length of the next section (the EDP). A zero indicates no EDP section file is present. |
+| [EDP Section](vehicle-spy-vsb-file-spec.md#edp_section) | variable (see above)                      | used to save the extra data bytes for networks such as Ethernet, Flexray, and CANFD                             |
+| Buffer of Messages                                      | variable (see Size of Buffer of Messages) | VSBSpyMessage structures                                                                                        |
+| Start Time of Collection                                | struct icsspyMsgTime                      | this is a comparison value between the system time stamp and the neoVI time stamp.                              |
 
 #### Version 0x103 <a href="#v103_sepc" id="v103_sepc"></a>
 
-This format is created using VSpy. [Click](vehicle-spy-vsb-file-spec.md#network\_other) to see Network ID's
+This format is created using VSpy. [Click](vehicle-spy-vsb-file-spec.md#network_other) to see Network ID's
 
-| Description                                              | Length in Bytes                                            | Notes                                                                                                                                                       |
-| -------------------------------------------------------- | ---------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Length of EDP Section                                    | 4                                                          | int value indicating the length of the next section (the EDP). A zero indicates no EDP section is present.                                                  |
-| [EDP Section](vehicle-spy-vsb-file-spec.md#edp\_section) | variable (see above)                                       | used to save the extra data bytes for networks such as Ethernet, Flexray, and CANFD                                                                         |
-| Length of text comment                                   | 4                                                          | int indicating the length of the text header comment of the saved file. SINCE THE COMMENT IS UNICODE THEREFORE HIS IS THE LENGTH IN CHARACTERS - NOT BYTES. |
-| Text comment                                             | 2 bytes per character (see above for number of characters) | Unicode text comment.                                                                                                                                       |
-| Size of Buffer of Messages                               | 4                                                          | sizeof(VSBSpyMessage) multiplied by Number of messages saved to the file                                                                                    |
-| Current Buffer Pointer                                   | 4                                                          | int value which is the pointer to the most recent buffer item +1. (only needed if Number of All time messages > Original buffer size)                       |
-| Original Buffer Size                                     | 4                                                          | int value which is the size of the buffer memory originally allocated by this buffer                                                                        |
-| Number of All time messages                              | 4                                                          | this indicates how many messages were received by this buffer (this number will indicate overflows)                                                         |
-| Buffer of Messages                                       | variable (see Size of Buffer of Messages)                  | VSBSpyMessage structures                                                                                                                                    |
-| Start Time of Collection                                 | struct icsspyMsgTime                                       | this is a comparison value between the system time stamp and the neoVI time stamp.                                                                          |
+| Description                                             | Length in Bytes                                            | Notes                                                                                                                                                       |
+| ------------------------------------------------------- | ---------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Length of EDP Section                                   | 4                                                          | int value indicating the length of the next section (the EDP). A zero indicates no EDP section is present.                                                  |
+| [EDP Section](vehicle-spy-vsb-file-spec.md#edp_section) | variable (see above)                                       | used to save the extra data bytes for networks such as Ethernet, Flexray, and CANFD                                                                         |
+| Length of text comment                                  | 4                                                          | int indicating the length of the text header comment of the saved file. SINCE THE COMMENT IS UNICODE THEREFORE HIS IS THE LENGTH IN CHARACTERS - NOT BYTES. |
+| Text comment                                            | 2 bytes per character (see above for number of characters) | Unicode text comment.                                                                                                                                       |
+| Size of Buffer of Messages                              | 4                                                          | sizeof(VSBSpyMessage) multiplied by Number of messages saved to the file                                                                                    |
+| Current Buffer Pointer                                  | 4                                                          | int value which is the pointer to the most recent buffer item +1. (only needed if Number of All time messages > Original buffer size)                       |
+| Original Buffer Size                                    | 4                                                          | int value which is the size of the buffer memory originally allocated by this buffer                                                                        |
+| Number of All time messages                             | 4                                                          | this indicates how many messages were received by this buffer (this number will indicate overflows)                                                         |
+| Buffer of Messages                                      | variable (see Size of Buffer of Messages)                  | VSBSpyMessage structures                                                                                                                                    |
+| Start Time of Collection                                | struct icsspyMsgTime                                       | this is a comparison value between the system time stamp and the neoVI time stamp.                                                                          |
 
 #### EDP section <a href="#edp_section" id="edp_section"></a>
 
-Used by version 0x102 and 0x103. The ExtraDataPtr -1 of each message is a index to the EDP in EDP section. [Click ](vehicle-spy-vsb-file-spec.md#network\_other)to see Network ID's
+Used by version 0x102 and 0x103. The ExtraDataPtr -1 of each message is a index to the EDP in EDP section. [Click ](vehicle-spy-vsb-file-spec.md#network_other)to see Network ID's
 
 #### Version 0x104 <a href="#v104_sepc" id="v104_sepc"></a>
 

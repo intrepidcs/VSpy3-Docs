@@ -6,7 +6,7 @@ The **Stop and Trigger Tab** of a [Capture Type Function Block](./) is where the
 
 This tab contains a number of parameter sets, some of which are displayed or hidden depending on what is selected in the collection mode drop-down box. Figure 1 shows an example of the **Stop and Trigger Tab** as it appears with the **Collect before and after a trigger expression** collection method selected (which we chose since this method uses all of the available settings).
 
-![Figure 1: Capture Block Stop and Trigger Tab showing all settings.](../../../../../.gitbook/assets/capture\_block\_stop\_and\_trigger\_tab.gif)
+![Figure 1: Capture Block Stop and Trigger Tab showing all settings.](../../../../../.gitbook/assets/capture_block_stop_and_trigger_tab.gif)
 
 ### Collection Method
 

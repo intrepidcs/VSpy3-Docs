@@ -6,4 +6,4 @@ The **Data Tab** of a [Capture Type Function](./) Block does not contain setting
 
 An example of the **Data Tab** as it might appear while running a capture block is shown in Figure 1. Notice that highlighting of changing byte data is shown, as in the [Messages View](../../../../main-menu-spy-networks/messages-view/messages-view-buffer-display/) display.
 
-![Figure 1: Capture Block Data Tab showing captured messages.](../../../../../.gitbook/assets/capture\_block\_data\_tab.gif)
+![Figure 1: Capture Block Data Tab showing captured messages.](../../../../../.gitbook/assets/capture_block_data_tab.gif)
