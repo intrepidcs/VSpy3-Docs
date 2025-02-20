@@ -204,11 +204,17 @@ The following table indicates how you can interact with the Text API.
 
 | Command Name                   | Description                                                                             | Example                                                                                                                             |
 | ------------------------------ | --------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| value                          | Sets/Gets the value.                                                                    |                                                                                                                                     |
+| value   | Get/Set the value.   |     |
 | Description {Text Description} | Sets the description for a signal.                                                      | <p>Set the description for signal number 4 as throttle position:<br><br><code>mg(0).sig(3).description Throttle Position</code></p> |
-| DisplayColor                   | Sets/Returns the color the message is displayed.                                        | `mg(0).DisplayColor 0 ;display black`                                                                                               |
-| Equation                       | Gets/Sets the equation.                                                                 |                                                                                                                                     |
-| Format                         | Get/Sets the equation format.                                                           |                                                                                                                                     |
+| DisplayColor  | Set/Returns the color the message is displayed.  | `mg(0).DisplayColor 0 ;display black` |
+| EncStyle  | Get/Set the endian type. [0 = Little Endian/Intel, 1 = Big Endian/Motorola] |   |
+| Format    | Get/Set the equation format. |     |
+| Len       | Get/Set the signal length, in bits.  |  Get Length: `tx(out0).sg(sig0).Len?`  Set Length: `tx(out0).sg(sig0).Len 3` |
+| NumOffset | Get/Set the signal offset. |    |
+| NumScaling      | Get/Set the signal scaling factor.  |    |
+| Strt      | Get/Set the signal start bit.  |  Get start bit: `tx(out0).sg(sig0).Strt?`  Set start bit: `tx(out0).sg(sig0).Strt 15`   |
+| UnitString     | Get/Set the signal units.  |   |
+| ValueType      | Get/Set the signal type.  |   |
 | refresh                        | Updates signal information. This is useful when making changes to signals via text API. |                                                                                                                                     |
 
 ### ASCII Chart
