@@ -9,11 +9,7 @@
 1. The manufacturer’s data sheet of the PHY. This is needed to know the function of the registers and the format of their contents. These data sheets are usually confidential and require and NDA (Non Disclosure Agreement) with the manufacturer.
 2. The address of the PHY in the device and protocol used. If your device is not listed below, please contact [support@intrepidcs.com](mailto:support%40intrepidcs.com).
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/tablephy.PNG" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/tablephy.PNG" alt=""><figcaption></figcaption></figure></div>
 
 ### Opening the PHY Dashboard
 
@@ -78,7 +74,7 @@ _Note: all values in Hex except Phy Address/Port_
 * Line 2 reads Phy ID Reg1 from phy address 16 using Clause 22
 * Line 3 reads Phy ID Reg2 from phy address 16 using Clause 22
 
-#### Clause 45 Example_:_
+#### Clause 45 Exampl&#x65;_:_
 
 <figure><img src="../.gitbook/assets/Example2.jpg" alt=""><figcaption></figcaption></figure>
 

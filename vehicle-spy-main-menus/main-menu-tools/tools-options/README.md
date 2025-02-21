@@ -15,7 +15,7 @@ Use the Vehicle Spy setup dialog to setup the following:
 * [Directories](options-data-directories.md)
 * [Regional Settings](options-regional-settings.md)
 
-![Figure 2:](../../../.gitbook/assets/spyOptions\_bottom.png)
+![Figure 2:](../../../.gitbook/assets/spyOptions_bottom.png)
 
 ## Copy To Clipboard (Figure 1:![](../../../.gitbook/assets/1.png))
 

@@ -18,4 +18,4 @@ You can change the jump target in several ways:
 
 As you change the value, the magenta box will move accordingly. Press the **Enter** key to finalize your selection.
 
-![Figure 1: Selecting a destination step for the Jump To command.](../../../../../.gitbook/assets/fb\_jump\_to.gif)
+![Figure 1: Selecting a destination step for the Jump To command.](../../../../../.gitbook/assets/fb_jump_to.gif)

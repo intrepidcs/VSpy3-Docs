@@ -8,7 +8,7 @@ This command allows [Text API](../../../../../vehicle-network-interface-hardware
 
 Double-click in the **Value** field to bring up the dialog in Figure 1, where you can set up the parameters for the command you want to send.
 
-![Figure 1: Text API command dialog box.](../../../../../.gitbook/assets/fb\_text\_api.gif)
+![Figure 1: Text API command dialog box.](../../../../../.gitbook/assets/fb_text_api.gif)
 
 ### Expression
 

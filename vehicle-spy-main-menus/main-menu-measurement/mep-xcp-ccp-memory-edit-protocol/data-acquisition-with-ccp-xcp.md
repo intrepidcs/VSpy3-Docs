@@ -27,7 +27,7 @@ To perform standard data acquisition over CCP/XCP:\\
 
 As shown in Figure 1, the DAQ Delays in MEP determine the update rates of A2L items in VehicleScape DAQ depending on their chosen priorities. Lower delay times will make measurements appear closer to "real time", but also take up more network bandwidth and ECU resources.
 
-![Figure 1: Standard DAQ'ing with CCP/XCP is established with DAQ Delays in MEP being assigned to A2L item priorities in VehicleScape DAQ.](../../../.gitbook/assets/spyMEP\_DAQing\_Standard.gif)
+![Figure 1: Standard DAQ'ing with CCP/XCP is established with DAQ Delays in MEP being assigned to A2L item priorities in VehicleScape DAQ.](../../../.gitbook/assets/spyMEP_DAQing_Standard.gif)
 
 ### Event Based DAQ Method
 
@@ -48,4 +48,4 @@ As shown in Figure 2, the ECU software determines the update rate of A2L items i
 
 The [MEP Setup - DAQ Tables tab](mep-setup/mep-setup-daq-tables.md) can help show how the A2L items are assigned to the ECU event tables.
 
-![Figure 2: Event based DAQ'ing with CCP/XCP is established with events in MEP being assigned to A2L items in VehicleScape DAQ.](../../../.gitbook/assets/spyMEP\_DAQing\_Event.gif)
+![Figure 2: Event based DAQ'ing with CCP/XCP is established with events in MEP being assigned to A2L items in VehicleScape DAQ.](../../../.gitbook/assets/spyMEP_DAQing_Event.gif)

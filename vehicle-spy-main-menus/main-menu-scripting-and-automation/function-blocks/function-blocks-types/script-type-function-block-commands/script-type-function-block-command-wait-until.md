@@ -8,7 +8,7 @@ This command causes the function block script to wait until a specified conditio
 
 Double-click the **Value** field to bring up the dialog box shown in Figure 1.
 
-![Figure 1: Wait Until command parameter dialog box.](../../../../../.gitbook/assets/fb\_wait\_until.gif)
+![Figure 1: Wait Until command parameter dialog box.](../../../../../.gitbook/assets/fb_wait_until.gif)
 
 ### Expression
 
@@ -26,4 +26,4 @@ To use this feature, enter a length of time in the **Timeout in seconds** box, a
 
 Figure 1 shows a typical use of the **Wait Until** command: pausing a script until the arrival of a particular message before proceeding, by waiting for its **Present** flag to be set to **True** by Vehicle Spy. Notice that step 2 [resets the Present flag](../script-type-function-block-resetting-the-present-flag.md), which ensures that steps 3 and 4 only occur once for each copy of **Incoming Message** that arrives.
 
-![Figure 1: Example using the Wait Until and Wait For commands.](../../../../../.gitbook/assets/fb\_wait\_for.gif)
+![Figure 1: Example using the Wait Until and Wait For commands.](../../../../../.gitbook/assets/fb_wait_for.gif)

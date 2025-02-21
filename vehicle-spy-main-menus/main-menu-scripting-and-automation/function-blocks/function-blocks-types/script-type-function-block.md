@@ -14,9 +14,9 @@ Potential uses for script function blocks include simulation, diagnostics and au
 
 ### Creating a Function Block Script
 
-Scripts are created in the [Function Blocks](../) view by clicking the ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/function\_block\_toolbar\_add.gif) button on the far left of the [function block toolbar](../function-blocks-toolbar.md), and then choosing **Script** from the popup menu. Vehicle Spy will create a default function block script for you as shown in Figure 1.
+Scripts are created in the [Function Blocks](../) view by clicking the ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/function_block_toolbar_add.gif) button on the far left of the [function block toolbar](../function-blocks-toolbar.md), and then choosing **Script** from the popup menu. Vehicle Spy will create a default function block script for you as shown in Figure 1.
 
-![Figure 1: Default function block script setup.](../../../../.gitbook/assets/script\_default.gif)
+![Figure 1: Default function block script setup.](../../../../.gitbook/assets/script_default.gif)
 
 ### Renaming a Function Block Script
 
@@ -63,4 +63,4 @@ A thin colored line to the left of the step numbers (Figure 1:![](https://cdn.in
 
 As an example, Figure 2 shows a script that waits for a certain signal value, transmits a message, clears stats, and then repeats.
 
-![Figure 2: Simple example of a script type function block.](../../../../.gitbook/assets/script\_example.gif)
+![Figure 2: Simple example of a script type function block.](../../../../.gitbook/assets/script_example.gif)

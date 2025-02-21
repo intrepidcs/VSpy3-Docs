@@ -10,4 +10,4 @@ Double-click in the **Value** field to bring up a dialog box as shown in Figure 
 
 Note that most setups will only have a single window (called simply **Graphical Panels**) and many only have one panel as well (**Panel 1**).
 
-![Figure 1: Dialog box for the Show Panel function block script command.](../../../../../.gitbook/assets/fb\_show\_panel.gif)
+![Figure 1: Dialog box for the Show Panel function block script command.](../../../../../.gitbook/assets/fb_show_panel.gif)

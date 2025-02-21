@@ -6,7 +6,7 @@ Use the **Signal Plot** (Figure 1) to plot Vehicle Spy signals in real time.
 
 ### Signal Groups
 
-The Signal Plot feature uses _signal groups_, or collections of signals, to plot. New groups can be created by clicking on the ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/add\_signal\_group.gif) button, or removed using the ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/delete\_signal\_group.gif) button (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smOne.gif)). Signal groups are edited by clicking the **Select Signals** button and using the [Expression Builder](../../../shared-features-in-vehicle-spy/shared-features-expression-builder.md). To choose a different signal group, select it from the drop-down list to display that group in the plot.
+The Signal Plot feature uses _signal groups_, or collections of signals, to plot. New groups can be created by clicking on the ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/add_signal_group.gif) button, or removed using the ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/delete_signal_group.gif) button (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smOne.gif)). Signal groups are edited by clicking the **Select Signals** button and using the [Expression Builder](../../../shared-features-in-vehicle-spy/shared-features-expression-builder.md). To choose a different signal group, select it from the drop-down list to display that group in the plot.
 
 Note that the same signal groups are shared between the Signal Plot and [Signal List](signal-list.md) features in Vehicle Spy.
 

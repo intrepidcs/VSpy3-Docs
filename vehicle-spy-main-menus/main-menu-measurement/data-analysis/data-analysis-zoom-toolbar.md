@@ -2,7 +2,7 @@
 
 The Zoom Toolbar (Figure 1) contains a number of tools to allow you to adjust the zoom level in both dimensions of your plots, so you can pinpoint exactly the data you want to see. It appears at the top of the Data Analysis area like other toolbars, but can be hidden by removing the checkmark next to it in the [Show Menu](data-analysis-main-menus-and-toolbar.md#show-menu).
 
-![Figure 1: Data Analysis Zoom Toolbar.](../../../.gitbook/assets/data\_analysis\_zoom.gif)
+![Figure 1: Data Analysis Zoom Toolbar.](../../../.gitbook/assets/data_analysis_zoom.gif)
 
 Table 1 describes each of the buttons on the Zoom Toolbar.
 

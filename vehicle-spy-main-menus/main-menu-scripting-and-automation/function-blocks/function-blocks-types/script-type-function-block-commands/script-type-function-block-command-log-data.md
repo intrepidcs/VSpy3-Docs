@@ -8,7 +8,7 @@ This command allows data to be logged to a file or device from within a function
 
 Double-click in the **Value** field to launch the dialog box where data logging settings can be entered (Figure 1).
 
-![Figure 1: Parameter setup for the Load Message Datacommand.](../../../../../.gitbook/assets/fb\_log\_data.gif)
+![Figure 1: Parameter setup for the Load Message Datacommand.](../../../../../.gitbook/assets/fb_log_data.gif)
 
 ### Insert Date/Time at start of line
 

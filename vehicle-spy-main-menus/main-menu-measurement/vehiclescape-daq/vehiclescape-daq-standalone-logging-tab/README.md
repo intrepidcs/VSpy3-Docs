@@ -28,4 +28,4 @@ The Standalone Logging page is divided into two main areas (Figure 1):
 | [Power Management](standalone-logging-power-management.md)     | Logger power management, sleep and wakeup selections.                                                   |
 | [Generation Options](standalone-logging-generation-options.md) | Generates the final script and opens a dialog to send it to ICS hardware capable of standalone logging. |
 
-![Figure 1: The VehicleScape DAQ Standalone Logging Tab is logically divided into an upper area that lists collections and shows options that vary depending on the selected collection method, and a lower area with universal options applicable to all methods.](../../../../.gitbook/assets/standalone\_logging.gif)
+![Figure 1: The VehicleScape DAQ Standalone Logging Tab is logically divided into an upper area that lists collections and shows options that vary depending on the selected collection method, and a lower area with universal options applicable to all methods.](../../../../.gitbook/assets/standalone_logging.gif)

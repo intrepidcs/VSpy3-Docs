@@ -31,10 +31,10 @@ Here are two examples showing typical uses of loops.
 
 The example in Figure 1 shows a simple script that transmits a message exactly 7 times each time it runs.
 
-![Figure 1: A simple loop with a constant loop counter.](../../../../../.gitbook/assets/fb\_loop\_1.gif)
+![Figure 1: A simple loop with a constant loop counter.](../../../../../.gitbook/assets/fb_loop_1.gif)
 
 ### Loop with Expression-Derived Loop Counter
 
 Figure 2 shows a script that waits for the receipt of a message called**CAN Control Message 1**. This message contains a signal, **Number of Transmissions**, which dictates how often the loop runs, and thus how often **CAN Message A** is transmitted.
 
-![Figure 1: A loop with repetitions based on a signal value.](../../../../../.gitbook/assets/fb\_loop\_2.gif)
+![Figure 1: A loop with repetitions based on a signal value.](../../../../../.gitbook/assets/fb_loop_2.gif)

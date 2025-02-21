@@ -1,7 +1,5 @@
 # Application Note: XCP Driver Example - Part 1: Process Overview
 
-
-
 ### Process Overview
 
 In creating your first application for XCP there are generally several steps that occur. These steps are given below:

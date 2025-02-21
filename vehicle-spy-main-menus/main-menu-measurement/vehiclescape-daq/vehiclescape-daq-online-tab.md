@@ -31,4 +31,4 @@ Below the Diagnostic Tweaker are a few additional controls:
 * **DTC Code Request Rate:** Specifies how often fault code requests are sent (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smSix.gif)).
 * **Mask... Button:** Use this button (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smSeven.gif)) to open a dialog box that will allow you to view and change DTC status mask bits (Figure 2).
 
-![Figure 2: DTC Status Mask dialog box.](../../../.gitbook/assets/spyVScapeOnlineTab\_status\_mask.gif)
+![Figure 2: DTC Status Mask dialog box.](../../../.gitbook/assets/spyVScapeOnlineTab_status_mask.gif)

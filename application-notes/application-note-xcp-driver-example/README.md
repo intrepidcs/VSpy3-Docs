@@ -4,7 +4,7 @@
 
 This application note is written to provide an overview of the Intrepid XCP C Code ECU driver and example Vehicle Spy Setup. It will describe all the files and resources provided by Intrepid to enable you to develop real-time XCP memory editing and monitoring for your ECU.
 
-### Files Required for This Example: [Click Here to Download Files](https://cdn.intrepidcs.net/support/VehicleSpy/ICS\_XCP\_Driver\_And\_Example\_Setup.zip)
+### Files Required for This Example: [Click Here to Download Files](https://cdn.intrepidcs.net/support/VehicleSpy/ICS_XCP_Driver_And_Example_Setup.zip)
 
 There are several files provided in this example implementation to help you get started quickly. These files are:
 

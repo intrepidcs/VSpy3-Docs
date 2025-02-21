@@ -51,19 +51,19 @@ Below are a few examples showing typical uses of these commands.
 
 This is the simplest structure, executing one or more commands if an expression is true. The example in Figure 1 tests if a **Message Selector** signal equals **1**, and if so, it transmits**Tx Message 1**; otherwise, it does nothing, and execution continues after the End If statement.
 
-![Figure 1: If / End If structure.](../../../../../.gitbook/assets/fb\_control\_1.gif)
+![Figure 1: If / End If structure.](../../../../../.gitbook/assets/fb_control_1.gif)
 
 ### If / Else / End If
 
 Figure 2 shows a modification of the script in Figure 1, which transmits **Tx Message 1** if **Message Selector** is equal to **1**, and otherwise sends a default transmission, **Default Tx Message**.
 
-![Figure 2: If / Else / End Ifstructure.](../../../../../.gitbook/assets/fb\_control\_2.gif)
+![Figure 2: If / Else / End Ifstructure.](../../../../../.gitbook/assets/fb_control_2.gif)
 
 ### If / Else / Else If / End If
 
 In Figure 3 we have further modified the script to allow multiple values of **Message Selector** to be tested, with the appropriate message transmitted based on its value. If it carries a value other than the ones we are testing for, the default message is sent.
 
-![Figure 3: If / Else If / Else / End If structure.](../../../../../.gitbook/assets/fb\_control\_3.gif)
+![Figure 3: If / Else If / Else / End If structure.](../../../../../.gitbook/assets/fb_control_3.gif)
 
 ### If / Else / Else If / End If with Nested If / Else / End If
 
@@ -71,4 +71,4 @@ In Figure 4 we have added a second construct nested within part of the original 
 
 Notice that Vehicle Spy has indented Steps 6 to 10 to make it easier to see that they are nested within the original commands.
 
-![Figure 4: Nested logical structures.](../../../../../.gitbook/assets/fb\_control\_4.gif)
+![Figure 4: Nested logical structures.](../../../../../.gitbook/assets/fb_control_4.gif)

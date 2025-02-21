@@ -8,7 +8,7 @@ Fortunately, Vehicle Spy provides a number of tools to help you debug your scrip
 
 For the purposes of illustration, we will use the example script shown in Figure 1. It transmits three messages (**Alpha**, **Beta** and **Gamma**) in sequence using a counter before repeating. See the comments within the script for more details.
 
-![Figure 1: Example script for demonstrating debugging, before it is run.](../../../../.gitbook/assets/debug\_script.gif)
+![Figure 1: Example script for demonstrating debugging, before it is run.](../../../../.gitbook/assets/debug_script.gif)
 
 ### Real Time Displays
 
@@ -20,13 +20,13 @@ Figure 2 shows the sample script we are using as it appears while running with t
 * **Execution Pointer:** Vehicle Spy shows you the current step being executed with a yellow pointer in the far left column, and also by highlighting the current step in green (Figure 2:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smFour.gif)).
 * **Time Bargraphs:** Commands like **Wait For** that involve having Vehicle Spy pause for a period of time show the elapsed and remaining time in the **Value** field using a gray horizontal bar that fills from left to right (Figure 2:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smFour.gif)).
 
-![Figure 2: Example script during execution.](../../../../.gitbook/assets/debug\_script\_2.gif)
+![Figure 2: Example script during execution.](../../../../.gitbook/assets/debug_script_2.gif)
 
 ### Debugging Tools
 
 Several debugging tools in Vehicle Spy allow you to go beyond observing your script and interact with it directly to better understand what is happening in every step. Here are a few of the available options, several of which are displayed in Figure 3.
 
-![Figure 3: Example script showing debugging tools.](../../../../.gitbook/assets/debug\_script\_3.gif)
+![Figure 3: Example script showing debugging tools.](../../../../.gitbook/assets/debug_script_3.gif)
 
 ### Stop and Pause Commands
 
@@ -34,7 +34,7 @@ The [Stop](script-type-function-block-commands/script-type-function-block-comman
 
 ### Breakpoints
 
-A breakpoint allows you to tell Vehicle Spy to stop execution at a particular step. To set a breakpoint, select the step where you want to stop, then right-click in the script area to bring up the context menu (Figure 3:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smOne.gif)) and choose **Run To Step**. The selected step will have its number highlighted in gold (Figure 3:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smTwo.gif)), and when the script is run, it will stop at (but before executing) that step. To resume execution, just press the ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/function\_block\_list\_play.gif) button for the script in the [Function Block List](../function-block-list.md).
+A breakpoint allows you to tell Vehicle Spy to stop execution at a particular step. To set a breakpoint, select the step where you want to stop, then right-click in the script area to bring up the context menu (Figure 3:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smOne.gif)) and choose **Run To Step**. The selected step will have its number highlighted in gold (Figure 3:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smTwo.gif)), and when the script is run, it will stop at (but before executing) that step. To resume execution, just press the ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/function_block_list_play.gif) button for the script in the [Function Block List](../function-block-list.md).
 
 You can have multiple breakpoints in a script. Each time a breakpoint is encountered as the script is run, it is removed and execution stops at the next one.
 
@@ -52,4 +52,4 @@ You can manually override the values of variables such as signals while your fun
 
 You can change the value of any of the variables in that command by selecting a variable, entering a new value, and then clicking **Update as a number** or **Update as text**. This will change the value of the variable "live" as the script is running. For example, if we did this for step 2 in our example script, a dialog box like that in Figure 4 would show up, and we could change the current value of **Transmission Counter** from **48** to any other number.
 
-![Figure 4: Modify Variables dialog box.](../../../../.gitbook/assets/debug\_script\_4.gif)
+![Figure 4: Modify Variables dialog box.](../../../../.gitbook/assets/debug_script_4.gif)

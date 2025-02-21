@@ -20,4 +20,4 @@ There are certain functions for every C code module. Implementation of any of th
 
 If you decide to share global data between the event functions and the main function you must use two functions called Spy\_Lock() before you access a variable and Spy\_Unlock() after you are done. These functions make sure the application that calls the events doesn't interfere with the Spy\_Main() application. It is important that the called Spy\_Lock is shortly followed by the unlock call. If you call the lock function without calling unlock it can lock up Vehicle Spy.
 
-![Figure 1: The Spy\_Lock() and Spy\_Unlock() functions allow Spy\_Main to share data with event functions.](../../../../.gitbook/assets/spy\_lock.gif)
+![Figure 1: The Spy\_Lock() and Spy\_Unlock() functions allow Spy\_Main to share data with event functions.](../../../../.gitbook/assets/spy_lock.gif)

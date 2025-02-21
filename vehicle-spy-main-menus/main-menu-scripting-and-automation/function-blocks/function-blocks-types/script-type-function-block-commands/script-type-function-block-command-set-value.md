@@ -14,8 +14,8 @@ If the signal is a [Physical IO property](../../../../../shared-features-in-vehi
 
 Figure 1 shows a simple script that transmits an Automotive Ethernet message using a sequential counter. The first **Set Value** command increments the **Counter** application signal. The second assigns that signal's current value to the **Sequence Counter** signal within the transmit message **Tx Message Ethernet 1**, and sends the message. The script waits for 10 milliseconds, and then repeats.
 
-![Figure 1: Sample sequence counter script illustrating use of the Set Value command.](../../../../../.gitbook/assets/fb\_set\_value\_1.gif)
+![Figure 1: Sample sequence counter script illustrating use of the Set Value command.](../../../../../.gitbook/assets/fb_set_value_1.gif)
 
 Figure 2 shows how the **Set Value** statement in step 2 is set up in the Expression Builder.
 
-![Figure 2: Setup for second Set Value statement in Figure 1.](../../../../../.gitbook/assets/fb\_set\_value\_2.gif)
+![Figure 2: Setup for second Set Value statement in Figure 1.](../../../../../.gitbook/assets/fb_set_value_2.gif)

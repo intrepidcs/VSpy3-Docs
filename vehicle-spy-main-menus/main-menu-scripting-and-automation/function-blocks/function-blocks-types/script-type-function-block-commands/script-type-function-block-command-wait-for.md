@@ -15,4 +15,4 @@ The **Value** field indicates how long the script should wait, in seconds. It ca
 
 Figure 1 shows an example of a function block script using a dynamic **Wait For**command (and a [Wait Until](script-type-function-block-command-wait-until.md) command as well). The script waits for receipt of an incoming message, then uses the value in a signal it contains to dictate how long to wait before sending an outgoing message. The script then repeats the process the next time the incoming message arrives.
 
-![Figure 1: Example using the Wait For and Wait Until commands.](../../../../../.gitbook/assets/fb\_wait\_for.gif)
+![Figure 1: Example using the Wait For and Wait Until commands.](../../../../../.gitbook/assets/fb_wait_for.gif)

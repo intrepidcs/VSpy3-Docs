@@ -25,7 +25,7 @@ You can choose to read from selected ECUs or specify a range of DIDs (Figure 1:!
 * **Select ECUs:** This is the default option; click the **Select ECUs** button to choose them.
 * **Specify a Range:** When you choose this option, additional parameters will appear, as shown in Figure 2. Enter the start and end arbitration IDs for the range you want to collect from, and use the **Network of ECUs** drop-down box to change the network if necessary.
 
-![Figure 2: DID range options for the Bus Query collection.](../../../../../.gitbook/assets/spyvssalbusquery1\_did\_range.gif)
+![Figure 2: DID range options for the Bus Query collection.](../../../../../.gitbook/assets/spyvssalbusquery1_did_range.gif)
 
 ### Select DIDs/PIDs
 
@@ -41,7 +41,7 @@ There are three options to control the reading of DTCs (Figure 1:![](https://cdn
 
 The **Status Mask** button (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smFive.gif)) shows the current DTC status bit mask in hexadecimal form. To change the mask, click the button and a dialog will appear allowing you to select the mask bits (Figure 3).
 
-![Figure 3: DTC Status Mask dialog box.](../../../../../.gitbook/assets/spyvssalbusquery1\_status\_mask.gif)
+![Figure 3: DTC Status Mask dialog box.](../../../../../.gitbook/assets/spyvssalbusquery1_status_mask.gif)
 
 ### Read OBD-II VIN and Calibration ID
 

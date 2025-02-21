@@ -31,7 +31,7 @@ Press this button to remove automatically-generated function blocks, application
 
 Press the **Advanced Options** button to launch the **Advanced Generator Options** dialog box. This interface has three tabs, which are explained below.
 
-![](../../../../.gitbook/assets/advanced\_tab.jpg)
+![](../../../../.gitbook/assets/advanced_tab.jpg)
 
 Several general options can be set here (Figure 2):
 
@@ -43,7 +43,7 @@ Several general options can be set here (Figure 2):
 
 **Note:** The **Networks to ignore for the "On No Bus Activity" option** settings are the same as those found under **Advanced Options** in the [Power Management](standalone-logging-generation-options.md) area.
 
-![Figure 2: Standalone Logging Advanced Generator Options, Advanced Tab.](../../../../.gitbook/assets/spyvssalgenerate\_advanced\_1.gif)
+![Figure 2: Standalone Logging Advanced Generator Options, Advanced Tab.](../../../../.gitbook/assets/spyvssalgenerate_advanced_1.gif)
 
 ### Auto Disable Diagnostics Tab
 
@@ -55,7 +55,7 @@ If you have enabled the option above, the **If no diag commands exist from a sep
 
 The table at the bottom of the tab allows you to add or delete specific IDs and networks. If a message appears matching any network / arbitration ID pair, the logger will stop transmitting all diagnostic messages.
 
-![Figure 3: Standalone Logging Advanced Generator Options, Auto Disable Diagnostics Tab.](../../../../.gitbook/assets/spyvssalgenerate\_advanced\_2.gif)
+![Figure 3: Standalone Logging Advanced Generator Options, Auto Disable Diagnostics Tab.](../../../../.gitbook/assets/spyvssalgenerate_advanced_2.gif)
 
 ### Sleep User Function Blocks Tab
 
@@ -63,7 +63,7 @@ In this tab (Figure 4) you can select function blocks to stop running when the l
 
 **Note:** These settings are the same as those found under **Advanced Options** in the [Power Management](standalone-logging-generation-options.md) area.
 
-![Figure 4: Standalone Logging Advanced Generator Options, Sleep User Function Blocks Tab.](../../../../.gitbook/assets/spyvssalgenerate\_advanced\_3.gif)
+![Figure 4: Standalone Logging Advanced Generator Options, Sleep User Function Blocks Tab.](../../../../.gitbook/assets/spyvssalgenerate_advanced_3.gif)
 
 ### Generate Button
 

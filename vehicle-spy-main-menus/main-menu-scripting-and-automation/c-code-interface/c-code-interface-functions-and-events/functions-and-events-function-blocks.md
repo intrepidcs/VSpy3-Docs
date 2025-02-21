@@ -16,4 +16,4 @@ All function block related functions begin with the prefix "FB\_". The function 
 | Stop()         | Stops the function block.                                       |
 | Trigger()      | Triggers the function block.                                    |
 
-![Figure 1: The C code project has full control of Vehicle Spy's function blocks - just type "FB\_".](../../../../.gitbook/assets/fblock\_control.gif)
+![Figure 1: The C code project has full control of Vehicle Spy's function blocks - just type "FB\_".](../../../../.gitbook/assets/fblock_control.gif)

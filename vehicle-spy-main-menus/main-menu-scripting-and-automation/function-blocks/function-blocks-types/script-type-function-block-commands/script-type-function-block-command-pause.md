@@ -17,6 +17,6 @@ Note that you can use simple HTML formatting in a text string, such as **\<b>** 
 
 When the script in Figure 1 is run, it causes the window seen in Figure 2 to be displayed to the user. If the **Continue** button is pressed, the script will continue, transmitting **CAN Message A** and then stopping. If **Stop** is pressed, the script stops immediately and the message is not sent.
 
-![Figure 1: Example script using the Pause command.](../../../../../.gitbook/assets/fb\_pause\_1.gif)
+![Figure 1: Example script using the Pause command.](../../../../../.gitbook/assets/fb_pause_1.gif)
 
-![Figure 1: Window displayed by Pause command.](../../../../../.gitbook/assets/fb\_pause\_2.gif)
+![Figure 1: Window displayed by Pause command.](../../../../../.gitbook/assets/fb_pause_2.gif)

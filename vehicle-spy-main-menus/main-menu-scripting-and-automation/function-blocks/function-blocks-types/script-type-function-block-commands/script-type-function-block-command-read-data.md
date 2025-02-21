@@ -25,13 +25,13 @@ Figure 1 shows the filename dynamically selected from the **Read Data Filename**
 
 When checked, data will be stored in flash memory, if possible, instead of RAM.
 
-![Figure 1: Read Data command parameters - Filename Tab](../../../../../.gitbook/assets/fb\_read\_data\_1.gif)
+![Figure 1: Read Data command parameters - Filename Tab](../../../../../.gitbook/assets/fb_read_data_1.gif)
 
 ### File Line to Read Tab
 
 Here you specify which line of the file you want to read, using an expression built with the [Expression Builder](../../../../../shared-features-in-vehicle-spy/shared-features-expression-builder.md). In Figure 2, we are choosing the line number based on the value of the **Data Line** application signal. You can also enter a static line number within the Expression Builder if you prefer.
 
-![Figure 2: Read Data command parameters - File Line to Read Tab](../../../../../.gitbook/assets/fb\_read\_data\_2.gif)
+![Figure 2: Read Data command parameters - File Line to Read Tab](../../../../../.gitbook/assets/fb_read_data_2.gif)
 
 
 
@@ -48,4 +48,4 @@ There are several buttons here for managing the application signal list, which a
 * **Remove:** Deletes the selected application signal from the list.
 * **Clear:** Removes all signals from the list.
 
-![Figure 3: Read Data command parameters - Storage Signal Tab](../../../../../.gitbook/assets/fb\_read\_data\_3.gif)
+![Figure 3: Read Data command parameters - Storage Signal Tab](../../../../../.gitbook/assets/fb_read_data_3.gif)

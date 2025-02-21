@@ -6,7 +6,7 @@ The Filter Tab of a [Capture Type Function Block](./) allows you to set up filte
 \
 This tab contains only two elements as shown in Figure 1.
 
-![Figure 1: Capture Block Filter Tab.](../../../../../.gitbook/assets/capture\_block\_filter\_tab.png)
+![Figure 1: Capture Block Filter Tab.](../../../../../.gitbook/assets/capture_block_filter_tab.png)
 
 ### Custom Message Filtering
 
@@ -47,8 +47,8 @@ The first example, shown in Figure 2, is a simple one showing how you can arbitr
 \
 Of course this is a very simple condition: we are just checking for a single signal value. You have complete flexibility to make the script as complex as required.
 
-![Figure 2: Script Filtering example: saving only certain messages.](../../../../../.gitbook/assets/capture\_block\_script\_filtering\_1.gif)
+![Figure 2: Script Filtering example: saving only certain messages.](../../../../../.gitbook/assets/capture_block_script_filtering_1.gif)
 
 The second example (Figure 3) shows how you can use script filtering to do sampling of incoming data. We have defined two application signals; **Number of Samples** and **Sample Rate**, both of which are pretty self-explanatory. The function block script runs in a loop controlled by the value of **Number of Samples**. It saves one message to the capture block, then waits for a number of milliseconds dictated by **Sample Rate** before looping. When the loop is done, the capture block data is saved and both blocks are stopped using script commands.
 
-![Figure 3: Script Filtering example: sampling a message simulation stream.](../../../../../.gitbook/assets/capture\_block\_script\_filtering\_2.gif)
+![Figure 3: Script Filtering example: sampling a message simulation stream.](../../../../../.gitbook/assets/capture_block_script_filtering_2.gif)

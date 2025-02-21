@@ -9,4 +9,3 @@ The first part of setting up multiple devices is enabling the setting. Once Vehi
 Make sure the menu is on the **Spy Networks** tab (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smOne.gif)) and then check the "**Selected Devices**" bubble (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smTwo.gif)) to enable the **Select Devices** button (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smThree.gif)).
 
 ![Figure 1: Check the Selected Devices box.](../../.gitbook/assets/selectdevices.gif)
-

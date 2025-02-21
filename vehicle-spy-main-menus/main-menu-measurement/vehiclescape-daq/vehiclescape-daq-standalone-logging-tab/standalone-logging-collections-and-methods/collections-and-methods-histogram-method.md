@@ -16,13 +16,13 @@ Begin by defining the dimensions of the histogram; that is, choosing the number 
 * 2 Dimensional (X and Y axes)
 * 3 Dimensional (X, Y and Z axes)
 
-![Figure 1: Selecting the number of axes for histogram data collection.](../../../../../.gitbook/assets/spyvssalhistogram\_axes.gif)
+![Figure 1: Selecting the number of axes for histogram data collection.](../../../../../.gitbook/assets/spyvssalhistogram_axes.gif)
 
 ### Histogram Axis Expression and Options
 
 You must choose an expression and make appropriate settings for each of the axes selected in the preceding step. This is accomplished using the main expression selection and settings area shown in Figure 2.
 
-![Figure 2: Histogram axis tabs.](../../../../../.gitbook/assets/spyvssalhistogram\_axis\_settings.gif)
+![Figure 2: Histogram axis tabs.](../../../../../.gitbook/assets/spyvssalhistogram_axis_settings.gif)
 
 ### Axis Tabs
 
@@ -44,7 +44,7 @@ For example, the default settings shown in (Figure 2:![](https://cdn.intrepidcs.
 
 By default, all buckets are the same size, split evenly across the defined value range between **Minimum Value** and **Maximum Value**. If you check **Use Non-Linear Bucket Spacing**, you can then click the **Setup Buckets...** button to bring up the **Setup Histogram Buckets** dialog box (Figure 3). Here you can set customized buckets of variable size. Choose from defining the setup based on the boundary values between adjacent buckets, or specifying each bucket's minimum value and width.
 
-![Figure 2: Histogram axis tabs.](../../../../../.gitbook/assets/spyvssalhistogram\_setup\_histogram\_buckets.gif)
+![Figure 2: Histogram axis tabs.](../../../../../.gitbook/assets/spyvssalhistogram_setup_histogram_buckets.gif)
 
 ### Underflow and Overflow Handling
 
@@ -74,7 +74,7 @@ The available options change based on which of these selections is made.
 
 The default setting is to sample periodically using the specified time interval (default is every 1 second). Figure 3 shows the settings available in this mode.
 
-![Figure 3: Histogram Sample Options for periodic sampling.](../../../../../.gitbook/assets/spyvssalhistogram\_setup\_histogram\_sample\_periodic.gif)
+![Figure 3: Histogram Sample Options for periodic sampling.](../../../../../.gitbook/assets/spyvssalhistogram_setup_histogram_sample_periodic.gif)
 
 Checking the **Only when expression is true** box causes data to be logged periodically only when the specified expression is true. Press the ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/Functionbutton.gif) button to select the expression; you can also check boxes to enable any of the following events as triggers for sampling:
 
@@ -86,7 +86,7 @@ Checking the **Only when expression is true** box causes data to be logged perio
 
 When this option is selected, the settings in this area appear as in Figure 4.
 
-![Figure 4: Sample Options for sampling based on a trigger expression.](../../../../../.gitbook/assets/spyvssalhistogram\_setup\_histogram\_sample\_expression.gif)
+![Figure 4: Sample Options for sampling based on a trigger expression.](../../../../../.gitbook/assets/spyvssalhistogram_setup_histogram_sample_expression.gif)
 
 ### Selecting a Trigger
 

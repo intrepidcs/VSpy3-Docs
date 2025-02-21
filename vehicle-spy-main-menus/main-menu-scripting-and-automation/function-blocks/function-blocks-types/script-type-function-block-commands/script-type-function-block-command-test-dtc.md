@@ -10,7 +10,7 @@ This command currently supports only J1939 DTCs.
 
 A dialog box opens when you double-click in the **Value** field, allowing you to specify the DTCs you want to search for, which message to search, and where to store the results. An example can be seen in Figure 1; a full description of the parameters can be found below.
 
-![Figure 1: Dialog box to set up a Test DTC command.](../../../../../.gitbook/assets/fb\_test\_dtc.gif)
+![Figure 1: Dialog box to set up a Test DTC command.](../../../../../.gitbook/assets/fb_test_dtc.gif)
 
 ### J1939 DTC Parameters
 

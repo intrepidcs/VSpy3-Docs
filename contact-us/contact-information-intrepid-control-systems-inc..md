@@ -1,10 +1,6 @@
 # Contact Information - Intrepid Control Systems, Inc.
 
-<div align="left">
-
-<img src="../.gitbook/assets/logo.png" alt="">
-
-</div>
+<div align="left"><img src="../.gitbook/assets/logo.png" alt=""></div>
 
 **Intrepid Control Systems, Inc.**\
 1850 Research Drive\

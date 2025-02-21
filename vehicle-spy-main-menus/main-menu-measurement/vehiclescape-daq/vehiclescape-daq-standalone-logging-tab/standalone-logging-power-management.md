@@ -26,7 +26,7 @@ Clicking the **Advanced** button launches a dialog box that gives you even more 
 
 **Note:** These settings are also found under **Advanced Options** in the [Generation Options](standalone-logging-generation-options.md) area.
 
-![Figure 2: Standalone Logging Power Management Advanced Options. Left, the Advanced tab, right, the Sleep User Function Blocks tab.](../../../../.gitbook/assets/spyvssalreportoptions\_advanced.gif)
+![Figure 2: Standalone Logging Power Management Advanced Options. Left, the Advanced tab, right, the Sleep User Function Blocks tab.](../../../../.gitbook/assets/spyvssalreportoptions_advanced.gif)
 
 ### Wake Options
 

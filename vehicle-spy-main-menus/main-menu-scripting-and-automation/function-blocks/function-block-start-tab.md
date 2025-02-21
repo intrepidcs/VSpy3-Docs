@@ -4,7 +4,7 @@ The settings for [Function Blocks](./) are arranged into tabs that appear in the
 
 The typical appearance of this area is shown in Figure 1.
 
-![Figure 1: Function Block Start Tab.](../../../.gitbook/assets/function\_block\_start\_tab.gif)
+![Figure 1: Function Block Start Tab.](../../../.gitbook/assets/function_block_start_tab.gif)
 
 ### Start Types
 

@@ -2,7 +2,7 @@
 
 A number of essential tools are included in a row of buttons along the top of the [Function Blocks](./) area (Figure 1). These tools allow you to add function blocks, remove them, and perform other important operations.
 
-![Figure 1: Function Block Toolbar buttons.](../../../.gitbook/assets/function\_block\_toolbar.gif)
+![Figure 1: Function Block Toolbar buttons.](../../../.gitbook/assets/function_block_toolbar.gif)
 
 ### Function Block Controls
 
@@ -16,17 +16,17 @@ Table 1 illustrates and explains the toolbar controls seen in Figure 1.
 
 ### Adding Function Blocks
 
-To add a new function block, click the ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/function\_block\_toolbar\_add.gif) button at the far left of the toolbar. A small submenu will appear, as shown in Figure 2. Select the type of function block you want to add, and it will be added to the function block list with a default name (which you can customize).
+To add a new function block, click the ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/function_block_toolbar_add.gif) button at the far left of the toolbar. A small submenu will appear, as shown in Figure 2. Select the type of function block you want to add, and it will be added to the function block list with a default name (which you can customize).
 
-![Figure 2: Add Function Block submenu.](../../../.gitbook/assets/function\_blocks\_add\_submenu.gif)
+![Figure 2: Add Function Block submenu.](../../../.gitbook/assets/function_blocks_add_submenu.gif)
 
 ### Searching Function Blocks
 
-If you click the ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/function\_block\_toolbar\_find.gif) button, Vehicle Spy will pop up a small dialog box to allow you to search for arbitrary text in any of your defined function blocks. At first, this dialog will only have a text box where you can enter the string to be found, with a blue arrow button you can click to start the search. Each press of the search button will display the next occurrence of the search string.\
+If you click the ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/function_block_toolbar_find.gif) button, Vehicle Spy will pop up a small dialog box to allow you to search for arbitrary text in any of your defined function blocks. At first, this dialog will only have a text box where you can enter the string to be found, with a blue arrow button you can click to start the search. Each press of the search button will display the next occurrence of the search string.\
 \
-Press the ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/fb\_toolbar\_+.gif) button next to the word **Options** to expand the box,revealing more options as shown in Figure 3.
+Press the ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/fb_toolbar_+.gif) button next to the word **Options** to expand the box,revealing more options as shown in Figure 3.
 
-![Figure 3: Search Function Blocks dialog box.](../../../.gitbook/assets/function\_blocks\_search.gif)
+![Figure 3: Search Function Blocks dialog box.](../../../.gitbook/assets/function_blocks_search.gif)
 
 The options are fairly self-explanatory, especially to anyone who has experience using a word processor:
 
@@ -35,4 +35,4 @@ The options are fairly self-explanatory, especially to anyone who has experience
 * **Whole Word Only:** When checked, only whole words matching the string will be found; otherwise, partial matches will be included.
 * **Direction:** Determines whether the search is done up or down through the function blocks.
 
-Press the ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/fb\_toolbar\_-.gif) button to hide these options, or click ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/function\_block\_toolbar\_find.gif) again to hide the entire search box.
+Press the ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/fb_toolbar_-.gif) button to hide these options, or click ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/function_block_toolbar_find.gif) again to hide the entire search box.

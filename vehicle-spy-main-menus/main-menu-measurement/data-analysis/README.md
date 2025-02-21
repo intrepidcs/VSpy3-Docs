@@ -18,9 +18,9 @@ You can adjust the relative sizes of these partitions by dragging the vertical a
 
 There are four toolbars, which appear at the top of the Data Analysis display in Figure 1. You may see a different default layout when you first open the feature, and not all toolbars may appear initially; they can be enabled or disabled via the [Show menu](data-analysis-main-menus-and-toolbar.md).\
 \
-Notice that there are two vertical bars (![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/vertical\_bars.gif)) at the left edge of each toolbar. You can click on these bars, then drag and drop the toolbar to a different location.
+Notice that there are two vertical bars (![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/vertical_bars.gif)) at the left edge of each toolbar. You can click on these bars, then drag and drop the toolbar to a different location.
 
-![Figure 1: Data Analysis view.](../../../.gitbook/assets/data\_analysis.gif)
+![Figure 1: Data Analysis view.](../../../.gitbook/assets/data_analysis.gif)
 
 ### Data Analysis Areas
 
