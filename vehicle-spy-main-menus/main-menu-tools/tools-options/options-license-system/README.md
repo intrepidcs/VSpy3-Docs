@@ -4,7 +4,7 @@ Vehicle Spy uses a hardware/software licensing system. Your licensing informatio
 
 ### Obtaining Your License File
 
-When you purchase Vehicle Spy, you will receive a license file from [Intrepid Control Systems](https://intrepidcs.com/contact-us/). A license file (\*.LIC) will be either included on the CD that ships with your purchase or emailed directly to you. If you do not receive a License file or have lost it, please [contact](https://intrepidcs.com/contact-us/) Intrepid Control Systems for information on obtaining another copy.
+When you purchase Vehicle Spy, you will receive a license file from [Intrepid Control Systems](https://intrepidcs.com/contact-us/). A license file (.tablic) will either be included on the CD that ships with your purchase or emailed directly to you (earlier, it was \*.LIC). If you do not receive a License file or have lost it, please [contact](https://intrepidcs.com/contact-us/) Intrepid Control Systems for information on obtaining another copy.
 
 ### Setting Up or Changing the License File
 
@@ -20,6 +20,6 @@ Please [contact](https://intrepidcs.com/contact-us/) Intrepid Control Systems fo
 
 ### Transferring Your License to Another PC
 
-To transfer a Vehicle Spy license to another computer, simply copy the \*.LIC file to the new computer and set up the License tab as described above. Vehicle Spy will be unlocked if a licensed hardware unit is connected.
+To transfer a Vehicle Spy license to another computer, simply copy the \*tablic file (earlier, it was \*.LIC) to the new computer and set up the License tab as described above. Vehicle Spy will be unlocked if a licensed hardware unit is connected.
 
 ![Figure 1: Vehicle Spy licensing information is found on the License tab.](../../../../.gitbook/assets/spyLicense.gif)
