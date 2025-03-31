@@ -17,3 +17,8 @@ Before beginning actual lessons and exercises, it is important to get familiar w
 **Platform Selection and configuration buttons** (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smSeven.gif)): This dropdown gives quick access to all the configured database and database options.
 
 All of these panels can be opened, closed, moved, resized, and even torn from the main window based on user preference. To resize, move the mouse over the dark lines between the panels until the mouse cursor turns into a pair of arrows. Just click, drag, and release when panel is the desired size. Note the ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/Drag.gif) indicator in **Figure 1**.
+
+Please check the following video for more details.
+
+{% embed url="https://youtu.be/-KT3ijwp9Rs?feature=shared" %}
+

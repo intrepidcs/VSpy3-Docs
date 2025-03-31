@@ -15,3 +15,8 @@ To resize the alternate workspace, click on the area between the two panes and d
 ![Figure 1: Selecting and resizing the bottom Alternate Workspace panel.](../../.gitbook/assets/spyexample2.3.gif)
 
 Right now this feature might not seem that important. However, in the next part of this tutorial it will be very handy.
+
+Please check the following video for more details.
+
+{% embed url="https://youtu.be/u-BnJvm_b2Q?feature=shared" %}
+

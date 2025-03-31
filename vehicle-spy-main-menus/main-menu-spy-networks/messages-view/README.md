@@ -24,3 +24,8 @@ Refer to **Figure 1** and **Table 1** for a breakdown of the Messages View.
 | ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smFour.gif) [Column Filters](messages-view-column-filters.md)  | Uses pattern matching techniques to filter all data in a column.                                                    |
 | ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smFive.gif) [Buffer Display](messages-view-buffer-display/)    | Displays messages and their signals. Includes a buffer progress bar and task menus.                                 |
 | ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smSix.gif) [Bottom Toolbar](messages-view-bottom-toolbar/)     | <p>Tools for color, display format, statistics mode, and column setup.<br></p>                                      |
+
+Please check the following video for more details.
+
+{% embed url="https://youtu.be/yVpgQCsMDdg?feature=shared" %}
+

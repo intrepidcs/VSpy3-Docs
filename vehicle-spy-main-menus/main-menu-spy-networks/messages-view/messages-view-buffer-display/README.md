@@ -19,3 +19,8 @@ Clicking on an icon opens a convenient [task menu](messages-view-task-menus.md) 
 Clicking in the main display area highlights the entire row in green for easy reading. Activity highlighting helps pinpoint changing data. Gray indicates fast changing data (rate <= 1s). Blue indicates slow changing data (rate > 1s). Data that stops changing gradually has its highlighting fade to white.
 
 A horizontal scrollbar lets you see any [columns](../messages-view-column-headers.md) hidden from view. A vertical scrollbar lets you see messages hidden from view in static mode or review message history while [paused](../messages-view-top-toolbar/pause-messages-view.md) in scrolling mode.
+
+Please check the following video for more details.
+
+{% embed url="https://youtu.be/_YMMon-QX84?feature=shared" %}
+

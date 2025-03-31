@@ -11,3 +11,8 @@ The right half of the Tx Panel (Figure 1:![](https://cdn.intrepidcs.net/support/
 There is a Fill Up/Down feature on the right click menu while over the left side of the Tx Panel. This feature will fill all selected cells in a column with the same value as the first selected cell. To use the feature, select the cell to copy, then **Shift + left click** to highlight the range of cells to change, then right click and apply the **Fill Up/Down** feature as seen in **Figure 2**.
 
 ![Figure 2: Fill up feature of Fill Up/Fill Down.](../../../.gitbook/assets/spytransmitpanel2.gif)
+
+Please check the following video for more details.
+
+{% embed url="https://youtu.be/7I4OWfbAfY0?feature=shared" %}
+
