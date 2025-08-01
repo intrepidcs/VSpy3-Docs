@@ -12,19 +12,19 @@ This documentation provides a comprehensive guide on utilizing CAN or CAN FD Fuz
 
 To engage in Fuzzing activities within the Vehicle Spy Enterprise Plus software, users need to navigate to the Fuzzing View. This can be accessed through the menu bar by selecting "Embedded Tools" and then choosing "Fuzzer" from the dropdown menu. This feature serves as the entry point for users to initiate Fuzzing tasks.
 
-<div align="left"><figure><img src="../../.gitbook/assets/image8.png" alt=""><figcaption><p>How to start with Fuzzer </p></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image8.png" alt=""><figcaption><p>How to start with Fuzzer</p></figcaption></figure></div>
 
 #### Creating Tests:
 
 Fuzzing involves the creation of various test scenarios to assess system vulnerabilities. In the Fuzzer View, users can generate multiple tests by clicking the "New" button located in the top left corner. Each test can be named for easy identification and reference. Additionally, users can set a Pseudo Random Seed to ensure consistency in random data generation across multiple test runs. If no seed is provided, Vehicle Spy will generate a pseudo-random seed automatically.
 
-**Below is the step-by-step process -**&#x20;
+**Below is the step-by-step process -**
 
 1\) Generate a target for the fuzzer by clicking the New Target button and selecting either a Blank Target or a template from the databas&#x65;**.**
 
 <div align="left"><figure><img src="../../.gitbook/assets/image3 (2).png" alt="New Target"><figcaption></figcaption></figure></div>
 
-2\) After Clicking on New Target or Blank Target you will able to Target Configure option.&#x20;
+2\) After Clicking on New Target or Blank Target you will able to Target Configure option.
 
 <div align="left"><figure><img src="../../.gitbook/assets/image2 (2).png" alt=""><figcaption><p>You can add New or Template from database</p></figcaption></figure></div>
 
@@ -72,7 +72,7 @@ Test information and results are presented in a structured manner within the sof
 
 <div align="left"><figure><img src="../../.gitbook/assets/image16.png" alt=""><figcaption><p>Viewing Test Information and Results with template</p></figcaption></figure></div>
 
-2\)&#x20;
+2\)
 
 <div align="left"><figure><img src="../../.gitbook/assets/image6.png" alt=""><figcaption></figcaption></figure></div>
 

@@ -14,7 +14,7 @@ Select the camera that needs setup by clicking on it, then open up the web porta
 
 Once the webpage has opened, select 'Setup' in the top right corner of the screen (Figure 3 ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/1.gif)). If credentials are requested, enter 'root' as the user name and the password for the camera under 'password'. Once logged into the Axis dashboard click on 'Users' (Figure 3 ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/2.gif)). Finally, check the box next to 'Allow Anonymous Login' (Figure 3 ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/3.gif)) and click 'Save' (Figure 3 ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/4.gif)) at the bottom of the screen. Wait for the page to reload before closing out of the window.
 
-> #### Note : Legacy interface is still available.
+> **Note : Legacy interface is still available.**
 
 ![](../../.gitbook/assets/VLImg3-3Upd_icons.jpg)
 

@@ -78,8 +78,6 @@ _Note: all values in Hex except Phy Address/Port_
 
 <figure><img src="../.gitbook/assets/Example2.jpg" alt=""><figcaption></figcaption></figure>
 
-
-
 * Line 1 writes soft reset of PCS to Port 16, Device 3 using Clause 45
 * Line 2 reads PCS ID Reg1 from Port 16, Device 3 using Clause 45
 * Line 3 reads PCS ID Reg2 from Port 16, Device 3 using Clause 45

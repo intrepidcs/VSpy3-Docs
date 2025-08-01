@@ -1,25 +1,19 @@
 # neoECU 10
 
-
-
 ### Device Specifications
 
-neoECU 10 can be purchased in one of two configurations;  HHL+ and HLSL+. The HHL+ version has two Dual wire CAN channels while the HLSL+ has one Dual wire CAN and a software selectable SW CAN or LSFT CAN channel.
+neoECU 10 can be purchased in one of two configurations; HHL+ and HLSL+. The HHL+ version has two Dual wire CAN channels while the HLSL+ has one Dual wire CAN and a software selectable SW CAN or LSFT CAN channel.
 
 * Operating Voltage- 6.0 to 26.5 DC
   * Multiple network support
-    *   HHL+
-
-        * 2 DW CAN channels (up to 1 M-Bit software selectable baud rate)
-        * 1 LIN/ISO9141/KW2K
-
-
+    * HHL+
+      * 2 DW CAN channels (up to 1 M-Bit software selectable baud rate)
+      * 1 LIN/ISO9141/KW2K
     * HLSL+
       * 1 DW CAN channel
       * 1 Software selectable SW CAN or LSFT CAN
-      * 1 LIN/ISO9141/KW2K\
-
-* Size: 2.2" x3.7"x 1"  Weight: 2 oz
+      * 1 LIN/ISO9141/KW2K\\
+* Size: 2.2" x3.7"x 1" Weight: 2 oz
 * 5 User configurable LED
 * 4 Analog inputs: 0 to 26.6 Volt (800K ohm)
 * 6 PWM or Misc I/O. PWM outputs are Low side drivers.

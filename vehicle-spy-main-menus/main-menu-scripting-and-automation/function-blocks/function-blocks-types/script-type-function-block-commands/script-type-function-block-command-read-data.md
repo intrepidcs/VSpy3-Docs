@@ -33,8 +33,6 @@ Here you specify which line of the file you want to read, using an expression bu
 
 ![Figure 2: Read Data command parameters - File Line to Read Tab](../../../../../.gitbook/assets/fb_read_data_2.gif)
 
-
-
 ### Storage Signal Tab
 
 In this tab you select one or more application signals into which to store the data that is read from the file.

@@ -18,4 +18,4 @@ To remove any column filter, simply highlight it and press the **Delete** key.\
 \
 To enable or disable all column filters without changing them, use the **Filter** button in the upper left corner of the Messages view.\
 \
-&#xNAN;**\*Note:** By clicking on a heading, the option to sort pull down lists from ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/AZ.gif) or ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/za.gif) is given. When monitoring many messages, this provides an easy way to move quickly back and forth without excessive use of scroll bars.
+\&#xNAN;**\*Note:** By clicking on a heading, the option to sort pull down lists from ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/AZ.gif) or ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/za.gif) is given. When monitoring many messages, this provides an easy way to move quickly back and forth without excessive use of scroll bars.

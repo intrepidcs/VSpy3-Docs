@@ -4,7 +4,7 @@ The [Data Analysis](./) main menus and associated toolbar are shown in Figure 1.
 \
 You can click on one of the menu names just below to jump straight to its section.
 
-&#x20;                      [**Data**](data-analysis-main-menus-and-toolbar.md#data-menu) **---** [**Edit**](data-analysis-main-menus-and-toolbar.md#edit-menu) **---** [**Show**](data-analysis-main-menus-and-toolbar.md#show-menu) **---** [**Actions**](data-analysis-main-menus-and-toolbar.md#actions-menu) **---** [**Annotation**](data-analysis-main-menus-and-toolbar.md#annotation-menu) **---** [**Configurations**](data-analysis-main-menus-and-toolbar.md#configurations-menu)
+[**Data**](data-analysis-main-menus-and-toolbar.md#data-menu) **---** [**Edit**](data-analysis-main-menus-and-toolbar.md#edit-menu) **---** [**Show**](data-analysis-main-menus-and-toolbar.md#show-menu) **---** [**Actions**](data-analysis-main-menus-and-toolbar.md#actions-menu) **---** [**Annotation**](data-analysis-main-menus-and-toolbar.md#annotation-menu) **---** [**Configurations**](data-analysis-main-menus-and-toolbar.md#configurations-menu)
 
 ![Figure 1: Data Analysis main menu and toolbar.](../../../.gitbook/assets/data_analysis_main.gif)
 

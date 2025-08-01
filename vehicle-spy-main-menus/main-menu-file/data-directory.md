@@ -6,7 +6,7 @@ By clicking the **Data** button found in the upper right of the user interface, 
 \
 The user's data directory is a sub directory of the Vehicle Spy Data Directory. So for user Jane Doe, the location of the data directory would be:\
 \
-&#xNAN;**"C:\Program Files\Vehicle Spy 3\Data Directory\Jane Doe\\"**\
+\&#xNAN;**"C:\Program Files\Vehicle Spy 3\Data Directory\Jane Doe\\"**\
 (Assuming Vehicle Spy was installed to C:\Program Files\Vehicle Spy 3\\)\
 \
 If you delete a user's data directory, that user's logon will also be deleted.\

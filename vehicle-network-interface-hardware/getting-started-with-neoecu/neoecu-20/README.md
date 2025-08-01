@@ -99,8 +99,6 @@ neoECU 20 is very similar in function to a neoVI FIRE.
 | 24  | DBG RESET           | Not Used                                     |
 | 25  | VBATT               | Electrical Positive Supply 6-27 VDC          |
 
-
-
 **Table 2 - neoECU 20, 9 pin Connector Pin Descriptions**
 
 | Pin | Name      | Description            |

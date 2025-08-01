@@ -10,8 +10,6 @@ Table 1 illustrates and explains the script toolbar controls in Figure 1.
 
 **Table 1: Function Block Script Toolbar Controls**
 
-
-
 | Button                                    | Icon                                                                                       | Description                                                                                                                                                                                                                                                                                                          |
 | ----------------------------------------- | ------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <p>Add Step After<br>(Insert After)</p>   | ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/script_toolbar_insert_after.gif)  | Adds a new step to the script after the one currently selected.                                                                                                                                                                                                                                                      |
@@ -23,11 +21,7 @@ Table 1 illustrates and explains the script toolbar controls in Figure 1.
 | Undo                                      | ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/script_toolbar_undo.gif)          | Reverses the last **Delete** operation.                                                                                                                                                                                                                                                                              |
 | Tracking                                  | ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/script_toolbar_tracking.gif)      | <p>When enabled, while a script is running, the script grid will scroll to track the current step being executed. This feature can be useful for monitoring scripts that are too large for all of their steps to be displayed on the screen at once.<br><br>This is a toggle control that is enabled by default.</p> |
 
-
-
 Several of these commands are also available in a right-click menu. First select the step you want to work with, then right-click, and you will see entries for the **Copy**, **Paste Before**, **Insert After**, **Insert Before** and **Delete** commands (Figure 2). The other entries on this menu, such as **Run To Step**, **Force** and **Modify Variables**, are used for script tracking and debugging.
-
-
 
 ![Figure 2: The script toolbar control right-click menu.](../../../../.gitbook/assets/script_context_menu.gif)
 

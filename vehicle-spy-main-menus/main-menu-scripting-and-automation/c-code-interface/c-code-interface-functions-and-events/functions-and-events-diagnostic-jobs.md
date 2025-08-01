@@ -2,7 +2,7 @@
 
 The C Code Interface provides functions for interacting with Vehicle Spy [Diagnostic Jobs](../../../main-menu-spy-networks/diagnostics/diagnostics-setup.md). Diagnostic Jobs perform diagnostic operations on ISO14229, GMLAN or Keyword 2000. You can start, stop, save data, and see high level results directly from C.\
 \
-All diagnostic job related functions begin with the prefix "DG\_". The function then contains the diagnostic job name and finishes with the API name.  For example, if a diagnostic job was named "Test", the function to start it would be "DG\_Test\_Start()".  See the table and picture below for more details.
+All diagnostic job related functions begin with the prefix "DG\_". The function then contains the diagnostic job name and finishes with the API name. For example, if a diagnostic job was named "Test", the function to start it would be "DG\_Test\_Start()". See the table and picture below for more details.
 
 **Table 1: Diagnostic Job APIs Available**
 

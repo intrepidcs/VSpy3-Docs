@@ -10,8 +10,6 @@ Table 1 describes just a few of the many ways that capture blocks can be used. I
 
 **Table 1: Sample applications of capture type function blocks**
 
-
-
 | Application Description                                                                                  | Buffer                 | Start Type           | Stop and Trigger Options                                                                       | Storage                          |
 | -------------------------------------------------------------------------------------------------------- | ---------------------- | -------------------- | ---------------------------------------------------------------------------------------------- | -------------------------------- |
 | Save current data in a large, unfiltered buffer, possibly triggered by a hotkey.                         | No filtering           | Start Immediately    | Collect in a circular buffer, with large buffer                                                | Manual save                      |

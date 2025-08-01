@@ -28,4 +28,4 @@ With so many messages flying by, custom colors make instant visual identificatio
 
 Examine message in the grid portion of the Messages Editor panel (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smSeven.gif)). All the specifications entered in the Setup dialog are automatically added to the spreadsheet. Make sure message looks exactly like the one found above in **Figure 1**. (For a more complete explanation of the options found in the Setup dialog, please [click here](../../vehicle-spy-main-menus/main-menu-spy-networks/message-editor/).)\
 \
-&#xNAN;**\*Note:** Depending on preference, message information such as Description or Arb ID can be entered directly into the grid or in the Setup dialog. The changes made in one area will also occur in the other.
+\&#xNAN;**\*Note:** Depending on preference, message information such as Description or Arb ID can be entered directly into the grid or in the Setup dialog. The changes made in one area will also occur in the other.
