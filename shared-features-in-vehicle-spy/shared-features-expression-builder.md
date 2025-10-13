@@ -329,6 +329,7 @@ There are many operators available in the Expression Builder. These are listed i
 |   log(Arg)  |               Natural logarithm of Arg               |           log(2) is 0.6931471805          |
 |  log10(Arg) |               10 Based logarithm of Arg              |              log10(100) is 2              |
 |   exp(Arg)  | e (the base of natural logarithms) raised to a power |           exp(2) is 7.3890560989          |
+| pow(Arg1, Arg2) | Raises **Arg1** to the power of **Arg2** (same as `Arg1^Arg2`). | `pow(3, 3)` is 27 |
 |   sqr(Arg)  |                  Square root of arg                  |                sqr(49) is 7               |
 |   int(Arg)  |                Integer portion of arg                |             int(3.12434) is 3             |
 |     mod     |   Divide two numbers and return only the remainder   |              19 Mod 6.7 is 5              |
