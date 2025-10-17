@@ -24,7 +24,7 @@ The automatically generated code was designed for developer productivity. So, fe
 
 ### Requirements
 
-You must have Visual C++ installed. Currently, Visual Studio 2017, 2015, 2012, 2010, 2008, or 2005 are supported. The community edition is a [free download from the Microsoft web site](https://visualstudio.microsoft.com/vs/community/). The Visual Studio community edition is not as functional for [debugging](c-code-interface-object-names-debugging-and-common-mistakes.md) as the standard version and above (see Debugging for details). Please note that Visual Studio does not have to be installed **to run** C code projects that are already built. Simple examples can be [downloaded from the link here](https://cdn.intrepidcs.net/support/VehicleSpy/CCInterfaceExamples.rar).
+You must have Visual C++ installed. Currently, Visual Studio 2005 and later (including the latest and upcoming releases) are supported. The community edition is a [free download from the Microsoft web site](https://visualstudio.microsoft.com/vs/community/). The Visual Studio community edition is not as functional for [debugging](c-code-interface-object-names-debugging-and-common-mistakes.md) as the standard version and above (see Debugging for details). Please note that Visual Studio does not have to be installed **to run** C code projects that are already built. Simple examples can be [downloaded from the link here](https://cdn.intrepidcs.net/support/VehicleSpy/CCInterfaceExamples.rar).
 
 ### Protocol Support
 
