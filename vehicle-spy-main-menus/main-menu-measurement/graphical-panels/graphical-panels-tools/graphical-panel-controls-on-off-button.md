@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-measurement/graphical-panels/graphical-panels-tools/graphical-panel-controls-on-off-button
+---
+
 # Graphical Panel Controls: On/Off Button
 
 An On Off button allows you to change the value of a digital (binary) signal or [application signal](../../../main-menu-scripting-and-automation/application-signals/) within a graphical panel. You can also use this control to take Vehicle Spy online or offline.

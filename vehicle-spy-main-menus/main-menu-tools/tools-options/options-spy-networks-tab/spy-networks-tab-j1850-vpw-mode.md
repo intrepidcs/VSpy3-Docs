@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-tools/tools-options/options-spy-networks-tab/spy-networks-tab-j1850-vpw-mode
+---
+
 # Spy Networks Tab: J1850 VPW Mode
 
 The [Tools](../../) -> [Options](../), [Spy Networks](./) tab lets you select how the J1850 VPW headers are handled as shown in Figure 1.

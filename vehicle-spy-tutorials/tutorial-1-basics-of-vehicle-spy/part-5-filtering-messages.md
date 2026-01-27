@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tutorial-1-basics-of-vehicle-spy/part-5-filtering-messages
+---
+
 # Part 5 - Filtering Messages
 
 A complete message specification is the basic building block of a custom filter. In this part of Tutorial 1, you will create your own custom filter.

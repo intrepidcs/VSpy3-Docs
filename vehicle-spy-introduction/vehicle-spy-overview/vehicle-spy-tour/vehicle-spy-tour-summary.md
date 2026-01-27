@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-introduction/vehicle-spy-overview/vehicle-spy-tour/vehicle-spy-tour-summary
+---
+
 # Vehicle Spy Tour: Summary
 
 If you are an electronic module developer, a diagnostic tool developer, a validation tester, an in-vehicle durability tester, a test consultant, or an in-vehicle data acquisition user Vehicle Spy offers you great value. Please review the table below for a quick summary.

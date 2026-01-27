@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-measurement/mep-xcp-ccp-memory-edit-protocol/mep-setup/mep-setup-memory-hex-s19
+---
+
 # MEP Setup - Memory / Hex / S19
 
 The [MEP Setup](./) Memory/Hex/S19 tab (Figure 1) supports HEX (\*.hex) and S19 (\*.s) file formats to import and export ECU memory map information. Vehicle Spy must be offline to import or export the memory files.

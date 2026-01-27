@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-tools/utilities-coremini-console/utilities-coremini-control
+---
+
 # Utilities: CoreMini Control
 
 How CoreMini scripts run depends on how the device is powered. Table 1 shows the connection order and how the device will start.

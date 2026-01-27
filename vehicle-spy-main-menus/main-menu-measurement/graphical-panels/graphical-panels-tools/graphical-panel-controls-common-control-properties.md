@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-measurement/graphical-panels/graphical-panels-tools/graphical-panel-controls-common-control-properties
+---
+
 # Graphical Panel Controls: Common Control Properties
 
 Table 1 contains descriptions of the common properties found in most Graphical Panel controls.

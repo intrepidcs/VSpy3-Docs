@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-spy-networks/transmit-panel/ways-to-transmit-messages
+---
+
 # Ways to Transmit Messages
 
 One way to transmit a message is to click on the manual transmit button in the [Transmit Panel](../) as shown in **Figure 1**.

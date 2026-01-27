@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/contact-us/contact-information-intrepid-control-systems-inc.
+---
+
 # Contact Information - Intrepid Control Systems, Inc.
 
 <div align="left"><img src="../.gitbook/assets/logo.png" alt=""></div>

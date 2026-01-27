@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/shared-features-in-vehicle-spy/shared-features-widgets
+---
+
 # Shared Features: Widgets
 
 ### Overview

@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/shared-features-in-vehicle-spy/shared-features-calculated-signal-editor/shared-features-calculated-text-signals
+---
+
 # Shared Features: Calculated Text Signals
 
 Text type [Application Signals](../../vehicle-spy-main-menus/main-menu-scripting-and-automation/application-signals/) or [Tx Panel signals](../../vehicle-spy-main-menus/main-menu-spy-networks/transmit-panel/dynamic-transmit-message-bytes.md) can be any combination of Vehicle Spy data and constant text. (Note: Tx Panel signals must be a fixed length and not set to "all remaining".) For example, if you enter the equation "The value of engine rpm is {Engine RPM :in1}", Vehicle Spy will use the formatted version of engine rpm and show the result "The value of engine rpm is 300.0 RPM".\

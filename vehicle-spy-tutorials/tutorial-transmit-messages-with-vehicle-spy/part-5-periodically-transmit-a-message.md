@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tutorial-transmit-messages-with-vehicle-spy/part-5-periodically-transmit-a-message
+---
+
 # Part 5 - Periodically Transmit a Message
 
 Often a message must be transmitted regularly. Rather than sit around clicking the Tx button all day, Vehicle Spy enables users to specify when and how often a message will be transmitted.

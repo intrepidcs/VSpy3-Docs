@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-measurement/vehiclescape-daq/vehiclescape-daq-standalone-logging-tab/standalone-logging-collections-and-methods/message-capture-method-restart-options
+---
+
 # Message Capture Method: Restart Options
 
 In [VehicleScape DAQ](../../vehiclescape-daq-online-tab.md) [Standalone Logging](../), a number of restart options are available for the [Message Capture](collections-and-methods-message-capture-method/) method. There are three possible choices, but which ones are available depends on the selected [Start Option](collections-and-methods-message-capture-method/message-capture-method-start-options.md) and [Stop Option](message-capture-method-stop-options/).

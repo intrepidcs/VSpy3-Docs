@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-measurement/video
+---
+
 # Video
 
 Vehicle Spy's **Video** view can show and record live video from cameras connected to the PC. Various filters are provided to alter and analyze the video for the purposes of object detection and automated testing. Video view is opened from the [Measurement menu](./). Captured video must be reviewed using the [Video Tab](video.md).

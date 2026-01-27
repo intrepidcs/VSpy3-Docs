@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/application-notes/phy-dashboard
+---
+
 # PHY Dashboard
 
 ## <mark style="background-color:blue;">Note</mark>
@@ -77,8 +84,6 @@ _Note: all values in Hex except Phy Address/Port_
 #### Clause 45 Exampl&#x65;_:_
 
 <figure><img src="../.gitbook/assets/Example2.jpg" alt=""><figcaption></figcaption></figure>
-
-
 
 * Line 1 writes soft reset of PCS to Port 16, Device 3 using Clause 45
 * Line 2 reads PCS ID Reg1 from Port 16, Device 3 using Clause 45

@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-tools/utilities-coremini-console/utilities-coremini-advanced-settings
+---
+
 # Utilities: CoreMini Advanced Settings
 
 The Advanced Settings tab holds extra settings to configure CoreMini logging.

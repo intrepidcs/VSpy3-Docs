@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-spy-networks/messages-view/messages-view-filter-bar
+---
+
 # Messages View Filter Bar
 
 ![Figure 1: The Filter Bar.](../../../../.gitbook/assets/speedfilter2.gif)

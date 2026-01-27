@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-file/create-open-and-save-vehicle-spy-setups
+---
+
 # Create, Open, & Save Vehicle Spy Setups
 
 Use the Vehicle Spy File menu (Figure 1) to create, open, and save .vs3 and .vs3zip setup files.

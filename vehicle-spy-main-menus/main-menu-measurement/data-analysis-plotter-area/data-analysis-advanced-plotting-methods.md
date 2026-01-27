@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-measurement/data-analysis-plotter-area/data-analysis-advanced-plotting-methods
+---
+
 # Data Analysis: Advanced Plotting Methods
 
 The [plotter area](./) in [Data Analysis](../data-analysis/) can do much more than graph one data file and one channel versus time. Please take a look at Figure 1 to see an example of a more complex Time Plot.

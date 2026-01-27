@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-spy-networks/flexray-controllers/flexray-controllers-configuration-tab
+---
+
 # FlexRay Controllers: Configuration Tab
 
 The two FlexRay coldstart nodes within ICS hardware are configured using the [FlexRay Controllers](./) Configuration tab. The tab has parameters organized into Cluster, Nodes, and Channels branches in a +/- tree on the left (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smOne.gif)) and their data entry fields on the right (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smTwo.gif)). Synchronization settings are included along the bottom of the tab.

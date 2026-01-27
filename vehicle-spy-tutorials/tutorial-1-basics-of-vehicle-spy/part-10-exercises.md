@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tutorial-1-basics-of-vehicle-spy/part-10-exercises
+---
+
 # Part 10 - Exercises
 
 This concludes all of the basic features in Vehicle Spy. Just to recap, the following subjects were covered:

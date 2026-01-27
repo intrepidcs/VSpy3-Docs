@@ -1,6 +1,13 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-scripting-and-automation/c-code-interface/c-code-interface-functions-and-events/functions-and-events-timers
+---
+
 # Functions and Events: Timers
 
-Timers generate events at specific time.  This time can be periodic or a one shot. The timer can be setup in Vehicle Spy totally or you can optionally control it with C functions. The table below shows the properties of the timer you can set in Vehicle Spy. The timer functions include the ability to read and write the current time and the ability to enable the timer.
+Timers generate events at specific time. This time can be periodic or a one shot. The timer can be setup in Vehicle Spy totally or you can optionally control it with C functions. The table below shows the properties of the timer you can set in Vehicle Spy. The timer functions include the ability to read and write the current time and the ability to enable the timer.
 
 **Table 1: Timer Properties that can be Configured in Vehicle Spy**
 

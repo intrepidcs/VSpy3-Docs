@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/application-notes/application-note-gateway-builder-tutorial/tutorial-gateway-builder-part-2-gateway-builder-overview
+---
+
 # Tutorial - Gateway Builder - Part 2 - Gateway Builder Overview
 
 The Gateway Builder has several parts to it. The details of each are below.
@@ -12,8 +19,7 @@ The Gateway Builder has several parts to it. The details of each are below.
 
 The toolbar in the Gateway Builder features the following options:
 
-\
-
+<br>
 
 ![Fig 1-1](../../.gitbook/assets/GWBImage3Part1.gif)
 

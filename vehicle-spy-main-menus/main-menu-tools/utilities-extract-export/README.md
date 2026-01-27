@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-tools/utilities-extract-export
+---
+
 # Utilities: Extract / Export
 
 The [Tools](../) -> [Utilities](../tools-utilities/) -> Extract Export interface extracts data from [standalone logger](../../../application-notes/application-note-vehiclescape-standalone-logging/) SD cards and exports that data to various file formats. Those two functions are divided into two major areas, each with its own tab, as shown in Figure 1.\

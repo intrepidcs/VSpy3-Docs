@@ -1,3 +1,9 @@
+---
+metaLinks:
+  alternates:
+    - https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials
+---
+
 # Vehicle Spy Tutorials
 
 Vehicle Spy tutorials have been created to make learning Vehicle Spy quick and easy. The current available tutorials are listed below.

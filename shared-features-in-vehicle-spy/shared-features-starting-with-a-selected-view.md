@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/shared-features-in-vehicle-spy/shared-features-starting-with-a-selected-view
+---
+
 # Shared Features: Starting with a Selected View
 
 Through the use of a command switch, a specified view can be displayed when Vehicle Spy starts. A use for this feature could be for an end-of-line tester where the end user only needs to interface with a graphical panel. Having only one view available prevents other aspects of Vehicle Spy file from being changed.

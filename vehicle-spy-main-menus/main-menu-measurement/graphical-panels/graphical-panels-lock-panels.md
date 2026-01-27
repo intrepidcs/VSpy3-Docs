@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-measurement/graphical-panels/graphical-panels-lock-panels
+---
+
 # Graphical Panels: Lock Panels
 
 Upon first entering the Graphical Panels feature, you will be in _edit mode_, which allows you to create and modify panels and tools. When you are ready to test or use your design, it is a good idea to lock the panels.

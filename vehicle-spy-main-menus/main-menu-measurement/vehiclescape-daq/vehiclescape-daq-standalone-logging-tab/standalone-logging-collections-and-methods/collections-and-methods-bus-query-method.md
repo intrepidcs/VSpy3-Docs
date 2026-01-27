@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-measurement/vehiclescape-daq/vehiclescape-daq-standalone-logging-tab/standalone-logging-collections-and-methods/collections-and-methods-bus-query-method
+---
+
 # Collections and Methods: Bus Query Method
 
 In [VehicleScape DAQ](../../) the [Standalone Logging](../) of a Bus Query [collection](./) allows you to log a snapshot of DID/PID values and DTCs at a point in time. This can be done with a single ECU or several ECUs at once.

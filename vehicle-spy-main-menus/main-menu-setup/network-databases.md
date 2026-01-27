@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-setup/network-databases
+---
+
 # Network Databases
 
 Network databases can be configured using the **Setup> Network Databases** menu selection or by selecting the **Network Databases** icon ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/NetworkDatabase.gif) from the Menu Bar.

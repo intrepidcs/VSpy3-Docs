@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-introduction/vehicle-spy-overview/vehicle-spy-tour/vehicle-spy-tour-5-test-automation
+---
+
 # Vehicle Spy Tour 5: Test Automation
 
 ![Figure 1: Function Block interface in Vehicle Spy](../../../.gitbook/assets/icsFBAutomation.gif)

@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-network-interface-hardware/getting-started-with-neoecu/neoecu-12
+---
+
 # neoECU 12
 
 #### neoECU 12

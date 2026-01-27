@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-tools/tools-utilities/utilities-hardware-acceleration
+---
+
 # Utilities: Hardware Acceleration
 
 If you only need to periodically transmit messages as efficiently as possible then Hardware Acceleration can help by improving periodic transmit message timing accuracy and removing the need to use the [CoreMini Console](../utilities-coremini-console/).\

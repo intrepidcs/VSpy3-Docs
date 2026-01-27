@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/basic-operation-of-vehicle-spy/the-logon-screen
+---
+
 # The Logon Screen
 
 After opening Vehicle Spy, the first screen displayed is the Logon screen (Figure 1). If Vehicle Spy has been used on the current PC before, click the drop down and select the desired logon name. If you have not used Vehicle Spy before or you wish to create a new logon name, press the **+** button (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smOne.gif)) and enter the name in the dialog that opens. Entering a logon name creates a [Data Directory](data-directory.md) folder of the same name within the Vehicle Spy Data Directory. This is the default location where all of your personal settings and data files will be stored.

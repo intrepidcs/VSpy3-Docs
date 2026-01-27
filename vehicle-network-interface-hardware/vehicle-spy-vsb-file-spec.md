@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-network-interface-hardware/vehicle-spy-vsb-file-spec
+---
+
 # Vehicle Spy VSB file Spec
 
 ### File Specification <a href="#file_sepc" id="file_sepc"></a>
@@ -13,8 +20,6 @@
 #### Version 0x101 <a href="#v101_sepc" id="v101_sepc"></a>
 
 This format is no longer created. [Click](vehicle-spy-vsb-file-spec.md#network_id) to see Network ID's
-
-
 
 | Description                 | Length in Bytes                                            | Notes                                                                                                                                                       |
 | --------------------------- | ---------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -71,8 +76,6 @@ This format is created by the Loggers and VSpy Stream to Disk.
 | EDP                      | variable (see previous message's ExtraDataPtr) | used to save the extra data bytes for networks such as Ethernet, Flexray, and CANFD                                                                                                                     |
 | ......                   | variable                                       | Buffer of Message and EDP continue to repeat until Start Time of Collection. If you are reading the VSB file, simple continue to read until Buffer of Message size read not equal sizeof(VSBSpyMessage) |
 | Start Time of Collection | struct icsspyMsgTime                           | this is a comparison value between the system time stamp and the neoVI time stamp.                                                                                                                      |
-
-
 
 ### NetWork ID <a href="#network_id" id="network_id"></a>
 
@@ -163,8 +166,6 @@ bool Messages::Read(char * sFileName)
 }
 ```
 
-
-
 #### Reading EDP Section <a href="#reading_edp_section" id="reading_edp_section"></a>
 
 ```cpp
@@ -209,8 +210,6 @@ int Messages::ReadEDPSelction()
 }
 ```
 
-
-
 #### Reading 0x103 File Info <a href="#reading_edp_section" id="reading_edp_section"></a>
 
 ```cpp
@@ -232,8 +231,6 @@ unsigned long Messages::Read103Header()
     return theNumOfMsgs;
 }
 ```
-
-
 
 #### Reading 0x102 and 0x103 Messages <a href="#reading_0x102-0x103_messages" id="reading_0x102-0x103_messages"></a>
 

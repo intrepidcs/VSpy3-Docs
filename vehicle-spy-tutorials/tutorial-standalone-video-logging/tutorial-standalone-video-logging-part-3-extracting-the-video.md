@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tutorial-standalone-video-logging/tutorial-standalone-video-logging-part-3-extracting-the-video
+---
+
 # Tutorial: Standalone Video Logging - Part 3 - Extracting the Video
 
 ### 1. Open the Extract/Export Tool

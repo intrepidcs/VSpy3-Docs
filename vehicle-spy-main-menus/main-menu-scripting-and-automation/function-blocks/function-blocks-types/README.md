@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-scripting-and-automation/function-blocks/function-blocks-types
+---
+
 # Function Blocks Types
 
 Vehicle Spy supports three types of Function Blocks:
@@ -11,4 +18,3 @@ The type of block is selected at the time it is added by clicking the ![](https:
 The type of function block chosen determines what is found in the setup area that comprises most of the function block window.
 
 ![Figure 1: Add Function Block submenu.](../../../../.gitbook/assets/function_blocks_add_submenu.gif)
-

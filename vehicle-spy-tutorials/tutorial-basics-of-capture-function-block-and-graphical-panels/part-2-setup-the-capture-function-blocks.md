@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tutorial-basics-of-capture-function-block-and-graphical-panels/part-2-setup-the-capture-function-blocks
+---
+
 # Part 2 - Setup the Capture Function Blocks
 
 A capture Function Block allows the recording of data that is coming across the bus. In this case, data that is captured will be coming from a simulation file. Capture Function Blocks can capture traffic in a variety of ways. To learn more about how to use Capture Function Blocks, see Capture Function Blocks.

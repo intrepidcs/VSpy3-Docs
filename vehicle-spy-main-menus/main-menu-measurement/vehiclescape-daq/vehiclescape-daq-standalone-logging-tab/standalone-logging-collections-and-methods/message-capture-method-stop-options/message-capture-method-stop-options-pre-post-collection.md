@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-measurement/vehiclescape-daq/vehiclescape-daq-standalone-logging-tab/standalone-logging-collections-and-methods/message-capture-method-stop-options/message-capture-method-stop-options-pre-post-collection
+---
+
 # Message Capture Method: Stop Options: Pre/Post Collection
 
 When using the [Message Capture](../collections-and-methods-message-capture-method/) method for [Standalone Logging](../../) within [VehicleScape DAQ](../../../), selecting **Start using trigger expression** for the [Start Option](../collections-and-methods-message-capture-method/message-capture-method-start-options.md) provides two [Stop Options](./): **Pre/Post Collection** (described here) and [One-shot Report](message-capture-method-stop-options-one-shot-report.md).

@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-network-interface-hardware/vehicle-network-interface-hardware-valuelog
+---
+
 # Vehicle Network Interface Hardware: ValueLOG
 
 The ValueLOG is the next-generation, low-cost, high-performance data logging device for CAN FD and LIN networks. The ValueLOG includes Ethernet (DoIP), four channels of CAN FD (Including SW CAN) and LIN in one tool. All channels run simultaneously and are time-stamped in hardware.

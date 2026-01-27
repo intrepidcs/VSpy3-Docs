@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-tools/utilities-extract-export/utilities-extract-from-sd-card
+---
+
 # Utilities: Extract from SD Card
 
 The first tab of the [Extract / Export](./) interface (Figure 1) extracts data from [standalone logger](../../../application-notes/application-note-vehiclescape-standalone-logging/) SD cards.\

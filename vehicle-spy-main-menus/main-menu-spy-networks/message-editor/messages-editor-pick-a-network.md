@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-spy-networks/message-editor/messages-editor-pick-a-network
+---
+
 # Messages Editor: Pick a Network
 
 Each [Network](../networks/) has different [Messages and Signals](./). The Network the Messages Editor table is referring to is specified by the **On Network** drop down located at the top of Messages Editor view (Figure 1). Changing this dropdown will show the messages for this network.

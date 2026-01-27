@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-measurement/data-analysis-tool-dialog/data-analysis-calculated-channels
+---
+
 # Data Analysis: Calculated Channels
 
 The [Data Analysis](../data-analysis/) tool can plot channels extracted from data files, but it can also create and plot new channels using calculations based upon extracted channels.\

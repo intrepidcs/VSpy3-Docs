@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-measurement/vehiclescape-daq
+---
+
 # VehicleScape DAQ
 
 VehicleScape DAQ is a signal data acquisition tool that integrates diagnostics with [Logging](../logging.md). VehicleScape DAQ can reduce the time it takes to access common diagnostic signals like DIDs, DPIDs, PIDs, memory locations, and fault codes, because it builds the necessary diagnostic jobs for you. The signals can be viewed in real time, logged, or gated to other networks.

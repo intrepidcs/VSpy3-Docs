@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-measurement/graphical-panels/graphical-panels-tools/graphical-panel-controls-tx-button
+---
+
 # Graphical Panel Controls: Tx Button
 
 The Tx Button control allows you to send a transmit message from a graphical panel.

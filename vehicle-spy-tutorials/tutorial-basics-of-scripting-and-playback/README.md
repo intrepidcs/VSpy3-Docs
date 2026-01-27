@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tutorial-basics-of-scripting-and-playback
+---
+
 # Tutorial: Basics of Scripting and Playback
 
 ### Overview

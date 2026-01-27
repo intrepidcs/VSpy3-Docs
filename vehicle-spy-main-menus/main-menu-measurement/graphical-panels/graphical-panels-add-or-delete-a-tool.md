@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-measurement/graphical-panels/graphical-panels-add-or-delete-a-tool
+---
+
 # Graphical Panels: Add or Delete a Tool
 
 ### Add a Tool

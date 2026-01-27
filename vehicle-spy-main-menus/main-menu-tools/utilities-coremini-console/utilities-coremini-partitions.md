@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-tools/utilities-coremini-console/utilities-coremini-partitions
+---
+
 # Utilities: CoreMini Partitions
 
 CoreMini Logging supports the use of Partitions on the micro SD Card. Partitions are configured in the CoreMini Console under the "SD Card Partition Table" tab. Partitions split the storage medium into parts so separate captures or events can be logged to different records. There are 2 options in this dialog, one for the number of divisions and another to specify the size of the card

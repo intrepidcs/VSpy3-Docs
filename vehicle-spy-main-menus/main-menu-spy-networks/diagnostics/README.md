@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-spy-networks/diagnostics
+---
+
 # Diagnostics
 
 Vehicle Spy allows diagnostic messages to be quickly built into diagnostic jobs using built-in diagnostic services. Vehicle Spy can also transmit diagnostic jobs and decode their responses.\

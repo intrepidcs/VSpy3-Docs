@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tutorial-decode-signals-from-messages/part-3-enter-an-equation-for-an-analog-value
+---
+
 # Part 3 - Enter an Equation for an Analog Value
 
 To indicate how the value is encoded in the Throttle Position signal, an equation needs to be entered for it.

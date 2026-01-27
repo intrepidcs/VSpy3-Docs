@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-spy-networks/messages-view/messages-view-bottom-toolbar/color-filters
+---
+
 # Color Filters
 
 The messages shown in [Messages view](../) can be colored according to user preference. This feature is another way to filter or differentiate messages.

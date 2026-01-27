@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-measurement/graphical-panels/graphical-panels-tools/graphical-panel-controls-function-block-button
+---
+
 # Graphical Panel Controls: Function Block Button
 
 The Function Block button provides the ability to control [Function Block](../../../main-menu-scripting-and-automation/function-blocks/) scripts from a graphical panel. Function blocks can be started, stopped, triggered ([capture-type function blocks only](../../../../vehicle-spy-tutorials/tutorial-sort-messages-by-ecu/part-3-setup-capture-type-function-blocks.md)), or instructed to save their collected data (again, capture blocks only).

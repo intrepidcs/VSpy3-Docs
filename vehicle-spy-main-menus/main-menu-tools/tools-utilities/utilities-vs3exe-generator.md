@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-tools/tools-utilities/utilities-vs3exe-generator
+---
+
 # Utilities: VS3EXE Generator
 
 The Embedded Tools -> VS3EXE Generator (Figure 1) converts a Vehicle Spy vs3 setup into a simplified version with "read only" displays. This utility can help make your setup easier for others to use and reduce mistakes by preventing them from changing your setup. The simplified file will have a vs3exe extension that requires a special license from ICS to run.

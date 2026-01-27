@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tutorial-sort-messages-by-ecu/part-3-setup-capture-type-function-blocks
+---
+
 # Part 3 - Setup Capture Type Function Blocks
 
 Capture type function blocks will be used to record the messages from the desired ECUs.
@@ -30,4 +37,4 @@ Click the Storage tab to display the Storage options. The first thing to change 
 
 The steps above need to be repeated for the 6 other ECUs we want to decode. Edit the remaining function blocks using the ECU source IDs (10, 1A, 29, 40, 58, and 97) to help identify each file and function block.\
 \
-&#xNAN;**\*Note:** Example file "Tutorial 4 - Part 1" can be loaded at this point if you got stuck somewhere in previous Tutorial 4 - Parts 1 to 3.
+\&#xNAN;**\*Note:** Example file "Tutorial 4 - Part 1" can be loaded at this point if you got stuck somewhere in previous Tutorial 4 - Parts 1 to 3.

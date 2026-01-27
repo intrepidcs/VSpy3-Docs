@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-spy-networks/ecus-view/gmlan-ecus
+---
+
 # GMLAN ECUs
 
 If a GMLAN ECU is selected on the [ECUs](../../main-menu-setup/ecus-view/) view then the tabs after the ECU Basics tab will look like those along the top of **Figure 1**. These other tabs let you create and change diagnostic items like DIDs, DPIDs, PIDs, CPIDs, Memory Data, and Standard DIDs. Just click on a tab to see all items of that type in the ECU. A shared interface is used to enter data for the different types of items. Once you learn one, you have learned them all! The DIDs tab in Figure 1 is an example of this interface.

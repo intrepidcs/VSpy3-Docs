@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-spy-networks/transmit-panel/ways-to-transmit-messages/auto-tx-and-transmit-rate
+---
+
 # Auto Tx and Transmit Rate
 
 Transmit messages can be setup to be transmitted automatically. This is done in the Auto Tx column of the Tx Panel as shown in Figure 1. There are three automatic transmit modes to choose from.

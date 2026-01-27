@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-introduction/vehicle-spy-overview/vehicle-spy-tour/vehicle-spy-tour-3-flight-recording
+---
+
 # Vehicle Spy Tour 3: Flight Recording
 
 ![Figure 1: Function Block options](../../../.gitbook/assets/spytour3.gif)

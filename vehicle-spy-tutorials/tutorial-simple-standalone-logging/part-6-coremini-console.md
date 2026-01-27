@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tutorial-simple-standalone-logging/part-6-coremini-console
+---
+
 # Part 6 - CoreMini Console
 
 ### 1. Configure the CoreMini Console:

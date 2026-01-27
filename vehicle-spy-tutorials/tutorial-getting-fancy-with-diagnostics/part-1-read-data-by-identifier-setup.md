@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tutorial-getting-fancy-with-diagnostics/part-1-read-data-by-identifier-setup
+---
+
 # Part 1 - Read Data By Identifier Setup
 
 In this example, Identifier information acquired from Read Data By Identifier will be passed on to a Write Data By Identifier service. A use for this could be reading a VIN number, programming an ECU and then writing the VIN number back to the ECU.

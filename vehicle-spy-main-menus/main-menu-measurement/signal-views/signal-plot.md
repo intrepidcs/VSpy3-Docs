@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-measurement/signal-views/signal-plot
+---
+
 # Signal Plot
 
 Use the **Signal Plot** (Figure 1) to plot Vehicle Spy signals in real time.

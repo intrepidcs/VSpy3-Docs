@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/application-notes/application-note-coremini-partition-logging/logging-part-3-sending-the-script-to-the-hardware
+---
+
 # Logging - Part 3: Sending the Script to the Hardware
 
 ### 1. Send the Script to Hardware:&#x20;

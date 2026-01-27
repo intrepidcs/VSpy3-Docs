@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-measurement/graphical-panels/graphical-panels-tools/graphical-panel-controls-panel-button
+---
+
 # Graphical Panel Controls: Panel Button
 
 A Panel Button control allows one graphical panel to launch another panel under user control. This can be handy for creating complex setups with multiple panels, or for providing access to secondary controls that are only needed under certain circumstances.

@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tutorial-request-and-save-dtc-data
+---
+
 # Tutorial: Request and Save DTC Data
 
 ### Overview

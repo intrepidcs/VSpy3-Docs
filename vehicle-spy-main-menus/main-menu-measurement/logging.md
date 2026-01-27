@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-measurement/logging
+---
+
 # Logging
 
 Logging allows signal data to be saved without message data bytes and IDs. The Logging screen (Figure 1) is accessed from the **Measurement** menu.

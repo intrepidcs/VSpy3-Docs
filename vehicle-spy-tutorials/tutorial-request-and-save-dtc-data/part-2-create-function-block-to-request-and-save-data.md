@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tutorial-request-and-save-dtc-data/part-2-create-function-block-to-request-and-save-data
+---
+
 # Part 2 - Create Function Block to Request and Save Data
 
 ### 1. Open Function Blocks View:

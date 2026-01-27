@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-spy-networks/message-editor
+---
+
 # Message Editor
 
 Vehicle communications involve [networks](../networks/) of ECUs (or nodes) exchanging messages filled with signals. Network Databases are applied to each physical network to organize all of that data being exchanged.\

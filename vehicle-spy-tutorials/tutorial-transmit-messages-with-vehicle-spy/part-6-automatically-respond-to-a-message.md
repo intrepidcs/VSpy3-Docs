@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tutorial-transmit-messages-with-vehicle-spy/part-6-automatically-respond-to-a-message
+---
+
 # Part 6 - Automatically Respond to a Message
 
 In addition to manual and periodic transmission, Vehicle Spy is also capable of automatically responding to a message.

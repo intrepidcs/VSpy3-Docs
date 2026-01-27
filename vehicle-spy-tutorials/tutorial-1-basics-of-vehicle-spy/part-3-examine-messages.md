@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tutorial-1-basics-of-vehicle-spy/part-3-examine-messages
+---
+
 # Part 3 - Examine Messages
 
 The Messages view can be set up to display precisely what needs to be seen. It can be customized for any need and can display specific messages in message traffic. In the next couple steps a basic message specification will be set up. This is a good place to begin exploring Vehicle Spy's filtering capabilities.
@@ -28,4 +35,4 @@ With so many messages flying by, custom colors make instant visual identificatio
 
 Examine message in the grid portion of the Messages Editor panel (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smSeven.gif)). All the specifications entered in the Setup dialog are automatically added to the spreadsheet. Make sure message looks exactly like the one found above in **Figure 1**. (For a more complete explanation of the options found in the Setup dialog, please [click here](../../vehicle-spy-main-menus/main-menu-spy-networks/message-editor/).)\
 \
-&#xNAN;**\*Note:** Depending on preference, message information such as Description or Arb ID can be entered directly into the grid or in the Setup dialog. The changes made in one area will also occur in the other.
+\&#xNAN;**\*Note:** Depending on preference, message information such as Description or Arb ID can be entered directly into the grid or in the Setup dialog. The changes made in one area will also occur in the other.

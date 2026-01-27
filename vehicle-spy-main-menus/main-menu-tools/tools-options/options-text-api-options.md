@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-tools/tools-options/options-text-api-options
+---
+
 # Options: Text API Options
 
 The [Tools](../) -> [Options](./) -> Text API tab (Figure 1) configures different ports to "talk to" Vehicle Spy. Text API is a method of sending text strings to Vehicle Spy to request or send information.

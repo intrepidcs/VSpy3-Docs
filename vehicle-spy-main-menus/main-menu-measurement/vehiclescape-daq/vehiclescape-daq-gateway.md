@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-measurement/vehiclescape-daq/vehiclescape-daq-gateway
+---
+
 # VehicleScape DAQ: Gateway
 
 The [VehicleScape DAQ](./) Gateway tab allows you to configure either a standard gateway or a logging gateway. Data to be gated is selected on the [Channels tab](vehiclescape-daq-channels-tab.md). VehicleScape DAQ will package the selected data into messages and transmit them on the gateway network.

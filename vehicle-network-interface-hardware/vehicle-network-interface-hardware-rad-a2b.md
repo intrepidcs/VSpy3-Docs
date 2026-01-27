@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-network-interface-hardware/vehicle-network-interface-hardware-rad-a2b
+---
+
 # Vehicle Network Interface Hardware: RAD-A2B
 
 #### Automotive Audio Bus and Network Monitoring Solution

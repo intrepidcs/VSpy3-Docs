@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-measurement/graphical-panels/graphical-panels-format-align-or-resize-a-tool-group
+---
+
 # Graphical Panels: Format (Align or Resize) a Tool Group
 
 Formatting a group allows you to either set all the tools to the same size, or align them along a particular dimension. Start by selecting a set of tools either by dragging a selection box around them, or Ctrl+clicking the tools you want to work with. Each control will show a set of square handles on its corners to indicate that it has been selected.

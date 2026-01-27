@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-network-interface-hardware/vehicle-network-interface-hardware-rad-wbms
+---
+
 # Vehicle Network Interface Hardware: RAD-wBMS
 
 Intrepid has partnered with Analog Devices to create a state of the art battery cell measurement and network testing hardware using the wBMS (Wireless Battery Management System®) technology. The RAD-wBMS is an adaptor designed to interface between ADI’s electric vehicle wBMS and legacy test platforms in a variety of use cases. It contains ADI wBMS radios and isoSPI interfaces with which to control and configure the wireless network components along with DW CAN-FD, 100Base-T, and USB interfaces with which to connect to legacy test platforms.

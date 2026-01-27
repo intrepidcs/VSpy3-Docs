@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-tools/tools-options/options-gps-setup
+---
+
 # Options: GPS Setup
 
 ![Figure 1: A GPS receiver (Garmin GPS-II+)](../../../.gitbook/assets/spyGPS.jpg)

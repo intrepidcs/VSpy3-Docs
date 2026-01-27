@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-introduction/vehicle-spy-specifications
+---
+
 # Vehicle Spy Specifications
 
 | <p><img src="../.gitbook/assets/VspyIcon_vsmall.gif" alt="" data-size="original"></p><p>Vehicle Spy Application</p> | <ul><li>Vehicle Spy allows simultaneous monitoring and transmission on multiple vehicle networks. These networks can have different vehicle network protocols.</li><li>Custom tabs allow for quick maneuvering between screens</li><li>Save and recall Vehicle Spy setup files</li><li>Vehicle Spy Logon manages multiple users, keeps track of your last 100 setup files, and manages the data directories</li><li>C Code Interface for coding more complicated functions</li><li>Access to GPS (Global Positioning System)</li><li>Message discovery function with message monitor allows a user to reverse engineer message strategies</li><li>Online help with step-by-step tutorials</li></ul>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |

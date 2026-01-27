@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/application-notes/application-note-neovi-logging-neoecu-daq/application-note-neovi-logging-neoecu-daq-part-2-vehiclescape-daq
+---
+
 # Application Note: neoVI Logging neoECU DAQ - Part 2: VehicleScape DAQ
 
 ### Overview

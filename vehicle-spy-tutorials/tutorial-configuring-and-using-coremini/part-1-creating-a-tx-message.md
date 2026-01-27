@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tutorial-configuring-and-using-coremini/part-1-creating-a-tx-message
+---
+
 # Part 1 - Creating a Tx Message
 
 ### 1. Create a Tx Message:

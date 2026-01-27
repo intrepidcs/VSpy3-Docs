@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-measurement/graphical-panels/graphical-panels-tools/graphical-panel-controls-meter
+---
+
 # Graphical Panel Controls: Meter
 
 Meter controls display data using a meter face. The actual numeric value of the signal linked to the control is shown at the top, while the needle points to a representation of the current value in a manner similar to that of an automobile gauge (Figure 1). The range of displayed values is controlled through custom settings.

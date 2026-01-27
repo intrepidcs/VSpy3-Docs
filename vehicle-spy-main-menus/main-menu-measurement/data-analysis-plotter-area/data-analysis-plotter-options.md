@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-measurement/data-analysis-plotter-area/data-analysis-plotter-options
+---
+
 # Data Analysis: Plotter Options
 
 The Plotter Options dialog (Figure 1) configures most aspects of the plotter area, the default directories, and ASCII data file parameters.\

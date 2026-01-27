@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-measurement/vehiclescape-daq/vehiclescape-daq-standalone-logging-tab/standalone-logging-collections-and-methods/collections-and-methods-histogram-method
+---
+
 # Collections and Methods: Histogram Method
 
 The Histogram Method of data collection in [VehicleScape DAQ](../../) [Standalone Logging](../) records the frequency of data points across a value range over a period of time. The settings in this area are broken into two main subsections, **Histogram Axis Configuration** and **Sample Options**, which are described below.

@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-help
+---
+
 # Main Menu: Help
 
 The Vehicle Spy Help main menu provides access to help documents, websites, and version information as shown in Figure 1. Refer to Table 1 for a brief description of each selection.

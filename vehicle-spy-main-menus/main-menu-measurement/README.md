@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-measurement
+---
+
 # Main Menu: Measurement
 
 The Vehicle Spy **Measurement** menu (Figure 1) contains many features to facilitate the presentation and analysis of vehicle data.

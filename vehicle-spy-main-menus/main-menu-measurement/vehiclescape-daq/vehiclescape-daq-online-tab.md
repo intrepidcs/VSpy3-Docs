@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-measurement/vehiclescape-daq/vehiclescape-daq-online-tab
+---
+
 # VehicleScape DAQ: Online Tab
 
 The Online tab is where all of the configuration work and settings in [VehicleScape DAQ](vehiclescape-daq-online-tab.md) come together for [PC Logging](vehiclescape-daq-pc-logging-tab.md). Switching from other VehicleScape DAQ tabs to this one will automatically take Vehicle Spy [online](../../main-menu-run.md). Depending on the selected settings, logging may or may not automatically commence as well.

@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-spy-networks/flexray-controllers/flexray-controllers-state-action-tab
+---
+
 # FlexRay Controllers: State/Action Tab
 
 The [FlexRay Controllers](./) State/Action tab is where the two FlexRay coldstart nodes within ICS hardware can be controlled and monitored. The tab is divided into Options, actions, and a node status table as shown in Figure 1.

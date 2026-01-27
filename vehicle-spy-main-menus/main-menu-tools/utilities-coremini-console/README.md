@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-tools/utilities-coremini-console
+---
+
 # Utilities: CoreMini Console
 
 The CoreMini Console is a tool for loading CoreMini Scripts into supported hardware. Some applications for CoreMini Scripts could be ECU simulation, Data Logging, Hardware acceleration, and Gateways all ran without a PC.\

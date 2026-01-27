@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-embedded-tools/bitsmash
+---
+
 # BitSmash
 
 The [Embedded Tools](./) -> BitSmash is a hardware mode that can "smash" or corrupt received CAN frames. This feature can be useful for testing how an ECU or network reacts to specific bad CAN frames due to precise control down to the bit level.\

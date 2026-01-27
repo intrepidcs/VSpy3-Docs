@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-network-interface-hardware/getting-started-with-neoecu/neoecu-20
+---
+
 # neoECU 20
 
 ### Device Specifications
@@ -98,8 +105,6 @@ neoECU 20 is very similar in function to a neoVI FIRE.
 | 23  | MISC 3              | Miscellaneous Signal 3                       |
 | 24  | DBG RESET           | Not Used                                     |
 | 25  | VBATT               | Electrical Positive Supply 6-27 VDC          |
-
-
 
 **Table 2 - neoECU 20, 9 pin Connector Pin Descriptions**
 

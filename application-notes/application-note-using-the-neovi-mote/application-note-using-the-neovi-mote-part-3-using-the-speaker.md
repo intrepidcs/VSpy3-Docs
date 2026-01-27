@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/application-notes/application-note-using-the-neovi-mote/application-note-using-the-neovi-mote-part-3-using-the-speaker
+---
+
 # Application Note: Using the neoVI MOTE - Part 3: Using the Speaker
 
 ### 1. Function Block Script to Control the Speaker:

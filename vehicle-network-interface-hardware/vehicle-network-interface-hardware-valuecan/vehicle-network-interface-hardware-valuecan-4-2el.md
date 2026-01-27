@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-network-interface-hardware/vehicle-network-interface-hardware-valuecan/vehicle-network-interface-hardware-valuecan-4-2el
+---
+
 # Vehicle Network Interface Hardware: ValueCAN 4-2EL
 
 #### **ValueCAN 4-2EL (2 CAN FD, 1 Ethernet, 1 LIN)**

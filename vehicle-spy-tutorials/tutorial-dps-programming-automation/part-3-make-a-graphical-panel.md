@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tutorial-dps-programming-automation/part-3-make-a-graphical-panel
+---
+
 # Part 3 - Make a Graphical Panel
 
 Let's make the DPS programming easier for the user by building a graphical panel.

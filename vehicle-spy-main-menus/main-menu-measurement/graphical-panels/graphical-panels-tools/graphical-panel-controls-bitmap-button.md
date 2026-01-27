@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-measurement/graphical-panels/graphical-panels-tools/graphical-panel-controls-bitmap-button
+---
+
 # Graphical Panel Controls: Bitmap Button
 
 Bitmap Button controls provide two options for displaying image content within a graphical panel:

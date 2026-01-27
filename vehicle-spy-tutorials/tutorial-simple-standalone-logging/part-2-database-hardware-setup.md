@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tutorial-simple-standalone-logging/part-2-database-hardware-setup
+---
+
 # Part 2 - Database/Hardware Setup
 
 ### Database/Hardware Setup tab

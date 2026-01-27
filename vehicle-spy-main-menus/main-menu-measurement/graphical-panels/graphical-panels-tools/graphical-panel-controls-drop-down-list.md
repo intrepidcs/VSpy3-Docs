@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-measurement/graphical-panels/graphical-panels-tools/graphical-panel-controls-drop-down-list
+---
+
 # Graphical Panel Controls: Drop Down List
 
 A Drop Down List control allows input from a list of items. The elements of the list can be either manually entered within the control or taken from the list of name/value pairs in a state-encoded signal.

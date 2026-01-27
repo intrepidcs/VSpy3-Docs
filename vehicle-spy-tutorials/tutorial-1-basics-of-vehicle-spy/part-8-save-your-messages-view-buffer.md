@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tutorial-1-basics-of-vehicle-spy/part-8-save-your-messages-view-buffer
+---
+
 # Part 8 - Save Your Messages View Buffer
 
 Vehicle Spy 3 Makes it easy to save the data you collect for later analysis.

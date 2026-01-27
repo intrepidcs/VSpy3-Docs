@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tutorial-configuring-and-using-coremini/part-4-how-to-run-the-script
+---
+
 # Part 4 - How to Run the Script
 
 ### 1. Running the CoreMini:

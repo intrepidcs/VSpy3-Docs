@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tabs-in-the-user-interface
+---
+
 # Tabs in the User Interface
 
 To help increase productivity, Vehicle Spy 3 has the ability to tear tabs from the main workspace. With this feature, views can be placed where they will be the most useful.

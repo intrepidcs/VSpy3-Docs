@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tutorial-c-code-interface/part-4-debugging
+---
+
 # Part 4 - Debugging
 
 ### Debug

@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-network-interface-hardware/getting-started-with-neoecu
+---
+
 # Getting Started with neoECU
 
 The neoECU series of hardware provides a quick and low cost way to create a standalone ECU or gateway. Some common uses for neoECU devices could be:

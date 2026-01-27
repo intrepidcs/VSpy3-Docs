@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tutorial-simple-standalone-logging/part-3-channels
+---
+
 # Part 3 - Channels
 
 ### Channels Tab

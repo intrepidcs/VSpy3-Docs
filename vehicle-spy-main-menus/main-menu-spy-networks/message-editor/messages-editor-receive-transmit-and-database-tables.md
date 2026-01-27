@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-spy-networks/message-editor/messages-editor-receive-transmit-and-database-tables
+---
+
 # Messages Editor: Receive, Transmit, & Database Tables
 
 Use Messages Editor to edit, transmit, and receive messages. Press the **Receive**, **Transmit**, and **Database** buttons (Figure 1) to switch between the corresponding spreadsheets.

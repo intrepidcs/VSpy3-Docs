@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tutorial-sort-messages-by-ecu/part-1-start-a-new-vehicle-spy-application
+---
+
 # Part 1 - Start a New Vehicle Spy Application
 
 ### 1. Open Vehicle Spy:

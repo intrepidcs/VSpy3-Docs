@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-network-interface-hardware/vehicle-network-interface-hardware-rad-galaxy
+---
+
 # Vehicle Network Interface Hardware: RAD-Galaxy
 
 #### **Your Go-To Tool for Conventional and Next-Generation Vehicle Networks**

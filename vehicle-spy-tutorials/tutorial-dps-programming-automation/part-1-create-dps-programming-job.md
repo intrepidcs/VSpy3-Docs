@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tutorial-dps-programming-automation/part-1-create-dps-programming-job
+---
+
 # Part 1 - Create DPS Programming Job
 
 ### 1. Logon to Vehicle Spy:

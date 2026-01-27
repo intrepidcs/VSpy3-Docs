@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-scripting-and-automation/application-signals
+---
+
 # Application Signals
 
 Application signals store values in Vehicle Spy. They can hold values set by the user or be calculated signals that are not necessarily derived from network messaging. For example, a signal could be created where the value changes as if a function generator were attached to it. Application signals are setup under Scripting and Automation -> Application Signals. Vehicle Spy supports [analog](../../../shared-features-in-vehicle-spy/shared-features-calculated-signal-editor/shared-features-calculated-analog-or-digital-signals.md), [digital](../../../shared-features-in-vehicle-spy/shared-features-calculated-signal-editor/shared-features-calculated-analog-or-digital-signals.md), state encoded, and [text](../../../shared-features-in-vehicle-spy/shared-features-calculated-signal-editor/shared-features-calculated-text-signals.md) type application signals.\

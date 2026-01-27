@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tutorial-decode-signals-from-messages/part-7-exercises
+---
+
 # Part 7 - Exercises
 
 ### Finished!

@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-spy-networks/message-editor/messages-editor-message-fields/multiframe-message
+---
+
 # Multiframe Message
 
 Double click the **Multi** field (Figure 1) to specify if a message will be a multiframe message. The three choices are:

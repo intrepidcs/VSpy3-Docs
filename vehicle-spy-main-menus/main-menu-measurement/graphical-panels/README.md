@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-measurement/graphical-panels
+---
+
 # Graphical Panels
 
 Vehicle Spy's Graphical Panels view allows the creation of custom user interfaces. A number of different [tools](graphical-panels-tools/) can be [added](graphical-panels-add-or-delete-a-tool.md) to each panel, including graphs, bargraphs, transmit buttons, drop-down boxes, test buttons, meters, knobs, LEDs/lights, text displays, and numeric entry boxes. You can [create](graphical-panels-add-or-delete-panels.md) as many graphical panels as you like, and [float](floating-panels.md) them so they will always be visible within Vehicle Spy.

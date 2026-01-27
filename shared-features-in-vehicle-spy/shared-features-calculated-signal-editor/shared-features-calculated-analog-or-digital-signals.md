@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/shared-features-in-vehicle-spy/shared-features-calculated-signal-editor/shared-features-calculated-analog-or-digital-signals
+---
+
 # Shared Features: Calculated Analog or Digital Signals
 
 An [Application Signal](../../vehicle-spy-main-menus/main-menu-scripting-and-automation/application-signals/) or a [Tx Panel signal](../../vehicle-spy-main-menus/main-menu-spy-networks/transmit-panel/dynamic-transmit-message-bytes.md) can have a numeric value which can be interpreted as an analog or digital [Signal Type](../../vehicle-spy-main-menus/main-menu-spy-networks/message-editor/message-signals/message-signal-type.md). There are many different ways a signal can be calculated. The different calculations are created with the [Setup Calculated Signal](./) screen. The descriptions for the different options are listed in Table 1 below.\

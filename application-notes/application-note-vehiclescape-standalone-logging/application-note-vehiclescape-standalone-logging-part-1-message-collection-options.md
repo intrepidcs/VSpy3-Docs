@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/application-notes/application-note-vehiclescape-standalone-logging/application-note-vehiclescape-standalone-logging-part-1-message-collection-options
+---
+
 # Application Note: VehicleScape Standalone Logging - Part 1: Message Collection Options
 
 ### 1. Open Vehicle Spy:

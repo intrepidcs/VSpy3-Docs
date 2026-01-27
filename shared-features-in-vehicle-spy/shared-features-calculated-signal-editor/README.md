@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/shared-features-in-vehicle-spy/shared-features-calculated-signal-editor
+---
+
 # Shared Features: Calculated Signal Editor
 
 The Calculated Signal Editor (Figure 1) is an easy way to create calculated signals for [Application Signals](../../vehicle-spy-main-menus/main-menu-scripting-and-automation/application-signals/) or [Tx Panel signals](../../vehicle-spy-main-menus/main-menu-spy-networks/transmit-panel/dynamic-transmit-message-bytes.md).

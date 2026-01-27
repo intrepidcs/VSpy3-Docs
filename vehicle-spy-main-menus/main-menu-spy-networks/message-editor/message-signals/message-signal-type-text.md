@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-spy-networks/message-editor/message-signals/message-signal-type-text
+---
+
 # Message Signal Type Text
 
 Setup an ASCII text signal by setting the [Signal Type](message-signal-type.md) pulldown to **Text** in the Edit Signal dialog (Figure 1). Use the dialog to select the Start Byte and Length of the signal in the message.

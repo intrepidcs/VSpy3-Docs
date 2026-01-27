@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-measurement/graphical-panels/floating-panels
+---
+
 # Floating Panels
 
 _Floating_ a graphical panel creates a copy of it in a separate window that can be moved and resized independently of the main Vehicle Spy application. This is useful for creating controls that you want to always be accessible regardless of what is being done in VSpy, and for setting up complex applications where multiple panels need to be accessed at the same time. An example of a floated panel can be seen in Figure 1.

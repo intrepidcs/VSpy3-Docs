@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-scripting-and-automation/function-blocks/function-block-list
+---
+
 # Function Block List
 
 Just below the [Function Block Toolbar](function-blocks-toolbar.md) is a list of all the [Function Blocks](./) defined in the current setup. From this area each can be controlled and its activity monitored. A typical display of the function block list with three different blocks running can be seen in Figure 1.

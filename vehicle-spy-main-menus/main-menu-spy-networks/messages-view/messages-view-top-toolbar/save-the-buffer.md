@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-spy-networks/messages-view/messages-view-top-toolbar/save-the-buffer
+---
+
 # Save the Buffer
 
 Save the [Messages view](../) buffer by pressing the **Save** button in the [top toolbar](./) (Figure 1). Tapping [predefined function key](../../../../shared-features-in-vehicle-spy/shared-features-predefined-function-keys.md) **F3 then S** will also work.

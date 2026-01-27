@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tutorial-1-basics-of-vehicle-spy
+---
+
 # Tutorial 1: Basics of Vehicle Spy
 
 ### Overview

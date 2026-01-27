@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-spy-networks/messages-view/messages-view-buffer-display/displaying-signals-in-messages-view
+---
+
 # Displaying Signals in Messages View
 
 [Messages view](../) displays message traffic, but it can also display the [signals](../../message-editor/message-signals/) within each message.

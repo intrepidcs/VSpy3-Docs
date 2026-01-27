@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-network-interface-hardware/getting-started-with-neoecu/neoecu-20/neoecu-20-loading-scripts-over-usb
+---
+
 # neoECU 20: Loading Scripts Over USB
 
 Loading scripts into a neoECU device can be done in a few different ways. If your device supports USB, like a neoECU 20, you can simply connect the device directly to the PC and load the script like any CoreMini compatible device, like a neoVI **FIRE**.

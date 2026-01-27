@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-spy-networks/message-editor/messages-editor-overview
+---
+
 # Messages Editor: Overview
 
 Messages Editor is where messages to be found in traffic are specified, which messages to transmit are specified, and to view definitions from [configured databases](../../main-menu-setup/network-databases.md). Each [message](./) has a number of different [properties](messages-editor-message-fields/) that can specify for it.

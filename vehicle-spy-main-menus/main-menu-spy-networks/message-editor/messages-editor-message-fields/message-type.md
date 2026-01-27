@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-spy-networks/message-editor/messages-editor-message-fields/message-type
+---
+
 # Message Type
 
 The message **Type** field in the Messages Editor has different meanings for the CAN versus LIN networks.

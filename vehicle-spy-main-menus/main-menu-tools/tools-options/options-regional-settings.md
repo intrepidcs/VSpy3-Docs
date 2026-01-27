@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-tools/tools-options/options-regional-settings
+---
+
 # Options: Regional Settings
 
 The [Tools](../) -> [Options](./) -> Regional Settings tab controls the format of the [Messages view column](../../main-menu-spy-networks/messages-view/messages-view-column-headers.md) called "RTC Time". The RTC Time is a Real Time Clock stamp put onto each message, assuming the connected hardware supports an RTC.

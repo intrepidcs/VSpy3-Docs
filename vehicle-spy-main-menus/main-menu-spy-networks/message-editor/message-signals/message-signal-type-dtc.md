@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-spy-networks/message-editor/message-signals/message-signal-type-dtc
+---
+
 # Message Signal Type DTC
 
 The DTC (Diagnostic Trouble Code) format is an automotive industry standard. The format relies on two bytes to form an alpha numeric code.\*

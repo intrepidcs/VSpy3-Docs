@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-spy-networks/message-editor/message-signals/message-signal-type-digital
+---
+
 # Message Signal Type Digital
 
 Setup a digital signal (1/0, on/off, true/false, etc) by setting the [Signal Type](message-signal-type.md) pulldown to **Digital** in the Edit Signal dialog (Figure 1).

@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tutorial-database-setup/part-3-adding-database-files
+---
+
 # Part 3 - Adding Database Files
 
 ### 1. Add Database files:

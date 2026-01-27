@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-measurement/graphical-panels/graphical-panels-tools/graphical-panel-controls-knob
+---
+
 # Graphical Panel Controls: Knob
 
 A Knob control allows data to be input using a graphical representation of a physical knob. The pointer on the knob can be clicked and dragged to a particular location in order to select a value, or the target spot can be clicked and the pointer will jump to that location.

@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-tools/utilities-extract-export/utilities-export-vsb-convert-vsb-with-vsdb-to-other-formats-v-using-command-prompt-in-windows
+---
+
 # Utilities: Export VSB Convert VSB (with VSDB) to Other Formats V using Command Prompt in Windows
 
 #### Converting VSDB to MDF, Matlab CSV using Command Prompt in Windows

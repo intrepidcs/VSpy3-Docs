@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-network-interface-hardware/vehicle-network-interface-hardware-neovi-red
+---
+
 # Vehicle Network Interface Hardware: neoVI RED
 
 #### Vehicle Network Interface and Data Logger for CAN FD, LIN & 1Gb Ethernet (DoIP/XCP)&#x20;

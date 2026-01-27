@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-measurement/graphical-panels/graphical-panels-tools/graphical-panel-controls-bargraph
+---
+
 # Graphical Panel Controls: Bargraph
 
 Bargraph controls display data using a using a simple horizontal or vertical indicator. The value of the associated signal is shown at the top of the control, while the bar graphically depicts the value by coloring in a portion of the bar between the set minimum and maximum values. A bargraph control can also be used as a slider control, which allows input by clicking and dragging the slider to a desired value. Examples of this type of control can be seen in Figure 1.

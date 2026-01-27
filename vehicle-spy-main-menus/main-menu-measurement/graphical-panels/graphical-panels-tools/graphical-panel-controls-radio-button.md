@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-measurement/graphical-panels/graphical-panels-tools/graphical-panel-controls-radio-button
+---
+
 # Graphical Panel Controls: Radio Button
 
 Radio buttons allow the user of a graphical panel to select from among a small list of available options, much like the buttons on old car stereos.\

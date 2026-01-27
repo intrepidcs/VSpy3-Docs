@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-spy-networks/ecus-view/keyword-2000-ecus
+---
+
 # Keyword 2000 ECUs
 
 If a Keyword 2000 ECU is selected on the [ECUs](../../main-menu-setup/ecus-view/) view then the tabs after the ECU Basics tab will look like those along the top of **Figure 1**. These other tabs let you create and change diagnostic items like LIDs, IDs, and Memory Data. Just click on a tab to see all items of that type in the ECU. A shared interface is used to enter data for the different types of items. The LIDs tab in Figure 1 is an example of this interface.

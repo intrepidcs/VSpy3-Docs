@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-introduction/other-vehicle-spy-users
+---
+
 # Other Vehicle Spy Users
 
 Major automotive manufacturers and suppliers use Vehicle Spy to help them test, develop, validate, and diagnose their in-vehicle networks. Some users of Vehicle Spy include:

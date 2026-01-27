@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-spy-networks/messages-view/messages-view-top-toolbar/messages-view-timestamping
+---
+
 # Messages View Timestamping
 
 [Messages view](../) is capable of displaying two different timestamp types.

@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-measurement/vehiclescape-daq/vehiclescape-daq-standalone-logging-tab/standalone-logging-collections-and-methods
+---
+
 # Standalone Logging: Collections and Methods
 
 A [Standalone Logging](../) collection defines what log files are created by a VehicleScape DAQ setup, and how and when they are recorded. Each collection can use a different method, with its own start/stop trigger logic and configuration settings. Each collection can log many files, and all of the files from that collection will be created in the same manner.

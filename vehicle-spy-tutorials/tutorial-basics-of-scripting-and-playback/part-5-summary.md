@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tutorial-basics-of-scripting-and-playback/part-5-summary
+---
+
 # Part 5 - Summary
 
 Congratulations on completing the tutorial! Now it is possible to go online. Once **MS CAN Playback** from the **Graphical Panel** has been turned on, transmitted MS CAN traffic can be seen. With this file, it is possible to take a capture from an ECU and simulate that ECU's traffic on a real BUS.

@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-introduction/vehicle-spy-required-hardware-pc-system-requirements
+---
+
 # Vehicle Spy Required Hardware PC System Requirements
 
 ### **PC System Requirements**

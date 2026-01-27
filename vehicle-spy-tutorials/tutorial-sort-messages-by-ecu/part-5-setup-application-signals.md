@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tutorial-sort-messages-by-ecu/part-5-setup-application-signals
+---
+
 # Part 5 - Setup Application Signals
 
 ### 1. Setup Application Signals:

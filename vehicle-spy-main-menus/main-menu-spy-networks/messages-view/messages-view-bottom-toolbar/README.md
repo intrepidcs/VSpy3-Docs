@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-spy-networks/messages-view/messages-view-bottom-toolbar
+---
+
 # Messages View Bottom Toolbar
 
 The toolbar located along the bottom of [Messages view](../) is shown in **Figure 1**.

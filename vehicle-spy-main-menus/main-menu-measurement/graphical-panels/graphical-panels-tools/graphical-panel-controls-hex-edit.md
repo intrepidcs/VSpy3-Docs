@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-measurement/graphical-panels/graphical-panels-tools/graphical-panel-controls-hex-edit
+---
+
 # Graphical Panel Controls: Hex Edit
 
 The Hex Edit control allows raw data from a signal to be displayed and edited in a window within a graphical panel. An example can be seen in Figure 1.

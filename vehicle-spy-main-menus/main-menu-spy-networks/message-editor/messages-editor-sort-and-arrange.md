@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-spy-networks/message-editor/messages-editor-sort-and-arrange
+---
+
 # Messages Editor: Sort and Arrange
 
 It is easy to sort and arrange messages in Messages Editor view.

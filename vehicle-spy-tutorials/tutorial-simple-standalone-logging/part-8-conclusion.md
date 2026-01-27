@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tutorial-simple-standalone-logging/part-8-conclusion
+---
+
 # Part 8 - Conclusion
 
 ### Conclusion

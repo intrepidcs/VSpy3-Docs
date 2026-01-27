@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tutorial-1-basics-of-vehicle-spy/part-1-logon-screen
+---
+
 # Part 1 - Logon Screen
 
 ### 1. Start Vehicle Spy:

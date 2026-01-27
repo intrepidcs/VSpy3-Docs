@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/shared-features-in-vehicle-spy/shared-features-predefined-function-keys
+---
+
 # Shared Features: Predefined Function Keys
 
 Vehicle Spy comes with keyboard function keys F1 - F5 predefined with useful features as shown in Table 1.  The remaining keys F6 - F12 can be assigned to Vehicle Spy features like [Widgets](shared-features-widgets.md), Transmit Messages, [Diagnostic Jobs](../vehicle-spy-main-menus/main-menu-spy-networks/diagnostics/diagnostics-setup.md), and [Function Blocks](../vehicle-spy-main-menus/main-menu-scripting-and-automation/function-blocks/function-blocks-types/function-blocks-hotkeys.md) using their own hotkey pulldown lists.

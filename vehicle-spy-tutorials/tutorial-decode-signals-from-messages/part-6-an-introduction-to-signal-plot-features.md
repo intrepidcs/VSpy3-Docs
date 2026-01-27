@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tutorial-decode-signals-from-messages/part-6-an-introduction-to-signal-plot-features
+---
+
 # Part 6 - An Introduction to Signal Plot Features
 
 Signal Plot is a very powerful tool.  Below is a brief look at some of its capabilities.

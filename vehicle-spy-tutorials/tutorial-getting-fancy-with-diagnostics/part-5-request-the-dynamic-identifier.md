@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tutorial-getting-fancy-with-diagnostics/part-5-request-the-dynamic-identifier
+---
+
 # Part 5 - Request the Dynamic Identifier
 
 ### 1. Build the Dynamic DPID Request:

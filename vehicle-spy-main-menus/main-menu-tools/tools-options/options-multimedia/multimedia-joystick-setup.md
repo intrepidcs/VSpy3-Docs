@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-tools/tools-options/options-multimedia/multimedia-joystick-setup
+---
+
 # Multimedia: Joystick Setup
 
 A joystick can be used to trigger events, send messages, simulate analog or digital IO, and trigger data captures.

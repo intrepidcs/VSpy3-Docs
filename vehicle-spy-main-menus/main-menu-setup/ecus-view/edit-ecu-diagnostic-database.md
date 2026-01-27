@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-setup/ecus-view/edit-ecu-diagnostic-database
+---
+
 # Edit ECU Diagnostic Database
 
 The other tabs in the ECUs dialog are for entering in the decoding for diagnostic information. DID, LID, DPID, PID, ID, CPID, Memory Data, and standard DID information is entered in the appropriate tab for each data item. The dialogs for entering in data for all the different types are the same. Once you learn one, you have learned them all! Figure 1 shows the dialog for DIDs and DPIDs. Note how they look almost identical.\

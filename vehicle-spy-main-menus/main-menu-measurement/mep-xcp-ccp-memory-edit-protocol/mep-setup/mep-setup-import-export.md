@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-measurement/mep-xcp-ccp-memory-edit-protocol/mep-setup/mep-setup-import-export
+---
+
 # MEP Setup - Import / Export
 
 The [MEP Setup](./) Import / Export tab (Figure 1) uses \*.mep or \*.dcm files to import and export ECU calibration values, curves, and maps.

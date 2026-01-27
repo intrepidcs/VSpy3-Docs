@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-spy-networks/message-editor/messages-editor-message-fields/receive-message-tx-msg-field
+---
+
 # Receive Message "Tx Msg" Field
 
 Use the **Tx Msg field** to link a Transmit Message to a Receive Message. This link is very useful for simulation because Vehicle Spy will automatically transmit a message based upon an incoming message.

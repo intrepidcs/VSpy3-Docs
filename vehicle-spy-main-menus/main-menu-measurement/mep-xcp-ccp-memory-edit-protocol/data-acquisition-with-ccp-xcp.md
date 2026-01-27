@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-measurement/mep-xcp-ccp-memory-edit-protocol/data-acquisition-with-ccp-xcp
+---
+
 # Data Acquisition with CCP/XCP
 
 Vehicle Spy [MEP](./) supports two methods for collecting data from an ECU using CCP/XCP. Each method has strengths and weaknesses when compared to each other as shown in Table 1.

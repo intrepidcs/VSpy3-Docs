@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tutorial-sort-messages-by-ecu/part-8-construct-a-user-dialog
+---
+
 # Part 8 - Construct a User Dialog
 
 Let's tie the Application Signal triggers from Part 5 to some user controls on a Graphical Panel.

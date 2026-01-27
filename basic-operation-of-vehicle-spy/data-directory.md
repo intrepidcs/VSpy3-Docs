@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/basic-operation-of-vehicle-spy/data-directory
+---
+
 # Data Directory
 
 For the purpose of organization and quick access to data, Vehicle Spy will automatically store setup files and data files in the user's data directory. Each user has their own unique data directory. The data directory is created when the user logs on as they start Vehicle Spy. The name of the directory is the same as the name entered in the Logon dialog. So, for a user logged on as Jane Doe, her directory would also be called Jane Doe.\
@@ -6,7 +13,7 @@ By clicking the **Data** button found in the upper right of the user interface, 
 \
 The user's data directory is a sub directory of the Vehicle Spy Data Directory. So for user Jane Doe, the location of the data directory would be:\
 \
-&#xNAN;**"C:\Program Files\Vehicle Spy 3\Data Directory\Jane Doe\\"**\
+\&#xNAN;**"C:\Program Files\Vehicle Spy 3\Data Directory\Jane Doe\\"**\
 (Assuming Vehicle Spy was installed to C:\Program Files\Vehicle Spy 3\\)\
 \
 If you delete a user's data directory, that user's logon will also be deleted.\

@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tutorial-how-to-run-multiple-devices-in-one-vs3-file/part-3-assigning-devices
+---
+
 # Part 3 - Assigning Devices
 
 ### 1. Open networks:

@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tutorial-1-basics-of-vehicle-spy/part-7-message-timestamps-and-pausing
+---
+
 # Part 7 - Message Timestamps and Pausing
 
 After finishing experimenting with the filter panel, include the **First Filter** only. In this exercise we will examine a couple of other important features found in Messages view.

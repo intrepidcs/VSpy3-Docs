@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-measurement/graphical-panels/graphical-panels-tools
+---
+
 # Graphical Panels: Tools
 
 Table 1 lists each of the many controls available in [Graphical Panels](../) view. Each tool's entry includes a short description, an image of the associated icon, and a link to a page for that tool containing detailed information.

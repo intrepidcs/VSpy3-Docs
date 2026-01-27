@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/application-notes/application-note-vehiclescape-standalone-logging/application-note-vehiclescape-standalone-logging-part-2-collection-and-restart-options
+---
+
 # Application Note: VehicleScape Standalone Logging - Part 2: Collection and Restart Options
 
 ### Collection Configuration (Part 1):

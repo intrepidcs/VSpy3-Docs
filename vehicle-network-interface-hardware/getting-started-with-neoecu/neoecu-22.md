@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-network-interface-hardware/getting-started-with-neoecu/neoecu-22
+---
+
 # neoECU 22
 
 The neoECU 22 is a rapid prototyping tool for CAN, CAN FD, LIN and Ethernet. The neoECU 22 can be scripted to gateway, control and measure automotive network traffic and PDUs in minutes. Logic can be defined in Vehicle Spy’s Function Block scripts, or embedded C code, allowing you to keep your project moving.

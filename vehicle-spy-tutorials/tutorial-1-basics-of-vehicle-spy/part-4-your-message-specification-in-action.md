@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tutorial-1-basics-of-vehicle-spy/part-4-your-message-specification-in-action
+---
+
 # Part 4 - Your Message Specification in Action
 
 With a message specification set up, it will be visible in the Messages view.

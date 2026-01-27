@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/basic-operation-of-vehicle-spy
+---
+
 # Basic Operation of Vehicle Spy
 
 ### Overview

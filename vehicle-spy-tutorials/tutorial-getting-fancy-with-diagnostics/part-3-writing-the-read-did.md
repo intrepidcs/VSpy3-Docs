@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tutorial-getting-fancy-with-diagnostics/part-3-writing-the-read-did
+---
+
 # Part 3 - Writing the Read DID
 
 ### 1. Run the Read DID Job:

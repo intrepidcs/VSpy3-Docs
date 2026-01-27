@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/getting-comfortable-with-the-user-interface
+---
+
 # Getting Comfortable with the User Interface
 
 Before beginning actual lessons and exercises, it is important to get familiar with the Vehicle Spy interface. It has been designed to be easily navigated and intuitive. The Vehicle Spy Interface is divided into multiple panels as shown in **Figure 1**.

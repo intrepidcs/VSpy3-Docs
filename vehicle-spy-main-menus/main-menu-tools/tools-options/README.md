@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-tools/tools-options
+---
+
 # Tools: Options
 
 Many important Vehicle Spy settings are located in the Vehicle Spy Setup dialog shown in Figure 1. Access this dialog by clicking on Tools and then Options.

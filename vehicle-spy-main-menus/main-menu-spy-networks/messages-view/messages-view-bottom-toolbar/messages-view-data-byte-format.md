@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-spy-networks/messages-view/messages-view-bottom-toolbar/messages-view-data-byte-format
+---
+
 # Messages View Data Byte Format
 
 Six format buttons are located in the [bottom toolbar](./) of [Messages view](../) (Figure 1).These buttons allow for quick, one-click formatting of the DataBytes, Arb ID/Header, and J1939 PGN [columns](../messages-view-column-headers.md).\

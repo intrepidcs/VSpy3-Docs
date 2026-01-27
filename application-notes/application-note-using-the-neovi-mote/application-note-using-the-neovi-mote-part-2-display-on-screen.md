@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/application-notes/application-note-using-the-neovi-mote/application-note-using-the-neovi-mote-part-2-display-on-screen
+---
+
 # Application Note: Using the neoVI MOTE - Part 2: Display on Screen
 
 ### 1. More Script Function Blocks:

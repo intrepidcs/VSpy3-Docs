@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-measurement/graphical-panels/graphical-panels-tools/graphical-panel-controls-message-history
+---
+
 # Graphical Panel Controls: Message History
 
 This control allows you to review the messages received by Vehicle Spy, essentially embedding a [Messages View](../../../main-menu-spy-networks/messages-view/) window within a graphical panel. Message filters can be applied within the control so that only messages of interest are shown.

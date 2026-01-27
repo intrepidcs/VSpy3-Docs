@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-spy-networks/message-editor/messages-editor-cut-copy-and-paste
+---
+
 # Messages Editor: Cut, Copy, and Paste
 
 Just as in other Windows applications, the Windows Clipboard can be used to quickly move and create copies in Vehicle Spy. [Messages Editor](./) view allows you to cut, copy, and paste messages in the spreadsheet.\

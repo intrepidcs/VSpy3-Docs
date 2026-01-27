@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-measurement/vehiclescape-daq/vehiclescape-daq-standalone-logging-tab/standalone-logging-generation-options
+---
+
 # Standalone Logging: Generation Options
 
 The last of the [Standalone Logging](./) sections contains options that control the generation of the logger script, and the **Generate** button, which actually initiates the generation. These are universal settings that apply to all collections using any of the four collection methods: [Message Capture](standalone-logging-collections-and-methods/collections-and-methods-message-capture-method/), [Histogram](standalone-logging-collections-and-methods/collections-and-methods-histogram-method.md), [Bus Query](standalone-logging-collections-and-methods/collections-and-methods-bus-query-method.md) or [Ethernet DAQ](standalone-logging-collections-and-methods/collections-and-methods-ethernet-daq-method.md).

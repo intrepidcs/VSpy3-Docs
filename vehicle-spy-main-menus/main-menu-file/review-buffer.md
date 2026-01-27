@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-file/review-buffer
+---
+
 # Review Buffer
 
 The [File](./)> Review Buffer selection can open standard (.CSV) or binary (.VSB) format Vehicle Spy buffer files for review. Other file formats are also supported. A browser dialog will open to the user's [Data Directory](../../basic-operation-of-vehicle-spy/data-directory.md). Select a file format and a buffer file and the [Messages view](../main-menu-spy-networks/messages-view/) will automatically open in scrolling mode displaying the buffer contents.

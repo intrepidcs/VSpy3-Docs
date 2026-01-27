@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-spy-networks/flexray-controllers
+---
+
 # FlexRay Controllers
 
 Some vehicles today use FlexRay networks for time-critical features that require a low and known latency. Examples include control-by-wire, cruise control, traction control, and active suspension systems that are becoming more complex as driverless vehicles continue being developed.

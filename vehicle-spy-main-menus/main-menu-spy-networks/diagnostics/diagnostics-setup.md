@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-spy-networks/diagnostics/diagnostics-setup
+---
+
 # Diagnostics Setup
 
 The Setup Diagnostics screen (Figure 1) is where diagnostic jobs are built and edited. This screen is found by selecting **Spy Networks > Diagnostics** and selecting the **Setup** tab.\

@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tutorial-basics-of-scripting-and-playback/part-1-setup-application-signals
+---
+
 # Part 1 - Setup Application Signals
 
 Application Signals are similar to variables in other programming languages, they store data inside the program. Application Signals in Vehicle Spy also store data. This tutorial will use application signals to toggle an LED and store the status of a button.

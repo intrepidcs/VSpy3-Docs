@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-file
+---
+
 # Main Menu: File
 
 The Vehicle Spy File main menu contains tasks for opening and saving files (Figure 1).

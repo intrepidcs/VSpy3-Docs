@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-measurement/data-analysis/data-analysis-x-axis-input-toolbar-and-dialog
+---
+
 # Data Analysis: X-Axis Input Toolbar and Dialog
 
 The X-Axis Input Toolbar and Dialog are alternatives to the [zoom toolbar](data-analysis-zoom-toolbar.md) for controlling the X-axis range of data displayed in the [Plotter Area](../data-analysis-plotter-area/). Instead of manipulating the zoom level using the mouse, you enter the exact values of the X-axis range that you want to display. This allows you to easily move to specific parts of a channel display, which is especially useful when dealing with large data files.

@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-embedded-tools/intrepid-ecu-flasher-definitions
+---
+
 # Intrepid ECU Flasher: Definitions
 
 ![](../../.gitbook/assets/ecu-flasher-table1.png)

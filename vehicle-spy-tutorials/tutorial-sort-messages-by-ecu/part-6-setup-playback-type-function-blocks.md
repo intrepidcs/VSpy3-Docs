@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tutorial-sort-messages-by-ecu/part-6-setup-playback-type-function-blocks
+---
+
 # Part 6 - Setup Playback Type Function Blocks
 
 Two function blocks are needed for each ECU. One is for playing back the sorted file, the other is for turning the playback on and off. The first function blocks to set up are the Playback function blocks.

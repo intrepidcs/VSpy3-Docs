@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-measurement/vehiclescape-daq/vehiclescape-daq-standalone-logging-tab/standalone-logging-collections-and-methods/collections-and-methods-message-capture-method/message-capture-method-start-options
+---
+
 # Message Capture Method: Start Options
 
 In [VehicleScape DAQ](../../../) [Standalone Logging](../../), the second set of options for the [Message Capture](./) method allows you to choose start options for the collection. There are three main options here, and which selection is made alters other options both in this area and the [Stop](../message-capture-method-stop-options/) section.

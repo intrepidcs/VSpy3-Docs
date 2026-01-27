@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tutorial-basics-of-capture-function-block-and-graphical-panels
+---
+
 # Tutorial: Basics of Capture Function Block and Graphical Panels
 
 ### Overview

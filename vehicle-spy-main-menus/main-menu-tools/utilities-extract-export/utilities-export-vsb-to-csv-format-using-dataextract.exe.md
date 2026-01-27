@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-tools/utilities-extract-export/utilities-export-vsb-to-csv-format-using-dataextract.exe
+---
+
 # Utilities: Export VSB to CSV format using DataExtract.exe
 
 #### How to convert VSB files to CSV format on windows using dataextract.exe tool.

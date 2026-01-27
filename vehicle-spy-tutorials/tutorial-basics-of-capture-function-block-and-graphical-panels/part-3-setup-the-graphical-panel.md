@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tutorial-basics-of-capture-function-block-and-graphical-panels/part-3-setup-the-graphical-panel
+---
+
 # Part 3 - Setup the Graphical Panel
 
 Graphical Panels are similar to the graphical user interface (GUI) of an application. Once built, they allow a user having no knowledge of Vehicle Spy to perform complex tasks with Vehicle Spy. In this tutorial, a very basic Graphical Panel with only a few tools will be constructed. It is possible to have dozens of controls across multiple panels.

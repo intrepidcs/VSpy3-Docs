@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-spy-networks/message-editor/message-signals/message-signal-type
+---
+
 # Message Signal Type
 
 The [Signals in Message](./) area at the bottom of the Messages Editor provides different ways to change the Signal Type:

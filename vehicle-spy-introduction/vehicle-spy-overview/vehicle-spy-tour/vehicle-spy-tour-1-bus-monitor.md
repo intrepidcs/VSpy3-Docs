@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-introduction/vehicle-spy-overview/vehicle-spy-tour/vehicle-spy-tour-1-bus-monitor
+---
+
 # Vehicle Spy Tour 1: Bus Monitor
 
 ![Figure 1: Messages view](../../../.gitbook/assets/spytour1.gif)

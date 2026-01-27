@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-spy-networks/transmit-panel/dynamic-transmit-message-bytes
+---
+
 # Dynamic Transmit Message Bytes
 
 It is possible to create messages in which data bytes are calculated before they are sent. This allows messages to include dynamic data - a crucial capability for simulation.

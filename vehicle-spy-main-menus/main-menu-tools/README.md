@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-tools
+---
+
 # Main Menu: Tools
 
 The Vehicle Spy Tools main menu contains setup options, utilities, and hardware specific tools as shown in Figure 1. Refer to Table 1 for a brief description of each selection.

@@ -1,10 +1,17 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-measurement/data-analysis/data-analysis-main-menus-and-toolbar
+---
+
 # Data Analysis: Main Menus and Toolbar
 
 The [Data Analysis](./) main menus and associated toolbar are shown in Figure 1. Each menu is covered individually in a section below, with a table describing each menu's options. When present, the icon on the main toolbar representing the command is also displayed.\
 \
 You can click on one of the menu names just below to jump straight to its section.
 
-&#x20;                      [**Data**](data-analysis-main-menus-and-toolbar.md#data-menu) **---** [**Edit**](data-analysis-main-menus-and-toolbar.md#edit-menu) **---** [**Show**](data-analysis-main-menus-and-toolbar.md#show-menu) **---** [**Actions**](data-analysis-main-menus-and-toolbar.md#actions-menu) **---** [**Annotation**](data-analysis-main-menus-and-toolbar.md#annotation-menu) **---** [**Configurations**](data-analysis-main-menus-and-toolbar.md#configurations-menu)
+[**Data**](data-analysis-main-menus-and-toolbar.md#data-menu) **---** [**Edit**](data-analysis-main-menus-and-toolbar.md#edit-menu) **---** [**Show**](data-analysis-main-menus-and-toolbar.md#show-menu) **---** [**Actions**](data-analysis-main-menus-and-toolbar.md#actions-menu) **---** [**Annotation**](data-analysis-main-menus-and-toolbar.md#annotation-menu) **---** [**Configurations**](data-analysis-main-menus-and-toolbar.md#configurations-menu)
 
 ![Figure 1: Data Analysis main menu and toolbar.](../../../.gitbook/assets/data_analysis_main.gif)
 

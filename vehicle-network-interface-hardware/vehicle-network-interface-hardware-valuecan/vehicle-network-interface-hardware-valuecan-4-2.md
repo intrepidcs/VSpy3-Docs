@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-network-interface-hardware/vehicle-network-interface-hardware-valuecan/vehicle-network-interface-hardware-valuecan-4-2
+---
+
 # Vehicle Network Interface Hardware: ValueCAN 4-2
 
 #### &#x20;ValueCAN 4-2 **(2 CAN FD)**

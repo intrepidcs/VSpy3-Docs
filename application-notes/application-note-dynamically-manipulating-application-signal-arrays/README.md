@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/application-notes/application-note-dynamically-manipulating-application-signal-arrays
+---
+
 # Application Note: Dynamically Manipulating Application Signal Arrays
 
 ### Overview

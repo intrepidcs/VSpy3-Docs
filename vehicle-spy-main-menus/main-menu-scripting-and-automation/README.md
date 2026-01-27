@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-scripting-and-automation
+---
+
 # Main Menu: Scripting and Automation
 
 The Vehicle Spy **Scripting and Automation** menu contains tools to help automate Vehicle Spy tasks. The items in the menu are shown in Figure 1.

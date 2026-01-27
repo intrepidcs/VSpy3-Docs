@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-tools/tools-utilities/tools-language
+---
+
 # Tools: Language
 
 Vehicle Spy has support for multiple languages. To change the language Vehicle Spy uses, click on Tools->Language. The Language Setup window will appear (Figure 1). Select the desired language and press OK.

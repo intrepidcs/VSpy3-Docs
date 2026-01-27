@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/application-notes/application-note-xcp-driver-example
+---
+
 # Application Note: XCP Driver Example
 
 ### Introduction

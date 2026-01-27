@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tutorial-simple-standalone-logging/part-5-standalone-logging
+---
+
 # Part 5 - Standalone Logging
 
 ### 1. Build a Standalone Logging Setup:

@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-spy-networks/flexray-controllers/flexray-controllers-registers-tab
+---
+
 # FlexRay Controllers: Registers Tab
 
 Use the [FlexRay Controllers](./) Registers tab to gather and view the memory register information from both FlexRay controllers onboard ICS hardware. Go [online](../../../basic-operation-of-vehicle-spy/running-and-stopping.md) with the device and click **Dump Registers** to see the results from both nodes in a +/- tree.

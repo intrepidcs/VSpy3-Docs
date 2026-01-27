@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-spy-networks/messages-view/messages-view-buffer-display/buffer-progress-display
+---
+
 # Buffer Progress Display
 
 [Messages view](../) uses a circular buffer. This means that when the buffer is full, the oldest data in the buffer is overwritten. Therefore, if you [setup a buffer](../messages-view-bottom-toolbar/messages-view-setup.md) of 1000 messages, you will always have the 1000 most recent messages in your buffer.

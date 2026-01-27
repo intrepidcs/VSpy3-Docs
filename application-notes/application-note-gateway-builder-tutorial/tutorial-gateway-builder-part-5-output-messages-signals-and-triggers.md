@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/application-notes/application-note-gateway-builder-tutorial/tutorial-gateway-builder-part-5-output-messages-signals-and-triggers
+---
+
 # Tutorial - Gateway Builder - Part 5 - Output Messages, Signals, and Triggers
 
 ### Output Messages and Signals

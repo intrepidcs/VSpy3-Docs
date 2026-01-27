@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/shared-features-in-vehicle-spy
+---
+
 # Shared Features in Vehicle Spy
 
 The following features are used by many different areas in Vehicle Spy:

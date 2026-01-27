@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-measurement/data-analysis/data-analysis-zoom-toolbar
+---
+
 # Data Analysis: Zoom Toolbar
 
 The Zoom Toolbar (Figure 1) contains a number of tools to allow you to adjust the zoom level in both dimensions of your plots, so you can pinpoint exactly the data you want to see. It appears at the top of the Data Analysis area like other toolbars, but can be hidden by removing the checkmark next to it in the [Show Menu](data-analysis-main-menus-and-toolbar.md#show-menu).

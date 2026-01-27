@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-spy-networks/diagnostics/diagnostics-view
+---
+
 # Diagnostics View
 
 Diagnostic jobs are launched using the Diagnostics screen (Figure 1) in Vehicle Spy. This screen is found under **Spy Networks> Diagnostics**.\

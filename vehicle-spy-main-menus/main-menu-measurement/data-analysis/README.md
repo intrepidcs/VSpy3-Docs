@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-measurement/data-analysis
+---
+
 # Data Analysis
 
 Data Analysis is a powerful tool for graphically displaying and analyzing the data in files collected from vehicle networks. It can be accessed through the Vehicle Spy [Measurement menu](../).\

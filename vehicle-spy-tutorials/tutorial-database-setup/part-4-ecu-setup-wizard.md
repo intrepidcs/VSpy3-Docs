@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tutorial-database-setup/part-4-ecu-setup-wizard
+---
+
 # Part 4 - ECU Setup Wizard
 
 ### 1. What is the ECU Setup Wizard:

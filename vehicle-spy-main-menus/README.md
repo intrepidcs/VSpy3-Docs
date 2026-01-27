@@ -1,3 +1,9 @@
+---
+metaLinks:
+  alternates:
+    - https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus
+---
+
 # Vehicle Spy Main Menus
 
 The different features of Vehicle Spy are accessed through the main menus shown in **Figure 1**.

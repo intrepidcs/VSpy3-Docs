@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-measurement/data-analysis-tool-dialog
+---
+
 # Data Analysis: Tool Dialog
 
 The Tool Dialog (Figure 1) is mainly used for selecting data files and the channels within those files. The window is docked in the upper left portion of the [Data Analysis](../data-analysis/) view, but can be docked on either side of the plotter. The [Show](../data-analysis/data-analysis-main-menus-and-toolbar.md#show-menu) menu can toggle the Tool Dialog display on and off.\

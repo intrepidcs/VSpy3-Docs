@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-network-interface-hardware/getting-started-with-neoecu/neoecu-firmware-updates
+---
+
 # neoECU Firmware Updates
 
 The firmware in a neoECU can be upgraded. The firmware for the device is stored inside of Vehicle Spy. When loading a CoreMini to the device it is very important to make sure the firmware matches the version of firmware Vehicle Spy has in it. For USB neoECU devices, this can be verified and updated in neoVI 3G Explorer.\

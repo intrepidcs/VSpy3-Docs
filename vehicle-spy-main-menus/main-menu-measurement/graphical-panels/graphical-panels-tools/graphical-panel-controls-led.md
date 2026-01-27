@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-measurement/graphical-panels/graphical-panels-tools/graphical-panel-controls-led
+---
+
 # Graphical Panel Controls: LED
 
 LED controls can be used as indicators, and have a number of properties that allow them be used in a variety of applications; Figure 1 shows a few of the styles that can be configured.

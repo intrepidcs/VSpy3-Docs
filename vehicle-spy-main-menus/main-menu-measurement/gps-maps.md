@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-measurement/gps-maps
+---
+
 # GPS Maps
 
 **GPS Maps** shows Global Positioning System data on a map overlay in real-time or from previously logged data. The GPS data can come from ICS logger hardware, from a GPS receiver, or from in-vehicle network messages sent by an ECU. GPS Maps is opened from the [Measurement](./) main menu.

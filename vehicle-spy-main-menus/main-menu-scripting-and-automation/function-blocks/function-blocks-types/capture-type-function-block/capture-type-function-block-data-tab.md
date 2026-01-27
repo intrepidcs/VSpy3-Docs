@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-scripting-and-automation/function-blocks/function-blocks-types/capture-type-function-block/capture-type-function-block-data-tab
+---
+
 # Capture Type Function Block: Data Tab
 
 ### Overview

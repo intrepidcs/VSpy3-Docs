@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/application-notes/application-note-gateway-builder-tutorial/tutorial-gateway-builder-part-4-gateway-input-actions
+---
+
 # Tutorial - Gateway Builder - Part 4 - Gateway Input Actions
 
 ### Types of Input Actions: Forwarding

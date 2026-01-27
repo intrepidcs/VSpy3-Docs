@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tutorial-request-and-save-dtc-data/part-3-make-a-graphical-panel
+---
+
 # Part 3 - Make a Graphical Panel
 
 Make requesting trouble codes easier for the user by building a graphical panel.

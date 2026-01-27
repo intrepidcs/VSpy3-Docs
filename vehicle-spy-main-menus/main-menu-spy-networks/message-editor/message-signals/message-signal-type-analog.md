@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-spy-networks/message-editor/message-signals/message-signal-type-analog
+---
+
 # Message Signal Type Analog
 
 Setting the [Signal Type](message-signal-type.md) pull-down to Analog in the Edit Signal dialog sets the signal to an analog type (Figure 1).
