@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tutorial-transmit-messages-with-vehicle-spy
+---
+
 # Tutorial: Transmit Messages with Vehicle Spy
 
 ### Overview

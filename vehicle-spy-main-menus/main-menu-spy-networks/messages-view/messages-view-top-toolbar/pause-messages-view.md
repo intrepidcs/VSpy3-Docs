@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-spy-networks/messages-view/messages-view-top-toolbar/pause-messages-view
+---
+
 # Pause Messages View
 
 View messages that have already passed by in [Messages](../) view scrolling mode by pressing the **Pause** button on the Messages view [top toolbar](./) (Figure 1). Tapping [predefined function key](../../../../shared-features-in-vehicle-spy/shared-features-predefined-function-keys.md) **F3 then spacebar** will also pause and un-pause the view.

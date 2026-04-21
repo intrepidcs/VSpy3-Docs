@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/vehicle-spy-tutorial-files
+---
+
 # Vehicle Spy Tutorial Files
 
 You can quickly access the [tutorials](./) included with Vehicle Spy by selecting them from the **Examples** tab (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smOne.gif)) or the **Tutorials** tab (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smTwo.gif)) on the Vehicle Spy [Logon screen](../basic-operation-of-vehicle-spy/the-logon-screen.md).

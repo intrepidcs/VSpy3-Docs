@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-measurement/signal-views/signal-list
+---
+
 # Signal List
 
 Use the Signal List to display Vehicle Spy signal values in real time (Figure 1).

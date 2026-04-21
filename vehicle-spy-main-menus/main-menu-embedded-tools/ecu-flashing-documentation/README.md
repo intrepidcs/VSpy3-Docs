@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-embedded-tools/ecu-flashing-documentation
+---
+
 # ECU Flashing Documentation
 
 {% embed url="https://www.youtube.com/watch?v=RQl8a-Boa5w" %}

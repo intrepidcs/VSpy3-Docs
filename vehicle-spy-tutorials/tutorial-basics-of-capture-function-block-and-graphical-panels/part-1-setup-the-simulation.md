@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tutorial-basics-of-capture-function-block-and-graphical-panels/part-1-setup-the-simulation
+---
+
 # Part 1 - Setup the Simulation
 
 In this example a simulation file will be used. This will allow capturing data without being connected to a real bus. Simulation files are simply previously captured data files that are played back to simulate actual bus traffic.

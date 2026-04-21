@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tutorial-database-setup/part-2-create-a-platform
+---
+
 # Part 2 - Create a Platform
 
 ### 1. Create a Platform:

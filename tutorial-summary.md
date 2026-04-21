@@ -1,3 +1,9 @@
+---
+metaLinks:
+  alternates:
+    - https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/tutorial-summary
+---
+
 # Tutorial Summary
 
 **Congratulations!** All of the Vehicle Spy tutorials have been completed!

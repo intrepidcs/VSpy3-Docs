@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tutorial-dps-programming-automation/part-4-use-the-dps-programming-graphical-panel
+---
+
 # Part 4 - Use the DPS Programming Graphical Panel
 
 ### Put the Panel to Work

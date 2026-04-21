@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-spy-networks/message-editor/messages-editor-message-fields/multiframe-message/receive-iso15765-2-multiframe-message
+---
+
 # Receive ISO15765-2 Multiframe Message
 
 Vehicle Spy has the ability to [transmit](transmit-iso15765-2-multiframe-message.md) and receive multiframe messages using the ISO15765-2 specification for CAN networks. The first few steps for setting up a receive multiframe message are the same as setting up a normal message. Set the Description, Type, Arbitration ID, and color in the Messages Editor Receive table. After that, ISO15765-2 needs to be selected from the [Multi](./) column. This tells Vehicle Spy to use the ISO15765-2 protocol for receiving this message.

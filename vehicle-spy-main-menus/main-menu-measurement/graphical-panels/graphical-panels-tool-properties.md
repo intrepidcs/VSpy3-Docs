@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-measurement/graphical-panels/graphical-panels-tool-properties
+---
+
 # Graphical Panels: Tool Properties
 
 Each tool has a number of properties that define its appearance and behavior. When a tool is selected, the properties window on the right updates to show the properties relevant to that tool and their current values. This window has four tabs that allow you to easily access and modify tool settings.

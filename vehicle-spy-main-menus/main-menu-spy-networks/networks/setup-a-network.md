@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-spy-networks/networks/setup-a-network
+---
+
 # Setup a Network
 
 The Vehicle Spy main menu selections [**Setup**](../../main-menu-setup/)**> Hardware** and [**Spy Networks**](../)**> Networks** basically have the same interface and features related to networks. The main difference is that the Networks selection has an additional [Network Statistics](network-statistics.md) display mode. The common interface and features are described here. (Figure 1 is the Properties display mode if using the Networks selection.)

@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-measurement/vehiclescape-daq/vehiclescape-daq-standalone-logging-tab/standalone-logging-collections-and-methods/collections-and-methods-message-capture-method
+---
+
 # Collections and Methods: Message Capture Method
 
 In [VehicleScape DAQ](../../../), the [Standalone Logging](../../) of a Message Capture [collection](../) lets ICS hardware log data files over a period of time. Figure 1 shows the default settings you will see when first entering this area, though changes to some settings will alter the displayed options in other areas.

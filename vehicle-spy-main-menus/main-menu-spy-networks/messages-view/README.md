@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-spy-networks/messages-view
+---
+
 # Messages View
 
 Messages view displays the messages Vehicle Spy has transmitted or received. It is accessed via [**Spy Networks**](../) **> Messages** found in the [main menu](../../). Messages view has 2 main modes: static and scrolling. In static mode, Messages view displays the latest version of a message that has appeared in the traffic. Changing data bytes are highlighted with gray activity highlighting for easy recognition. In scrolling mode, Messages view displays every instance of all the messages in the traffic. This is shown as a scrolling list with the latest message at the bottom of the display and older messages above.

@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-measurement/graphical-panels/graphical-panels-resize-a-tool
+---
+
 # Graphical Panels: Resize a Tool
 
 To resize a tool, select it, then click and drag one of the four small square handles that appear in the corners (Figure 1). Changes to the dimensions will be shown in the **Width** and **Height** attributes of the [Properties](graphical-panels-tool-properties.md) tab. You can also set a tool's dimensions to precise values by editing those properties directly.\

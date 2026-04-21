@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-network-interface-hardware/getting-started-with-neoecu/neoecu-10/neoecu-10-loading-scripts-over-can
+---
+
 # neoECU 10: Loading Scripts Over CAN
 
 Loading scripts into a neoECU device can be done in a few different ways. With neoECU 10, CAN is used to send the script to the device. For devices of this type, a CAN network and a CAN tool is needed to program them. Figure 1 shows an example network. The CAN tool can be a neoVI **FIRE**, neoVI RED, ValueCAN 3, and so on. The pin out for the CAN tool and the neoECU 10 can be found on the product's sticker.

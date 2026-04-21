@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-measurement/graphical-panels/graphical-panels-panel-properties
+---
+
 # Graphical Panels: Panel Properties
 
 Just as [tools have properties](graphical-panels-tool-properties.md) that control their appearance and behavior, so do panels themselves. These are accessed through the same side panel as tool properties, and are similar in layout and function.

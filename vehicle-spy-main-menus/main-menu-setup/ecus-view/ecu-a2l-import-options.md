@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-setup/ecus-view/ecu-a2l-import-options
+---
+
 # ECU A2L Import Options
 
 This dialog allows the user to fine-tune the import of an A2L file into a new or existing ECU.

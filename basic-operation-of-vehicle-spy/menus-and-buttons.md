@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/basic-operation-of-vehicle-spy/menus-and-buttons
+---
+
 # Menus & Buttons
 
 Vehicle Spy is designed to be easy to use. All functions of Vehicle Spy can be accessed through the [main menus](../vehicle-spy-main-menus/) found along the top of the user interface as shown in **Figure 1**.

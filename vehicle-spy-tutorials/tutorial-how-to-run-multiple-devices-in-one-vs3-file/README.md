@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tutorial-how-to-run-multiple-devices-in-one-vs3-file
+---
+
 # Tutorial: How to run multiple devices in one VS3 file
 
 ### Overview

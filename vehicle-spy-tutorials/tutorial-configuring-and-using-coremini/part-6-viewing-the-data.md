@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tutorial-configuring-and-using-coremini/part-6-viewing-the-data
+---
+
 # Part 6 - Viewing the Data
 
 ### 1. Review Buffer:

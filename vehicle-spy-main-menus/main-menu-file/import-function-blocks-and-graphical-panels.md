@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-file/import-function-blocks-and-graphical-panels
+---
+
 # Import Function Blocks and Graphical Panels
 
 Vehicle Spy can import [Function Blocks](../main-menu-scripting-and-automation/function-blocks/) and [Graphical Panels](../main-menu-measurement/graphical-panels/) to save time building a .vs3 setup file.\

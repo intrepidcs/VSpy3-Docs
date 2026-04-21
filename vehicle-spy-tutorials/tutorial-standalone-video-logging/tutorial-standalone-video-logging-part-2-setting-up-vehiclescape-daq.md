@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tutorial-standalone-video-logging/tutorial-standalone-video-logging-part-2-setting-up-vehiclescape-daq
+---
+
 # Tutorial: Standalone Video Logging - Part 2 - Setting Up Vehiclescape DAQ
 
 ### 1. Open up Vehiclescape DAQ:

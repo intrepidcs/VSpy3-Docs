@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-introduction/vehicle-spy-overview
+---
+
 # Vehicle Spy Overview
 
 ### The Automotive Electronics Engineering Tool for Networked Vehicles.

@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tutorial-configuring-and-using-coremini/part-3-loading-the-script-to-the-hardware
+---
+
 # Part 3 - Loading the Script to the Hardware
 
 ### 1. CoreMini Console:

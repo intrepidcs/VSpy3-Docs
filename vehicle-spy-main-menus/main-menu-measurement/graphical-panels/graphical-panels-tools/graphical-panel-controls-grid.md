@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-measurement/graphical-panels/graphical-panels-tools/graphical-panel-controls-grid
+---
+
 # Graphical Panel Controls: Grid
 
 The Grid control is a quick and simple way to view multiple data elements in tabular fashion within a graphical panel (Figure 1). The data to be displayed is selected by choosing a signal group; these groups can be configured using the [Signal List](../../signal-views/signal-list.md) or [Signal Plot](../../signal-views/signal-plot.md) features of Vehicle Spy. The divider between the signal descriptions and values can be moved by clicking and dragging.

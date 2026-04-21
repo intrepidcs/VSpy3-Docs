@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tutorial-how-to-run-multiple-devices-in-one-vs3-file/part-4-syncing-time-across-multiple-devices
+---
+
 # Part 4 - Syncing Time Across Multiple Devices
 
 ### Time Syncing devices:

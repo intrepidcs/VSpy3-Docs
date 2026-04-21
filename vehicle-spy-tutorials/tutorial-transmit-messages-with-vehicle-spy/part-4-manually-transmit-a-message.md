@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tutorial-transmit-messages-with-vehicle-spy/part-4-manually-transmit-a-message
+---
+
 # Part 4 - Manually Transmit a Message
 
 Now that the Messages view and Tx Panel views are both open, take a close look at the Tx Panel. Practice Tx Message is already there! Now for a closer look at how the Tx Panel works.

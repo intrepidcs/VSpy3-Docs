@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-measurement/vehiclescape-daq/vehiclescape-daq-channels-tab
+---
+
 # VehicleScape DAQ: Channels Tab
 
 The [VehicleScape DAQ](./) Channels Tab is where signals are selected to be logged. Note that the term "channel", as used in VehicleScape DAQ, is equivalent to the term "signal" used elsewhere in Vehicle Spy.

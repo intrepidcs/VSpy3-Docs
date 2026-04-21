@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-tools/tools-options/options-license-system
+---
+
 # Options: License System
 
 Vehicle Spy uses a hardware/software licensing system. Your licensing information is setup in the License tab on the Vehicle Spy Setup dialog (Figure 1). This dialog is opened by selecting Tools->[Options](../) from the Vehicle Spy main menu.

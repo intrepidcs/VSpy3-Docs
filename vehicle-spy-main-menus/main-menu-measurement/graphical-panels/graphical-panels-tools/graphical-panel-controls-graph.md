@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-measurement/graphical-panels/graphical-panels-tools/graphical-panel-controls-graph
+---
+
 # Graphical Panel Controls: Graph
 
 The Graph control allows you to plot the value of a group of signals over time using a line graph. Signal groups can be configured using the [Signal List](../../signal-views/signal-list.md) or [Signal Plot](../../signal-views/signal-plot.md) features.

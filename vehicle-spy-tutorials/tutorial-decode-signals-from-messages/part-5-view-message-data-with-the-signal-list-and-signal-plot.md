@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tutorial-decode-signals-from-messages/part-5-view-message-data-with-the-signal-list-and-signal-plot
+---
+
 # Part 5 - View Message Data with the Signal List and Signal Plot
 
 Vehicle Spy 3 includes tools for monitoring active signals.  Signal List shows the most current value of signal data in a grid. Signal Plot displays a strip chart plot of the signal data. In **Figure 1** Signal Plot is displayed in the main view with Signal List in the bottom alternate view.

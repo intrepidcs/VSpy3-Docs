@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-measurement/mep-xcp-ccp-memory-edit-protocol/mep-value-editor
+---
+
 # MEP Value Editor
 
 Use the MEP Value Editor (Figure 1) to view and edit calibration values from ECUs that support CCP/XCP. Open the Value Editor with the Measurement --> [MEP](./) menu or by double clicking on value items in the A2L file data item tree on the [MEP Setup](mep-setup/) view.

@@ -4,6 +4,9 @@ description: >-
   experience.
 cover: .gitbook/assets/new-cover-image (1).png
 coverY: 0
+metaLinks:
+  alternates:
+    - https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/
 ---
 
 # 🚗 Welcome to the Vehicle Spy Help Documentation

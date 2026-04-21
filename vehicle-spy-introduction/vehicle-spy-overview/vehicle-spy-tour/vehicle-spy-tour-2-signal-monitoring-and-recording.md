@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-introduction/vehicle-spy-overview/vehicle-spy-tour/vehicle-spy-tour-2-signal-monitoring-and-recording
+---
+
 # Vehicle Spy Tour 2: Signal Monitoring and Recording
 
 ![Figure 1: Graphical Panels view](../../../.gitbook/assets/spytour2.gif)

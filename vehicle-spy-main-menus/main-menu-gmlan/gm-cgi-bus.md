@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-gmlan/gm-cgi-bus
+---
+
 # GM CGI Bus
 
 GM CGI Bus view is used for viewing CGI display data in Vehicle Spy. This view consists of 3 tabs. The first tab, Screen, is shown in Figure 1. This is the tab shows the image encoded in the selected message.

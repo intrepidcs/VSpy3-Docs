@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-scripting-and-automation/function-blocks/function-blocks-types/capture-type-function-block
+---
+
 # Capture Type Function Block
 
 ### Overview
@@ -9,8 +16,6 @@ Capture type [function blocks](../../) (commonly refered to as _capture blocks_)
 Table 1 describes just a few of the many ways that capture blocks can be used. In each case the application is described and a brief summary is provided of the capture block settings that might be used in a setup; these are presented in the same order that capture block tabs appear. Of course these are only samples and settings can be combined in almost any way that is required.
 
 **Table 1: Sample applications of capture type function blocks**
-
-
 
 | Application Description                                                                                  | Buffer                 | Start Type           | Stop and Trigger Options                                                                       | Storage                          |
 | -------------------------------------------------------------------------------------------------------- | ---------------------- | -------------------- | ---------------------------------------------------------------------------------------------- | -------------------------------- |

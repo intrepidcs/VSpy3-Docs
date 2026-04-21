@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-spy-networks/message-editor/messages-editor-message-fields/message-data-bytes
+---
+
 # Message Data Bytes
 
 Columns B1 to B8 can specify the message data bytes directly (Figure 1).

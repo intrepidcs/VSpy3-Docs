@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/application-notes/application-note-neovi-logging-neoecu-daq
+---
+
 # Application Note: neoVI Logging neoECU DAQ
 
 ### Introduction:

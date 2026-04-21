@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tutorial-configuring-and-using-coremini
+---
+
 # Tutorial: Configuring and Using CoreMini
 
 ### Overview

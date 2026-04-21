@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/application-notes/application-note-coremini-partition-logging/logging-part-1-general-setup
+---
+
 # Logging - Part 1: General Setup
 
 ### Open Vehicle Spy:&#x20;

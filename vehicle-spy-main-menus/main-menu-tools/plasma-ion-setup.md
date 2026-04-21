@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-tools/plasma-ion-setup
+---
+
 # PLASMA / ION Setup
 
 The ICS loggers neoVI PLASMA and neoVI ION have an Android operating system running an application written by ICS called "WiVI 3" that has settings required for wireless operations.

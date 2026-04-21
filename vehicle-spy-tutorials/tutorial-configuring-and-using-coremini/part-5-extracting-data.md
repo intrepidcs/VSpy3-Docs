@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tutorial-configuring-and-using-coremini/part-5-extracting-data
+---
+
 # Part 5 - Extracting Data
 
 ### 1. Micro-SD Card:

@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-network-interface-hardware/getting-started-with-neoecu/neoecu-20/neoecu-20-configuration
+---
+
 # neoECU 20: Configuration
 
 neoECU 20 can be configured directly in neoVI 3G Explorer. neoVI 3G Explorer can be accessed in Vehicle Spy 3 by pressing the ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/hardware_setup_button.gif) button found just under the main menu, or selecting Hardware from the Setup menu.\

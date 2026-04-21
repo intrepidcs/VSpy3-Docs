@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tutorial-basics-of-capture-function-block-and-graphical-panels/part-4-conclusion
+---
+
 # Part 4 - Conclusion
 
 To test the file, click on the blue **Play** button near the top left corner of the screen. When viewing from the Graphical panel, the LED for each channel should be red until the capture has filled its buffer. Once the simulation has finished one loop the LEDs will light nearly simultaneously. Now click the **Save** buttons for both Function Blocks to save the buffers to the data directory. The location of the collected data can be viewed by clicking on the **Data** button (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smOne.gif)). The Graphical Panel can be locked to keep the buttons from moving around using the **Lock** button (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smTwo.gif)) in the lower right of the panel.

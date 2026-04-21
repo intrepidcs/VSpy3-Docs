@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/application-notes/application-note-using-the-neovi-mote/application-note-using-the-neovi-mote-part-4-home-screen-and-conclusion
+---
+
 # Application Note: Using the neoVI MOTE - Part 4: Home Screen and Conclusion
 
 ### 1. Home Screen Script Function Block:

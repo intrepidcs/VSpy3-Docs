@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tutorial-simple-standalone-logging/part-1-getting-started
+---
+
 # Part 1 - Getting Started
 
 ### 1. Open Vehicle Spy and Log in

@@ -1,10 +1,15 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-scripting-and-automation/c-code-interface/c-code-interface-functions-and-events/functions-and-events-common-functions-and-events
+---
+
 # Functions and Events: Common Functions and Events
 
 There are certain functions for every C code module. Implementation of any of these is optional. All are event functions except for Spy\_Main(). Spy\_Main is like the main function of a standard C program. You can write your code as you would a separate application.
 
 **Table 1: Timer Properties that can be Configured in Vehicle Spy**
-
-
 
 | Function Name      | Called                                                    | Other Info                                                                                  |
 | ------------------ | --------------------------------------------------------- | ------------------------------------------------------------------------------------------- |

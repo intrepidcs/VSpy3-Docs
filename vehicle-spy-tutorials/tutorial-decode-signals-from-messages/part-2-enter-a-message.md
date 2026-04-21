@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tutorial-decode-signals-from-messages/part-2-enter-a-message
+---
+
 # Part 2 - Enter a Message
 
 ### 1. Create a Message:

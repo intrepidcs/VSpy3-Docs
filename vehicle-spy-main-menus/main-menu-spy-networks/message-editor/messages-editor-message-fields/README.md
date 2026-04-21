@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-spy-networks/message-editor/messages-editor-message-fields
+---
+
 # Messages Editor: Message Fields
 
 **Table 1** lists all available fields in the Messages Editor. The [Network](../messages-editor-pick-a-network.md) selection determines which of these fields are displayed at any given time. For more detail, please click on each field title.

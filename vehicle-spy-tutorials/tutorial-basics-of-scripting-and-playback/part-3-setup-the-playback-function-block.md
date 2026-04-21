@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tutorial-basics-of-scripting-and-playback/part-3-setup-the-playback-function-block
+---
+
 # Part 3 - Setup The Playback Function Block
 
 ### 1. Open the Function Blocks Tab:

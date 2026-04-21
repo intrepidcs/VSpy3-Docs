@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-measurement/vehiclescape-daq/vehiclescape-daq-standalone-logging-tab
+---
+
 # VehicleScape DAQ: Standalone Logging Tab
 
 Standalone Logging in [VehicleScape DAQ](../) generates a script to allow ICS hardware to collect data independently (while disconnected from a computer). This requires that the ICS hardware support an SD card and [CoreMini](../../../main-menu-tools/utilities-coremini-console/) scripting. [This application note](../../../../application-notes/application-note-vehiclescape-standalone-logging/) contains a walkthrough of setting up a standalone logger.

@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tutorial-sort-messages-by-ecu/part-2-enter-ecu-source-ids-to-sort
+---
+
 # Part 2 - Enter ECU Source IDs to Sort
 
 ### 1. Enter Source IDs in Receive Messages:

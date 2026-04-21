@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-spy-networks/message-editor/messages-editor-message-fields/message-length
+---
+
 # Message Length
 
 The **DLC** (Data Length Code) allows specification of the expected length for a CAN message (Figure 1).

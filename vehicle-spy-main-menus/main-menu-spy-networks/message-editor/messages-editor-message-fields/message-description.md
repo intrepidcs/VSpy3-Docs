@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-spy-networks/message-editor/messages-editor-message-fields/message-description
+---
+
 # Message Description
 
 The [Message](../) description allows a user friendly name to be assigned to a message. This description will appear in selection dialogs as well as when the message is seen in the [Messages](../../messages-view/) view and in the [Expression Builder](../../../../shared-features-in-vehicle-spy/shared-features-expression-builder.md).

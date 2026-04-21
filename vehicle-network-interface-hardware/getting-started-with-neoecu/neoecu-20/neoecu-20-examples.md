@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-network-interface-hardware/getting-started-with-neoecu/neoecu-20/neoecu-20-examples
+---
+
 # neoECU 20: Examples
 
 To help make working with the neoECU20 as simple as possible, a number of examples have been put together. Click the link below to access the examples.

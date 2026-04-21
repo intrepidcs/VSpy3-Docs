@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/basic-operation-of-vehicle-spy/running-and-stopping
+---
+
 # Running and Stopping
 
 Vehicle Spy can run in a several different modes: Run with Transmit, Run with MEP, Run Monitor Only, Run Simulation, Run Analysis, and Run with remote neoVI. These options are selected by clicking the drop down arrow (Figure 1) next to the blue Start/Stop button.

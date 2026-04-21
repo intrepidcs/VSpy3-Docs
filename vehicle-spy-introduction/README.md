@@ -1,3 +1,9 @@
+---
+metaLinks:
+  alternates:
+    - https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-introduction
+---
+
 # Vehicle Spy Introduction
 
 ![](../.gitbook/assets/overview.gif)

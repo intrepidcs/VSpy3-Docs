@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-introduction/vehicle-spy-overview/vehicle-spy-tour/vehicle-spy-tour-4-node-vehicle-simulation
+---
+
 # Vehicle Spy Tour 4: Node/Vehicle Simulation
 
 ![](../../../.gitbook/assets/spyTour4NodeSim.jpg)

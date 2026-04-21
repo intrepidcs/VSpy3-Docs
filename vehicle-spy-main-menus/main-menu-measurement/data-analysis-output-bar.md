@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-measurement/data-analysis-output-bar
+---
+
 # Data Analysis: Output Bar
 
 The [Data Analysis](data-analysis/) Output Bar (Figure 1) lists data points in selected channels. The Output Bar can be toggled on/off with the "Show" [main menu](data-analysis/data-analysis-main-menus-and-toolbar.md) item or by clicking the Main Toolbar button ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/ViewOutputGrid.gif).

@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tutorial-c-code-interface/part-3-running-the-example
+---
+
 # Part 3 - Running the Example
 
 ### Run the Example

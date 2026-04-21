@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tutorial-database-setup/part-5-diagnostic-decoding
+---
+
 # Part 5 - Diagnostic Decoding
 
 ### 1. ECU Diagnostic Database:

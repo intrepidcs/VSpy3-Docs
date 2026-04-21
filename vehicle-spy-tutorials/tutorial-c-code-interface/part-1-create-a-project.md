@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tutorial-c-code-interface/part-1-create-a-project
+---
+
 # Part 1 - Create a Project
 
 ### 1. Open Vehicle Spy and Access C Code Interface:

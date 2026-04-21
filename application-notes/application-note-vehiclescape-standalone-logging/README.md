@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/application-notes/application-note-vehiclescape-standalone-logging
+---
+
 # Application Note: VehicleScape Standalone Logging
 
 ### Overview:

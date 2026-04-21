@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-spy-networks/tcp-ip
+---
+
 # TCP/IP
 
 Vehicle Spy's **TCP/IP** view shows the current status of its TCP/IP connections for a selected ethernet network and allows editing of some parameters. A valid TCP/IP connection is required for [Diagnostics over IP (DoIP)](diagnostics-over-ip-doip.md). A maximum of 128 connections are allowed. TCP/IP view is opened from the [Spy Networks](./) menu.

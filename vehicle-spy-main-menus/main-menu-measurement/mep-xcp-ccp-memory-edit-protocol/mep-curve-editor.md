@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-measurement/mep-xcp-ccp-memory-edit-protocol/mep-curve-editor
+---
+
 # MEP Curve Editor
 
 Use the MEP Curve Editor (Figure 1) to view and edit calibration curves from ECUs that support CCP/XCP. Open the Curve Editor with the Measurement --> MEP menu or by double clicking on curve items in the A2L file data item tree on the [MEP Setup](mep-setup/) view.

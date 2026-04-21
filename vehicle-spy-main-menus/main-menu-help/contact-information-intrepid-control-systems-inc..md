@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-help/contact-information-intrepid-control-systems-inc.
+---
+
 # Contact Information - Intrepid Control Systems, Inc.
 
 <img src="../../.gitbook/assets/icslogo.gif" alt="" data-size="original">![](../../.gitbook/assets/icsNameplate.gif)

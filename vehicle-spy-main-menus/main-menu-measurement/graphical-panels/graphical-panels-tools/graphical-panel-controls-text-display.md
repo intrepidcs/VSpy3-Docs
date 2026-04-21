@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-measurement/graphical-panels/graphical-panels-tools/graphical-panel-controls-text-display
+---
+
 # Graphical Panel Controls: Text Display
 
 Text Display boxes are output controls that can be configured to show static text for labeling items, or dynamic text showing signal values. Figure 1 shows examples of conventional text and group box controls (see below for more details).

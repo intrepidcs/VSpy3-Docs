@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-network-interface-hardware/getting-started-with-neoecu/neoecu-20/neoecu-20-io-map
+---
+
 # neoECU 20: IO Map
 
 neoECU 20 does not have a pin map. neoECU 20 is configured using neoVI 3G Explorer, in the same way as a neoVI **FIRE** or neoVI Red would be used. Scripts are loaded into the device over USB just like a neoVI device. Table 1 lists the Pin connections for the device. You should also find this on the back of the neoECU20. The networks setup and functions of the neoECU 20 match a neoVI **FIRE** and standalone scripts are compatible between the two devices.

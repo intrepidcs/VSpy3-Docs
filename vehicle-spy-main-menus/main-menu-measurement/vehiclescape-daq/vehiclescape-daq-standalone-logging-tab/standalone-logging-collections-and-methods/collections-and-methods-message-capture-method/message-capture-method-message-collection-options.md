@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-measurement/vehiclescape-daq/vehiclescape-daq-standalone-logging-tab/standalone-logging-collections-and-methods/collections-and-methods-message-capture-method/message-capture-method-message-collection-options
+---
+
 # Message Capture Method: Message Collection Options
 
 In [VehicleScape DAQ](../../../) [Standalone Logging](../../), the first set of options for the [Message Capture Method](./) deals with which messages to collect. Figure 1 shows this subsection of the options tab.

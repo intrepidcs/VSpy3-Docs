@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tutorial-dps-programming-automation
+---
+
 # Tutorial: DPS Programming Automation
 
 ### Overview

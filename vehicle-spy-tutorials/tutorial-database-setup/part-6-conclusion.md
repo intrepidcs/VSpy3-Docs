@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tutorial-database-setup/part-6-conclusion
+---
+
 # Part 6 - Conclusion
 
 ### 1. Conclusion:

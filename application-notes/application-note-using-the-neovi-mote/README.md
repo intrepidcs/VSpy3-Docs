@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/application-notes/application-note-using-the-neovi-mote
+---
+
 # Application Note: Using the neoVI MOTE
 
 ### Overview

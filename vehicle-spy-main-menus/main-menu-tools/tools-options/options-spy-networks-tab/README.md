@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-tools/tools-options/options-spy-networks-tab
+---
+
 # Options: Spy Networks Tab
 
 Vehicle Spy interacts with a vehicle network through [Vehicle Network Hardware](../../../../vehicle-network-interface-hardware/) available from ICS. The ability to setup various hardware settings can be found using the "Spy Networks" tab in the Vehicle Spy Setup dialog (Figure 1), found under the [Tools](../../) -> [Options](../) menu.

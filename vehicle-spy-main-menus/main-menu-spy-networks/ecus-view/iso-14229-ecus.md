@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-spy-networks/ecus-view/iso-14229-ecus
+---
+
 # ISO 14229 ECUs
 
 If an ISO 14229 [ECU](../../main-menu-setup/ecus-view/) is selected on the ECUs view then the tabs after the ECU Basics tab will look like those along the top of **Figure 1**. These other tabs let you create and change diagnostic items like DIDs, Routines, Memory Data, DTCs, and DTC Extended Records. There are also tabs for setting up ECU security access and diagnostic database jobs. Just click on a tab to see all items of that type in the ECU. A shared interface is used to enter data for most types of items. The Identifiers tab in Figure 1 is an example of this interface.

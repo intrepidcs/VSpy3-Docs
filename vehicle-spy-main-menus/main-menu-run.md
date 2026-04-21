@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-run
+---
+
 # Main Menu: Run
 
 The Vehicle Spy Run main menu can be used to start and stop Vehicle Spy as shown in Figure 1.

@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-spy-networks/message-editor/message-signals/live-edit
+---
+
 # Live Edit
 
 The [Messages Editor](../) has a feature called **Live Edit** that allows raw data and decoded signals to be seen within the signal editor itself while Vehicle Spy is online. Live Edit is enabled with the checkbox (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smOne.gif)) located in the [Signals in Message](./) area.

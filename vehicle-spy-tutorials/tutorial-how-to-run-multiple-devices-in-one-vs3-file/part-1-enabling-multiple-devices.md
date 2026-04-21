@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tutorial-how-to-run-multiple-devices-in-one-vs3-file/part-1-enabling-multiple-devices
+---
+
 # Part 1 - Enabling Multiple Devices
 
 ### 1. Navigate to options:

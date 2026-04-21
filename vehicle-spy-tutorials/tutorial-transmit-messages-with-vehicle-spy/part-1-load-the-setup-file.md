@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tutorial-transmit-messages-with-vehicle-spy/part-1-load-the-setup-file
+---
+
 # Part 1 - Load the Setup File
 
 In this tutorial, how to transmit messages on an in-vehicle network using Vehicle Spy will be shown.

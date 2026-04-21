@@ -1,9 +1,15 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/application-notes/application-note-coremini-partition-logging/logging-part-2-function-block-setup
+---
+
 # Logging - Part 2: Function Block Setup
 
 ### 1. Control Function Block:
 
-The control [function block](../../vehicle-spy-main-menus/main-menu-scripting-and-automation/function-blocks/function-blocks-types/script-type-function-block.md) is a script that will tell the capture function block to change partitions when the trigger condition is met.  There are a number of ways to do this script.  The basic functionality would be to:\
-
+The control [function block](../../vehicle-spy-main-menus/main-menu-scripting-and-automation/function-blocks/function-blocks-types/script-type-function-block.md) is a script that will tell the capture function block to change partitions when the trigger condition is met.  There are a number of ways to do this script.  The basic functionality would be to:<br>
 
 1. Set your index
 2. Wait for condition to change partition

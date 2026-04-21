@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-spy-networks/message-editor/message-signals
+---
+
 # Message Signals
 
 Vehicle network messages contain raw data with signal information. Vehicle Spy allows decoding of this signal information from received messages and encodes this information into transmit messages. Signal definitions must always be associated with a message.

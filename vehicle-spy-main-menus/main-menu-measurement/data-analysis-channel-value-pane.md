@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-measurement/data-analysis-channel-value-pane
+---
+
 # Data Analysis: Channel Value Pane
 
 The [Data Analysis](data-analysis/) Channel Value Pane can toggle plotter channels on/off and show channel specific measurements. It is an adjustable window pane located to the right of the plotter as shown in Figure 1. The entire pane can be toggled on and off using the "Show" [main menu](data-analysis/data-analysis-main-menus-and-toolbar.md) item.

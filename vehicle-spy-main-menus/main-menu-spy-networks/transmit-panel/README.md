@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-spy-networks/transmit-panel
+---
+
 # Transmit Panel
 
 The Tx Panel lists all transmit messages defined in Vehicle Spy. In fact, as you add transmit messages to the Message Editor, they are automatically added to the Tx Panel.

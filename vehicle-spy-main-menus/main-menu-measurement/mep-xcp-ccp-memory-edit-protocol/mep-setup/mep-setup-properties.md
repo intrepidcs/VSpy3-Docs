@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-measurement/mep-xcp-ccp-memory-edit-protocol/mep-setup/mep-setup-properties
+---
+
 # MEP Setup - Properties
 
 Please refer to the numbered areas in Figure 1 below as the [MEP Setup](./) Properties tab features are explained.

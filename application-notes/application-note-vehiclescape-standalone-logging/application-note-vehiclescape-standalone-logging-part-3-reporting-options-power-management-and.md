@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/application-notes/application-note-vehiclescape-standalone-logging/application-note-vehiclescape-standalone-logging-part-3-reporting-options-power-management-and
+---
+
 # Application Note: VehicleScape Standalone Logging - Part 3: Reporting Options, Power Management and
 
 ### 1. Reporting Options:

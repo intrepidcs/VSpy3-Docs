@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-measurement/data-analysis/data-analysis-plotter-setup-toolbar
+---
+
 # Data Analysis: Plotter Setup Toolbar
 
 The Plotter Setup Toolbar (Figure 1) allows you to add, edit and delete graphs in the [Plotter Area](../data-analysis-plotter-area/), and also to add, edit and delete Y axes on any graph. This toolbar is hidden by default when you run Vehicle Spy; you can enable it by adding a checkmark next to its entry in the [Show Menu](data-analysis-main-menus-and-toolbar.md#show-menu).

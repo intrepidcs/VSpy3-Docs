@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-spy-networks/networks
+---
+
 # Networks
 
 Vehicle Spy can support more than one vehicle network at a time. Use the **Networks** view to change individual network properties and look at their statistics. To access this view select [**Spy Networks**](../)> **Networks** (**Figure 1**).

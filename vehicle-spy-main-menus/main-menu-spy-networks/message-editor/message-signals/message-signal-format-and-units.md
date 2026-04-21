@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-spy-networks/message-editor/message-signals/message-signal-format-and-units
+---
+
 # Message Signal Format and Units
 
 When decoding an [analog](message-signal-type-analog.md) or [digital](message-signal-type-digital.md) signal, the display format can be specified. For example, analog Engine RPM signal could be displayed as 1000.23423 or 1000.2. Many formats are available in the pulldown lists as shown in Figures 1 and 2.

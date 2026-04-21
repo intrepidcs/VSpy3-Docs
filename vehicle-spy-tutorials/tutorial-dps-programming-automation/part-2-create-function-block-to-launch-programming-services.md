@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tutorial-dps-programming-automation/part-2-create-function-block-to-launch-programming-services
+---
+
 # Part 2 - Create Function Block to Launch Programming Services
 
 ### 1. Open Function Blocks View:

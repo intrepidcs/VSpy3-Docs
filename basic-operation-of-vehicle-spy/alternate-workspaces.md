@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/basic-operation-of-vehicle-spy/alternate-workspaces
+---
+
 # Alternate Workspaces
 
 Use alternate workspaces to help view more than one Vehicle Spy feature simultaneously. It could be useful, for instance, to monitor Messages while manually sending a message with the Tx Panel, or have a Graphical panel displaying data requested by the Diagnostics view.

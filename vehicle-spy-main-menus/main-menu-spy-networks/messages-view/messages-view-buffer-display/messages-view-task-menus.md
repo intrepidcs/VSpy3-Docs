@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-spy-networks/messages-view/messages-view-buffer-display/messages-view-task-menus
+---
+
 # Messages View Task Menus
 
 In the [Messages view](../), clicking on icons located just left of the main display area opens convenient menus for performing common tasks. The menu selections differ depending upon which object is clicked.

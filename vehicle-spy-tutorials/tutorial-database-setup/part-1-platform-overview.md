@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tutorial-database-setup/part-1-platform-overview
+---
+
 # Part 1 - Platform Overview
 
 ### 1. What are Database Platforms and why are they helpful?:

@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-tools/utilities-file-conversions
+---
+
 # Utilities: File Conversions
 
 Vehicle Spy contains a few tools for converting file formats. To use them, select [Tools](../) -> [Utilities](../tools-utilities/) -> File Conversions then select the conversion you want to perform (Figure 1). A window will pop up asking for a Vehicle Spy buffer file (CSV or VSB). Find the file and click Open. Another window will open for saving the converted file. Give the file a name and click Save.

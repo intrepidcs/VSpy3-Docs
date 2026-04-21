@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-measurement/vehiclescape-daq/vehiclescape-daq-pc-logging-tab
+---
+
 # VehicleScape DAQ: PC Logging Tab
 
 PC Logging in [VehicleScape DAQ](./) is very similar to the [Logging](../logging.md) feature for collecting signals while connected to ICS hardware. One difference is that PC Logging provides control over the signal polling rates by using the [Channels Tab](vehiclescape-daq-channels-tab.md) or [Online Tab](vehiclescape-daq-online-tab.md). Another is that PC Logging can be controlled with a [Function Block](../../main-menu-scripting-and-automation/function-blocks/) script.

@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-tools/utilities-extract-export/utilities-export-vsb-to-other-formats
+---
+
 # Utilities: Export VSB to Other Formats
 
 The second tab of the [Extract Export](./) interface (Figure 1) reads extracted VSB files and exports them into various other signal or message file formats.\

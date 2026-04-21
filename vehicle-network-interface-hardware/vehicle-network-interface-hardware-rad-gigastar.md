@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-network-interface-hardware/vehicle-network-interface-hardware-rad-gigastar
+---
+
 # Vehicle Network Interface Hardware: RAD-Gigastar
 
 #### 1000BASE-T1 Active Tap, Gateway, Media Converter, Vehicle Interface & Data Logger

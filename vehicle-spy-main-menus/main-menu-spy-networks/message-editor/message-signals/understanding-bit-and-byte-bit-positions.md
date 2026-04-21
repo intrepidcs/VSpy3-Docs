@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-spy-networks/message-editor/message-signals/understanding-bit-and-byte-bit-positions
+---
+
 # Understanding Bit and Byte : Bit Positions
 
 When [decoding signals](./), you can specify bit positions in two ways. First you can set the bit position which is relative to the first bit of the message, bit 0. Second, you can specify which bit in a particular byte of a message.

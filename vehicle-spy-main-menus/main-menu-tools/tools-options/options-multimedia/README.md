@@ -1,5 +1,12 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-tools/tools-options/options-multimedia
+---
+
 # Options: Multimedia
 
-The Tools-> [Options](../)-> Multimedia tab is used to set up multimedia devices to work with Vehicle Spy.  At the moment, the only options are for a [joystick](multimedia-joystick-setup.md) and a USB HID LCD.
+The Tools-> [Options](../)-> Multimedia tab is used to set up multimedia devices to work with Vehicle Spy. At the moment, the only options are for a [joystick](multimedia-joystick-setup.md) and a USB HID LCD.
 
 ![Figure 1: Use the Multimedia tab to control a joystick or USB HID LCD.](../../../../.gitbook/assets/options_multimedia.gif)

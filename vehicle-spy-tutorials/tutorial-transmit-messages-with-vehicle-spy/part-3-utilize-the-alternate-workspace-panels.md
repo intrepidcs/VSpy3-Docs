@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tutorial-transmit-messages-with-vehicle-spy/part-3-utilize-the-alternate-workspace-panels
+---
+
 # Part 3 - Utilize the Alternate Workspace Panels
 
 Back in the Vehicle Spy User Interface Introduction, Alternate Workspace panels were introduced docked at the bottom and the right of the user interface. In this exercise these panels will be used to view both the Tx Panel and Messages view simultaneously.

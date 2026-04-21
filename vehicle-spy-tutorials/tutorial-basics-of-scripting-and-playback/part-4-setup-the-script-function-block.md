@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tutorial-basics-of-scripting-and-playback/part-4-setup-the-script-function-block
+---
+
 # Part 4 - Setup the Script Function Block
 
 ### 1. Create the Script Function Block:

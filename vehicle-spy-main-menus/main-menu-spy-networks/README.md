@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-spy-networks
+---
+
 # Main Menu: Spy Networks
 
 The **Spy Networks** menu contains many common tasks as shown in **Figure 1**. Refer to **Table 1** for a brief description of each selection.

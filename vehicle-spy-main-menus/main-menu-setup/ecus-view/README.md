@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-setup/ecus-view
+---
+
 # ECUs View
 
 Each vehicle network contains a collection of nodes or ECUs. ECUs are Electronic Control Units which act as transmitters and receivers of messages. The ECUs view lets you to create and edit a database of ECUs organized by their diagnostic protocol. ECUs can be assigned to normal mode messages using the Messages Editor. ECUs can also be assigned to user defined diagnostic jobs using the [Diagnostics Setup](../../main-menu-spy-networks/diagnostics/diagnostics-setup.md).\

@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/application-notes/application-note-coremini-partition-logging/logging-part-4-conclusion
+---
+
 # Logging - Part 4: Conclusion
 
 ### 1. Conclusion:&#x20;

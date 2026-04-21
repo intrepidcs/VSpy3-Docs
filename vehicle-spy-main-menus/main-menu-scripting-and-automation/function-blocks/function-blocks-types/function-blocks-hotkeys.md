@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-scripting-and-automation/function-blocks/function-blocks-types/function-blocks-hotkeys
+---
+
 # Function Blocks Hotkeys
 
 Hotkeys allow you to more conveniently control certain aspects of the operation of function blocks. A hotkey is a shortcut that allows manual functions to be performed at any time without having to directly access the function block interface, such as the buttons on the [Function Block List](../function-block-list.md).

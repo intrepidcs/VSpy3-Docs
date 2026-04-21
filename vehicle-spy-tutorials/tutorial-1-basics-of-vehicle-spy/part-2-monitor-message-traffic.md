@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tutorial-1-basics-of-vehicle-spy/part-2-monitor-message-traffic
+---
+
 # Part 2 - Monitor Message Traffic
 
 ### 1. Select Messages View:

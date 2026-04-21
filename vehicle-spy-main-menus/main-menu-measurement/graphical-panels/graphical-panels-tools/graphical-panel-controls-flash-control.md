@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-measurement/graphical-panels/graphical-panels-tools/graphical-panel-controls-flash-control
+---
+
 # Graphical Panel Controls: Flash Control
 
 The Flash control allows you to embed a Shockwave Flash object to customize the look and feel of a graphical panel. Vehicle Spy ships with several Flash controls that you can use as gauges and knobs in your panel setups; these are found in the **ICS Flash Files** subfolder under the main Vehicle Spy 3 install directory. Examples of these are shown in Figure 1.

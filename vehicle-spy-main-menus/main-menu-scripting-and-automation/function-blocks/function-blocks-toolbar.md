@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-scripting-and-automation/function-blocks/function-blocks-toolbar
+---
+
 # Function Blocks Toolbar
 
 A number of essential tools are included in a row of buttons along the top of the [Function Blocks](./) area (Figure 1). These tools allow you to add function blocks, remove them, and perform other important operations.

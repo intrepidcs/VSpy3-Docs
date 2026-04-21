@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-spy-networks/message-editor/add-and-delete-messages
+---
+
 # Add and Delete Messages
 
 To create a new transmit or receive message definition click the **+ button** (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smOne.gif)) and a new blank message will be added to the bottom of the messages spreadsheet.\

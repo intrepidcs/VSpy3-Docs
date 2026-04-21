@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-spy-networks/diagnostics-over-ip-doip
+---
+
 # Diagnostics over IP (DoIP)
 
 Diagnostics over Internet Protocol (DoIP) requires diagnostic communications to use IP, TCP, and UDP protocols on an ethernet network. A vehicle with DoIP typically has one "edge node" ECU to transfer all diagnostic messages between a test tool on ethernet and other ECUs on other networks like CAN, LIN, FlexRay, etc. Requirements for DoIP are defined in ISO 13400.\

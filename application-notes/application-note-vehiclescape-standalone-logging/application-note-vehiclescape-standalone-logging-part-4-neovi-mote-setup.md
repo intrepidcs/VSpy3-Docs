@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/application-notes/application-note-vehiclescape-standalone-logging/application-note-vehiclescape-standalone-logging-part-4-neovi-mote-setup
+---
+
 # Application Note: VehicleScape Standalone Logging - Part 4: neoVI MOTE Setup
 
 ### 1. Open the CoreMini Console:

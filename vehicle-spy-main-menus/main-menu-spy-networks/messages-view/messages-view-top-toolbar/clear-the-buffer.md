@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-spy-networks/messages-view/messages-view-top-toolbar/clear-the-buffer
+---
+
 # Clear the Buffer
 
 Clear the [Messages view](../) buffer by pressing the **Erase** button on the Messages view [top toolbar](./) (Figure 1).Tapping [predefined function key](../../../../shared-features-in-vehicle-spy/shared-features-predefined-function-keys.md) **F3 then C** will also work.\

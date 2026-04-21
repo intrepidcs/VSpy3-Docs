@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tutorial-c-code-interface/part-2-adding-events
+---
+
 # Part 2 - Adding Events
 
 ### 1. Vehicle Spy Setup:

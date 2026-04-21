@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-measurement/data-analysis-plotter-area
+---
+
 # Data Analysis: Plotter Area
 
 The [Data Analysis](../data-analysis/) plotter graphs channels (or signals) found in data files. The plotter has many features giving it the flexibility to fit your needs.\

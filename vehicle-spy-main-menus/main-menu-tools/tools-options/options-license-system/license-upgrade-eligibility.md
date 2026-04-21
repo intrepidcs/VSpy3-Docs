@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-tools/tools-options/options-license-system/license-upgrade-eligibility
+---
+
 # License Upgrade Eligibility
 
 When Vehicle Spy Professional is purchased it includes a year of software updates. Additional years of software updates purchased. For purchasing software updates [click here](https://store.intrepidcs.com/).

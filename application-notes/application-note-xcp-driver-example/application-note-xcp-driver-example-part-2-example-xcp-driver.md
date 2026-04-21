@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/application-notes/application-note-xcp-driver-example/application-note-xcp-driver-example-part-2-example-xcp-driver
+---
+
 # Application Note: XCP Driver Example - Part 2: Example XCP Driver
 
 ### Example XCP Driver Overview
@@ -20,8 +27,7 @@ GET\_SEED\
 UNLOCK\
 SET\_MTA\
 SHORT\_UPLOAD\
-DOWNLOAD\
-
+DOWNLOAD<br>
 
 **DATA ACQUISITION COMMANDS (DAQ)**\
 \

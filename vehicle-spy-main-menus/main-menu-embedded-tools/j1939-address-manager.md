@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-embedded-tools/j1939-address-manager
+---
+
 # J1939 Address Manager
 
 J1939 requires every node on the network to claim a unique address before transmitting any data. Vehicle Spy supports this requirement with the [Embedded Tools](./) --> J1939 Address Manager\* that allows you to claim and view J1939 network addresses.

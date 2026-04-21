@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-spy-networks/flexray-cycles
+---
+
 # FlexRay Cycles
 
 Vehicle Spy's FlexRay Cycles view is a nice visual aid for understanding FlexRay concepts such as cycles, static frames, dynamic frames, and channels A and B. FlexRay Cycles view is opened from the [Spy Networks](./) menu.

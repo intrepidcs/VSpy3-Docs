@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-measurement/graphical-panels/graphical-panels-tools/graphical-panel-controls-numeric-entry
+---
+
 # Graphical Panel Controls: Numeric Entry
 
 A Numeric Entry control allows you to input numeric data into a graphical panel. Values can be typed in using the keyboard and/or changed via the up and down arrows within the control. Minimum and maximum values can also be specified to restrict entry to a particular value range.

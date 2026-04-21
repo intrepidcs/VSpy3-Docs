@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/basic-operation-of-vehicle-spy/using-window-docking
+---
+
 # Using Window Docking
 
 Another way to see more than on window at a time in Vehicle Spy is to use the window docking feature. With this feature, views can be placed where they will be the most useful.

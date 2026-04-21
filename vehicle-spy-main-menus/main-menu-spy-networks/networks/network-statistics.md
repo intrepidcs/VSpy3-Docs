@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-spy-networks/networks/network-statistics
+---
+
 # Network Statistics
 
 Statistics for a network can be seen in the [Networks](./) view by selecting the **Statistics** button (Figure 1). A description of each statistic is listed below in Table 1. All stats are cleared each time Vehicle Spy is started. While running, statistics can be cleared by right clicking on the description of the network to clear and selecting **Clear Stats**. Selecting the open folder ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/openfolder.gif) will change the view to show all networks, whereas selecting the closed folder ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/closedfolder.gif) will hide unused networks.

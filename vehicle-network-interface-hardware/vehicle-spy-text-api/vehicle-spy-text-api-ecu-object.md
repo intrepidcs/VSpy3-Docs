@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-network-interface-hardware/vehicle-spy-text-api/vehicle-spy-text-api-ecu-object
+---
+
 # Vehicle Spy Text API: ECU Object
 
 ### Objective
@@ -59,4 +66,4 @@ ecu.sim.simulatetransmitmessages 0  ;simulate the receive messages for those in 
 | overrideperiod | This will override the period of the message.                                                                              |         |
 |     period     | The modified message period if "overrideperiod" is 1.                                                                      |         |
 
-\
+<br>

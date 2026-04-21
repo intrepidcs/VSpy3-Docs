@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-measurement/graphical-panels/graphical-panels-tools/graphical-panel-controls-action-button
+---
+
 # Graphical Panel Controls: Action Button
 
 An Action Button control provides access to the Windows file selector dialog box from within a graphical panel.

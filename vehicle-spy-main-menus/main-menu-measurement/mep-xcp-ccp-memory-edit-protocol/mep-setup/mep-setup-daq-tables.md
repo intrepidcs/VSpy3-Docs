@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-measurement/mep-xcp-ccp-memory-edit-protocol/mep-setup/mep-setup-daq-tables
+---
+
 # MEP Setup - DAQ Tables
 
 The [MEP Setup](./) DAQ Tables tab (Figure 1) displays information about [event based data acquisition](../data-acquisition-with-ccp-xcp.md) with CCP/XCP. ECUs with CCP/XCP have the option to use events and DAQ lists to organize and report their data. Event based DAQ'ing can help synchronize ECU measurements and free up its resources for other activities.

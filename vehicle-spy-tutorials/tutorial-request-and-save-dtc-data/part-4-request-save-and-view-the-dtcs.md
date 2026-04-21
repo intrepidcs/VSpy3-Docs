@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tutorial-request-and-save-dtc-data/part-4-request-save-and-view-the-dtcs
+---
+
 # Part 4 - Request, Save, and View the DTCs
 
 ### 1. Put the Panel to Work:

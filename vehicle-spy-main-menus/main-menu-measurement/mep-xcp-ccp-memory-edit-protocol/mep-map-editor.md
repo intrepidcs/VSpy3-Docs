@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-measurement/mep-xcp-ccp-memory-edit-protocol/mep-map-editor
+---
+
 # MEP Map Editor
 
 Use the MEP Map Editor (Figure 1) to view and edit calibration maps from ECUs that support CCP/XCP. Open the Map Editor with the Measurement --> MEP menu or by double clicking on map items in the A2L file data item tree on the [MEP Setup](mep-setup/) view.

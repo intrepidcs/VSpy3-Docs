@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/application-notes/application-note-xcp-driver-example/application-note-xcp-driver-example-part-3-ecu-simulation-and-porting-xcp-driver
+---
+
 # Application Note: XCP Driver Example - Part 3: ECU Simulation and Porting XCP Driver
 
 ### Example ECU Simulation

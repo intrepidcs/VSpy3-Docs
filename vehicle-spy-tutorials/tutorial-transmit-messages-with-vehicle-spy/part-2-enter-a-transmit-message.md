@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tutorial-transmit-messages-with-vehicle-spy/part-2-enter-a-transmit-message
+---
+
 # Part 2 - Enter a Transmit Message
 
 In Tutorial 1, it was shown how to set up a receive message specification in the Messages Editor view. Returning to this view, a message will be set up to be transmitted by Vehicle Spy.

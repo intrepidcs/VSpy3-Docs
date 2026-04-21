@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tutorial-basics-of-scripting-and-playback/part-2-setup-the-graphical-panel
+---
+
 # Part 2 - Setup the Graphical Panel
 
 Graphics Panels are similar to the graphical user interface (GUI) of an application. Once built they allow a user that has no knowledge of Vehicle Spy to perform complex tasks with the program. This tutorial will build a very basic Graphical Panel with only two tools. It is possible to have dozens of tools across multiple panels.

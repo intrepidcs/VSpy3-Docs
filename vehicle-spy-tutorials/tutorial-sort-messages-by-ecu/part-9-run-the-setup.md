@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tutorial-sort-messages-by-ecu/part-9-run-the-setup
+---
+
 # Part 9 - Run the Setup
 
 Now it is time to see all of the parts of this tutorial working together. (Example file "Tutorial 4 - Part 2" can be opened at this point if you got stuck somewhere previously.)

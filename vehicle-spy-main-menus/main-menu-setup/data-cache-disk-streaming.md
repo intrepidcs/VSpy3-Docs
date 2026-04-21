@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-setup/data-cache-disk-streaming
+---
+
 # Data Cache Disk Streaming
 
 Data Cache Disk Streaming provides a fast way to save large amounts of unfiltered data in a binary format (.vsb) message buffer file. This feature can be accessed using the Vehicle Spy [Setup](./) main menu or the dropdown button next to the **Data Directory** button as shown in **Figure 1**.

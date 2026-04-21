@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tutorial-request-and-save-dtc-data/part-1-create-a-diagnostic-job
+---
+
 # Part 1 - Create a Diagnostic Job
 
 Part 1 will begin by making a diagnostic job to request trouble codes.

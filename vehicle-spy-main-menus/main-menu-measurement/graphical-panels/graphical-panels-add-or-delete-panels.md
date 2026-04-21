@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-measurement/graphical-panels/graphical-panels-add-or-delete-panels
+---
+
 # Graphical Panels: Add or Delete Panels
 
 When first launched, the Graphical Panels feature begins with a panel called **Panel 1**. One panel is sufficient for many applications, but for more complex tasks you can add additional panels and configure them however you wish. You can also delete panels that you decide you don't need.

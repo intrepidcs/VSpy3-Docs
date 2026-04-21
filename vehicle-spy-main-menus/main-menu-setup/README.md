@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-setup
+---
+
 # Main Menu: Setup
 
 The Vehicle Spy Setup main menu contains hardware and database configuration tools as shown in **Figure 1**.

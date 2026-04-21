@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-spy-networks/message-editor/message-pt-trgt-and-src
+---
+
 # Message PT, Trgt, and Src
 
 The **PT** (Priority / Type), **Trgt** (Target), and **Src** (Source) fields define the first 3 bytes of a message in the Messages Editor for these networks:

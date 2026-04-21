@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-introduction/vehicle-spy-overview/vehicle-spy-tour
+---
+
 # Vehicle Spy Tour
 
 Let's take a quick tour through some of the features that Vehicle Spy has to offer!

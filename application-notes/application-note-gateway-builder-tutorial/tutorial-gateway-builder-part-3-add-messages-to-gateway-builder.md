@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/application-notes/application-note-gateway-builder-tutorial/tutorial-gateway-builder-part-3-add-messages-to-gateway-builder
+---
+
 # Tutorial - Gateway Builder - Part 3 - Add Messages to Gateway Builder
 
 ### Open the Gateway Builder:

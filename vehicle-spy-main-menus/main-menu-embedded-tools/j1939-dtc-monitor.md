@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-embedded-tools/j1939-dtc-monitor
+---
+
 # J1939 DTC Monitor
 
 Use the [Embedded Tools](./) --> J1939 DTC Monitor to simulate or view J1939 DM1 messages. J1939 must be enabled on the Tools -> Options, [Vehicle Networks tab](../main-menu-tools/tools-options/options-spy-networks-tab/) to see this selection.

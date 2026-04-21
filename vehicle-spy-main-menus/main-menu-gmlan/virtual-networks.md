@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-gmlan/virtual-networks
+---
+
 # Virtual Networks
 
 The GMLAN -> Virtual Networks view in Vehicle Spy provides a unique and useful perspective for working with GMLAN virtual networks. Note: GMLAN must be enabled on the Tools -> Options, [Vehicle Networks tab](../main-menu-tools/tools-options/options-spy-networks-tab/) to see the GMLAN menu.
@@ -24,12 +31,12 @@ The Virtual Networks view (Figure 2) uses a table to give perspective from a VN 
 
 Refer to Table 1 for a description of each column in the Virtual Networks view.
 
-| Virtual Networks Column | Description                                                                                                                                                                                                                        |
-| ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ID                      | ID number of each VN. Click the +/- button to see more/less details regarding ECUs controlling the VN.                                                                                                                             |
-| Description             | Name of each VN and ECU along with VNMF ID.                                                                                                                                                                                        |
-| Init Active             | When enabled, information about any received high voltage wakeup frames (HVWF) will be included in the display.                                                                                                                    |
-| Status                  | <ul><li>No - VN is not active.</li></ul><ul><li>High Volt Init - VN was initialized by HVWF.</li></ul><ul><li>Active Init - VN was initialized by an ECU.</li></ul><ul><li>Active Continue - VN was continued by an ECU.</li></ul> |
-| Timeout                 | Bargraph indication of time remaining before VN expires from timeout.                                                                                                                                                              |
-| Interval                | Time interval since last VNMF was received.                                                                                                                                                                                        |
-| Tx VNMF                 | TBD                                                                                                                                                                                                                                |
+| Virtual Networks Column | Description                                                                                                                                                                                             |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ID                      | ID number of each VN. Click the +/- button to see more/less details regarding ECUs controlling the VN.                                                                                                  |
+| Description             | Name of each VN and ECU along with VNMF ID.                                                                                                                                                             |
+| Init Active             | When enabled, information about any received high voltage wakeup frames (HVWF) will be included in the display.                                                                                         |
+| Status                  | <ul><li>No - VN is not active.</li><li>High Volt Init - VN was initialized by HVWF.</li><li>Active Init - VN was initialized by an ECU.</li><li>Active Continue - VN was continued by an ECU.</li></ul> |
+| Timeout                 | Bargraph indication of time remaining before VN expires from timeout.                                                                                                                                   |
+| Interval                | Time interval since last VNMF was received.                                                                                                                                                             |
+| Tx VNMF                 | TBD                                                                                                                                                                                                     |

@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-measurement/vehiclescape-daq/vehiclescape-daq-standalone-logging-tab/standalone-logging-collections-and-methods/collections-and-methods-ethernet-daq-method
+---
+
 # Collections and Methods: Ethernet DAQ Method
 
 In [VehicleScape DAQ](../../) the [Standalone Logging](../) of an Ethernet DAQ [collection](./) allows you to log data using the Ethernet DAQ port on supported Intrepid neoVI hardware.

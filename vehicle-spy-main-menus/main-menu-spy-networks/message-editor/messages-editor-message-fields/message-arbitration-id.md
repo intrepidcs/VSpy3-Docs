@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-spy-networks/message-editor/messages-editor-message-fields/message-arbitration-id
+---
+
 # Message Arbitration ID
 
 The ArbID column is where you enter the Arbitration ID for a CAN Message.It is displayed in hexadecimal format.\

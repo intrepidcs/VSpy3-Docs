@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-measurement/vehiclescape-daq/vehiclescape-daq-standalone-logging-tab/standalone-logging-collections-and-methods/message-capture-method-upload-to-wireless-neovi
+---
+
 # Message Capture Method: Upload to Wireless neoVI
 
 In [VehicleScape DAQ](../../) [Standalone Logging](../), the **Upload to Wireless neoVI** settings for the [Message Capture](collections-and-methods-message-capture-method/) method enable the wireless communication capabilities of the neoVI PLASMA. There are two options (Figure 1):

@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-network-interface-hardware/vehicle-spy-text-api/vehicle-spy-text-api-labview-interface
+---
+
 # Vehicle Spy Text API: Labview Interface
 
 The links below contain example Labview VI's to interface Labview to Vehicle Spy using Vehicle Spy's Text API. This interface allows for a transfer of data between the 2 applications.\

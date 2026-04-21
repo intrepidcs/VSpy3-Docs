@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tutorial-decode-signals-from-messages/part-4-view-message-data
+---
+
 # Part 4 - View Message Data
 
 Now let's take a look at the analog signal just built in action.

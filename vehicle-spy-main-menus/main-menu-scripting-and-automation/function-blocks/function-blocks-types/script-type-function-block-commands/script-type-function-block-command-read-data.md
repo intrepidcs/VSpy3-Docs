@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-scripting-and-automation/function-blocks/function-blocks-types/script-type-function-block-commands/script-type-function-block-command-read-data
+---
+
 # Script Type Function Block Command: Read Data
 
 ### Command Description
@@ -32,8 +39,6 @@ When checked, data will be stored in flash memory, if possible, instead of RAM.
 Here you specify which line of the file you want to read, using an expression built with the [Expression Builder](../../../../../shared-features-in-vehicle-spy/shared-features-expression-builder.md). In Figure 2, we are choosing the line number based on the value of the **Data Line** application signal. You can also enter a static line number within the Expression Builder if you prefer.
 
 ![Figure 2: Read Data command parameters - File Line to Read Tab](../../../../../.gitbook/assets/fb_read_data_2.gif)
-
-
 
 ### Storage Signal Tab
 

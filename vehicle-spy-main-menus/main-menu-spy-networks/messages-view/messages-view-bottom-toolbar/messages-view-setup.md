@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-spy-networks/messages-view/messages-view-bottom-toolbar/messages-view-setup
+---
+
 # Messages View Setup
 
 Setup [Messages view](../) by clicking the **Setup** button (Figure 1) in the [bottom toolbar](./). A setup dialog will open.

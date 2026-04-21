@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-embedded-tools
+---
+
 # Main Menu: Embedded Tools
 
 The Vehicle Spy Embedded Tools main menu contains various tools for development as shown in Figure 1. Refer to Table 1 for a brief description of each selection.

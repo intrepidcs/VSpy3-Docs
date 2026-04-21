@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-scripting-and-automation/function-blocks/function-block-start-tab
+---
+
 # Function Block Start Tab
 
 The settings for [Function Blocks](./) are arranged into tabs that appear in the bottom half of the window. Each type of capture block has a different tab configuration, but they all include a **Start Tab**, which determines when the function block starts and contains related settings.

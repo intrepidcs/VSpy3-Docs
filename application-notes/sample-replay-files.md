@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/application-notes/sample-replay-files
+---
+
 # Sample Replay Files
 
 Below are links to files that were collected from an automobile or module subsystem. These files can be used to simulate bus traffic.

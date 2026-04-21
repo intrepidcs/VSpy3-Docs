@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-measurement/vehiclescape-daq/vehiclescape-daq-database-hardware-setup-tab
+---
+
 # VehicleScape DAQ: Database/Hardware Setup Tab
 
 The [VehicleScape DAQ](./) Database/Hardware Tab provides controls to manage hardware settings, select platform databases, and pull data from logger SD cards. These functions can also be accessed from other locations within Vehicle Spy, but this tab puts them all in one convenient place.

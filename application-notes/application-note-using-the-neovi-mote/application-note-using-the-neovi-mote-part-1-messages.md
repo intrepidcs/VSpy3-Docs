@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/application-notes/application-note-using-the-neovi-mote/application-note-using-the-neovi-mote-part-1-messages
+---
+
 # Application Note: Using the neoVI MOTE - Part 1: Messages
 
 ### 1. Open Vehicle Spy:

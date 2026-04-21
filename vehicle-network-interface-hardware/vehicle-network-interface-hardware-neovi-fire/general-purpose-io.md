@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-network-interface-hardware/vehicle-network-interface-hardware-neovi-fire/general-purpose-io
+---
+
 # General Purpose IO
 
 ### Applies to neoVI Red and neoVI FIRE

@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tutorial-getting-fancy-with-diagnostics/part-2-write-data-by-identifier-setup
+---
+
 # Part 2 - Write Data by Identifier Setup
 
 ### 1. Create a Write Data by Identifier Job:

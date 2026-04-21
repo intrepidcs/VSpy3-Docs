@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tutorial-getting-fancy-with-diagnostics/part-4-request-identifiers-using-dynamically-define-data-identifier
+---
+
 # Part 4 - Request Identifiers using Dynamically Define Data Identifier
 
 In Parts 4 and 5, Identifiers are going to be requested through the use of a dynamic Data Identifier. This will be accomplished by using diagnostic services **Dynamically Define Data Identifier ($2C)** and **Read Data by Periodic Identifier ($2A)**.

@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-network-interface-hardware/getting-started-with-neoecu/neoecu-10/neoecu-10-power-up-and-buttons
+---
+
 # neoECU 10: Power Up and Buttons
 
 neoECU10 has four internal buttons (Figure 1). The buttons can be used with scripts or for setting power up conditions. Table 1 shows all four Power up conditions. The purpose of the power up conditions is to set the neoECU10 to a known state when there is a problem. An example would be not knowing the baudrate stored inside of the device. Using one of the buttons for a reset, would set a default baudrate inside the device so it could be connected to program again.

@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tutorial-1-basics-of-vehicle-spy/part-9-clear-the-messages-view-buffer
+---
+
 # Part 9 - Clear the Messages View Buffer
 
 At some point, it may be necessary to clear all the data you have collected from Messages view.

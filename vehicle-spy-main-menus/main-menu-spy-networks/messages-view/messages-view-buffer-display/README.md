@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-main-menus/main-menu-spy-networks/messages-view/messages-view-buffer-display
+---
+
 # Messages View Buffer Display
 
 The [Messages view](../) buffer display (Figure 1) is a window into the world of network messages and signals received and transmitted by Vehicle Spy. Toolbars both [above](../messages-view-top-toolbar/) and [below](../messages-view-bottom-toolbar/) the display contain many features to adjust its appearance to fit desired needs.

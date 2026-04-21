@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/L6lcovCpkhoS9uTOFtEp/vehicle-spy-tutorials/tutorial-sort-messages-by-ecu/part-7-setup-script-type-function-blocks
+---
+
 # Part 7 - Setup Script Type Function Blocks
 
 In Part 5, Application Signals were built as triggers for the Playback function blocks. In Part 6, Playback function blocks were built to replay the sorted ECU files.\
