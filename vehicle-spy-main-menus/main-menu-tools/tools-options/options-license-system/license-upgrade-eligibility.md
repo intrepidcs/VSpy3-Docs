@@ -1,13 +1,26 @@
 # License Upgrade Eligibility
 
-When Vehicle Spy Professional is purchased it includes a year of software updates. Additional years of software updates purchased. For purchasing software updates [click here](https://store.intrepidcs.com/).
+When a Vehicle Spy license is purchased it includes one year of free software updates. Additional years of software updates can be purchased at the [Intrepid Control Systems store](https://store.intrepidcs.com/).
 
-### Checking Your License File for the Ability to Update
+License expiry behavior differs depending on the license type in use. See the sections below for details.
 
-License files can be checked for upgrade eligibility under Tools->[Options](../) from the Vehicle Spy main menu.
+### File License Expiration
 
-Individual license files can be selected from the License File drop down (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smOne.gif)). Selecting a license file will display the information contained in it (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smTwo.gif)). The "Upgrade Eligibility" date will let you know if that license file will work with a newer version of Vehicle Spy 3. If the date shown is later than the date listed on the software download page then you can upgrade without a problem. If the Upgrade Eligibility date is older then that date listed on the software download page, then that license file will not run a newer version of Vehicle Spy. If you have more than one license file for different hardware units, make sure all the hardware units you intend to use are eligible for the update. The serial numbers stored in a license file are shows in under the "Licensed Hardware" box (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smFour.gif)).
+License upgrade eligibility for hardware-based licenses is found on the **License** tab at Tools → [Options](../) in the Vehicle Spy main menu.
 
-![Figure 1: Vehicle Spy licensing information is found on the Tools->Options->Vehicle Spy Setup->License tab.](../../../../.gitbook/assets/spyLicense.gif)
+Select a license file from the **License Files** dropdown. The **License Information** group will populate with the details stored in that file, including the **Upgrade Eligibility** date. This date indicates how recent a version of Vehicle Spy that license file will allow to run.
 
-Old unneeded license files can be removed by clicking the View License Folder button. This will bring up Windows Explorer. Here you can remove any unneeded or old license file, or drop in new license files.
+- If the **Upgrade Eligibility** date is **later than** the release date of the Vehicle Spy version you want to install, you can upgrade without issue.
+- If the **Upgrade Eligibility** date is **earlier than** the release date, that license file will not allow the newer version to run. The currently installed version will continue to work normally.
+
+If you have more than one license file (for different hardware units), verify that all hardware units you intend to use are covered by a license file with a sufficient **Upgrade Eligibility** date. The serial numbers authorized by a given license file are listed in the **Licensed Hardware** box in the **License Information** group.
+
+To remove old or unneeded license files, click **View License Folder** to open the license folder in Windows Explorer. From there you can delete outdated files or add new ones.
+
+Please [contact](https://intrepidcs.com/contact-us/) Intrepid Control Systems for information on purchasing additional upgrade eligibility time.
+
+### PC-Locked License Expiration
+
+A `PC-Locked` license grants full use of Vehicle Spy for a fixed time period from the date of activation. Unlike a hardware-based license, there is no "Upgrade Eligibility" concept — the license simply allows Vehicle Spy to run until the demo period ends.
+
+When the demo period expires, Vehicle Spy will no longer launch until a valid license is applied. To continue using Vehicle Spy after a demo expires, either activate a new demo license or contact [Intrepid Control Systems](https://intrepidcs.com/contact-us/) to purchase a full hardware-based license.
