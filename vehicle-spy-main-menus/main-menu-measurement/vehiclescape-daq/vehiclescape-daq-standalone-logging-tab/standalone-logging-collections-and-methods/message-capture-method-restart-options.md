@@ -21,7 +21,7 @@ In this case there are three restart options. The option controls what happens a
 
 Figure 2 shows the three options.
 
-![Figure 2: Restart Options when Start Option = Start when expression is true.](../../../../../.gitbook/assets/spyvssalrestartoptions_using_trigger_expression.gif)
+![Figure 2: Restart Options when Start Option = Start when expression is true.](../../../../../.gitbook/assets/spyvssalrestartoptions_when_expression_is_true.gif)
 
 ### Start Option = Start Using Trigger Expression
 

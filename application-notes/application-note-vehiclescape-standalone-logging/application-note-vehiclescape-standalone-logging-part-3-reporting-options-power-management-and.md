@@ -2,7 +2,7 @@
 
 ### 1. Reporting Options:
 
-You can use the reporting options to monitor your logging activity.  You may choose to use No Reporting, LEDs, a neoVI MOTE, and Wireless neoVI.\
+You can use the reporting options to monitor your logging activity. You may choose to use No Reporting, LEDs, a neoVI MOTE, and Wireless neoVI.\
 \
 No Reporting: If you choose No Reporting (by selecting none of the options), the device will use the default LED blink pattern (Flashing red LED indicating active CoreMini).\
 \
@@ -10,7 +10,7 @@ LEDs: If you choose LEDs, the Red LED will blink at a fast rate when the logger 
 
 ![Figure 1: Reporting Options LEDs](../../.gitbook/assets/reportoptions.gif)
 
-neoVI Mote: If you have a neoVI MOTE, you can use it to view signal values (cycle with buttons 2 & 4) and to manually trigger the capture (button 1). You may also choose a sound to play once the logging has started or triggered. The neoVI MOTE can also display the triggered message when the logger is triggered. You must choose how the neoVI MOTE will be connected. If you are using the provided OBD-II to 25 pin with 9 pin off-shoot you will choose HS CAN 3. Otherwise, check your cabling to determine the correct CAN channel.  The neoVI MOTE must have the "neoVIMOTE Default CoreMini" loaded.  For more information regarding setting up the neoVI MOTE's CoreMini, Click Here. See Figure 2.
+neoVI Mote: If you have a neoVI MOTE, you can use it to view signal values (cycle with buttons 2 & 4) and to manually trigger the capture (button 1). You may also choose a sound to play once the logging has started or triggered. The neoVI MOTE can also display the triggered message when the logger is triggered. You must choose how the neoVI MOTE will be connected. If you are using the provided OBD-II to 25 pin with 9 pin off-shoot you will choose HS CAN 3. Otherwise, check your cabling to determine the correct CAN channel. The neoVI MOTE must have the "neoVIMOTE Default CoreMini" loaded. For more information regarding setting up the neoVI MOTE's CoreMini, Click Here. See Figure 2.
 
 ![Figure 2: Reporting Options neoVI MOTE](../../.gitbook/assets/reportoptionsneomote.gif)
 
@@ -18,7 +18,7 @@ Beep in Wakeup (PLASMA only): Enabling this option will cause the neoVI PLASMA t
 
 ### 2. Power Management:
 
-Power Management will put the neoVI device into a low power (sleep) state. VehicleScape DAQ has a few options. The first is "Never". This option will used what is configured in the hardware from neoVI 3G Explorer. By default the unit will not go into low power mode. Then next option is to If you choose to enable any type of sleep mode there is functionality for "Instant Wakeup".  This means that the neoVI will not miss any messages (including the message that woke it up). Be aware that this state draws more power than normal sleep mode. See Figure 3.\
+Power Management will put the neoVI device into a low power (sleep) state. VehicleScape DAQ has a few options. The first is "Never". This option will used what is configured in the hardware from neoVI 3G Explorer. By default the unit will not go into low power mode. Then next option is to If you choose to enable any type of sleep mode there is functionality for "Instant Wakeup". This means that the neoVI will not miss any messages (including the message that woke it up). Be aware that this state draws more power than normal sleep mode. See Figure 3.\
 \
 Never: Will use built in hardware settings configured from neoVI 3G Explorer (default is Sleep Mode disabled)\
 \
@@ -40,16 +40,15 @@ neoVI Plasma also has the option to upload data before entering a sleep mode. 3G
 
 ### Generate Logger for CoreMini:
 
-At this point you can choose to include database decoding you already have loaded. Vehicle Spy gives two storage options as well which are storing the decoding on the SD Card or on the pc you are using. This section also has an option for saving a VS3ZIP setup for use in Wireless neoVI.  Once you have all the settings configured the way you want them. Press the "Generate" button.  This will open the CoreMini Console.
+At this point you can choose to include database decoding you already have loaded. Vehicle Spy gives two storage options as well which are storing the decoding on the SD Card or on the pc you are using. This section also has an option for saving a VS3ZIP setup for use in Wireless neoVI. Once you have all the settings configured the way you want them. Press the "Generate" button. This will open the CoreMini Console.
 
 ![Figure 4: Generate](../../.gitbook/assets/spySALgenerate.gif)
 
 ### 3. CoreMini Executable Generator:
 
-Once the CoreMini console is open, the output window (Figure 5:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smOne.gif)) will show the results of the generated script.  The console will also select your device from the dropdown list (Figure 5:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smTwo.gif)). Next, make sure that "SD Card" is selected for Storage and "Run CoreMini After Download" (Figure 5:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smThree.gif)) is checked. Lastly, click the "Send" button (Figure 5:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smFour.gif)) to transfer the CoreMini to the neoVI. If the Script needs to be removed the Clear button can be used (Figure 5:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smFive.gif)). You have successfully setup the logger. You can find additional CoreMini Console information Here if needed.
+Once the CoreMini console is open, the output window (Figure 5:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smOne.gif)) will show the results of the generated script. The console will also select your device from the dropdown list (Figure 5:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smTwo.gif)). Next, make sure that "SD Card" is selected for Storage and "Run CoreMini After Download" (Figure 5:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smThree.gif)) is checked. Lastly, click the "Send" button (Figure 5:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smFour.gif)) to transfer the CoreMini to the neoVI. If the Script needs to be removed the Clear button can be used (Figure 5:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smFive.gif)). You have successfully setup the logger. You can find additional CoreMini Console information Here if needed.
 
-![Figure 5: CoreMini Console
-](<../../.gitbook/assets/CoreMiniConsole (1).gif>)
+![Figure 5: CoreMini Console](../../.gitbook/assets/CoreMiniConsole.gif)
 
 ### Conclusion:
 

@@ -2,7 +2,7 @@
 description: >-
   These documents were created to help Vehicle Spy users at every level of
   experience.
-cover: .gitbook/assets/new-cover-image (1).png
+cover: .gitbook/assets/new-cover-image.png
 coverY: 0
 ---
 
