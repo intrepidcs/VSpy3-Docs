@@ -332,7 +332,7 @@ There are many operators available in the Expression Builder. These are listed i
 | pow(Arg1, Arg2) | Raises **Arg1** to the power of **Arg2** (same as `Arg1^Arg2`). | `pow(3, 3)` is 27 |
 |   sqr(Arg)  |                  Square root of arg                  |                sqr(49) is 7               |
 |   int(Arg)  |                Integer portion of arg                |             int(3.12434) is 3             |
-|     mod     |   Divide two numbers and return only the remainder   |              19 Mod 6.7 is 5              |
+|     mod     |   Divide two numbers and return only the remainder. This works with whole numbers only. The decimal part of each number is ignored.   |              19 Mod 6.7 is 1 (6.7 is used as 6)              |
 | arcsin(Arg) |               Arcsine of Arg (radians)               |               arcsin(0) is 0              |
 | arccos(Arg) |              Arccosine of Arg (radians)              |           arccos(-1) is 3.141593          |
 | arctan(Arg) |              Arctangent of Arg (radians)             |           arctan(1) is 0.785398           |
