@@ -1,6 +1,6 @@
 # Messages Editor: Overview
 
-Messages Editor is where messages to be found in traffic are specified, which messages to transmit are specified, and to view definitions from [configured databases](../../main-menu-setup/network-databases.md). Each [message](./) has a number of different [properties](messages-editor-message-fields/) that can specify for it.
+The Messages Editor is where you describe the messages Vehicle Spy works with. Receive messages tell Vehicle Spy what to look for in bus traffic, so the [Messages view](../messages-view/) can show them by name with their signals decoded. Transmit messages are the ones Vehicle Spy sends, either from the [Tx Panel](../transmit-panel/) or automatically at a set rate. Messages from [configured databases](../../main-menu-setup/network-databases.md) appear in a separate, read-only table, ready to copy into the Receive or Transmit tables. Each [message](./) has [properties](messages-editor-message-fields/) you can set, such as its arbitration ID, length or signals.
 
 The Messages Editor has four tables: **Receive**, **Transmit**, **Database**, and **PDU**. The PDU table lists the PDUs that the network database defines; like the Database table, it cannot be edited. See [Messages Editor: Receive, Transmit, & Database Tables](messages-editor-receive-transmit-and-database-tables.md).
 
