@@ -2,7 +2,7 @@
 
 One way to transmit a message is to click on the manual transmit button in the [Transmit Panel](../) as shown in **Figure 1**.
 
-![Figure 1: Use the manual transmit button to quickly transmit a message.](../../../../.gitbook/assets/spyoutways.gif)
+![Figure 1: Use the manual transmit button to quickly transmit a message.](../../../../.gitbook/assets/spyoutways.png)
 
 Vehicle Spy also supports many other ways to transmit messages as shown in Table 1.
 

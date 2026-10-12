@@ -6,6 +6,6 @@ Vehicle Spy has the ability to dynamically create message data. Expressions can 
 
 Static signal values can be entered in the value cell for that signal. Custom equations and values can be entered in by using the **Equation** option in the drop down. When this option is selected a dialog for configuring the [Calculated Signal](../../../shared-features-in-vehicle-spy/shared-features-calculated-signal-editor/) appears.
 
-Some predefined equations (random, sine, ramp, square) can also be quickly applied with the right mouse menu **Apply signal type** and selecting the desired waveform.
+Some predefined equations (random, sine wave, ramp, square wave, triangle) can also be quickly applied with the right mouse menu **Apply signal type**, or the signal's **Sg** button, and selecting the desired waveform and frequency.
 
-![Figure 1: Creating message data bytes in the Tx Panel.](../../../.gitbook/assets/spyoutchangevalues.gif)
+![Figure 1: Creating message data bytes in the Tx Panel.](../../../.gitbook/assets/spyoutchangevalues.png)
