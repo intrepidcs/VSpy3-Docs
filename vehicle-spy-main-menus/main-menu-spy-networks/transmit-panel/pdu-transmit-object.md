@@ -2,6 +2,8 @@
 
 The **PDUs** tab of the Tx Panel transmits PDUs (Protocol Data Units) from the network database. A PDU transmitter builds one frame from the PDUs you choose. On CAN and Ethernet, each PDU is preceded by its PDU header (header ID and length). On FlexRay, each PDU is placed at its position in the frame. On a CAN network the frame is always sent as a CAN FD frame, padded to the next valid CAN FD length. On Ethernet it is sent as a UDP frame.
 
+To see the PDUs a network has, with their header IDs, lengths, and signals, open the PDU table of the Messages Editor; see [Messages Editor: Receive, Transmit, & Database Tables](../message-editor/messages-editor-receive-transmit-and-database-tables.md).
+
 ## The PDUs Tab
 
 The **Network** dropdown (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smOne.gif)) lists the networks that have PDUs in the database. It selects the network whose sources the **Add** and **Edit** buttons offer. If no network has PDUs, the dropdown is empty and there is nothing to transmit on this tab.
