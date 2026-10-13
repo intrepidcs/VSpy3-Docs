@@ -6,8 +6,8 @@ Vehicle Spy has a built in Extract tool will pull the data from the Micro-SD Car
 
 ### 2. SD Card Extract:
 
-In Vehicle Spy, select Tools -> Utilities -> Extract / Export to open the extract function. Figure 1 shows this view.
+In Vehicle Spy, select **Tools > Extract / Export** to open the extract function. Figure 1 shows this view.
 
-![Figure 1: The SD Card Extract Application.](../../.gitbook/assets/CoreMiniExtract.gif)
+![Figure 1: The SD Card Extract Application.](../../.gitbook/assets/CoreMiniExtract.png)
 
-The first step to using this function is to select the Source Data Drive to extract from (Figure 1: ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smOne.gif)). The drive will have the same drive letter as noted before and will have a label of "LOGGER" followed by the size. The next step is to tell the application where to put the data. This is done using the Browse button found in the "Output Directory" section in (Figure 1: ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smTwo.gif)). The last step is to click the "Convert Log File" button at (Figure 1: ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smThree.gif)). This will take the data off of the SD card and put it into the specified directory. When finished, the Extract application will start Windows Explorer at the extracted file path.
+The first step to using this function is to select the Source Data Drive to extract from (Figure 1: ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smOne.gif)). The drive will have the same drive letter as noted before and will have a label of "LOGGER" followed by the size. The next step is to tell the application where to put the data. This is done using the **Browse** button next to **Output** in (Figure 1: ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smTwo.gif)). The last step is to click the **Extract All Files** button at (Figure 1: ![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smThree.gif)). This will take the data off of the SD card and put it into the specified directory. When finished, the Extract application will start Windows Explorer at the extracted file path.

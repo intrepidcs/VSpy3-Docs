@@ -2,17 +2,16 @@
 
 The Vehicle Spy Tools main menu contains setup options, utilities, and hardware specific tools as shown in Figure 1. Refer to Table 1 for a brief description of each selection.
 
-![Figure 1: The Vehicle Spy Tools main menu.](../../.gitbook/assets/spyToolsMenu.gif)
+![Figure 1: The Vehicle Spy Tools main menu.](../../.gitbook/assets/spyToolsMenu.png)
 
 **Table 1: Vehicle Spy Tools Menu**
 
 | Tools Menu Selection                                | Description                                                         |
 | --------------------------------------------------- | ------------------------------------------------------------------- |
-| [Options](tools-options/)                           | Displays software options for Vehicle Spy.                          |
-| [Utilities ](tools-utilities/)>                     | Various file and hardware related utilities.                        |
-|                                                     |                                                                     |
-| PLASMA / ION Setup                                  | Displays VNC window to access Android on neoVI PLASMA and neoVI ION |
-|                                                     |                                                                     |
-| [Language](tools-utilities/tools-language.md)       | Opens dialog to select a language.                                  |
+| [CoreMini Console](utilities-coremini-console/)     | Opens a configuration tool for loading CoreMini files to compatible hardware. |
+| [Extract / Export](utilities-extract-export/)       | Extracts logger files and exports message and signal data.          |
 | [Problem Log](tools-problem-log.md)                 | Displays Vehicle Spy software or hardware related problem logs.     |
-| [Performance](tools-utilities/tools-performance.md) | Displays numerous Vehicle Spy performance statistics.               |
+| [File Conversions](utilities-file-conversions/) >   | Various file conversion utilities.                                  |
+| [Utilities](tools-utilities/) >                     | Various file and hardware related utilities.                        |
+| PLASMA / ION Setup                                  | Displays VNC window to access Android on neoVI PLASMA and neoVI ION |
+| [Options](tools-options/)                           | Displays software options for Vehicle Spy.                          |
