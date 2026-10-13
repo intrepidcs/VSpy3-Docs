@@ -10,14 +10,32 @@ Follow these steps to pull data from an SD card and put VSB files on a PC:
 2. In **Source** (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smOne.gif)), select the "LOGGER" SD card. If it is not listed, click **Refresh** (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smTwo.gif)). To extract from a folder that holds a copy of the card's VSA files, click the **Browse...** button next to **Source** and select that folder.
 3. In **Output** (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smThree.gif)), select where to put extracted VSB files on the PC.
 4. If needed, narrow the **Start Time** and **End Time** range (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smFour.gif)) or change the **Advanced Settings** (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smFive.gif)).
-5. Click the **Extract All Files** button (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smSix.gif)) to make the VSB files. Vehicle Spy creates a folder inside the output folder, named "extracted data" followed by the date and time the logged data starts,, and opens it in Windows Explorer when it is finished.
+5. Click the **Extract All Files** button (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smSix.gif)) to make the VSB files. Vehicle Spy creates a folder inside the output folder, named "extracted data" followed by the date and time the logged data starts, and opens it in Windows Explorer when it is finished.
 6. Watch the **Results** area (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smSeven.gif)) for status updates.
 
 ![Figure 1: Use the Extract Tab to convert VSA files on an SD card to VSB files on a PC.](../../../.gitbook/assets/spyExtract.png)
 
-The file list (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smEight.gif)) shows the scripts on the card. Expand a script to see its collections and files. To extract only some files, select them: the **Extract All Files** button changes to **Extract Selected Files** and shows how many are selected. **Select All** and **Clear Selection** (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smNine.gif)) select or clear every item in the list. Files outside the **Start Time** and **End Time** range are greyed out and cannot be selected.
+### Source and Output:
 
-The time zone of the start and end times and of the extracted file names is shown next to **Refresh**. To change it, use **Message Display Time Zone** under [Tools -> Options -> Regional Settings](../tools-options/options-regional-settings.md) in Vehicle Spy.
+**Source** (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smOne.gif)) is where the logged data comes from. It lists:
+
+* SD cards connected to the PC, for example through a card reader.
+* Logging hardware connected to the PC, when no other program is using it.
+* A folder on the PC that holds a copy of the card's VSA files. Click the **Browse...** button next to **Source** to choose one.
+
+Click **Refresh** (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smTwo.gif)) to update the list after you connect a card or a device.
+
+**Output** (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smThree.gif)) is the folder on the PC where the VSB files are saved. Click the **Browse...** button next to **Output** to choose another folder; it cannot be the SD card itself. Each extraction creates a new folder inside it, named "extracted data" followed by the date and time the logged data starts.
+
+### Filtering by Start Time and End Time:
+
+**Start Time** and **End Time** (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smFour.gif)) filter the capture by time. When you select a source, they are set to the first and last records on the card, and they cannot be set outside that range. To extract only part of the capture, set **Start Time** later or **End Time** earlier. Vehicle Spy then extracts only the data recorded between the two times. Files in the list that lie entirely outside the range are greyed out and cannot be selected. If no data falls between the two times, the **Results** area (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smSeven.gif)) shows "No data in specified range!".
+
+The times use the time zone shown next to **Refresh**, which is also used for the extracted file names. To change it, use **Message Display Time Zone** under [Tools -> Options -> Regional Settings](../tools-options/options-regional-settings.md) in Vehicle Spy.
+
+### File List and Other Buttons:
+
+The file list (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smEight.gif)) shows the scripts on the card. Expand a script to see its collections and files. To extract only some files, select them: the **Extract All Files** button changes to **Extract Selected Files** and shows how many are selected. **Select All** and **Clear Selection** (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smNine.gif)) select or clear every item in the list.
 
 The **Transfer File System** button (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smTen.gif)) copies the raw VSA file from the card to a new folder on the PC without converting it. The **Extract User Files** button (Figure 1:![](https://cdn.intrepidcs.net/support/VehicleSpy/assets/smEleven.gif)) extracts only the user files that the CoreMini script stored on the card.
 
