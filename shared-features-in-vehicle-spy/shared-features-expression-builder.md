@@ -214,9 +214,18 @@ Below, **Table 2** describes all of the different properties for the different d
 
 #### **MEP (Memory Edit Protocol) Properties**
 
+Select an MEP item, then choose its property in the **Properties** list (Figure 2).
+
+![Figure 2: The two properties of an MEP item.](../.gitbook/assets/spyExpressionBuilderMEPProperties.png)
+
 | MEP Property | Type | Description                                                                                                                                                                                          |
 | ------------ | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Value        | Any  | Value of the MEP signal. The data item type depends upon the MEP signal type defined in the [A2L file](../vehicle-spy-main-menus/main-menu-measurement/mep-xcp-ccp-memory-edit-protocol/mep-setup/). |
+| Value        | Any  | Value of the MEP signal. The data item type depends upon the MEP signal type defined in the [A2L file](../vehicle-spy-main-menus/main-menu-measurement/mep-xcp-ccp-memory-edit-protocol/mep-setup/). Reading or setting it uses Vehicle Spy's copy of the value and does not communicate with the ECU. |
+| ECU Value (read/write the ECU via XCP/CCP) | Any | The same item, read from or written to the ECU. A function block step or Gateway item that reads it reads the item from the ECU first. Setting it, for example with [Set Value](../vehicle-spy-main-menus/main-menu-scripting-and-automation/function-blocks/function-blocks-types/script-type-function-block-commands/script-type-function-block-command-set-value.md), writes the new value to the ECU. Displays never read the ECU. Offered for single values only, not for curves and maps. |
+
+Choose **Value** for items that an [XCP STIM](../vehicle-spy-main-menus/main-menu-scripting-and-automation/function-blocks/function-blocks-types/script-type-function-block-commands/script-type-function-block-command-xcp-stim.md) command sends: the command sends Vehicle Spy's copy at its own rate. With **ECU Value**, each **Set Value** would also write the item to the ECU with a separate XCP download. References in setups saved by earlier versions of Vehicle Spy use **ECU Value**, which is how those versions behaved.
+
+**Value** is listed first and is selected by default. The **Write To ECU** and **Read From ECU** commands always communicate with the ECU, whichever property their item uses. In a CoreMini, an item in a STIM ODT is sent by the **XCP STIM** command, whichever property is chosen. Other MEP items are not supported in a CoreMini.
 
 ### **Physical IO Properties**
 
