@@ -42,6 +42,6 @@ The "Active Page" determines which area of ECU memory that MEP will interact wit
 
 ![Figure 3: An example of the MEP Setup Tabs area.](../../../../.gitbook/assets/spyMEPSetupTabs.gif)
 
-* [Properties](mep-setup-properties.md) - [Import / Export](mep-setup-import-export.md) - [DAQ Tables](mep-setup-daq-tables.md) - [Security Memory/Hex/S19](mep-setup-memory-hex-s19.md)
+* [Properties](mep-setup-properties.md) - [Import / Export](mep-setup-import-export.md) - [DAQ Tables](mep-setup-daq-tables.md) - [Security Memory/Hex/S19](mep-setup-memory-hex-s19.md) - [Advanced](mep-setup-advanced.md)
 
 Click the hyperlinks below Figure 3 to jump to help files for each of the MEP Setup tabs.
