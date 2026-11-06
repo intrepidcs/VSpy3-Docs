@@ -59,6 +59,14 @@ A CoreMini can apply only a linear conversion: a factor and an offset. If a STIM
 * The command waits until Vehicle Spy, or the CoreMini, has finished setting up the ECU's XCP DAQ and STIM lists. Online, while it waits, the function block grid shows **Waiting XCP init...**.
 * Set the values with **Set Value** commands, choosing the MEP item's **Value** property in the [Expression Builder](../../../../../shared-features-in-vehicle-spy/shared-features-expression-builder.md#mep-memory-edit-protocol-properties). **Value** changes only Vehicle Spy's copy of the item, which the **XCP STIM** command sends. With **ECU Value**, each **Set Value** would also write the item to the ECU with a separate XCP download, which a STIM script does not need.
 * In a CoreMini, set the function block's [Timing Precision](../../function-block-start-tab.md#timing-precision) to **Microseconds** for fast STIM rates.
+* A function block runs 4 steps each time it is scheduled, online and in a CoreMini. For a fast STIM loop, check **Custom step execution count** on the function block's [Start tab](../../function-block-start-tab.md) and set it to at least the number of steps in the loop, so the whole loop runs at once.
+
+**Note:** Avoid putting an MEP item in a DAQ list and in an XCP STIM table at the same time.
+
+* **Online:** the item has one value, updated by DAQ as well as by Set Value steps. XCP STIM sends the latest value, which may be the one just measured instead of the one you set.
+* **CoreMini:** the item keeps only the values your function blocks set. DAQ does not change it. Read the measured value from the DAQ channel instead.
+
+To measure a variable you are stimulating, add a second MEASUREMENT for the same address to the A2L file. DAQ one and stimulate the other.
 
 ### Example
 
