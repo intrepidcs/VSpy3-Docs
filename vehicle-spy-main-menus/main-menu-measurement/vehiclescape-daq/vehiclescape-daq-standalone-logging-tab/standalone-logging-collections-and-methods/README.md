@@ -22,7 +22,7 @@ Every data file saved by the logger script will have the same root name as the c
 
 Each collection uses one of three methods:
 
-* [Message Capture](collections-and-methods-histogram-method.md): Message data is collected over a period of time.
+* [Message Capture](./): Message data is collected over a period of time.
 * [Bus Query](collections-and-methods-bus-query-method.md): A snapshot of data is taken at one point in time.
 * [Histogram](collections-and-methods-histogram-method.md): The frequency of data points across a value range is measured over a period of time.
 * [Ethernet DAQ](collections-and-methods-ethernet-daq-method.md): Data is collected over the Ethernet DAQ connection of a properly-configured Intrepid neoVI ION.
